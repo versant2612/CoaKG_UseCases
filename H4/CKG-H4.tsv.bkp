@@ -1,0 +1,188 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e1	h4v21	Brasil Colônia	rdf:type	é um	h4v20	Período Histórico
+q11	e1		h4q1	início	^1530-01-01	
+q12	e1		h4q2	fim	^1815-01-01	
+q13	e1		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e2	h4v22	Período Pré-Colonial	rdf:type	é um	h4v20	Período Histórico
+q21	e2		h4q1	início	^1500-01-01	
+q22	e2		h4q2	fim	^1530-01-01	
+q23	e2		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e3	h4v13	Expedição Marítima Portuguesa	h4p1	chegada em	h4v12	América
+q31	e3		h4q4	data de referência	^1500-04-22	
+q32	e3		h4q5	liderada por	h4v37	Pedro Alváres Cabral
+q33	e3		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e31	h4v16	América Portuguesa	h4p2	denominada	Vera Cruz	
+q311	e31		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e32	h4v16	América Portuguesa	h4p2	denominada	Terra dos Papagaios	
+q321	e32		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e33	h4v16	América Portuguesa	h4p2	denominada	Santa Cruz	
+q333	e33		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e34	h4v16	América Portuguesa	h4p2	denominada	Brasil	
+q341	e34		h4q4	data de referência	^1512-01-01	
+q342	e34		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e35	h4v16	América Portuguesa	h4r1	sistema administrativo	h4v19	Capitanias Hereditárias
+q351	e35		h4q1	início	^1534-01-01	
+q352	e35		h4q2	fim	^1549-01-01	
+q353	e35		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e350	h4v16	América Portuguesa	rdf:type	é um	h4c1	unidade geo-política
+e40	h4v16	América Portuguesa	h4r2	representação espacial	https://pt.wikipedia.org/wiki/Ficheiro:Novo_mapa_Capitanias.jpg	
+q401	e40		h4q3	fonte	h4v38	Wikipedia
+e351	h4v1	Estado do Brasil	rdf:type	é um	h4c1	unidade geo-política
+e7	h4v1	Estado do Brasil	h4r3	parte de	h4v16	América Portuguesa
+e37	h4v1	Estado do Brasil	h4p3	fundado em	^1548-01-01	
+e38	h4v1	Estado do Brasil	h4r3	criado por 	h4v34	Dom João III
+e39	h4v1	Estado do Brasil	h4p4	encerrado em	^1808-01-01	
+e8	h4v1	Estado do Brasil	h4r4	colônia de	h4v35	Reino de Portugal
+e36	h4v1	Estado do Brasil	h4r1	sistema administrativo	h4v19	Governo Geral
+q361	e36		h4q1	início	^1548-01-01	
+q362	e36		h4q2	fim	^1572-01-01	
+e53	h4v1	Estado do Brasil	h4r1	sistema administrativo	h4v19	Governo Geral
+q531	e53		h4q1	início	^1577-01-01	
+q532	e53		h4q2	fim	^1808-01-01	
+q533	e53		h4q3	fonte	h4v38	Wikipedia
+e41	h4v1	Estado do Brasil	h4r2	representação espacial	https://pt.wikipedia.org/wiki/Ficheiro:Am%C3%A9rica_Portuguesa._Brasil_Col%C3%B4nia.jpg	
+q411	e41		h4q3	fonte	h4v38	Wikipedia
+e6	h4v14	Governador-Geral	h4r9	governa	h4v1	Estado do Brasil
+q61	e6		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e352	h4v3	Governo do Norte	rdf:type	é um	h4c1	unidade geo-política
+e10	h4v3	Governo do Norte	h4r6	sub-divisão de	h4v1	Estado do Brasil
+q101	e10		h4q1 	início 	^1572	
+q102	e10		h4q2 	fim 	^1577	
+q103	e10		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e352	h4v4	Governo do Sul	rdf:type	é um	h4c1	unidade geo-política
+e11	h4v4	Governo do Sul	h4r6	sub-divisão de	h4v1	Estado do Brasil
+q111	e11		h4q1	início	^1572	
+q112	e11		h4q2	fim	^1577	
+q113	e11		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e353	h4v2	Salvador	rdf:type	é um	h4c1	unidade geo-política
+p4	h4v2	Salvador	h4p5	primeiro nome	São Salvador da Bahia de Todos os Santos	
+qp41	p4		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+p2	h4v2	Salvador	h4p3	fundado em	^1549	
+qp21	p2		h4q3	fonte	h4v25	Mundo Educação - Brasil Colônia
+e17a	h4v2	Salvador	h4r7	capital de	h4v3	Governo do Norte
+q17a1	e17a		h4q1 	início 	^1572	
+q17a2	e17a		h4q2 	fim 	^1577	
+q17a3	e17a		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e354	h4v6	Rio de Janeiro	rdf:type	é um	h4c1	unidade geo-política
+e17b	h4v6	Rio de Janeiro	h4r7	capital de	h4v4	Governo do Sul
+e17b1	h4v7		h4q1 	início 	^1572	
+e17b2	h4v8		h4q2 	fim 	^1577	
+e17b3	h4v9		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e30	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+q301	e30		h4q1	inicio	^1549	
+q302	e30		h4q2	fim	^1572	
+q303	e30		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e18	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+q181	e18		h4q1	inicio	^1577	
+q182	e18		h4q2	fim	^1624	
+e19	h4v5	Olinda	h4r7	capital de	h4v1	Estado do Brasil
+q191	e19		h4q1	inicio	^1624	
+q192	e19		h4q2	fim	^1625	
+e20	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+q201	e20		h4q1	inicio	^1625	
+q202	e20		h4q2	fim	^1763	
+e21	h4v6	Rio de Janeiro	h4r7	capital de	h4v1	Estado do Brasil
+q211	e21		h4q1	início	^1763	
+q212	e21		h4q2	fim	^1815	
+e355	h4v15	Reino do Brasil	rdf:type	é um	h4c1	unidade geo-política
+e9	h4v15	Reino do Brasil	h4r3	parte de	h4v7	Reino Unido de Portugal, Brasil e Algarves
+q91	e9		h4p3	fundado em	^1815	
+q92	e9		h4r3	criado por 	h4v36	Dom João VI
+q93	e9		h4p4	encerrado em	^1822	
+e42	h4v15	Reino do Brasil	h4r2	representação espacial	https://pt.wikipedia.org/wiki/Ficheiro:Brasil_1821_-_Am%C3%A9rica_Portuguesa.jpg	
+q421	e42		h4q3	fonte	h4v38	Wikipedia
+e43	h4v7	Reino Unido de Portugal, Brasil e Algarves	h4r2	representação espacial	https://pt.wikipedia.org/wiki/Ficheiro:Portuguese_empire_1800.png	
+q431	e43		h4q3	fonte	h4v38	Wikipedia
+e44	h4v24	Reino do Brasil	h4r1	sistema administrativo	h4v19	Monarquia Absolutista
+q441	e44		h4q1	início	^1815	
+q442	e44		h4q2	fim	^1822	
+q443	e44		h4q3	fonte	h4v39	Mundo Educação - Periodo Joanino
+e45	h4v13	Família Real Portuguesa	h4p1	chegada em	h4v2	Salvador
+q451	e45		h4q4	data de referência	janeiro de 1808	
+q453	e45		h4q3	fonte	h4v39	Mundo Educação - Periodo Joanino
+e22	h4v6	Rio de Janeiro	h4r7	capital de	h4v7	Reino Unido de Portugal, Brasil e Algarves
+q221	e22		h4q1	início	^1815	
+q222	e22		h4q2	fim	^1822	
+e4	h4v24	Reino do Brasil	h4r8	proclama	h4v31	Independência
+q41	e4		h4q4	data de referência	^1822-09-07	
+q42	e4		h4q6	local	h4v32	Margens do Ipiranga
+q43	e4		h4q3	fonte	h4v40	Mundo Educação - Brasil Império
+e356	h4v8	Império do Brasil	rdf:type	é um	h4c1	unidade geo-política
+p1	h4v8	Império do Brasil	h4p3	fundado em	^1822-09-07	
+e46	h4v8	Império do Brasil	h4r1	sistema administrativo	h4v41	Monarquia constitucional parlamentarista
+q461	e46		h4q1	inicio	^1822	
+q462	e46		h4q2	fim	^1889	
+q463	e46		h4q3	fonte	h4v40	Mundo Educação - Brasil Império
+e47	h4v8	Império do Brasil	h4r2	representação espacial	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brazil_in_1822.svg/800px-Brazil_in_1822.svg.png	
+q471	e47		h4q4	data de referência	^1822	
+q472	e47		h4q3	fonte	h4v38	Wikipedia
+e48	h4v8	Império do Brasil	h4r2	representação espacial	https://pt.wikipedia.org/wiki/Ficheiro:Brazil_contested_territores_before_1900.jpg	
+q481	e48		h4q4	data de referência	^1889	
+q482	e48		h4q3	fonte	h4v38	Wikipedia
+e23	h4v6	Rio de Janeiro	h4r7	capital de	h4v8	Império do Brasil
+q231	e23		h4q1	início	^1822	
+q232	e23		h4q2	fim	^1889	
+e5	h4v8	Império do Brasil	h4r8	proclama	h4v33	República
+q51	e5		h4q4	data de referência	^1889-11-15	
+e24	h4v6	Rio de Janeiro	h4r7	capital de	h4v9	Estados Unidos do Brasil
+q241	e24		h4q1	início	^1889	
+q242	e24		h4q2	fim	^1960	
+e357	h4v10	Brasilia	rdf:type	é um	h4c1	unidade geo-política
+e25	h4v10	Brasilia	h4r7	capital de	h4v9	Estados Unidos do Brasil
+q251	e25		h4q1	início	April − 1960	
+e358	h4v10	Brasilia	rdf:type	é um	h4c1	unidade geo-política
+e49	h4v9	Estados Unidos do Brasil	h4r1	sistema administrativo	h4v41	República Federativa Presidencialista
+q491	e49		h4q1	início	^1889	
+q492	e49		h4q3	fonte	h4v42	Mundo Educação - Presidentes do Brasil
+e50	h4v9	Estados Unidos do Brasil	h4r2	representação espacial	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brazil_Labelled_Map.svg/500px-Brazil_Labelled_Map.svg.png	
+q501	e50		h4q3	fonte	h4v38	Wikipedia
+q502	e50		h4q4	data de referência	1964	
+e51	h4v3	Governo do Norte	h4r2	representação espacial	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png	
+q511	e51		h4q3	fonte	h4v38	Wikipedia
+e52	h4v4	Governo do Sul	h4r2	representação espacial	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png	
+q521	e52		h4q3	fonte	h4v38	Wikipedia
+e53	h4v9	Estados Unidos do Brasil	h4p7	alias	Brasil	
+p3	h4v25	Mundo Educação - Brasil Colônia	h4p6	url	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-colonia.htm	
+p5	h4v26	Mundo Educação - Governo Geral	h4p6	url	https://mundoeducacao.uol.com.br/historiadobrasil/governo-geral.htm	
+p6	h4v39	Mundo Educação - Periodo Joanino	h4p6	url	https://mundoeducacao.uol.com.br/historiadobrasil/periodo-joanino.htm	
+p7	h4v40	Mundo Educação - Brasil Império	h4p6	url	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-imperio.htm	
+p8	h4v42	Mundo Educação - Presidentes do Brasil	h4p6	url	https://mundoeducacao.uol.com.br/historiadobrasil/presidentes-do-brasil.htm	
+ckg:c1	ckg:T1	Temporal	rdf:type		ckg:KnowledgeContext	
+ckg:c2	ckg:T1		ckg:Represented By		h4q1	início
+ckg:c3	h4q1	início	ckg:Contextualizes		h4r7	capital de
+ckg:c4	ckg:T1		ckg:Represented By		h4q2	fim
+ckg:c5	h4q2	fim	ckg:Contextualizes		h4r7	capital de
+ckg:c6	ckg:T1		ckg:Represented By		h4p3	fundado em
+ckg:c7	h4p3	fundado em	ckg:Contextualizes		h4r3	parte de
+ckg:c8	ckg:T1		ckg:Represented By		h4p4	encerrado em
+ckg:c9	h4p4	encerrado em	ckg:Contextualizes		h4r3	parte de
+ckg:c10	ckg:T1		ckg:Represented By		h4q4	data de referência
+ckg:c11	h4q4	data de referência	ckg:Contextualizes		h4r8	proclama
+ckg:c12	ckg:T1		ckg:Represented By		h4q1	início
+ckg:c13	h4q1	início	ckg:Contextualizes		rdf:type	é um
+ckg:c14	ckg:T1		ckg:Represented By		h4q2	fim
+ckg:c15	h4q2	fim	ckg:Contextualizes		rdf:type	é um
+ckg:c16	ckg:T1		ckg:Represented By		h4q1	início
+ckg:c17	h4q1	início	ckg:Contextualizes		h4r1	sistema administrativo
+ckg:c18	ckg:T1		ckg:Represented By		h4q2	fim
+ckg:c19	h4q2	fim	ckg:Contextualizes		h4r1	sistema administrativo
+ckg:c20	ckg:T1		ckg:Represented By		h4q4	data de referência
+ckg:c21	h4q4	data de referência	ckg:Contextualizes		h4r2	representação espacial
+ckg:c22	ckg:L1	Location	rdf:type		ckg:KnowledgeContext	
+ckg:c23	ckg:L1		ckg:Represented By		h4r2	representação espacial
+ckg:c24	h4r2	representação espacial	ckg:Contextualizes		h4c1	unidade geo-política
+ckg:c25	ckg:L2		ckg:Represented By		h4r6	sub-divisão de
+ckg:c26	h4r6	sub-divisão de	ckg:Contextualizes		h4c1	unidade geo-política
+ckg:c27	ckg:L3		ckg:Represented By		h4q6	local
+ckg:c28	h4q6	local	ckg:Contextualizes		h4r8	proclama
+ckg:c29	ckg:P1	Provenance	rdf:type		ckg:KnowledgeContext	
+ckg:c30	ckg:P1		ckg:Represented By		h4q3	fonte
+ckg:c31	h4q3	fonte	ckg:Contextualizes		h4r1	sistema administrativo
+ckg:c32	ckg:P1		ckg:Represented By		h4p6	url
+ckg:c33	ckg:P1		ckg:Represented By		h4q3	fonte
+ckg:c34	h4q3	fonte	ckg:Contextualizes		h4r7	capital de
+ckg:c35	ckg:P1		ckg:Represented By		h4q3	fonte
+ckg:c36	h4q3	fonte	ckg:Contextualizes		h4r2	representação espacial
+ckg:c37	ckg:D1	Politics	rdf:type		ckg:KnowledgeContext	
+ckg:c38	ckg:D1		ckg:Represented By		h4r1	sistema administrativo
+ckg:c39	h4r1	sistema administrativo	ckg:Contextualizes		h4c1	unidade geo-política

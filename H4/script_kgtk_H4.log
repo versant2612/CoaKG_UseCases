@@ -1,0 +1,646 @@
+Starting 'query' on pid 357865.
+[2023-06-19 00:12:47 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+  PARAS: []
+---------------------------------------------
+Elapsed time: 1.25 seconds
+Starting 'query' on pid 357874.
+[2023-06-19 00:12:48 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     WHERE graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2" = ?
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+  PARAS: ['h4r7', 'h4v1']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+e30	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e18	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e19	h4v5	Olinda	h4r7	capital de	h4v1	Estado do Brasil
+e20	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e21	h4v6	Rio de Janeiro	h4r7	capital de	h4v1	Estado do Brasil
+Elapsed time: 1.09 seconds
+Starting 'query' on pid 357883.
+[2023-06-19 00:12:50 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+  PARAS: ['ckgr1', 'ckgr2', 'h4r7']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	início
+ckg:c3	h4q1	início	ckgr2	ckg:Contextualizes	h4r7	capital de
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	fim
+ckg:c5	h4q2	fim	ckgr2	ckg:Contextualizes	h4r7	capital de
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	fonte
+ckg:c34	h4q3	fonte	ckgr2	ckg:Contextualizes	h4r7	capital de
+Elapsed time: 1.18 seconds
+Starting 'query' on pid 357892.
+[2023-06-19 00:12:51 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"
+        AND graph_4_c5."node1" = ?))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v1']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c23	ckgL1	Location	ckgr1	ckg:Represented By	h4r2	representação espacial
+ckg:c24	h4r2	representação espacial	ckgr2	ckg:Contextualizes	h4c1	unidade geo-política
+ckg:c38	ckgD1	Politics	ckgr1	ckg:Represented By	h4r1	sistema administrativo
+ckg:c39	h4r1	sistema administrativo	ckgr2	ckg:Contextualizes	h4c1	unidade geo-política
+Elapsed time: 1.11 seconds
+Starting 'query' on pid 357901.
+[2023-06-19 00:12:52 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?
+        AND graph_4_c4."node1" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v1']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c23	ckgL1	Location	ckgr1	ckg:Represented By	h4r2	representação espacial
+ckg:c24	h4r2	representação espacial	ckgr2	ckg:Contextualizes	h4c1	unidade geo-política
+ckg:c25	ckgL1	Location	ckgr1	ckg:Represented By	h4r6	sub-divisão de
+ckg:c26	h4r6	sub-divisão de	ckgr2	ckg:Contextualizes	h4c1	unidade geo-política
+ckg:c38	ckgD1	Politics	ckgr1	ckg:Represented By	h4r1	sistema administrativo
+ckg:c39	h4r1	sistema administrativo	ckgr2	ckg:Contextualizes	h4c1	unidade geo-política
+Elapsed time: 1.09 seconds
+Starting 'query' on pid 357910.
+[2023-06-19 00:12:53 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2, graph_5 AS graph_5_c3, graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c2."node1"
+        AND graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c2."node2;label" = graph_5_c3."node2;label"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2" = ?
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+  PARAS: ['h4r7', 'h4v1', 'h4q1', 'h4q2', 'h4q3']
+---------------------------------------------
+Elapsed time: 1.36 seconds
+Starting 'query' on pid 357919.
+[2023-06-19 00:12:55 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_5_c1."id", graph_5_c1."node1", graph_5_c1."node1;label", graph_5_c1."label", ? "_aLias.node2", graph_5_c1."node2;label", coalesce(graph_5_c3."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c3."label", ?) "_aLias.label", coalesce(graph_5_c3."node2", ?) "_aLias.node2", coalesce(graph_5_c3."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c4."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c4."label", ?) "_aLias.label", coalesce(graph_5_c4."node2", ?) "_aLias.node2", coalesce(graph_5_c4."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c5."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c5."label", ?) "_aLias.label", coalesce(graph_5_c5."node2", ?) "_aLias.node2", coalesce(graph_5_c5."node2;label", ?) "_aLias.node2_label"
+     FROM graph_5 AS graph_5_c1
+     LEFT JOIN graph_5 AS graph_5_c3
+     ON graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c3."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c5
+     ON graph_5_c1."id" = graph_5_c5."node1"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+     WHERE graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2" = ?
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+  PARAS: ['h4v1', 'unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4q1', 'h4q2', 'h4q3', 'h4r7', 'h4v1']
+---------------------------------------------
+Elapsed time: 1.46 seconds
+Starting 'query' on pid 357928.
+[2023-06-19 00:12:56 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2
+     ON graph_5_c1."node2" = graph_5_c2."node1"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+  PARAS: ['h4r7', 'h4r1', 'h4v41']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+e24	h4v6	Rio de Janeiro	h4r7	capital de	h4v9	Estados Unidos do Brasil
+e49	h4v9	Estados Unidos do Brasil	h4r1	sistema administrativo	h4v41	República Federativa Presidencialista
+e25	h4v10	Brasilia	h4r7	capital de	h4v9	Estados Unidos do Brasil
+e49	h4v9	Estados Unidos do Brasil	h4r1	sistema administrativo	h4v41	República Federativa Presidencialista
+Elapsed time: 1.05 seconds
+Starting 'query' on pid 357937.
+[2023-06-19 00:12:57 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+  PARAS: ['ckgr1', 'ckgr2', 'h4r1']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	início
+ckg:c17	h4q1	início	ckgr2	ckg:Contextualizes	h4r1	sistema administrativo
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	fim
+ckg:c19	h4q2	fim	ckgr2	ckg:Contextualizes	h4r1	sistema administrativo
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	fonte
+ckg:c31	h4q3	fonte	ckgr2	ckg:Contextualizes	h4r1	sistema administrativo
+Elapsed time: 1.17 seconds
+Starting 'query' on pid 357946.
+[2023-06-19 00:12:58 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"
+        AND graph_4_c5."node1" = ?))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v41']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+Elapsed time: 1.08 seconds
+Starting 'query' on pid 357955.
+[2023-06-19 00:12:59 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?
+        AND graph_4_c4."node1" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v41']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+Elapsed time: 1.33 seconds
+Starting 'query' on pid 357964.
+[2023-06-19 00:13:00 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2, graph_5 AS graph_5_c3, graph_5 AS graph_5_c4, graph_5 AS graph_5_c5, graph_5 AS graph_5_c6, graph_5 AS graph_5_c7, graph_5 AS graph_5_c8
+     ON graph_5_c1."id" = graph_5_c2."node1"
+        AND graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c1."node2" = graph_5_c5."node1"
+        AND graph_5_c1."node2;label" = graph_5_c5."node1;label"
+        AND graph_5_c5."id" = graph_5_c6."node1"
+        AND graph_5_c5."id" = graph_5_c7."node1"
+        AND graph_5_c5."id" = graph_5_c8."node1"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c3."node2;label"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node1;label" = graph_5_c1."node2;label"
+        AND graph_5_c5."node2" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+        AND ((graph_5_c2."node2" < graph_5_c7."node2") AND (graph_5_c6."node2" < graph_5_c3."node2"))
+  PARAS: ['h4r7', 'h4q1', 'h4q2', 'h4q3', 'h4r1', 'h4v41', 'h4q1', 'h4q2', 'h4q3']
+---------------------------------------------
+Elapsed time: 1.18 seconds
+Starting 'query' on pid 357973.
+[2023-06-19 00:13:02 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_5_c1."id", graph_5_c1."node1", graph_5_c1."node1;label", graph_5_c1."label", graph_5_c1."node2" "_aLias.node2", graph_5_c1."node2;label" "_aLias.node2_label", coalesce(graph_5_c4."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c4."label", ?) "_aLias.label", coalesce(graph_5_c4."node2", ?) "_aLias.node2", coalesce(graph_5_c4."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c5."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c5."label", ?) "_aLias.label", coalesce(graph_5_c5."node2", ?) "_aLias.node2", coalesce(graph_5_c5."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c6."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c6."label", ?) "_aLias.label", coalesce(graph_5_c6."node2", ?) "_aLias.node2", coalesce(graph_5_c6."node2;label", ?) "_aLias.node2_label", graph_5_c2."id", graph_5_c1."node2", graph_5_c1."node2;label", graph_5_c2."label", ? "_aLias.node2", graph_5_c2."node2;label" "_aLias.node2_label", coalesce(graph_5_c7."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c7."label", ?) "_aLias.label", coalesce(graph_5_c7."node2", ?) "_aLias.node2", coalesce(graph_5_c7."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c8."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c8."label", ?) "_aLias.label", coalesce(graph_5_c8."node2", ?) "_aLias.node2", coalesce(graph_5_c8."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c9."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c9."label", ?) "_aLias.label", coalesce(graph_5_c9."node2", ?) "_aLias.node2", coalesce(graph_5_c9."node2;label", ?) "_aLias.node2_label"
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2
+     ON graph_5_c1."node2" = graph_5_c2."node1"
+        AND graph_5_c1."node2;label" = graph_5_c2."node1;label"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node1;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."node2" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c5
+     ON graph_5_c1."id" = graph_5_c5."node1"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c6
+     ON graph_5_c1."id" = graph_5_c6."node1"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c7
+     ON graph_5_c2."id" = graph_5_c7."node1"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c8
+     ON graph_5_c2."id" = graph_5_c8."node1"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c9
+     ON graph_5_c2."id" = graph_5_c9."node1"
+        AND graph_5_c9."label" = ?
+        AND graph_5_c9."node2;label" = graph_5_c9."node2;label"
+     WHERE ((kgtk_null_to_empty(graph_5_c4."node2") < coalesce(graph_5_c8."node2", ?)) AND (kgtk_null_to_empty(graph_5_c7."node2") < coalesce(graph_5_c5."node2", ?)))
+  PARAS: ['unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4v41', 'unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4r7', 'h4r1', 'h4v41', 'h4q1', 'h4q2', 'h4q3', 'h4q1', 'h4q2', 'h4q3', '^2023', '^2023']
+---------------------------------------------
+Elapsed time: 2.03 seconds
+Starting 'query' on pid 357982.
+[2023-06-19 00:13:04 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1, graph_5 AS graph_5_c2
+     WHERE graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node1" = ?
+        AND graph_5_c2."node1;label" = graph_5_c2."node1;label"
+        AND graph_5_c2."node2" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+  PARAS: ['h4r7', 'is_a', 'h4v21', 'h4v20']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+e17a	h4v2	Salvador	h4r7	capital de	h4v3	Governo do Norte
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e17b	h4v6	Rio de Janeiro	h4r7	capital de	h4v4	Governo do Sul
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e30	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e18	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e19	h4v5	Olinda	h4r7	capital de	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e20	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e21	h4v6	Rio de Janeiro	h4r7	capital de	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e22	h4v6	Rio de Janeiro	h4r7	capital de	h4v7	Reino Unido de Portugal, Brasil e Algarves
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e23	h4v6	Rio de Janeiro	h4r7	capital de	h4v8	Império do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e24	h4v6	Rio de Janeiro	h4r7	capital de	h4v9	Estados Unidos do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+e25	h4v10	Brasilia	h4r7	capital de	h4v9	Estados Unidos do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4v20	Período Histórico
+Elapsed time: 1.26 seconds
+Starting 'query' on pid 357991.
+[2023-06-19 00:13:05 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+  PARAS: ['ckgr1', 'ckgr2', 'h4r7']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	início
+ckg:c3	h4q1	início	ckgr2	ckg:Contextualizes	h4r7	capital de
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	fim
+ckg:c5	h4q2	fim	ckgr2	ckg:Contextualizes	h4r7	capital de
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	fonte
+ckg:c34	h4q3	fonte	ckgr2	ckg:Contextualizes	h4r7	capital de
+Elapsed time: 1.07 seconds
+Starting 'query' on pid 358000.
+[2023-06-19 00:13:06 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"
+        AND graph_4_c5."node1" = ?))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v20']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+Elapsed time: 1.15 seconds
+Starting 'query' on pid 358009.
+[2023-06-19 00:13:07 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_4 AS graph_4_c1
+     INNER JOIN graph_4 AS graph_4_c2
+     ON graph_4_c1."node2" = graph_4_c2."node1"
+        AND graph_4_c1."label" = ?
+        AND graph_4_c1."node1;label" = graph_4_c1."node1;label"
+        AND graph_4_c1."node2;label" = graph_4_c1."node2;label"
+        AND graph_4_c2."label" = ?
+        AND graph_4_c2."node2;label" = graph_4_c2."node2;label"
+        AND (EXISTS (SELECT 1 FROM graph_4 AS graph_4_c4 WHERE graph_4_c2."node2" = graph_4_c4."node2" AND graph_4_c4."label" = ?
+        AND graph_4_c4."node1" = ?) AND EXISTS (SELECT 1 FROM graph_4 AS graph_4_c5 WHERE graph_4_c1."node2" = graph_4_c5."label" AND graph_4_c5."label" = graph_4_c5."label"))
+  PARAS: ['ckgr1', 'ckgr2', 'is_a', 'h4v20']
+---------------------------------------------
+id	node1	node1;label	label	label;label	node2	node2;label
+Elapsed time: 1.15 seconds
+Starting 'query' on pid 358018.
+[2023-06-19 00:13:09 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2, graph_5 AS graph_5_c3, graph_5 AS graph_5_c4, graph_5 AS graph_5_c5, graph_5 AS graph_5_c6, graph_5 AS graph_5_c7, graph_5 AS graph_5_c8
+     ON graph_5_c1."id" = graph_5_c2."node1"
+        AND graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c5."id" = graph_5_c8."node1"
+        AND graph_5_c5."node1;label" = graph_5_c6."node1;label"
+        AND graph_5_c5."node1;label" = graph_5_c7."node1;label"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c3."node2;label"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node1" = ?
+        AND graph_5_c5."node1;label" = graph_5_c5."node1;label"
+        AND graph_5_c5."node2" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node1" = ?
+        AND graph_5_c6."node1;label" = graph_5_c5."node1;label"
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node1" = ?
+        AND graph_5_c7."node1;label" = graph_5_c5."node1;label"
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+        AND ((graph_5_c2."node2" < graph_5_c7."node2") AND (graph_5_c6."node2" < graph_5_c3."node2"))
+  PARAS: ['h4r7', 'h4q1', 'h4q2', 'h4q3', 'is_a', 'h4v21', 'h4v20', 'h4q1', 'h4v21', 'h4q2', 'h4v21', 'h4q3']
+---------------------------------------------
+Elapsed time: 1.44 seconds
+Starting 'query' on pid 358027.
+[2023-06-19 00:13:11 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_5_c1."id", graph_5_c1."node1", graph_5_c1."node1;label", graph_5_c1."label", graph_5_c1."node2" "_aLias.node2", graph_5_c1."node2;label" "_aLias.node2_label", coalesce(graph_5_c4."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c4."label", ?) "_aLias.label", coalesce(graph_5_c4."node2", ?) "_aLias.node2", coalesce(graph_5_c4."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c5."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c5."label", ?) "_aLias.label", coalesce(graph_5_c5."node2", ?) "_aLias.node2", coalesce(graph_5_c5."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c6."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c6."label", ?) "_aLias.label", coalesce(graph_5_c6."node2", ?) "_aLias.node2", coalesce(graph_5_c6."node2;label", ?) "_aLias.node2_label", graph_5_c2."id", ? "_aLias.node1", graph_5_c7."node1;label" "_aLias.node1_label", ? "_aLias.p2_label", ? "_aLias.node2", graph_5_c7."node1;label" "_aLias.node2_label", coalesce(graph_5_c7."id", ?) "_aLias.id", ? "_aLias.node1", graph_5_c7."node1;label" "_aLias.node1_label", coalesce(graph_5_c7."label", ?) "_aLias.label", coalesce(graph_5_c7."node2", ?) "_aLias.node2", coalesce(graph_5_c7."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c8."id", ?) "_aLias.id", ? "_aLias.node1", graph_5_c7."node1;label" "_aLias.node1_label", coalesce(graph_5_c8."label", ?) "_aLias.label", coalesce(graph_5_c8."node2", ?) "_aLias.node2", coalesce(graph_5_c8."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c9."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c9."label", ?) "_aLias.label", coalesce(graph_5_c9."node2", ?) "_aLias.node2", coalesce(graph_5_c9."node2;label", ?) "_aLias.node2_label"
+     FROM graph_5 AS graph_5_c1, graph_5 AS graph_5_c2
+     LEFT JOIN graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c5
+     ON graph_5_c1."id" = graph_5_c5."node1"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c6
+     ON graph_5_c1."id" = graph_5_c6."node1"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c7
+     ON graph_5_c7."label" = ?
+        AND graph_5_c7."node1" = ?
+        AND graph_5_c7."node1;label" = graph_5_c7."node1;label"
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c8
+     ON graph_5_c7."node1;label" = graph_5_c8."node1;label"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node1" = ?
+        AND graph_5_c8."node1;label" = graph_5_c8."node1;label"
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c9
+     ON graph_5_c2."id" = graph_5_c9."node1"
+        AND graph_5_c9."label" = ?
+        AND graph_5_c9."node2;label" = graph_5_c9."node2;label"
+     WHERE graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node1" = ?
+        AND graph_5_c2."node1;label" = graph_5_c2."node1;label"
+        AND graph_5_c2."node2" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND ((kgtk_null_to_empty(graph_5_c4."node2") < coalesce(graph_5_c8."node2", ?)) AND (kgtk_null_to_empty(graph_5_c7."node2") < coalesce(graph_5_c5."node2", ?)))
+  PARAS: ['unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4v21', 'is_a', 'h4v21', 'unknown', 'h4v21', 'h4q1', 'unknown', 'unknown', 'unknown', 'h4v21', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4q1', 'h4q2', 'h4q3', 'h4q1', 'h4v21', 'h4q2', 'h4v21', 'h4q3', 'h4r7', 'is_a', 'h4v21', 'h4v20', '^2023', '^2023']
+---------------------------------------------
+Elapsed time: 2.24 seconds
+Starting 'query' on pid 358036.
+[2023-06-19 00:13:12 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2, graph_5 AS graph_5_c3, graph_5 AS graph_5_c4, graph_5 AS graph_5_c5, graph_5 AS graph_5_c6, graph_5 AS graph_5_c7, graph_5 AS graph_5_c8
+     ON graph_5_c1."id" = graph_5_c2."node1"
+        AND graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c1."node2" = graph_5_c5."node2"
+        AND graph_5_c1."node2;label" = graph_5_c5."node2;label"
+        AND graph_5_c5."id" = graph_5_c6."node1"
+        AND graph_5_c5."id" = graph_5_c7."node1"
+        AND graph_5_c5."id" = graph_5_c8."node1"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c3."node2;label"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node1" = ?
+        AND graph_5_c5."node1;label" = graph_5_c5."node1;label"
+        AND graph_5_c5."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+        AND ((graph_5_c1."node1" != ?) AND (graph_5_c2."node2" < graph_5_c6."node2"))
+  PARAS: ['h4r7', 'h4q1', 'h4q2', 'h4q3', 'h4r7', 'h4v6', 'h4q1', 'h4q2', 'h4q3', 'h4v6']
+---------------------------------------------
+Elapsed time: 1.20 seconds
+Starting 'query' on pid 358045.
+[2023-06-19 00:13:14 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_5_c1."id", graph_5_c1."node1", graph_5_c1."node1;label", graph_5_c1."label", graph_5_c1."node2" "_aLias.node2", graph_5_c1."node2;label" "_aLias.node2_label", coalesce(graph_5_c4."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c4."label", ?) "_aLias.label", coalesce(graph_5_c4."node2", ?) "_aLias.node2", coalesce(graph_5_c4."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c5."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c5."label", ?) "_aLias.label", coalesce(graph_5_c5."node2", ?) "_aLias.node2", coalesce(graph_5_c5."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c6."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c6."label", ?) "_aLias.label", coalesce(graph_5_c6."node2", ?) "_aLias.node2", coalesce(graph_5_c6."node2;label", ?) "_aLias.node2_label", graph_5_c2."id", ? "_aLias.node2", graph_5_c2."node1;label" "_aLias.node2_label", graph_5_c2."label", graph_5_c1."node2", graph_5_c1."node2;label", coalesce(graph_5_c7."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c7."label", ?) "_aLias.label", coalesce(graph_5_c7."node2", ?) "_aLias.node2", coalesce(graph_5_c7."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c8."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c8."label", ?) "_aLias.label", coalesce(graph_5_c8."node2", ?) "_aLias.node2", coalesce(graph_5_c8."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c9."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c9."label", ?) "_aLias.label", coalesce(graph_5_c9."node2", ?) "_aLias.node2", coalesce(graph_5_c9."node2;label", ?) "_aLias.node2_label"
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2
+     ON graph_5_c1."node2" = graph_5_c2."node2"
+        AND graph_5_c1."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node1" = ?
+        AND graph_5_c2."node1;label" = graph_5_c2."node1;label"
+        AND graph_5_c2."node2;label" = graph_5_c1."node2;label"
+        AND (graph_5_c1."node1" != ?)
+     LEFT JOIN graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c5
+     ON graph_5_c1."id" = graph_5_c5."node1"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c6
+     ON graph_5_c1."id" = graph_5_c6."node1"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c7
+     ON graph_5_c2."id" = graph_5_c7."node1"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c8
+     ON graph_5_c2."id" = graph_5_c8."node1"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c9
+     ON graph_5_c2."id" = graph_5_c9."node1"
+        AND graph_5_c9."label" = ?
+        AND graph_5_c9."node2;label" = graph_5_c9."node2;label"
+     WHERE (kgtk_null_to_empty(graph_5_c4."node2") < kgtk_null_to_empty(graph_5_c7."node2"))
+  PARAS: ['unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4v6', 'unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4r7', 'h4r7', 'h4v6', 'h4v6', 'h4q1', 'h4q2', 'h4q3', 'h4q1', 'h4q2', 'h4q3']
+---------------------------------------------
+Elapsed time: 2.13 seconds
+Starting 'query' on pid 358054.
+[2023-06-19 00:13:15 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2, graph_5 AS graph_5_c3, graph_5 AS graph_5_c4, graph_5 AS graph_5_c5, graph_5 AS graph_5_c6, graph_5 AS graph_5_c7, graph_5 AS graph_5_c8
+     ON graph_5_c1."id" = graph_5_c2."node1"
+        AND graph_5_c1."id" = graph_5_c3."node1"
+        AND graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c1."node2" = graph_5_c5."node2"
+        AND graph_5_c1."node2;label" = graph_5_c5."node2;label"
+        AND graph_5_c5."id" = graph_5_c6."node1"
+        AND graph_5_c5."id" = graph_5_c7."node1"
+        AND graph_5_c5."id" = graph_5_c8."node1"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c3."label" = ?
+        AND graph_5_c3."node2;label" = graph_5_c3."node2;label"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node1" = ?
+        AND graph_5_c5."node1;label" = graph_5_c5."node1;label"
+        AND graph_5_c5."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+        AND ((graph_5_c1."node1" != ?) AND (graph_5_c2."node2" > graph_5_c6."node2"))
+  PARAS: ['h4r7', 'h4q1', 'h4q2', 'h4q3', 'h4r7', 'h4v2', 'h4q1', 'h4q2', 'h4q3', 'h4v2']
+---------------------------------------------
+Elapsed time: 1.19 seconds
+Starting 'query' on pid 358063.
+[2023-06-19 00:13:17 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_5_c1."id", graph_5_c1."node1", graph_5_c1."node1;label", graph_5_c1."label", graph_5_c1."node2" "_aLias.node2", graph_5_c1."node2;label" "_aLias.node2_label", coalesce(graph_5_c4."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c4."label", ?) "_aLias.label", coalesce(graph_5_c4."node2", ?) "_aLias.node2", coalesce(graph_5_c4."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c5."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c5."label", ?) "_aLias.label", coalesce(graph_5_c5."node2", ?) "_aLias.node2", coalesce(graph_5_c5."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c6."id", ?) "_aLias.id", graph_5_c1."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c6."label", ?) "_aLias.label", coalesce(graph_5_c6."node2", ?) "_aLias.node2", coalesce(graph_5_c6."node2;label", ?) "_aLias.node2_label", graph_5_c2."id", ? "_aLias.node2", graph_5_c2."node1;label" "_aLias.node2_label", graph_5_c2."label", graph_5_c1."node2", graph_5_c1."node2;label", coalesce(graph_5_c7."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c7."label", ?) "_aLias.label", coalesce(graph_5_c7."node2", ?) "_aLias.node2", coalesce(graph_5_c7."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c8."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c8."label", ?) "_aLias.label", coalesce(graph_5_c8."node2", ?) "_aLias.node2", coalesce(graph_5_c8."node2;label", ?) "_aLias.node2_label", coalesce(graph_5_c9."id", ?) "_aLias.id", graph_5_c2."id" "_aLias.node1", ? "_aLias.node1_label", coalesce(graph_5_c9."label", ?) "_aLias.label", coalesce(graph_5_c9."node2", ?) "_aLias.node2", coalesce(graph_5_c9."node2;label", ?) "_aLias.node2_label"
+     FROM graph_5 AS graph_5_c1
+     INNER JOIN graph_5 AS graph_5_c2
+     ON graph_5_c1."node2" = graph_5_c2."node2"
+        AND graph_5_c1."node2;label" = graph_5_c2."node2;label"
+        AND graph_5_c1."label" = ?
+        AND graph_5_c1."node1;label" = graph_5_c1."node1;label"
+        AND graph_5_c1."node2;label" = graph_5_c1."node2;label"
+        AND graph_5_c2."label" = ?
+        AND graph_5_c2."node1" = ?
+        AND graph_5_c2."node1;label" = graph_5_c2."node1;label"
+        AND graph_5_c2."node2;label" = graph_5_c1."node2;label"
+        AND (graph_5_c1."node1" != ?)
+     LEFT JOIN graph_5 AS graph_5_c4
+     ON graph_5_c1."id" = graph_5_c4."node1"
+        AND graph_5_c4."label" = ?
+        AND graph_5_c4."node2;label" = graph_5_c4."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c5
+     ON graph_5_c1."id" = graph_5_c5."node1"
+        AND graph_5_c5."label" = ?
+        AND graph_5_c5."node2;label" = graph_5_c5."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c6
+     ON graph_5_c1."id" = graph_5_c6."node1"
+        AND graph_5_c6."label" = ?
+        AND graph_5_c6."node2;label" = graph_5_c6."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c7
+     ON graph_5_c2."id" = graph_5_c7."node1"
+        AND graph_5_c7."label" = ?
+        AND graph_5_c7."node2;label" = graph_5_c7."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c8
+     ON graph_5_c2."id" = graph_5_c8."node1"
+        AND graph_5_c8."label" = ?
+        AND graph_5_c8."node2;label" = graph_5_c8."node2;label"
+     LEFT JOIN graph_5 AS graph_5_c9
+     ON graph_5_c2."id" = graph_5_c9."node1"
+        AND graph_5_c9."label" = ?
+        AND graph_5_c9."node2;label" = graph_5_c9."node2;label"
+     WHERE (kgtk_null_to_empty(graph_5_c4."node2") > kgtk_null_to_empty(graph_5_c7."node2"))
+  PARAS: ['unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4v2', 'unknown', '', 'h4q1', 'unknown', 'unknown', 'unknown', '', 'h4q2', 'unknown', 'unknown', 'unknown', '', 'h4q3', 'unknown', 'unknown', 'h4r7', 'h4r7', 'h4v2', 'h4v2', 'h4q1', 'h4q2', 'h4q3', 'h4q1', 'h4q2', 'h4q3']
+---------------------------------------------
+Elapsed time: 2.47 seconds
