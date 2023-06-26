@@ -1,3 +1,5 @@
+## script_kgtk_H4.sh
+
 K1. Capital do Estado do Brasil
 
 K2. Capital do Brasil **enquanto** Republicano
@@ -7,6 +9,8 @@ K3. Capital do Brasil **no período** Brasil Colônia
 K4. Capital do Brasil **antes** do Rio de Janeiro
 
 K5. Capital do Brasil **depois** de Salvador
+
+## script_kgtk_H4_geo.sh
 
 K6. Como (forma) é o Brasil **hoje**
 
