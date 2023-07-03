@@ -1,17 +1,31 @@
-## script_kgtk_H4.sh
+## Graph Exploratory Search Queries
 
-K1. Capital do Estado do Brasil
+See script_kgtk_H4.sh and script_kgtk_H4_geo.sh for Kypher version
 
-K2. Capital do Brasil **enquanto** Republicano
+K1. Capital cities of State of Brazil
 
-K3. Capital do Brasil **no período** Brasil Colônia
+K2. Capital cities of Brazil **while** Republican government 
 
-K4. Capital do Brasil **antes** do Rio de Janeiro
+K3. Capital cities of Brazil **during** Brazil Colony (of Portugal) period
 
-K5. Capital do Brasil **depois** de Salvador
+K4. Capital cities of Brazil **before** Rio de Janeiro as capital city
 
-## script_kgtk_H4_geo.sh
+K5. Capital cities of Brazil **after** Salvador as capital city
 
-K6. Como (forma) é o Brasil **hoje**
+K6. How Brazil is shaped (spatial) **today**
 
-K7. Mudanças **espaciais** do Brasil **ao longo do tempo**
+K7. **Spatial** changes of Brazil **over time**
+
+## KGTK files descriptions
+
+
+| File pattern | Description                                          |
+|--------------|------------------------------------------------------|
+| CKG-H4.tsv   | CKG about Brazilian Geographic and Political History |
+| CKG-H4-label.tsv | Normalized version of CKG about Brazilian Geographic and Political History |
+| CKG-H4-K[n]-base.tsv | Result of Original K[n] |
+| CKG-H4-K[n]-exact.tsv | Result of expanded K[n] with Complete Context |
+| CKG-H4-K[n]-possible.tsv | Result of expanded K[n] with as complete as possible Context |
+| CKG-H4-K[n]-possible-multi.tsv | Result of expanded K[n] with as complete as possible Context, splited |
+| CKG-H4-K[n]-inferred.tsv | Aditional Context inferenced from Result of expanded K[n] |
+| CKG-H4-K[n]-mK-[id].tsv | Context mappings from entity type, concept or relationsip [id] of K[n] |
