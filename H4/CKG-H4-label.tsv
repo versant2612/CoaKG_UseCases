@@ -1,0 +1,263 @@
+id	node1	label	node2
+ckg:c1	ckgT1	is_a	ckg:KnowledgeContext
+ckg:c10	ckgT1	ckgr1	h4q4
+ckg:c11	h4q4	ckgr2	h4r8
+ckg:c13	h4q1	ckgr2	h4c2
+ckg:c15	h4q2	ckgr2	h4c2
+ckg:c17	h4q1	ckgr2	h4r1
+ckg:c19	h4q2	ckgr2	h4r1
+ckg:c2	ckgT1	ckgr1	h4q1
+ckg:c21	h4q4	ckgr2	h4p8
+ckg:c22	ckgL1	is_a	ckg:KnowledgeContext
+ckg:c23	ckgL1	ckgr1	h4r2
+ckg:c24	h4r2	ckgr2	h4c1
+ckg:c25	ckgL1	ckgr1	h4r3
+ckg:c26	h4r3	ckgr2	h4c1
+ckg:c27	ckgL1	ckgr1	h4q6
+ckg:c28	h4q6	ckgr2	h4r8
+ckg:c29	ckgP1	is_a	ckg:KnowledgeContext
+ckg:c3	h4q1	ckgr2	h4r7
+ckg:c30	ckgP1	ckgr1	h4q3
+ckg:c31	h4q3	ckgr2	h4r1
+ckg:c32	ckgP1	ckgr1	h4p6
+ckg:c34	h4q3	ckgr2	h4r7
+ckg:c36	h4q3	ckgr2	h4r2
+ckg:c37	ckgD1	is_a	ckg:KnowledgeContext
+ckg:c38	ckgD1	ckgr1	h4r1
+ckg:c39	h4r1	ckgr2	h4c1
+ckg:c4	ckgT1	ckgr1	h4q2
+ckg:c5	h4q2	ckgr2	h4r7
+ckg:c6	ckgT1	ckgr1	h4p3
+ckg:c7	h4p3	ckgr2	h4r3
+ckg:c8	ckgT1	ckgr1	h4p4
+ckg:c9	h4p4	ckgr2	h4r3
+ckg:i2	ckgT1	ckgr3	ckgl1
+ckgD1-label-0000	ckgD1	label	Politics
+ckgL1-label-0000	ckgL1	label	Location
+ckgP1-label-0000	ckgP1	label	Provenance
+ckgT1-label-0000	ckgT1	label	Temporal
+ckgl1-label-0000	ckgl1	label	Corrente 
+ckgl1-label-0001	ckgl1	label	Atual 
+ckgl1-label-0002	ckgl1	label	Hoje
+ckgr1-label-0000	ckgr1	label	ckg:Represented By
+ckgr2-label-0000	ckgr2	label	ckg:Contextualizes
+ckgr3-label-0000	ckgr3	label	ckg:Inferred Context
+e1	h4v21	is_a	h4c2
+e10	h4v3	h4r3	h4v1
+e11	h4v4	h4r3	h4v1
+e17a	h4v2	h4r7	h4v3
+e17b	h4v6	h4r7	h4v4
+e18	h4v2	h4r7	h4v1
+e19	h4v5	h4r7	h4v1
+e2	h4v22	is_a	h4c2
+e20	h4v2	h4r7	h4v1
+e21	h4v6	h4r7	h4v1
+e22	h4v6	h4r7	h4v7
+e23	h4v6	h4r7	h4v8
+e24	h4v6	h4r7	h4v9
+e25	h4v10	h4r7	h4v9
+e3	h4v11	h4p1	h4v12
+e30	h4v2	h4r7	h4v1
+e31	h4v16	h4p7	Vera Cruz
+e32	h4v16	h4p7	Terra dos Papagaios
+e33	h4v16	h4p7	Santa Cruz
+e34	h4v16	h4p7	Brasil
+e35	h4v16	h4r1	h4v17
+e350	h4v16	is_a	h4c1
+e351	h4v1	is_a	h4c1
+e352	h4v3	is_a	h4c1
+e352	h4v4	is_a	h4c1
+e353	h4v2	is_a	h4c1
+e354	h4v6	is_a	h4c1
+e355	h4v15	is_a	h4c1
+e356	h4v8	is_a	h4c1
+e357	h4v10	is_a	h4c1
+e358	h4v10	is_a	h4c1
+e36	h4v1	h4r1	h4v18
+e37	h4v1	h4p3	^1548-01-01
+e38	h4v1	h4r5	h4v34
+e39	h4v1	h4p4	^1808-01-01
+e4	h4v24	h4r8	h4v31
+e40	h4v16	h4p8	https://pt.wikipedia.org/wiki/Ficheiro:Novo_mapa_Capitanias.jpg
+e401	h4v16	h4r2	"POLYGON((0 0, 1 0, 1 1, 0 1, 0 0))"
+e41	h4v1	h4p8	https://pt.wikipedia.org/wiki/Ficheiro:Am%C3%A9rica_Portuguesa._Brasil_Col%C3%B4nia.jpg
+e411	h4v1	h4r2	"POLYGON((0 0, 1 0, 1 1, 0.5 1.5, 0 1, 0 0))"
+e42	h4v15	h4p8	https://pt.wikipedia.org/wiki/Ficheiro:Brasil_1821_-_Am%C3%A9rica_Portuguesa.jpg
+e421	h4v15	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1 1, 0 1, -0.5 0.5, 0 0))"
+e43	h4v7	h4p8	https://pt.wikipedia.org/wiki/Ficheiro:Portuguese_empire_1800.png
+e431	h4v7	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1 1.5, 0 1, -0.5 0.5, 0 0))"
+e44	h4v24	h4r1	h4v19
+e45	h4v13	h4p1	h4v2
+e46	h4v8	h4r1	h4v43
+e47	h4v8	h4p8	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brazil_in_1822.svg/800px-Brazil_in_1822.svg.png
+e471	h4v8	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1 1.5, 0.5 1.5, 0 1, -0.5 0.5, 0 0))"
+e48	h4v8	h4p8	https://pt.wikipedia.org/wiki/Ficheiro:Brazil_contested_territores_before_1900.jpg
+e481	h4v8	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 1.75, 0 1.5, -0.25 1, 0 0))"
+e49	h4v9	h4r1	h4v41
+e5	h4v8	h4r8	h4v33
+e50	h4v9	h4p8	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brazil_Labelled_Map.svg/500px-Brazil_Labelled_Map.svg.png
+e501	h4v9	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 2, 0 1.75, -0.25 1.5, -0.5 1, 0 0))"
+e51	h4v3	h4p8	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png
+e511	h4v3	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 2, 0.75 2.5, 0.5 2.75, 0 2.75, -0.25 2.5, -0.5 2, -0.75 1.5, -1 1, -0.75 0.5, -0.5 0.25, 0 0))"
+e52	h4v4	h4p8	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png
+e521	h4v4	h4r2	"POLYGON((0 0, 1 0, 1.5 0.25, 1.75 0.75, 1.75 1.25, 1.5 1.75, 1 2, 0.5 2, 0 1.75, -0.25 1.25, -0.25 0.75, 0 0))"
+e53	h4v1	h4r1	h4v18
+e53	h4v9	h4p7	Brasil
+e54	h4v9	is_a	h4c1
+e6	h4v14	h4r9	h4v1
+e7	h4v1	h4r3	h4v16
+e8	h4v1	h4r4	h4v35
+e9	h4v15	h4r3	h4v7
+h4c1-label-0000	h4c1	label	unidade geo-política
+h4c2-label-0000	h4c2	label	Período Histórico
+h4p1-label-0000	h4p1	label	arrival place
+h4p3-label-0000	h4p3	label	inception
+h4p4-label-0000	h4p4	label	closure date
+h4p5-label-0000	h4p5	label	first name
+h4p6-label-0000	h4p6	label	reference URL
+h4p7-label-0000	h4p7	label	alias
+h4p8-label-0000	h4p8	label	image
+h4q1-label-0000	h4q1	label	start time
+h4q2-label-0000	h4q2	label	end time
+h4q3-label-0000	h4q3	label	stated in
+h4q4-label-0000	h4q4	label	point in time
+h4q5-label-0000	h4q5	label	headed by
+h4q6-label-0000	h4q6	label	local
+h4r1-label-0000	h4r1	label	form of government
+h4r2-label-0000	h4r2	label	geoshape
+h4r3-label-0000	h4r3	label	part of
+h4r4-label-0000	h4r4	label	colony of
+h4r5-label-0000	h4r5	label	created by
+h4r7-label-0000	h4r7	label	capital city of
+h4r8-label-0000	h4r8	label	proclama
+h4r9-label-0000	h4r9	label	head of state of
+h4v1-label-0000	h4v1	label	Estado do Brasil
+h4v10-label-0000	h4v10	label	Brasilia
+h4v11-label-0000	h4v11	label	Expedição Marítima Portuguesa
+h4v12-label-0000	h4v12	label	América
+h4v13-label-0000	h4v13	label	Família Real Portuguesa
+h4v14-label-0000	h4v14	label	Governador-Geral
+h4v15-label-0000	h4v15	label	Reino do Brasil
+h4v16-label-0000	h4v16	label	América Portuguesa
+h4v17-label-0000	h4v17	label	Capitanias Hereditárias
+h4v18-label-0000	h4v18	label	Governo Geral
+h4v19-label-0000	h4v19	label	Monarquia Absolutista
+h4v2-label-0000	h4v2	label	Salvador
+h4v21-label-0000	h4v21	label	Brasil Colônia
+h4v22-label-0000	h4v22	label	Período Pré-Colonial
+h4v24-label-0000	h4v24	label	Reino do Brasil
+h4v25-label-0000	h4v25	label	Mundo Educação - Brasil Colônia
+h4v26-label-0000	h4v26	label	Mundo Educação - Governo Geral
+h4v3-label-0000	h4v3	label	Governo do Norte
+h4v31-label-0000	h4v31	label	Independência
+h4v32-label-0000	h4v32	label	Margens do Ipiranga
+h4v33-label-0000	h4v33	label	República
+h4v34-label-0000	h4v34	label	Dom João III
+h4v35-label-0000	h4v35	label	Reino de Portugal
+h4v36-label-0000	h4v36	label	Dom João VI
+h4v37-label-0000	h4v37	label	Pedro Alváres Cabral
+h4v38-label-0000	h4v38	label	Wikipedia
+h4v39-label-0000	h4v39	label	Mundo Educação - Periodo Joanino
+h4v4-label-0000	h4v4	label	Governo do Sul
+h4v40-label-0000	h4v40	label	Mundo Educação - Brasil Império
+h4v41-label-0000	h4v41	label	República Federativa Presidencialista
+h4v42-label-0000	h4v42	label	Mundo Educação - Presidentes do Brasil
+h4v43-label-0000	h4v43	label	Monarquia constitucional parlamentarista
+h4v5-label-0000	h4v5	label	Olinda
+h4v6-label-0000	h4v6	label	Rio de Janeiro
+h4v7-label-0000	h4v7	label	Reino Unido de Portugal, Brasil e Algarves
+h4v8-label-0000	h4v8	label	Império do Brasil
+h4v9-label-0000	h4v9	label	Estados Unidos do Brasil
+is_a-label-0000	is_a	label	rdf:type
+p1	h4v8	h4p3	^1822-09-07
+p10	h4v21	h4q1	^1530
+p11	h4v21	h4q2	^1815
+p2	h4v2	h4p3	^1549
+p3	h4v25	h4p6	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-colonia.htm
+p4	h4v2	h4p5	São Salvador da Bahia de Todos os Santos
+p5	h4v26	h4p6	https://mundoeducacao.uol.com.br/historiadobrasil/governo-geral.htm
+p6	h4v39	h4p6	https://mundoeducacao.uol.com.br/historiadobrasil/periodo-joanino.htm
+p7	h4v40	h4p6	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-imperio.htm
+p8	h4v42	h4p6	https://mundoeducacao.uol.com.br/historiadobrasil/presidentes-do-brasil.htm
+q101	e10	h4q1	^1572
+q102	e10	h4q2	^1577
+q103	e10	h4q3	h4v26
+q11	e1	h4q3	h4v25
+q111	e11	h4q1	^1572
+q112	e11	h4q2	^1577
+q113	e11	h4q3	h4v26
+q17a1	e17a	h4q1	^1572
+q17a2	e17a	h4q2	^1577
+q17a3	e17a	h4q3	h4v26
+q17b1	e17b	h4q1	^1572
+q17b2	e17b	h4q2	^1577
+q17b3	e17b	h4q3	h4v26
+q181	e18	h4q1	^1577
+q182	e18	h4q2	^1624
+q191	e19	h4q1	^1624
+q192	e19	h4q2	^1625
+q201	e20	h4q1	^1625
+q202	e20	h4q2	^1763
+q21	e2	h4q1	^1500-01-01
+q211	e21	h4q1	^1763
+q212	e21	h4q2	^1815
+q22	e2	h4q2	^1530-01-01
+q221	e22	h4q1	^1815
+q222	e22	h4q2	^1822
+q23	e2	h4q3	h4v25
+q231	e23	h4q1	^1822
+q232	e23	h4q2	^1889
+q241	e24	h4q1	^1889
+q242	e24	h4q2	^1960
+q251	e25	h4q1	^1960-04
+q301	e30	h4q1	^1549
+q302	e30	h4q2	^1572
+q303	e30	h4q3	h4v26
+q31	e3	h4q4	^1500-04-22
+q311	e31	h4q3	h4v25
+q32	e3	h4q5	h4v37
+q321	e32	h4q3	h4v25
+q33	e3	h4q3	h4v25
+q333	e33	h4q3	h4v25
+q341	e34	h4q4	^1512-01-01
+q342	e34	h4q3	h4v25
+q351	e35	h4q1	^1534-01-01
+q352	e35	h4q2	^1549-01-01
+q353	e35	h4q3	h4v25
+q361	e36	h4q1	^1548-01-01
+q362	e36	h4q2	^1572-01-01
+q401	e40	h4q3	h4v38
+q41	e4	h4q4	^1822-09-07
+q411	e41	h4q3	h4v38
+q42	e4	h4q6	h4v32
+q421	e42	h4q3	h4v38
+q43	e4	h4q3	h4v40
+q431	e43	h4q3	h4v38
+q441	e44	h4q1	^1815
+q442	e44	h4q2	^1822
+q443	e44	h4q3	h4v39
+q451	e45	h4q4	janeiro de 1808
+q453	e45	h4q3	h4v39
+q461	e46	h4q1	^1822
+q462	e46	h4q2	^1889
+q463	e46	h4q3	h4v40
+q471	e471	h4q4	^1822
+q472	e47	h4q3	h4v38
+q481	e481	h4q4	^1889
+q482	e48	h4q3	h4v38
+q491	e49	h4q1	^1889
+q492	e49	h4q3	h4v42
+q501	e50	h4q3	h4v38
+q502	e501	h4q4	^1964
+q51	e5	h4q4	^1889-11-15
+q511	e51	h4q3	h4v38
+q521	e52	h4q3	h4v38
+q531	e53	h4q1	^1577-01-01
+q532	e53	h4q2	^1808-01-01
+q533	e53	h4q3	h4v38
+q61	e6	h4q3	h4v26
+q91	e9	h4p3	^1815
+q92	e9	h4r5	h4v36
+q93	e9	h4p4	^1822
+qp21	p2	h4q3	h4v25
+qp41	p4	h4q3	h4v25

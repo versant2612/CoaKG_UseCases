@@ -1,0 +1,5 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	start time
+ckg:c13	h4q1	start time	ckgr2	ckg:Contextualizes	h4c2	Período Histórico
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	end time
+ckg:c15	h4q2	end time	ckgr2	ckg:Contextualizes	h4c2	Período Histórico

@@ -1,0 +1,13 @@
+id	node1	node1;label	label	node2	node2;label
+q241	e24		h4q1	^1889	
+q242	e24		h4q2	^1960	
+unknown	e24		h4q3	unknown	unknown
+q251	e25		h4q1	^1960-04	
+unknown	e25		h4q2	unknown	unknown
+unknown	e25		h4q3	unknown	unknown
+q491	e49		h4q1	^1889	
+unknown	e49		h4q2	unknown	unknown
+q492	e49		h4q3	h4v42	Mundo Educação - Presidentes do Brasil
+e25	h4v10	Brasilia	h4r7	h4v9	Estados Unidos do Brasil
+e24	h4v6	Rio de Janeiro	h4r7	h4v9	Estados Unidos do Brasil
+e49	h4v9	Estados Unidos do Brasil	h4r1	h4v41	República Federativa Presidencialista

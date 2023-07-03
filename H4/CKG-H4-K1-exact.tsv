@@ -1,5 +1,5 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-e30	h4v2	Salvador	h4r7	capital de	h4v1	Estado do Brasil
-q301	e30		h4q1	inicio	^1549	
-q302	e30		h4q2	fim	^1572	
-q303	e30		h4q3	fonte	h4v26	Mundo Educação - Governo Geral
+e30	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+q301	e30		h4q1	start time	^1549	
+q302	e30		h4q2	end time	^1572	
+q303	e30		h4q3	stated in	h4v26	Mundo Educação - Governo Geral

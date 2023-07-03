@@ -1,0 +1,7 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	start time
+ckg:c17	h4q1	start time	ckgr2	ckg:Contextualizes	h4r1	form of government
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	end time
+ckg:c19	h4q2	end time	ckgr2	ckg:Contextualizes	h4r1	form of government
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	stated in
+ckg:c31	h4q3	stated in	ckgr2	ckg:Contextualizes	h4r1	form of government

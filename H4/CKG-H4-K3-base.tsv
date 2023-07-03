@@ -1,0 +1,23 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e17a	h4v2	Salvador	h4r7	capital city of	h4v3	Governo do Norte
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e17b	h4v6	Rio de Janeiro	h4r7	capital city of	h4v4	Governo do Sul
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e30	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e18	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e19	h4v5	Olinda	h4r7	capital city of	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e20	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e21	h4v6	Rio de Janeiro	h4r7	capital city of	h4v1	Estado do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e22	h4v6	Rio de Janeiro	h4r7	capital city of	h4v7	Reino Unido de Portugal, Brasil e Algarves
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e23	h4v6	Rio de Janeiro	h4r7	capital city of	h4v8	Império do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e24	h4v6	Rio de Janeiro	h4r7	capital city of	h4v9	Estados Unidos do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+e25	h4v10	Brasilia	h4r7	capital city of	h4v9	Estados Unidos do Brasil
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
