@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e53	h4v9	Estados Unidos do Brasil	h4p7	alias	Brasil	
+e501	h4v9	Estados Unidos do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 2, 0 1.75, -0.25 1.5, -0.5 1, 0 0))"	
+e54	h4v9	Estados Unidos do Brasil	is_a	rdf:type	h4c1	unidade geo-política

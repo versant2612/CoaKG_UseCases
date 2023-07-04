@@ -1,0 +1,8 @@
+id	node1	node1;label	label	node2	node2;label	node2_label
+unknown	e501		h4q3	unknown	unknown	
+q502	e501		h4q4	^1964		
+e53	h4v9	Estados Unidos do Brasil	h4p7	Brasil		
+e49	h4v9	Estados Unidos do Brasil	h4r1	h4v41	República Federativa Presidencialista	
+e501	h4v9	Estados Unidos do Brasil	h4r2	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 2, 0 1.75, -0.25 1.5, -0.5 1, 0 0))"		
+unknown	h4v9	Estados Unidos do Brasil	h4r6	unknown	unknown	
+e54	h4v9	Estados Unidos do Brasil	is_a	h4c1	unidade geo-política	

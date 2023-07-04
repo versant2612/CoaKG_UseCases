@@ -1,0 +1,3 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	stated in
+ckg:c36	h4q3	stated in	ckgr2	ckg:Contextualizes	h4r2	geoshape

@@ -11,13 +11,13 @@ e3	h4v11	Expedição Marítima Portuguesa	h4p1	arrival place	h4v12	América
 q31	e3		h4q4	point in time	^1500-04-22	
 q32	e3		h4q5	headed by	h4v37	Pedro Alváres Cabral
 q33	e3		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
-e31	h4v16	América Portuguesa	h4p7	alias	Vera Cruz	
+e31	h4v16	América Portuguesa	h4p7	alias	Ilha de Vera Cruz	
 q311	e31		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 e32	h4v16	América Portuguesa	h4p7	alias	Terra dos Papagaios	
 q321	e32		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
-e33	h4v16	América Portuguesa	h4p7	alias	Santa Cruz	
+e33	h4v16	América Portuguesa	h4p7	alias	Terra de Santa Cruz	
 q333	e33		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
-e34	h4v16	América Portuguesa	h4p7	alias	Brasil	
+e34	h4v16	América Portuguesa	h4p7	alias	Terra do Brasil	
 q341	e34		h4q4	point in time	^1512-01-01	
 q342	e34		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 e35	h4v16	América Portuguesa	h4r1	form of government	h4v17	Capitanias Hereditárias
