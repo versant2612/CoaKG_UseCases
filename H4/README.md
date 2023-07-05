@@ -24,8 +24,10 @@ K7. **Spatial** changes of Brazil **over time**
 | CKG-H4.tsv   | CKG about Brazilian Geographic and Political History |
 | CKG-H4-label.tsv | Normalized version of CKG about Brazilian Geographic and Political History |
 | CKG-H4-K[n]-base.tsv | Result of Original K[n] |
+| CKG-H4-K[n]-mK-[id].tsv | Context mappings from entity type, concept or relationsip [id] of Original K[n] |
 | CKG-H4-K[n]-exact.tsv | Result of expanded K[n] with Complete Context |
 | CKG-H4-K[n]-possible.tsv | Result of expanded K[n] with as complete as possible Context |
 | CKG-H4-K[n]-possible-multi.tsv | Result of expanded K[n] with as complete as possible Context, splited |
 | CKG-H4-K[n]-inferred.tsv | Aditional Context inferenced from Result of expanded K[n] |
-| CKG-H4-K[n]-mK-[id].tsv | Context mappings from entity type, concept or relationsip [id] of K[n] |
+| CKG-H4-K[n]-possible-final.tsv | All Contextualized Possible Answers of K[n] |
+
