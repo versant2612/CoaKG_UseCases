@@ -107,23 +107,38 @@ cut -f 37-42 < CKG-H4-K7-temp-possible.tsv > file7.tsv
 
 kgtk cat -i file1.tsv file2.tsv file3.tsv file4.tsv file5.tsv file6.tsv file7.tsv / deduplicate -o /app/kgtk/data/H4/CKG-H4-K7-temp-possible-multi.tsv
 
+export PYTHONPATH=$PYTHONPATH:/app/kgtk/functions
+
 export GRAPH_CKG_GEO=/app/kgtk/data/H4/CKG-H4-K7-temp-possible-multi.tsv
- 
-\time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CKG_GEO --as geo --force --import 'pygeos as pg' \
---match 'geo: (:h4v9)-[r1:h4r2]->(v1), (y)-[r2:h4r2]->(v2) ' \
---where 'y != "h4v9"' \
---return '"h4v9" as node1, y as node2, v1, v2, pycall("pg.Geometry", v1) as geo1, pycall("pg.Geometry", v2) as geo2, pycall("pg.intersects", geo1, geo2) as hasIntersection' \
--o /app/kgtk/data/H4/CKG-H4-K7-possible-geo1.tsv
 
-\time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CKG_GEO --as geo --force --import 'pygeos as pg' \
---match 'geo: (:h4v9)-[r1:h4r2]->(v1), (y)-[r2:h4r2]->(v2) ' \
---where 'y != "h4v9"' \
---return '"h4v9" as node1, y as node2, pycall("pg.intersection", v1, v2) as hasIntersection' \
--o /app/kgtk/data/H4/CKG-H4-K7-possible-geo2.tsv
+\time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CKG_GEO --as geo --force --multi 2 \
+--import 'geo_functions as g' \
+--match 'geo: (:h4v9 {label: h4v9_label})-[r1:h4r2]->(geo1), (v2 {label: v2_label})-[r2:h4r2]->(geo2) ' \
+--where 'v2 != "h4v9"' \
+--return 'concat("ckg:i7",v2) as id, "h4v9" as node1, h4v9_label as `node1;label`, pycall("g.geo_operation", geo1, geo2) as label, v2 as node2, v2_label as `node2;label`, "ckg:i3" as id, "ckgL1" as node1, "Location" as `node1;label`, "ckgr3" as label, pycall("g.geo_operation", geo1, geo2) as node2, "" as `node2;label`' \
+-o /app/kgtk/data/H4/CKG-H4-K7-geo-inferred.tsv
 
-\time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CKG_GEO --as geo --force \
---import '/app/kgtk/data/H4/geo_functions.py' \
---match 'geo: (:h4v9)-[r1:h4r2]->(v1), (y)-[r2:h4r2]->(v2) ' \
---where 'y != "h4v9"' \
---return '"h4v9" as node1, y as node2, pycall("geo_intersection", v1, v2) as hasIntersection' \
--o /app/kgtk/data/H4/CKG-H4-K7-possible-geo3.tsv
+kgtk cat -i /app/kgtk/data/H4/CKG-H4-K7-geo-inferred.tsv /app/kgtk/data/H4/CKG-H4-K7-temp-possible-multi.tsv / deduplicate -o /app/kgtk/data/H4/CKG-H4-K7-possible-final.tsv
+
+\time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CKG_H4 --as h4  --force \
+--import 'geo_functions as g' \
+--match 'h4: (v1 {label: v1_label})-[p1:h4p7]->(l2), (v1 {label: v1_label})-[p2:h4r2]->(geo1), (v5 {label: v5_label})-[p5:h4r2]->(geo2)' \
+--where 'l2 = "Brasil" AND v1 != v5' \
+--optional 'h4: (p2)-[q3:h4q3]->(v3 {label: v3_label})' \
+--optional 'h4: (p2)-[q4:h4q4]->(v4 {label: v4_label})' \
+--optional 'h4: (p5)-[q7:h4q3]->(v7 {label: v7_label})' \
+--optional 'h4: (p5)-[q8:h4q4]->(v8 {label: v8_label})' \
+--return 'DISTINCT 
+p1, v1, v1_label as `node1;label`, p1.label, l2 as node2, "" as `node2;label`, coalesce(q3, "unknown") as id, p2 as node1, "" as `node1;label`, coalesce(q3.label, "h4q3") as label, coalesce(v3, "unknown") as node2, coalesce(v3_label, "unknown") as `node2;label`, coalesce(q4, "unknown") as id, p2 as node1, "" as `node1;label`, coalesce(q4.label, "h4q4") as label, coalesce(v4, "unknown") as node2, coalesce(v4_label, "unknown") as `node2;label`, coalesce(q7, "unknown") as id, p5 as node1, "" as `node1;label`, coalesce(q7.label, "h4q3") as label, coalesce(v7, "unknown") as node2, coalesce(v7_label, "unknown") as `node2;label`, coalesce(q8, "unknown") as id, p5 as node1, "" as `node1;label`, coalesce(q8.label, "h4q4") as label, coalesce(v8, "unknown") as node2, coalesce(v8_label, "unknown") as `node2;label`, "ckg:i7" as id, v1 as node1, v1_label as `node1;label`, pycall("g.geo_operation", geo1, geo2) as label, v5 as node2, v5_label as `node2;label`, "ckg:i3" as id, "ckgL1" as node1, "Location" as `node1;label`, "ckgr3" as label, pycall("g.geo_operation", geo1, geo2) as node2' \
+-o /app/kgtk/data/H4/CKG-H4-K7-geo-possible.tsv
+
+cut -f 1-6  < CKG-H4-K7-geo-possible.tsv > file1.tsv
+cut -f 7-12 < CKG-H4-K7-geo-possible.tsv > file2.tsv
+cut -f 13-18 < CKG-H4-K7-geo-possible.tsv > file3.tsv
+cut -f 19-24 < CKG-H4-K7-geo-possible.tsv > file4.tsv
+cut -f 25-30 < CKG-H4-K7-geo-possible.tsv > file5.tsv
+cut -f 31-36 < CKG-H4-K7-geo-possible.tsv > file6.tsv
+cut -f 37-42 < CKG-H4-K7-geo-possible.tsv > file7.tsv
+
+kgtk cat -i file1.tsv file2.tsv file3.tsv file4.tsv file5.tsv file6.tsv file7.tsv / deduplicate -o /app/kgtk/data/H4/CKG-H4-K7-geo-possible-multi.tsv
+

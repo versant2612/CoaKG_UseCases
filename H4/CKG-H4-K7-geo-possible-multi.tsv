@@ -1,0 +1,28 @@
+id	node1	node1;label	label	node2	node2;label
+ckg:i3	ckgL1	Location	ckgr3	ckgr5:intersects	
+unknown	e401		h4q3	unknown	unknown
+unknown	e401		h4q4	unknown	unknown
+unknown	e411		h4q3	unknown	unknown
+unknown	e411		h4q4	unknown	unknown
+unknown	e421		h4q3	unknown	unknown
+unknown	e421		h4q4	unknown	unknown
+unknown	e431		h4q3	unknown	unknown
+unknown	e431		h4q4	unknown	unknown
+unknown	e471		h4q3	unknown	unknown
+q471	e471		h4q4	^1822	
+unknown	e481		h4q3	unknown	unknown
+q481	e481		h4q4	^1889	
+unknown	e501		h4q3	unknown	unknown
+q502	e501		h4q4	^1964	
+unknown	e511		h4q3	unknown	unknown
+unknown	e511		h4q4	unknown	unknown
+unknown	e521		h4q3	unknown	unknown
+unknown	e521		h4q4	unknown	unknown
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v1	Estado do Brasil
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v15	Reino do Brasil
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v16	América Portuguesa
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v3	Governo do Norte
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v4	Governo do Sul
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v7	Reino Unido de Portugal, Brasil e Algarves
+ckg:i7	h4v9	Estados Unidos do Brasil	ckgr5:intersects	h4v8	Império do Brasil
+e53	h4v9	Estados Unidos do Brasil	h4p7	Brasil	
