@@ -1,0 +1,1585 @@
+node1	node1;label	relationship	relationship;label	node2	node2;label
+0	RAIS_1992	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+0	RAIS_1992	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+0	RAIS_1992	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1992	
+0	RAIS_1992	DAT_FONTE_ATU	Data da Fonte de Atualização	^1994-09-01	
+0	RAIS_1992	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199250	
+0	RAIS_1992	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+1	RAIS_1993	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+1	RAIS_1993	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+1	RAIS_1993	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1993	
+1	RAIS_1993	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-02-28	
+1	RAIS_1993	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199350	
+1	RAIS_1993	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+2	GAZETA_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	GAZETA	
+2	GAZETA_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+2	GAZETA_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+2	GAZETA_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1994-12-01	
+2	GAZETA_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199450	
+2	GAZETA_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+3	REV/CONJUN_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	REV/CONJUN	
+3	REV/CONJUN_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+3	REV/CONJUN_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+3	REV/CONJUN_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1994-12-01	
+3	REV/CONJUN_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199450	
+3	REV/CONJUN_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+4	PEE_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PEE	
+4	PEE_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+4	PEE_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+4	PEE_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1995-05-03	
+4	PEE_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+4	PEE_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+5	PATR_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PATR	
+5	PATR_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+5	PATR_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+5	PATR_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-05-01	
+5	PATR_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+5	PATR_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+6	PAC_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+6	PAC_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+6	PAC_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+6	PAC_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-12-01	
+6	PAC_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+6	PAC_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+7	PIA_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+7	PIA_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+7	PIA_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+7	PIA_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-12-01	
+7	PIA_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+7	PIA_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+8	PAIC_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+8	PAIC_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+8	PAIC_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+8	PAIC_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-12-01	
+8	PAIC_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+8	PAIC_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+9	FGV_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+9	FGV_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+9	FGV_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+9	FGV_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1995-12-01	
+9	FGV_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199550	
+9	FGV_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+10	GAZETA_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	GAZETA	
+10	GAZETA_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+10	GAZETA_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+10	GAZETA_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1995-12-01	
+10	GAZETA_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199550	
+10	GAZETA_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+11	REV/EXAME_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	REV/EXAME	
+11	REV/EXAME_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+11	REV/EXAME_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+11	REV/EXAME_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1995-12-01	
+11	REV/EXAME_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199550	
+11	REV/EXAME_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+12	PATR_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PATR	
+12	PATR_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+12	PATR_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+12	PATR_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1997-05-01	
+12	PATR_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+12	PATR_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+13	PAC_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+13	PAC_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+13	PAC_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+13	PAC_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1997-12-01	
+13	PAC_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+13	PAC_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+14	PIA_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+14	PIA_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+14	PIA_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+14	PIA_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1997-12-01	
+14	PIA_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+14	PIA_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+15	PAIC_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+15	PAIC_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+15	PAIC_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+15	PAIC_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1997-12-01	
+15	PAIC_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+15	PAIC_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+16	RAIS_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+16	RAIS_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+16	RAIS_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+16	RAIS_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-01-30	
+16	RAIS_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199550	
+16	RAIS_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+17	CC/95_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CC/95	
+17	CC/95_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CENSO CADASTRO 1995	
+17	CC/95_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+17	CC/95_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-01-29	
+17	CC/95_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+17	CC/95_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+18	SCC_1995	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SCC	
+18	SCC_1995	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+18	SCC_1995	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1995	
+18	SCC_1995	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-02-28	
+18	SCC_1995	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199575	
+18	SCC_1995	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+19	FGV_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+19	FGV_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+19	FGV_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+19	FGV_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-12-01	
+19	FGV_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199650	
+19	FGV_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+20	GAZETA_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	GAZETA	
+20	GAZETA_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+20	GAZETA_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+20	GAZETA_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1996-12-01	
+20	GAZETA_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199650	
+20	GAZETA_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+21	RAIS_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+21	RAIS_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+21	RAIS_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+21	RAIS_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-01-31	
+21	RAIS_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199650	
+21	RAIS_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+22	PATR_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PATR	
+22	PATR_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+22	PATR_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+22	PATR_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-05-12	
+22	PATR_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199675	
+22	PATR_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+23	PAC_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+23	PAC_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+23	PAC_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+23	PAC_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-12-01	
+23	PAC_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199675	
+23	PAC_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+24	PAIC_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+24	PAIC_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+24	PAIC_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+24	PAIC_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-12-01	
+24	PAIC_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199675	
+24	PAIC_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+25	PIA_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+25	PIA_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+25	PIA_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+25	PIA_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-01-19	
+25	PIA_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199675	
+25	PIA_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+26	FGV_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+26	FGV_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+26	FGV_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+26	FGV_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^1997-12-01	
+26	FGV_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199750	
+26	FGV_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+27	RAIS_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+27	RAIS_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+27	RAIS_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+27	RAIS_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-07-01	
+27	RAIS_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199750	
+27	RAIS_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+28	PAC_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+28	PAC_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+28	PAC_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+28	PAC_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-03	
+28	PAC_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199775	
+28	PAC_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+29	PAIC_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+29	PAIC_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+29	PAIC_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+29	PAIC_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-03	
+29	PAIC_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199775	
+29	PAIC_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+30	PIA_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+30	PIA_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+30	PIA_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+30	PIA_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-06	
+30	PIA_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199775	
+30	PIA_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+31	BACEN_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	BACEN	
+31	BACEN_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+31	BACEN_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+31	BACEN_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-08-12	
+31	BACEN_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199850	
+31	BACEN_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+32	FGV_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+32	FGV_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+32	FGV_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+32	FGV_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^1998-12-01	
+32	FGV_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199850	
+32	FGV_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+33	RAIS_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+33	RAIS_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+33	RAIS_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+33	RAIS_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-20	
+33	RAIS_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199850	
+33	RAIS_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+34	PAIC_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+34	PAIC_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+34	PAIC_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+34	PAIC_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-09-04	
+34	PAIC_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199875	
+34	PAIC_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+35	PIA_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+35	PIA_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+35	PIA_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+35	PIA_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-11-29	
+35	PIA_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199875	
+35	PIA_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+36	PAC_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+36	PAC_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+36	PAC_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+36	PAC_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-12-05	
+36	PAC_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199875	
+36	PAC_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+37	PAS_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+37	PAS_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+37	PAS_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+37	PAS_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-12-06	
+37	PAS_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199875	
+37	PAS_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+38	CAGED_1999_08	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+38	CAGED_1999_08	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+38	CAGED_1999_08	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^1999-08	
+38	CAGED_1999_08	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-23	
+38	CAGED_1999_08	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199825	
+38	CAGED_1999_08	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+39	CVM_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CVM	
+39	CVM_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+39	CVM_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+39	CVM_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-01	
+39	CVM_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199950	
+39	CVM_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+40	FGV_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+40	FGV_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+40	FGV_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+40	FGV_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-01	
+40	FGV_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199950	
+40	FGV_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+41	REV/EXAME_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	REV/EXAME	
+41	REV/EXAME_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	nan	
+41	REV/EXAME_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+41	REV/EXAME_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^1999-12-01	
+41	REV/EXAME_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199950	
+41	REV/EXAME_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+42	RAIS_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+42	RAIS_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+42	RAIS_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+42	RAIS_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-01-10	
+42	RAIS_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199950	
+42	RAIS_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+43	PAIC_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+43	PAIC_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+43	PAIC_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+43	PAIC_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-07-18	
+43	PAIC_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199975	
+43	PAIC_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+44	PAS_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+44	PAS_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+44	PAS_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+44	PAS_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-07-23	
+44	PAS_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199975	
+44	PAS_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+45	PAC_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+45	PAC_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+45	PAC_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+45	PAC_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-07-23	
+45	PAC_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199975	
+45	PAC_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+46	PIA_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+46	PIA_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+46	PIA_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+46	PIA_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-07-23	
+46	PIA_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199975	
+46	PIA_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+47	CAGED_2000_04	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+47	CAGED_2000_04	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+47	CAGED_2000_04	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2000-04	
+47	CAGED_2000_04	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-08-17	
+47	CAGED_2000_04	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199925	
+47	CAGED_2000_04	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+48	CAGED_2000_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+48	CAGED_2000_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+48	CAGED_2000_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2000-09	
+48	CAGED_2000_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-01-19	
+48	CAGED_2000_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199925	
+48	CAGED_2000_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+49	FGV_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+49	FGV_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+49	FGV_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+49	FGV_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2000-12-01	
+49	FGV_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200050	
+49	FGV_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+50	RAIS_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+50	RAIS_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+50	RAIS_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+50	RAIS_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-10-26	
+50	RAIS_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200050	
+50	RAIS_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+51	DCC_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+51	DCC_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+51	DCC_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+51	DCC_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-06-14	
+51	DCC_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200075	
+51	DCC_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+52	PIA_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+52	PIA_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+52	PIA_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+52	PIA_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-06-18	
+52	PIA_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200075	
+52	PIA_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+53	PAS_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+53	PAS_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+53	PAS_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+53	PAS_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-06-19	
+53	PAS_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200075	
+53	PAS_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+54	PAC_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+54	PAC_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+54	PAC_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+54	PAC_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-06-19	
+54	PAC_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200075	
+54	PAC_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+55	PAIC_2000	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+55	PAIC_2000	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+55	PAIC_2000	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2000	
+55	PAIC_2000	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-08-20	
+55	PAIC_2000	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200075	
+55	PAIC_2000	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+56	CAGED_2001_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+56	CAGED_2001_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+56	CAGED_2001_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2001-03	
+56	CAGED_2001_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-10-19	
+56	CAGED_2001_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200025	
+56	CAGED_2001_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+57	CAGED_2001_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+57	CAGED_2001_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+57	CAGED_2001_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2001-09	
+57	CAGED_2001_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-12-13	
+57	CAGED_2001_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200025	
+57	CAGED_2001_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+58	FGV_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+58	FGV_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+58	FGV_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+58	FGV_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2001-12-01	
+58	FGV_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200150	
+58	FGV_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+59	RAIS_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+59	RAIS_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+59	RAIS_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+59	RAIS_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-12-17	
+59	RAIS_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200150	
+59	RAIS_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+60	PAIC_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+60	PAIC_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+60	PAIC_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+60	PAIC_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-05-20	
+60	PAIC_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200175	
+60	PAIC_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+61	PAS_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+61	PAS_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+61	PAS_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+61	PAS_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-10-20	
+61	PAS_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200175	
+61	PAS_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+62	PAC_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+62	PAC_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+62	PAC_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+62	PAC_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-10-20	
+62	PAC_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200175	
+62	PAC_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+63	PIA_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+63	PIA_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+63	PIA_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+63	PIA_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-11-21	
+63	PIA_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200175	
+63	PIA_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+64	DCC_2001	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+64	DCC_2001	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+64	DCC_2001	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2001	
+64	DCC_2001	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-06-14	
+64	DCC_2001	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200175	
+64	DCC_2001	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+65	CAGED_2002_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+65	CAGED_2002_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+65	CAGED_2002_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2002-03	
+65	CAGED_2002_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-07-29	
+65	CAGED_2002_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200125	
+65	CAGED_2002_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+66	CAGED_2002_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+66	CAGED_2002_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+66	CAGED_2002_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2002-09	
+66	CAGED_2002_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-12-05	
+66	CAGED_2002_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200125	
+66	CAGED_2002_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+67	FGV_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+67	FGV_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+67	FGV_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+67	FGV_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2002-12-01	
+67	FGV_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200250	
+67	FGV_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+68	RAIS_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+68	RAIS_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+68	RAIS_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+68	RAIS_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-03-12	
+68	RAIS_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200250	
+68	RAIS_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+69	DCC_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+69	DCC_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+69	DCC_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+69	DCC_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-03-25	
+69	DCC_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200275	
+69	DCC_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+70	PIA_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+70	PIA_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+70	PIA_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+70	PIA_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-06-07	
+70	PIA_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200275	
+70	PIA_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+71	PAIC_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+71	PAIC_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+71	PAIC_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+71	PAIC_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-06-07	
+71	PAIC_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200275	
+71	PAIC_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+72	PAS_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+72	PAS_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+72	PAS_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+72	PAS_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-06-08	
+72	PAS_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200275	
+72	PAS_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+73	PAC_2002	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+73	PAC_2002	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+73	PAC_2002	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2002	
+73	PAC_2002	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-06-08	
+73	PAC_2002	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200275	
+73	PAC_2002	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+74	CAGED_2003_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+74	CAGED_2003_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+74	CAGED_2003_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2003-03	
+74	CAGED_2003_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-09-10	
+74	CAGED_2003_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200225	
+74	CAGED_2003_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+75	CAGED_2003_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+75	CAGED_2003_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+75	CAGED_2003_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2003-09	
+75	CAGED_2003_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2003-12-16	
+75	CAGED_2003_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200225	
+75	CAGED_2003_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+76	RAIS_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+76	RAIS_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+76	RAIS_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+76	RAIS_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-03-30	
+76	RAIS_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200350	
+76	RAIS_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+77	DCC_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+77	DCC_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+77	DCC_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+77	DCC_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-06-13	
+77	DCC_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200375	
+77	DCC_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+78	PAIC_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+78	PAIC_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+78	PAIC_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+78	PAIC_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-08-05	
+78	PAIC_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200375	
+78	PAIC_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+79	PAS_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+79	PAS_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+79	PAS_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+79	PAS_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-12-08	
+79	PAS_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200375	
+79	PAS_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+80	PAC_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+80	PAC_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+80	PAC_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+80	PAC_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-12-08	
+80	PAC_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200375	
+80	PAC_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+81	PIA_2003	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+81	PIA_2003	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+81	PIA_2003	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2003	
+81	PIA_2003	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-12-12	
+81	PIA_2003	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200375	
+81	PIA_2003	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+82	CAGED_2004_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+82	CAGED_2004_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+82	CAGED_2004_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2004-03	
+82	CAGED_2004_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2004-09-22	
+82	CAGED_2004_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200325	
+82	CAGED_2004_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+83	CAGED_2004_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+83	CAGED_2004_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+83	CAGED_2004_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2004-09	
+83	CAGED_2004_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-01-24	
+83	CAGED_2004_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200325	
+83	CAGED_2004_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+84	RAIS_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+84	RAIS_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+84	RAIS_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+84	RAIS_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-02-01	
+84	RAIS_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200450	
+84	RAIS_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+85	PAC_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+85	PAC_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+85	PAC_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+85	PAC_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-03-16	
+85	PAC_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200475	
+85	PAC_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+86	DCC_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+86	DCC_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+86	DCC_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+86	DCC_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-03-21	
+86	DCC_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200475	
+86	DCC_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+87	PAIC_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+87	PAIC_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+87	PAIC_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+87	PAIC_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-05-02	
+87	PAIC_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200475	
+87	PAIC_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+88	PAS_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+88	PAS_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+88	PAS_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+88	PAS_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-07-05	
+88	PAS_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200475	
+88	PAS_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+89	PIA_2004	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+89	PIA_2004	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+89	PIA_2004	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2004	
+89	PIA_2004	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-07-06	
+89	PIA_2004	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200475	
+89	PIA_2004	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+90	CAGED_2005_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+90	CAGED_2005_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+90	CAGED_2005_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2005-03	
+90	CAGED_2005_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2005-08-23	
+90	CAGED_2005_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200425	
+90	CAGED_2005_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+91	RAIS_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+91	RAIS_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+91	RAIS_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+91	RAIS_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-12-10	
+91	RAIS_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200550	
+91	RAIS_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+92	DCC_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+92	DCC_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+92	DCC_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+92	DCC_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-02-01	
+92	DCC_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200575	
+92	DCC_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+93	PIA_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+93	PIA_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+93	PIA_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+93	PIA_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-02-12	
+93	PIA_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200575	
+93	PIA_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+94	PAIC_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+94	PAIC_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+94	PAIC_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+94	PAIC_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-02-14	
+94	PAIC_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200575	
+94	PAIC_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+95	PAS_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+95	PAS_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+95	PAS_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+95	PAS_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-02-15	
+95	PAS_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200575	
+95	PAS_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+96	PAC_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+96	PAC_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+96	PAC_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+96	PAC_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-02-15	
+96	PAC_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200575	
+96	PAC_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+97	CAGED_2006_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+97	CAGED_2006_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+97	CAGED_2006_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2006-03	
+97	CAGED_2006_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-06-26	
+97	CAGED_2006_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200525	
+97	CAGED_2006_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+98	CAGED_2006_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+98	CAGED_2006_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS	
+98	CAGED_2006_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2006-09	
+98	CAGED_2006_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-12-04	
+98	CAGED_2006_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200525	
+98	CAGED_2006_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+99	RAIS_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+99	RAIS_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+99	RAIS_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+99	RAIS_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-11-15	
+99	RAIS_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200650	
+99	RAIS_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+100	PIA_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+100	PIA_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+100	PIA_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+100	PIA_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-08-27	
+100	PIA_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+100	PIA_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+101	PAIC_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+101	PAIC_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+101	PAIC_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+101	PAIC_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-08-27	
+101	PAIC_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+101	PAIC_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+102	PAS_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+102	PAS_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+102	PAS_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+102	PAS_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-08-27	
+102	PAS_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+102	PAS_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+103	PAC_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+103	PAC_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+103	PAC_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+103	PAC_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-08-27	
+103	PAC_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+103	PAC_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+104	CAGED_2007_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+104	CAGED_2007_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+104	CAGED_2007_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2007-03	
+104	CAGED_2007_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-09-12	
+104	CAGED_2007_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200625	
+104	CAGED_2007_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+105	DCC_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+105	DCC_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+105	DCC_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+105	DCC_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-09-12	
+105	DCC_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+105	DCC_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+106	PCAD_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PCAD	
+106	PCAD_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA CADASTRO	
+106	PCAD_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+106	PCAD_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2006-12-20	
+106	PCAD_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+106	PCAD_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+107	CAGED_2007_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+107	CAGED_2007_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+107	CAGED_2007_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2007-09	
+107	CAGED_2007_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2007-12-31	
+107	CAGED_2007_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200625	
+107	CAGED_2007_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+108	DCC_1993	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+108	DCC_1993	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+108	DCC_1993	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1993	
+108	DCC_1993	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+108	DCC_1993	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199375	
+108	DCC_1993	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+109	DCC_1994	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+109	DCC_1994	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+109	DCC_1994	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1994	
+109	DCC_1994	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+109	DCC_1994	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199475	
+109	DCC_1994	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+110	DCC_1996	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+110	DCC_1996	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+110	DCC_1996	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1996	
+110	DCC_1996	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+110	DCC_1996	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199675	
+110	DCC_1996	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+111	DCC_1997	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+111	DCC_1997	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+111	DCC_1997	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1997	
+111	DCC_1997	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+111	DCC_1997	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199775	
+111	DCC_1997	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+112	DCC_1998	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+112	DCC_1998	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+112	DCC_1998	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1998	
+112	DCC_1998	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+112	DCC_1998	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199875	
+112	DCC_1998	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+113	DCC_1999	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+113	DCC_1999	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+113	DCC_1999	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^1999	
+113	DCC_1999	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+113	DCC_1999	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	199975	
+113	DCC_1999	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+114	DCC_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+114	DCC_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+114	DCC_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+114	DCC_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-04-28	
+114	DCC_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+114	DCC_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+115	PCAD II_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PCAD II	
+115	PCAD II_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA CADASTRO	
+115	PCAD II_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+115	PCAD II_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-06-26	
+115	PCAD II_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200675	
+115	PCAD II_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+116	FGV_2005	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+116	FGV_2005	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+116	FGV_2005	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2005	
+116	FGV_2005	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-07-21	
+116	FGV_2005	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	0	
+116	FGV_2005	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	E	Extra
+117	CAGED_2008_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+117	CAGED_2008_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+117	CAGED_2008_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2008-03	
+117	CAGED_2008_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-10-03	
+117	CAGED_2008_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200725	
+117	CAGED_2008_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+118	RAIS_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+118	RAIS_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+118	RAIS_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+118	RAIS_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-10-20	
+118	RAIS_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200750	
+118	RAIS_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+119	DCC_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+119	DCC_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+119	DCC_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+119	DCC_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-11-05	
+119	DCC_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+119	DCC_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+120	FGV_2006	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FGV	
+120	FGV_2006	DSC_FONTE_ATU	Descrição da Fonte de Atualização	FUNDAÇÃO GETULIO VARGAS	
+120	FGV_2006	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2006	
+120	FGV_2006	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-07-21	
+120	FGV_2006	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	0	
+120	FGV_2006	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	E	Extra
+121	PIA_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+121	PIA_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+121	PIA_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+121	PIA_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-11-21	
+121	PIA_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+121	PIA_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+122	PAIC_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+122	PAIC_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+122	PAIC_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+122	PAIC_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-11-21	
+122	PAIC_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+122	PAIC_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+123	PAS_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+123	PAS_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+123	PAS_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+123	PAS_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-11-21	
+123	PAS_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+123	PAS_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+124	PAC_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+124	PAC_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+124	PAC_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+124	PAC_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-11-21	
+124	PAC_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+124	PAC_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+125	SIMCAD_2007	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+125	SIMCAD_2007	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+125	SIMCAD_2007	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2007	
+125	SIMCAD_2007	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-12-01	
+125	SIMCAD_2007	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200775	
+125	SIMCAD_2007	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+126	CAGED_2008_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+126	CAGED_2008_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+126	CAGED_2008_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2008-09	
+126	CAGED_2008_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2008-12-10	
+126	CAGED_2008_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200725	
+126	CAGED_2008_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+127	RAIS_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+127	RAIS_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+127	RAIS_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+127	RAIS_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-08-18	
+127	RAIS_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200850	
+127	RAIS_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+128	PIA_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+128	PIA_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+128	PIA_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+128	PIA_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-09-23	
+128	PIA_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+128	PIA_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+129	PAIC_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+129	PAIC_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+129	PAIC_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+129	PAIC_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-09-23	
+129	PAIC_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+129	PAIC_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+130	PAS_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+130	PAS_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+130	PAS_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+130	PAS_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-09-23	
+130	PAS_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+130	PAS_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+131	PAC_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+131	PAC_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+131	PAC_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+131	PAC_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-09-23	
+131	PAC_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+131	PAC_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+132	CAGED_2009_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+132	CAGED_2009_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+132	CAGED_2009_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2009-03	
+132	CAGED_2009_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-11-16	
+132	CAGED_2009_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200825	
+132	CAGED_2009_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+133	CAGED_2009_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+133	CAGED_2009_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+133	CAGED_2009_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2009-09	
+133	CAGED_2009_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-11-16	
+133	CAGED_2009_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200825	
+133	CAGED_2009_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+134	SIMCAD_2008	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+134	SIMCAD_2008	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+134	SIMCAD_2008	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2008	
+134	SIMCAD_2008	DAT_FONTE_ATU	Data da Fonte de Atualização	^2009-11-16	
+134	SIMCAD_2008	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200875	
+134	SIMCAD_2008	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+135	RAIS_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+135	RAIS_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+135	RAIS_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+135	RAIS_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-07-12	
+135	RAIS_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200950	
+135	RAIS_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+136	DCC_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+136	DCC_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+136	DCC_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+136	DCC_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-07-26	
+136	DCC_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+136	DCC_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+137	CAGED_2010_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+137	CAGED_2010_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+137	CAGED_2010_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2010-03	
+137	CAGED_2010_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-10	
+137	CAGED_2010_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200925	
+137	CAGED_2010_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+138	CAGED_2010_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+138	CAGED_2010_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+138	CAGED_2010_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2010-09	
+138	CAGED_2010_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-10	
+138	CAGED_2010_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200925	
+138	CAGED_2010_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+139	PIA_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+139	PIA_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+139	PIA_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+139	PIA_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-12	
+139	PIA_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+139	PIA_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+140	PAIC_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+140	PAIC_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+140	PAIC_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+140	PAIC_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-12	
+140	PAIC_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+140	PAIC_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+141	PAS_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+141	PAS_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+141	PAS_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+141	PAS_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-12	
+141	PAS_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+141	PAS_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+142	PAC_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+142	PAC_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+142	PAC_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+142	PAC_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-12	
+142	PAC_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+142	PAC_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+143	SIMCAD_2009	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+143	SIMCAD_2009	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+143	SIMCAD_2009	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2009	
+143	SIMCAD_2009	DAT_FONTE_ATU	Data da Fonte de Atualização	^2010-11-12	
+143	SIMCAD_2009	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	200975	
+143	SIMCAD_2009	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+144	RAIS_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+144	RAIS_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+144	RAIS_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+144	RAIS_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-08-03	
+144	RAIS_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201050	
+144	RAIS_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+145	DCC_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+145	DCC_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+145	DCC_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+145	DCC_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-08-05	
+145	DCC_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+145	DCC_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+146	CAGED_2011_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+146	CAGED_2011_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+146	CAGED_2011_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2011-03	
+146	CAGED_2011_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-08-05	
+146	CAGED_2011_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201025	
+146	CAGED_2011_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+147	CAGED_2011_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+147	CAGED_2011_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+147	CAGED_2011_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2011-09	
+147	CAGED_2011_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-08-05	
+147	CAGED_2011_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201025	
+147	CAGED_2011_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+148	PAIC_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+148	PAIC_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+148	PAIC_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+148	PAIC_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-11-28	
+148	PAIC_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+148	PAIC_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+149	PIA_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+149	PIA_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+149	PIA_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+149	PIA_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-11-28	
+149	PIA_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+149	PIA_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+150	PAS_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+150	PAS_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+150	PAS_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+150	PAS_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-11-28	
+150	PAS_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+150	PAS_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+151	PAC_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+151	PAC_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+151	PAC_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+151	PAC_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2011-11-28	
+151	PAC_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+151	PAC_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+152	SIMCAD_2010	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+152	SIMCAD_2010	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+152	SIMCAD_2010	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2010	
+152	SIMCAD_2010	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-01-23	
+152	SIMCAD_2010	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201075	
+152	SIMCAD_2010	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+153	RAIS_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+153	RAIS_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+153	RAIS_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+153	RAIS_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-07-02	
+153	RAIS_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201150	
+153	RAIS_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+154	RAT_IBGE_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+154	RAT_IBGE_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+154	RAT_IBGE_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+154	RAT_IBGE_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-07-04	
+154	RAT_IBGE_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201185	
+154	RAT_IBGE_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+155	DCC_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+155	DCC_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+155	DCC_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+155	DCC_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-07-06	
+155	DCC_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201180	
+155	DCC_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+156	CAGED_2012_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+156	CAGED_2012_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+156	CAGED_2012_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2012-03	
+156	CAGED_2012_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-12-13	
+156	CAGED_2012_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201125	
+156	CAGED_2012_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+157	PAIC_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+157	PAIC_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+157	PAIC_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+157	PAIC_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-12-14	
+157	PAIC_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201175	
+157	PAIC_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+158	PIA_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+158	PIA_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+158	PIA_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+158	PIA_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-12-14	
+158	PIA_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201175	
+158	PIA_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+159	PAS_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+159	PAS_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+159	PAS_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+159	PAS_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-12-14	
+159	PAS_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201175	
+159	PAS_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+160	PAC_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+160	PAC_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+160	PAC_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+160	PAC_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2012-12-14	
+160	PAC_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201175	
+160	PAC_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+161	CAGED_2012_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+161	CAGED_2012_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+161	CAGED_2012_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2012-09	
+161	CAGED_2012_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-02-14	
+161	CAGED_2012_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201125	
+161	CAGED_2012_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+162	SIMCAD_2011	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+162	SIMCAD_2011	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+162	SIMCAD_2011	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2011	
+162	SIMCAD_2011	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-04-05	
+162	SIMCAD_2011	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201175	
+162	SIMCAD_2011	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+163	RAIS_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+163	RAIS_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+163	RAIS_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+163	RAIS_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+163	RAIS_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201250	
+163	RAIS_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+164	DCC_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+164	DCC_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+164	DCC_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+164	DCC_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+164	DCC_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201280	
+164	DCC_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+165	CAGED_2013_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+165	CAGED_2013_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+165	CAGED_2013_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2013-03	
+165	CAGED_2013_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+165	CAGED_2013_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201225	
+165	CAGED_2013_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+166	CAGED_2013_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+166	CAGED_2013_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+166	CAGED_2013_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2013-09	
+166	CAGED_2013_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+166	CAGED_2013_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201225	
+166	CAGED_2013_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+167	PAIC_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+167	PAIC_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+167	PAIC_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+167	PAIC_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+167	PAIC_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201275	
+167	PAIC_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+168	PIA_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+168	PIA_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+168	PIA_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+168	PIA_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+168	PIA_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201275	
+168	PIA_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+169	PAS_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+169	PAS_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+169	PAS_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+169	PAS_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+169	PAS_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201275	
+169	PAS_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+170	PAC_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+170	PAC_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+170	PAC_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+170	PAC_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-19	
+170	PAC_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201275	
+170	PAC_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+171	RAT_IBGE_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+171	RAT_IBGE_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+171	RAT_IBGE_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+171	RAT_IBGE_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-23	
+171	RAT_IBGE_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201285	
+171	RAT_IBGE_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+172	SIMCAD_2012	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+172	SIMCAD_2012	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+172	SIMCAD_2012	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2012	
+172	SIMCAD_2012	DAT_FONTE_ATU	Data da Fonte de Atualização	^2013-07-23	
+172	SIMCAD_2012	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201275	
+172	SIMCAD_2012	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+173	RAIS_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+173	RAIS_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+173	RAIS_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+173	RAIS_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-22	
+173	RAIS_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201350	
+173	RAIS_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+174	DCC_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+174	DCC_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+174	DCC_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+174	DCC_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-28	
+174	DCC_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201380	
+174	DCC_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+175	RAT_IBGE_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+175	RAT_IBGE_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+175	RAT_IBGE_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+175	RAT_IBGE_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+175	RAT_IBGE_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201385	
+175	RAT_IBGE_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+176	SIMCAD_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+176	SIMCAD_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+176	SIMCAD_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+176	SIMCAD_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+176	SIMCAD_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201375	
+176	SIMCAD_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+177	PAC_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+177	PAC_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+177	PAC_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+177	PAC_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+177	PAC_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201375	
+177	PAC_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+178	PAS_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+178	PAS_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+178	PAS_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+178	PAS_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+178	PAS_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201375	
+178	PAS_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+179	PIA_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+179	PIA_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+179	PIA_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+179	PIA_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+179	PIA_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201375	
+179	PIA_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+180	PAIC_2013	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+180	PAIC_2013	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+180	PAIC_2013	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2013	
+180	PAIC_2013	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-08-29	
+180	PAIC_2013	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201375	
+180	PAIC_2013	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+181	CAGED_2014_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+181	CAGED_2014_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+181	CAGED_2014_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2014-03	
+181	CAGED_2014_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-11-25	
+181	CAGED_2014_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201325	
+181	CAGED_2014_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+182	CAGED_2014_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+182	CAGED_2014_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+182	CAGED_2014_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2014-09	
+182	CAGED_2014_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2014-11-25	
+182	CAGED_2014_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201325	
+182	CAGED_2014_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+183	RAIS_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+183	RAIS_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+183	RAIS_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+183	RAIS_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-08-21	
+183	RAIS_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201450	
+183	RAIS_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+184	DCC_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+184	DCC_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+184	DCC_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+184	DCC_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-08-24	
+184	DCC_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201480	
+184	DCC_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+185	RAT_IBGE_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+185	RAT_IBGE_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+185	RAT_IBGE_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+185	RAT_IBGE_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-08-24	
+185	RAT_IBGE_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201485	
+185	RAT_IBGE_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+186	PIA_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+186	PIA_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+186	PIA_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+186	PIA_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-09-17	
+186	PIA_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201475	
+186	PIA_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+187	PAS_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+187	PAS_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+187	PAS_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+187	PAS_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-09-17	
+187	PAS_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201475	
+187	PAS_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+188	PAC_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+188	PAC_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+188	PAC_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+188	PAC_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-09-17	
+188	PAC_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201475	
+188	PAC_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+189	PAIC_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+189	PAIC_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+189	PAIC_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+189	PAIC_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-09-17	
+189	PAIC_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201475	
+189	PAIC_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+190	SIMCAD_2014	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+190	SIMCAD_2014	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+190	SIMCAD_2014	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2014	
+190	SIMCAD_2014	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-10-19	
+190	SIMCAD_2014	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201475	
+190	SIMCAD_2014	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+191	CAGED_2015_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+191	CAGED_2015_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+191	CAGED_2015_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2015-03	
+191	CAGED_2015_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-11-09	
+191	CAGED_2015_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201425	
+191	CAGED_2015_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+192	CAGED_2015_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+192	CAGED_2015_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+192	CAGED_2015_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2015-09	
+192	CAGED_2015_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2015-11-09	
+192	CAGED_2015_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201425	
+192	CAGED_2015_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+193	RAIS_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+193	RAIS_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+193	RAIS_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+193	RAIS_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-26	
+193	RAIS_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201550	
+193	RAIS_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+194	RAT_IBGE_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+194	RAT_IBGE_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+194	RAT_IBGE_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+194	RAT_IBGE_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-28	
+194	RAT_IBGE_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201585	
+194	RAT_IBGE_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+195	DCC_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+195	DCC_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+195	DCC_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+195	DCC_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-29	
+195	DCC_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201580	
+195	DCC_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+196	PIA_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+196	PIA_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+196	PIA_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+196	PIA_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-29	
+196	PIA_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201575	
+196	PIA_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+197	PAS_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+197	PAS_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+197	PAS_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+197	PAS_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-29	
+197	PAS_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201575	
+197	PAS_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+198	PAIC_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+198	PAIC_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+198	PAIC_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+198	PAIC_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-07-29	
+198	PAIC_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201575	
+198	PAIC_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+199	PAC_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+199	PAC_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+199	PAC_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+199	PAC_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-08-03	
+199	PAC_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201575	
+199	PAC_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+200	SIMCAD_2015	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+200	SIMCAD_2015	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+200	SIMCAD_2015	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2015	
+200	SIMCAD_2015	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-11-03	
+200	SIMCAD_2015	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201575	
+200	SIMCAD_2015	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+201	CAGED_2016_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+201	CAGED_2016_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+201	CAGED_2016_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2016-03	
+201	CAGED_2016_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-11-29	
+201	CAGED_2016_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201525	
+201	CAGED_2016_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+202	CAGED_2016_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+202	CAGED_2016_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+202	CAGED_2016_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2016-09	
+202	CAGED_2016_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2016-11-29	
+202	CAGED_2016_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201525	
+202	CAGED_2016_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+203	RAIS_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+203	RAIS_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+203	RAIS_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+203	RAIS_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+203	RAIS_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201650	
+203	RAIS_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+204	DCC_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+204	DCC_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+204	DCC_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+204	DCC_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+204	DCC_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201680	
+204	DCC_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+205	PIA_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+205	PIA_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+205	PIA_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+205	PIA_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+205	PIA_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+205	PIA_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+206	PAS_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+206	PAS_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+206	PAS_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+206	PAS_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+206	PAS_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+206	PAS_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+207	PAC_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+207	PAC_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+207	PAC_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+207	PAC_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+207	PAC_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+207	PAC_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+208	PAIC_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+208	PAIC_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+208	PAIC_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+208	PAIC_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+208	PAIC_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+208	PAIC_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+209	SIMCAD_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+209	SIMCAD_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+209	SIMCAD_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+209	SIMCAD_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-08	
+209	SIMCAD_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+209	SIMCAD_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+210	RAT_IBGE_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+210	RAT_IBGE_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+210	RAT_IBGE_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+210	RAT_IBGE_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-09-14	
+210	RAT_IBGE_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201685	
+210	RAT_IBGE_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+211	CAGED_2017_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+211	CAGED_2017_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+211	CAGED_2017_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2017-03	
+211	CAGED_2017_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-12-08	
+211	CAGED_2017_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201625	
+211	CAGED_2017_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+212	CAGED_2017_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+212	CAGED_2017_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+212	CAGED_2017_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2017-09	
+212	CAGED_2017_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2017-12-08	
+212	CAGED_2017_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201625	
+212	CAGED_2017_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+213	RAIS_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+213	RAIS_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+213	RAIS_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+213	RAIS_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-06-27	
+213	RAIS_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201750	
+213	RAIS_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+214	FASFIL_INI_2016	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FASFIL_INI	
+214	FASFIL_INI_2016	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA FASFIL	
+214	FASFIL_INI_2016	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2016	
+214	FASFIL_INI_2016	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-09-24	
+214	FASFIL_INI_2016	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201675	
+214	FASFIL_INI_2016	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+215	RAT_IBGE_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+215	RAT_IBGE_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+215	RAT_IBGE_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+215	RAT_IBGE_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+215	RAT_IBGE_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201785	
+215	RAT_IBGE_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+216	PAC_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+216	PAC_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+216	PAC_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+216	PAC_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+216	PAC_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201775	
+216	PAC_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+217	PAS_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+217	PAS_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+217	PAS_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+217	PAS_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+217	PAS_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201775	
+217	PAS_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+218	PIA_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+218	PIA_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+218	PIA_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+218	PIA_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+218	PIA_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201775	
+218	PIA_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+219	PAIC_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+219	PAIC_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+219	PAIC_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+219	PAIC_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+219	PAIC_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201775	
+219	PAIC_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+220	DCC_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+220	DCC_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+220	DCC_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+220	DCC_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-10-03	
+220	DCC_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201780	
+220	DCC_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+221	SIMCAD_2017	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+221	SIMCAD_2017	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+221	SIMCAD_2017	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2017	
+221	SIMCAD_2017	DAT_FONTE_ATU	Data da Fonte de Atualização	^2018-11-16	
+221	SIMCAD_2017	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201775	
+221	SIMCAD_2017	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+222	CAGED_2018_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+222	CAGED_2018_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+222	CAGED_2018_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2018-03	
+222	CAGED_2018_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-01-30	
+222	CAGED_2018_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201725	
+222	CAGED_2018_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+223	CAGED_2018_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+223	CAGED_2018_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+223	CAGED_2018_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2018-09	
+223	CAGED_2018_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-02-13	
+223	CAGED_2018_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201725	
+223	CAGED_2018_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+224	RAIS_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+224	RAIS_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+224	RAIS_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+224	RAIS_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+224	RAIS_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201850	
+224	RAIS_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+225	RAT_IBGE_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+225	RAT_IBGE_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+225	RAT_IBGE_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+225	RAT_IBGE_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+225	RAT_IBGE_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201885	
+225	RAT_IBGE_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+226	PAC_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+226	PAC_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+226	PAC_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+226	PAC_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+226	PAC_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201875	
+226	PAC_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+227	PAS_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+227	PAS_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+227	PAS_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+227	PAS_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+227	PAS_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201875	
+227	PAS_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+228	PIA_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+228	PIA_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+228	PIA_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+228	PIA_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+228	PIA_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201875	
+228	PIA_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+229	PAIC_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+229	PAIC_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+229	PAIC_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+229	PAIC_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+229	PAIC_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201875	
+229	PAIC_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+230	SIMCAD_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+230	SIMCAD_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+230	SIMCAD_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+230	SIMCAD_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+230	SIMCAD_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201875	
+230	SIMCAD_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+231	DCC_2018	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+231	DCC_2018	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+231	DCC_2018	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2018	
+231	DCC_2018	DAT_FONTE_ATU	Data da Fonte de Atualização	^2019-10-03	
+231	DCC_2018	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201880	
+231	DCC_2018	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+232	CAGED_2019_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+232	CAGED_2019_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+232	CAGED_2019_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2019-03	
+232	CAGED_2019_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-01-29	
+232	CAGED_2019_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201825	
+232	CAGED_2019_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+233	RAIS_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+233	RAIS_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+233	RAIS_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+233	RAIS_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+233	RAIS_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201950	
+233	RAIS_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+234	RAT_IBGE_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+234	RAT_IBGE_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+234	RAT_IBGE_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+234	RAT_IBGE_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+234	RAT_IBGE_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201985	
+234	RAT_IBGE_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+235	PAC_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+235	PAC_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+235	PAC_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+235	PAC_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+235	PAC_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+235	PAC_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+236	PAS_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+236	PAS_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+236	PAS_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+236	PAS_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+236	PAS_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+236	PAS_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+237	PIA_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+237	PIA_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+237	PIA_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+237	PIA_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+237	PIA_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+237	PIA_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+238	PAIC_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+238	PAIC_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+238	PAIC_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+238	PAIC_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+238	PAIC_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+238	PAIC_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+239	SIMCAD_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+239	SIMCAD_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+239	SIMCAD_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+239	SIMCAD_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+239	SIMCAD_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+239	SIMCAD_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+240	DCC_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+240	DCC_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+240	DCC_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+240	DCC_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-14	
+240	DCC_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201980	
+240	DCC_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+241	FASFIL_INI_2019	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FASFIL_INI	
+241	FASFIL_INI_2019	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA FASFIL	
+241	FASFIL_INI_2019	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2019	
+241	FASFIL_INI_2019	DAT_FONTE_ATU	Data da Fonte de Atualização	^2020-10-06	
+241	FASFIL_INI_2019	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201975	
+241	FASFIL_INI_2019	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+242	CAGED_2020_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+242	CAGED_2020_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+242	CAGED_2020_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2020-03	
+242	CAGED_2020_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-02-08	
+242	CAGED_2020_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201925	
+242	CAGED_2020_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+243	CAGED_2020_09	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+243	CAGED_2020_09	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+243	CAGED_2020_09	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2020-09	
+243	CAGED_2020_09	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-04-30	
+243	CAGED_2020_09	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	201925	
+243	CAGED_2020_09	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+244	RAIS_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+244	RAIS_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+244	RAIS_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+244	RAIS_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+244	RAIS_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202050	
+244	RAIS_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+245	RAT_IBGE_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+245	RAT_IBGE_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+245	RAT_IBGE_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+245	RAT_IBGE_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+245	RAT_IBGE_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202085	
+245	RAT_IBGE_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+246	PAC_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+246	PAC_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+246	PAC_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+246	PAC_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+246	PAC_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+246	PAC_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+247	PAS_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+247	PAS_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+247	PAS_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+247	PAS_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+247	PAS_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+247	PAS_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+248	PIA_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+248	PIA_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+248	PIA_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+248	PIA_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+248	PIA_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+248	PIA_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+249	PAIC_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+249	PAIC_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+249	PAIC_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+249	PAIC_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+249	PAIC_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+249	PAIC_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+250	SIMCAD_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+250	SIMCAD_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+250	SIMCAD_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+250	SIMCAD_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+250	SIMCAD_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+250	SIMCAD_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+251	DCC_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+251	DCC_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+251	DCC_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+251	DCC_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-08-30	
+251	DCC_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202080	
+251	DCC_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+252	FASFIL_INI_2020	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FASFIL_INI	
+252	FASFIL_INI_2020	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA FASFIL	
+252	FASFIL_INI_2020	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2020	
+252	FASFIL_INI_2020	DAT_FONTE_ATU	Data da Fonte de Atualização	^2021-11-29	
+252	FASFIL_INI_2020	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202075	
+252	FASFIL_INI_2020	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+253	CAGED_2021_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+253	CAGED_2021_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+253	CAGED_2021_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2021-03	
+253	CAGED_2021_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-01-31	
+253	CAGED_2021_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202025	
+253	CAGED_2021_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+254	RAIS_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAIS	
+254	RAIS_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS	
+254	RAIS_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+254	RAIS_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+254	RAIS_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202150	
+254	RAIS_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
+255	RAT_IBGE_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	RAT_IBGE	
+255	RAT_IBGE_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	RELACAO ANUAL DE INFORMAÇÕES SOCIAIS(EMPREGADO)	
+255	RAT_IBGE_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+255	RAT_IBGE_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+255	RAT_IBGE_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202185	
+255	RAT_IBGE_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	S	Outros
+256	PAC_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAC	
+256	PAC_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE COMÉRCIO	
+256	PAC_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+256	PAC_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+256	PAC_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+256	PAC_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+257	PAS_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAS	
+257	PAS_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DE SERVIÇOS	
+257	PAS_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+257	PAS_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+257	PAS_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+257	PAS_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+258	PIA_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PIA	
+258	PIA_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA INDUSTRIAL ANUAL	
+258	PIA_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+258	PIA_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+258	PIA_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+258	PIA_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+259	PAIC_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	PAIC	
+259	PAIC_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA ANUAL DA INDÚSTRIA DA CONSTRUÇÃO	
+259	PAIC_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+259	PAIC_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+259	PAIC_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+259	PAIC_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+260	SIMCAD_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	SIMCAD	
+260	SIMCAD_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	SISTEMA DE MANUTENÇÃO CADASTRAL	
+260	SIMCAD_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+260	SIMCAD_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+260	SIMCAD_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+260	SIMCAD_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+261	DCC_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	DCC	
+261	DCC_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	GERÊNCIA DO CADASTRO CENTRAL DE EMPRESAS	
+261	DCC_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+261	DCC_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-09-30	
+261	DCC_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202180	
+261	DCC_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+262	FASFIL_INI_2021	SGL_FONTE_ATU	Sigla da Fonte de Atualização	FASFIL_INI	
+262	FASFIL_INI_2021	DSC_FONTE_ATU	Descrição da Fonte de Atualização	PESQUISA FASFIL	
+262	FASFIL_INI_2021	ANO_BASE_FONTE_ATU	Ano Base da Fonte de Atualização	^2021	
+262	FASFIL_INI_2021	DAT_FONTE_ATU	Data da Fonte de Atualização	^2022-10-20	
+262	FASFIL_INI_2021	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202175	
+262	FASFIL_INI_2021	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	I	IBGE
+263	CAGED_2022_03	SGL_FONTE_ATU	Sigla da Fonte de Atualização	CAGED	
+263	CAGED_2022_03	DSC_FONTE_ATU	Descrição da Fonte de Atualização	CADASTRO GERAL DE EMPREGADOS	
+263	CAGED_2022_03	ANO_MES_BASE_FONTE_ATU	Ano/Mês Base da Fonte de Atualização	^2022-03	
+263	CAGED_2022_03	DAT_FONTE_ATU	Data da Fonte de Atualização	^2023-02-01	
+263	CAGED_2022_03	VAL_PRIORIDADE	Valor da Prioridade da Fonte de Atualização - Regra de Decisão 	202125	
+263	CAGED_2022_03	COD_TIPO_FONTE	Código do Tipo da Fonte de Atualização	R	Registro Administrativo
