@@ -1,0 +1,295 @@
+id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
+Q96-P2936-Q31157882-60552e6b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q31157882	'Acatepec Me\'phaa'@en	wikibase-item								
+Q96-P2936-Q27867-cb1b5ca4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q27867	'Afro-Seminole Creole'@en	wikibase-item								
+Q96-P2936-Q34923-97b44a34-0	Q96	'Mexico'@en	P2936	'language used'@en	Q34923	'Akateko'@en	wikibase-item								
+Q96-P2936-Q14697894-9b0cf2ad-0	Q96	'Mexico'@en	P2936	'language used'@en	Q14697894	'Alacatlatzala Mixtec'@en	wikibase-item								
+Q96-P2936-Q4709425-a489b591-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4709425	'Albarradas Zapotec'@en	wikibase-item								
+Q96-P2936-Q25559587-b2c4daf5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559587	'Alcozauca Mixtec'@en	wikibase-item								
+Q96-P2936-Q4734726-829e086a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4734726	'Aloápam Zapotec'@en	wikibase-item								
+Q96-P2936-Q4740613-058306bd-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4740613	'Amatlán Zapotec'@en	wikibase-item								
+Q96-P2936-Q13583504-79bab3f7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13583504	'Amoltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q13583505-a594d11c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13583505	'Apasco-Apoala Mixtec'@en	wikibase-item								
+Q96-P2936-Q4811888-328f1fa4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4811888	'Asunción Mixtepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q32093046-bd811993-0	Q96	'Mexico'@en	P2936	'language used'@en	Q32093046	'Atatláhuca Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953721-a1112be2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953721	'Atatláhuca–San Miguel Mixtec'@en	wikibase-item								
+Q96-P2936-Q323325-227dd1a2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q323325	'Ayapa Zoque'@en	wikibase-item								
+Q96-P2936-Q14916912-17f1274f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q14916912	'Ayautla Mazatec'@en	wikibase-item								
+Q96-P2936-Q4831570-a06b456b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4831570	'Ayoquesco Zapotec'@en	wikibase-item								
+Q96-P2936-Q13583508-34921f03-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13583508	'Ayutla Mixtec'@en	wikibase-item								
+Q96-P2936-Q25559730-d54532b5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559730	'Azoyú Me\'phaa'@en	wikibase-item								
+Q96-P2936-Q12953723-76aca524-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953723	'Cacaloxtepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q5017997-c43ac57a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5017997	'Cajonos Zapotec'@en	wikibase-item								
+Q96-P2936-Q2194290-1bd05850-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2194290	'Central Huasteca Nahuatl'@en	wikibase-item								
+Q96-P2936-Q6047309-5173dbaf-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6047309	'Central Nahuatl'@en	wikibase-item								
+Q96-P2936-Q3361763-2fe1a359-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3361763	'Central Pame'@en	wikibase-item								
+Q96-P2936-Q5061727-a9ea56eb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5061727	'Central Puebla Nahuatl'@en	wikibase-item								
+Q96-P2936-Q20090009-774c0745-0	Q96	'Mexico'@en	P2936	'language used'@en	Q20090009	'Central Tarahumara'@en	wikibase-item								
+Q96-P2936-Q13583510-81d567a9-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13583510	'Chayuco-Jamiltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q12182838-04d704fe-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12182838	'Chazumba Mixtec'@en	wikibase-item								
+Q96-P2936-Q3364475-95ffab39-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3364475	'Chiapanec'@en	wikibase-item								
+Q96-P2936-Q3539587-bc930aa3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3539587	'Chicahuaxtla Triqui'@en	wikibase-item								
+Q96-P2936-Q5096050-75db8073-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5096050	'Chichicapan Zapotec'@en	wikibase-item								
+Q96-P2936-Q3915427-8dd04241-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3915427	'Chichimeca Jonaz'@en	wikibase-item								
+Q96-P2936-Q3307204-edc9d350-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3307204	'Chicomuceltec'@en	wikibase-item								
+Q96-P2936-Q12953724-629c77a2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953724	'Chigmecatitlán Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953435-ea3c397f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953435	'Chiltepec Chinantec'@en	wikibase-item								
+Q96-P2936-Q5099289-54bc20ba-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5099289	'Chimalapa Zoque'@en	wikibase-item								
+Q96-P2936-Q5100110-defe7410-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5100110	'Chinantec of Ojitlán'@en	wikibase-item								
+Q96-P2936-Q5100111-89be2e2a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5100111	'Chinantec of Ozumacín'@en	wikibase-item								
+Q96-P2936-Q5100112-f299b3e0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5100112	'Chinantec of Palantla'@en	wikibase-item								
+Q96-P2936-Q5100113-84c65381-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5100113	'Chinantec of Tepetotutla'@en	wikibase-item								
+Q96-P2936-Q5101757-0f8f2f63-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5101757	'Chiquihuitlán Mazatec'@en	wikibase-item								
+Q96-P2936-Q5103425-37f683ab-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5103425	'Choapan Zapotec'@en	wikibase-item								
+Q96-P2936-Q2964262-fb9ab096-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2964262	'Chocho'@en	wikibase-item								
+Q96-P2936-Q35175-4cbef1d2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35175	'Chontal Maya'@en	wikibase-item								
+Q96-P2936-Q35233-2945ac21-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35233	'Chuj'@en	wikibase-item								
+Q96-P2936-Q35179-2ed6e90c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35179	'Ch’ol'@en	wikibase-item								
+Q96-P2936-Q5138603-6598a6e8-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5138603	'Coatecas Altas Zapotec'@en	wikibase-item								
+Q96-P2936-Q5138605-a263df65-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5138605	'Coatepec Nahuatl'@en	wikibase-item								
+Q96-P2936-Q25559716-5fc2d117-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559716	'Coatlán Mixe'@en	wikibase-item								
+Q96-P2936-Q3317290-65eab5fb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3317290	'Coatzospan Mixtec'@en	wikibase-item								
+Q96-P2936-Q3915551-b01c0e27-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3915551	'Cochimí'@en	wikibase-item								
+Q96-P2936-Q33044-5d8933b8-0	Q96	'Mexico'@en	P2936	'language used'@en	Q33044	'Cocopah'@en	wikibase-item								
+Q96-P2936-Q2963735-a117ca81-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2963735	'Comaltepec Chinantec'@en	wikibase-item								
+Q96-P2936-Q12954017-aa205786-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12954017	'Copainalá Zoque'@en	wikibase-item								
+Q96-P2936-Q12953935-1f236241-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953935	'Copala Triqui'@en	wikibase-item								
+Q96-P2936-Q5180100-0a3d6489-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5180100	'Coyotepec Popoloca'@en	wikibase-item								
+Q96-P2936-Q15615591-450ce214-0	Q96	'Mexico'@en	P2936	'language used'@en	Q15615591	'Coyutla Totonac'@en	wikibase-item								
+Q96-P2936-Q12953726-abd843cd-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953726	'Cuyamecalco Mixtec'@en	wikibase-item								
+Q96-P2936-Q16115449-d47fc1ae-0	Q96	'Mexico'@en	P2936	'language used'@en	Q16115449	'Eastern Durango Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12642078-dd3df301-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12642078	'Eastern Highland Chatino'@en	wikibase-item								
+Q96-P2936-Q4358289-c141aea7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4358289	'Eastern Huasteca Nahuatl'@en	wikibase-item								
+Q96-P2936-Q5350733-52727bcc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5350733	'El Alto Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953454-b7502310-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953454	'El Nayar Cora'@en	wikibase-item								
+Q96-P2936-Q5367223-77847a03-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5367223	'Elotepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q1860-469c20de-0	Q96	'Mexico'@en	P2936	'language used'@en	Q1860	'English'@en	wikibase-item								
+Q96-P2936-Q5449202-d929c945-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5449202	'Filomeno Mata Totonac'@en	wikibase-item								
+Q96-P2936-Q12954011-a4b60448-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12954011	'Francisco León Zoque'@en	wikibase-item								
+Q96-P2936-Q5614751-e9830d15-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5614751	'Guelavía Zapotec'@en	wikibase-item								
+Q96-P2936-Q3501942-948f1c70-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3501942	'Guerrero Amuzgo'@en	wikibase-item								
+Q96-P2936-Q5614980-728d26b9-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5614980	'Guerrero Nahuatl'@en	wikibase-item								
+Q96-P2936-Q13459953-f6fb9116-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13459953	'Guevea Zapotec'@en	wikibase-item								
+Q96-P2936-Q5626813-53fa7307-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5626813	'Güilá Zapotec'@en	wikibase-item								
+Q96-P2936-Q5758709-8f9e6a0e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5758709	'Highland Chinantec'@en	wikibase-item								
+Q96-P2936-Q2964457-38da4c7e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2964457	'Highland Oaxaca Chontal'@en	wikibase-item								
+Q96-P2936-Q12953754-a9052569-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953754	'Highland Puebla Nahuatl'@en	wikibase-item								
+Q96-P2936-Q2964450-0a835c2e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2964450	'Huamelula'@en	wikibase-item								
+Q96-P2936-Q10974017-3b8f155a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q10974017	'Huarijio'@en	wikibase-item								
+Q96-P2936-Q63278779-a037c06b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q63278779	'Huautla Mazatec'@en	wikibase-item								
+Q96-P2936-Q2454915-47ecd2b2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2454915	'Huaxcaleca Nahuatl'@en	wikibase-item								
+Q96-P2936-Q56455-26ea003f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56455	'Huehuetla Tepehua'@en	wikibase-item								
+Q96-P2936-Q12953729-da4c842d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953729	'Huitepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q12633013-56cac3b0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12633013	'Ipalapa Amuzgo'@en	wikibase-item								
+Q96-P2936-Q6088873-cec80486-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6088873	'Isthmus Mixe'@en	wikibase-item								
+Q96-P2936-Q56728-e70a912b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56728	'Isthmus Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953757-2679974d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953757	'Isthmus-Cosoleacaque Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12953756-1fab5ef3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953756	'Isthmus-Mecayapan Nahuatl'@en	wikibase-item								
+Q96-P2936-Q2391273-3525b469-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2391273	'Isthmus-Pajapan Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12953727-717ec868-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953727	'Itundujia Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953934-aa01e9ef-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953934	'Itunyoso Triqui'@en	wikibase-item								
+Q96-P2936-Q56706-de9c1516-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56706	'Ixcatec'@en	wikibase-item								
+Q96-P2936-Q6101049-8bb3f1ec-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6101049	'Ixcatlán Mazatec'@en	wikibase-item								
+Q96-P2936-Q6101163-69713e82-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6101163	'Ixtayutla Mixtec'@en	wikibase-item								
+Q96-P2936-Q6101171-0aa84f23-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6101171	'Ixtenco Otomi'@en	wikibase-item								
+Q96-P2936-Q33393-a3ec4434-0	Q96	'Mexico'@en	P2936	'language used'@en	Q33393	'Jakaltek'@en	wikibase-item								
+Q96-P2936-Q3915999-068c876b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3915999	'Jalapa Mazatec'@en	wikibase-item								
+Q96-P2936-Q12953730-d5ed2ff1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953730	'Jamiltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q25559721-806365bb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559721	'Juquila Mixe'@en	wikibase-item								
+Q96-P2936-Q25559582-01072f42-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559582	'Juxtlahuaca Mixtec'@en	wikibase-item								
+Q96-P2936-Q20162127-cc44ef51-0	Q96	'Mexico'@en	P2936	'language used'@en	Q20162127	'Kickapoo'@en	wikibase-item								
+Q96-P2936-Q3182593-33885ac5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3182593	'Kiliwa'@en	wikibase-item								
+Q96-P2936-Q35766-313991a4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35766	'Lacandon'@en	wikibase-item								
+Q96-P2936-Q6468403-0160b4b0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6468403	'Lachiguiri Zapotec'@en	wikibase-item								
+Q96-P2936-Q6468420-643fd798-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6468420	'Lachixío Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953437-149f4dd7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953437	'Lalana Chinantec'@en	wikibase-item								
+Q96-P2936-Q6488084-bd3b6094-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6488084	'Lapaguía Zapotec'@en	wikibase-item								
+Q96-P2936-Q6509365-f01c579d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6509365	'Lealao Chinantec'@en	wikibase-item								
+Q96-P2936-Q15616384-5dffe4a7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q15616384	'Lowland Tarahumara'@en	wikibase-item								
+Q96-P2936-Q6694268-8c904088-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6694268	'Loxicha Zapotec'@en	wikibase-item								
+Q96-P2936-Q25559732-01ba9b46-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559732	'Malinaltepec Me\'phaa'@en	wikibase-item								
+Q96-P2936-Q33467-101d29af-0	Q96	'Mexico'@en	P2936	'language used'@en	Q33467	'Mam'@en	wikibase-item								
+Q96-P2936-Q34281-9d63cbfc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q34281	'Mayan Sign Language'@en	wikibase-item								
+Q96-P2936-Q56729-470137cd-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56729	'Mayo'@en	wikibase-item								
+Q96-P2936-Q36228-a7de70d2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36228	'Mazahua'@en	wikibase-item								
+Q96-P2936-Q6798223-a915aa64-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6798223	'Mazaltepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q36230-b0705959-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36230	'Mazatecan'@en	wikibase-item								
+Q96-P2936-Q12953706-323559ca-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953706	'Mazatlán Mazatec'@en	wikibase-item								
+Q96-P2936-Q25559728-3ba03027-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559728	'Mazatlán Mixe'@en	wikibase-item								
+Q96-P2936-Q53482453-370b9793-0	Q96	'Mexico'@en	P2936	'language used'@en	Q53482453	'Metlatónoc Mixtec'@en	wikibase-item								
+Q96-P2936-Q3915511-568423e2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3915511	'Mexican Sign Language'@en	wikibase-item								
+Q96-P2936-Q42365630-597072b3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q42365630	'Mezontla Popoloca'@en	wikibase-item								
+Q96-P2936-Q23755711-ce840eb5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q23755711	'Mezquital Otomi'@en	wikibase-item								
+Q96-P2936-Q13541830-0df8f380-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13541830	'Miahuatlán Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953705-f1732e02-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953705	'Michoacán Mazahua'@en	wikibase-item								
+Q96-P2936-Q2896217-74e149f6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2896217	'Michoacán Nahuatl'@en	wikibase-item								
+Q96-P2936-Q56460-49cc438f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56460	'Misantla Totonac'@en	wikibase-item								
+Q96-P2936-Q3053288-17b5d112-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3053288	'Mitla Zapotec'@en	wikibase-item								
+Q96-P2936-Q6881813-ea5cbf81-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6881813	'Mitlatongo-Yutanduchi Mixtec'@en	wikibase-item								
+Q96-P2936-Q6884125-001b4be0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6884125	'Mixtepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q7414598-e5822bc3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7414598	'Mixtepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q1941682-83c5f87e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q1941682	'Mocho’'@en	wikibase-item								
+Q96-P2936-Q4800819-cbf2ec2e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4800819	'Morelos Nahuatl'@en	wikibase-item								
+Q96-P2936-Q15616302-ee0a5a47-0	Q96	'Mexico'@en	P2936	'language used'@en	Q15616302	'Nopala Chatino'@en	wikibase-item								
+Q96-P2936-Q25559729-8fc74f86-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559729	'North Central Mixe'@en	wikibase-item								
+Q96-P2936-Q2011413-49f675ed-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2011413	'Northern Oaxaca Nahuatl'@en	wikibase-item								
+Q96-P2936-Q3361762-7b139ea7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3361762	'Northern Pame'@en	wikibase-item								
+Q96-P2936-Q2262283-48c53ac4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2262283	'Northern Puebla Nahuatl'@en	wikibase-item								
+Q96-P2936-Q15616395-6f08287a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q15616395	'Northern Tarahumara'@en	wikibase-item								
+Q96-P2936-Q15615651-0f831dca-0	Q96	'Mexico'@en	P2936	'language used'@en	Q15615651	'Northern Tepehuan'@en	wikibase-item								
+Q96-P2936-Q25559585-8a1ce236-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559585	'Northern Tlaxiaco Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953739-d9782228-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953739	'Northwest Oaxaca Mixtec'@en	wikibase-item								
+Q96-P2936-Q7070684-8c8bb00c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7070684	'Nuxaá Mixtec'@en	wikibase-item								
+Q96-P2936-Q7070686-9be91557-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7070686	'Nuyoo Mixtec'@en	wikibase-item								
+Q96-P2936-Q2393095-1affcc25-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2393095	'O\'odham'@en	wikibase-item								
+Q96-P2936-Q25559575-14ba39a4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559575	'Ocotepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q7076643-6cb7eb1e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7076643	'Ocotlán Zapotec'@en	wikibase-item								
+Q96-P2936-Q5908687-9a349bbe-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5908687	'Oluta Popoluca'@en	wikibase-item								
+Q96-P2936-Q2579500-2ec7b7d8-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2579500	'Ometepec Náhuatl'@en	wikibase-item								
+Q96-P2936-Q2304583-c05ce1d3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2304583	'Opata'@en	wikibase-item								
+Q96-P2936-Q3086050-275c2361-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3086050	'Orizaba Nahuatl'@en	wikibase-item								
+Q96-P2936-Q7116610-f92e39f4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7116610	'Ozolotepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q7116691-7771decc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7116691	'Ozumatlán Totonac'@en	wikibase-item								
+Q96-P2936-Q56726-bf331366-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56726	'Paipai'@en	wikibase-item								
+Q96-P2936-Q56329-3972d1c6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56329	'Papantla Totonac'@en	wikibase-item								
+Q96-P2936-Q7171675-7394b178-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7171675	'Petapa Zapotec'@en	wikibase-item								
+Q96-P2936-Q7179700-5f425b64-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7179700	'Peñasco Mixtec'@en	wikibase-item								
+Q96-P2936-Q42411307-2e2472c7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q42411307	'Peñoles Mixtec'@en	wikibase-item								
+Q96-P2936-Q3388544-d40cd00d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3388544	'Pima Bajo'@en	wikibase-item								
+Q96-P2936-Q7196415-75f67fcc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7196415	'Pinotepa Mixtec'@en	wikibase-item								
+Q96-P2936-Q56349-44fe53e1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56349	'Pisaflores Tepehua'@en	wikibase-item								
+Q96-P2936-Q36803-d92dacfc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36803	'Purépecha'@en	wikibase-item								
+Q96-P2936-Q23755688-77572a79-0	Q96	'Mexico'@en	P2936	'language used'@en	Q23755688	'Querétaro Otomi'@en	wikibase-item								
+Q96-P2936-Q56199161-fa53c5fe-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56199161	'Quetzaltepec Mixe'@en	wikibase-item								
+Q96-P2936-Q7271640-12c5d14b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7271640	'Quiatoni Zapotec'@en	wikibase-item								
+Q96-P2936-Q7271642-d4275472-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7271642	'Quiavicuzas Zapotec'@en	wikibase-item								
+Q96-P2936-Q7271823-e50669f9-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7271823	'Quiegolani Zapotec'@en	wikibase-item								
+Q96-P2936-Q3574818-c68aad4a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3574818	'Quioquitani Zapotec'@en	wikibase-item								
+Q96-P2936-Q12954015-24c78fa1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12954015	'Rayón Zoque'@en	wikibase-item								
+Q96-P2936-Q7334628-987cae8e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7334628	'Rincón Zapotec'@en	wikibase-item								
+Q96-P2936-Q7413220-78a3ca7f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7413220	'San Agustín Mixtepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q7413390-3cae2c8e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7413390	'San Baltazar Loxicha Zapotec'@en	wikibase-item								
+Q96-P2936-Q7413392-273f4321-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7413392	'San Bartolo Yautepec Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953568-6b5613d1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953568	'San Dionisio del Mar Huave'@en	wikibase-item								
+Q96-P2936-Q25559598-b51a5828-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559598	'San Felipe Otlaltepec Popoloca'@en	wikibase-item								
+Q96-P2936-Q7413841-cb347316-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7413841	'San Felipe Otomi'@en	wikibase-item								
+Q96-P2936-Q12953704-8eaca497-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953704	'San Francisco Matlatzinca'@en	wikibase-item								
+Q96-P2936-Q25559715-a12613cb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559715	'San Francisco del Mar Huave'@en	wikibase-item								
+Q96-P2936-Q12953819-83437966-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953819	'San Juan Atzingo Popoloca'@en	wikibase-item								
+Q96-P2936-Q12953718-47f41770-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953718	'San Juan Colorado Mixtec'@en	wikibase-item								
+Q96-P2936-Q32093049-ee502955-0	Q96	'Mexico'@en	P2936	'language used'@en	Q32093049	'San Juan Teita Mixtec'@en	wikibase-item								
+Q96-P2936-Q25559602-fdb52fdf-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559602	'San Luís Temalacayuca Popoloca'@en	wikibase-item								
+Q96-P2936-Q12641692-415d71bc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12641692	'San Marcos Tlacoyalco Popoloca'@en	wikibase-item								
+Q96-P2936-Q12954031-b9df1aea-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12954031	'San Mateo Del Mar Huave'@en	wikibase-item								
+Q96-P2936-Q12953719-ac694176-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953719	'San Miguel El Grande Mixtec'@en	wikibase-item								
+Q96-P2936-Q7414970-844a36d5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7414970	'San Miguel Piedras Mixtec'@en	wikibase-item								
+Q96-P2936-Q60611109-3c10ef3c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q60611109	'San Pedro Amuzgos Amuzgo'@en	wikibase-item								
+Q96-P2936-Q13541831-ee900e1e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13541831	'San Vicente Coatlán Zapotec'@en	wikibase-item								
+Q96-P2936-Q7419277-11b47a7d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7419277	'Santa Catarina Albarradas Zapotec'@en	wikibase-item								
+Q96-P2936-Q42365276-49e2a3fb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q42365276	'Santa Inés Ahuatempan Popoloca'@en	wikibase-item								
+Q96-P2936-Q12953722-000ba5c0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953722	'Santa Lucía Monteverde Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953566-5b2bbfd4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953566	'Santa Maria Del Mar Huave'@en	wikibase-item								
+Q96-P2936-Q1844620-05af81e9-0	Q96	'Mexico'@en	P2936	'language used'@en	Q1844620	'Santa María La Alta Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12641754-0382cabc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12641754	'Santa Teresa Cora'@en	wikibase-item								
+Q96-P2936-Q7420514-2802658c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7420514	'Santo Domingo Coatlán Zapotec'@en	wikibase-item								
+Q96-P2936-Q5908722-34dc84c3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5908722	'Sayula Popoluca'@en	wikibase-item								
+Q96-P2936-Q36583-fc06505d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36583	'Seri'@en	wikibase-item								
+Q96-P2936-Q63284326-f2096f50-0	Q96	'Mexico'@en	P2936	'language used'@en	Q63284326	'Sierra Negra Nahuatl'@en	wikibase-item								
+Q96-P2936-Q13581718-aea02af3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13581718	'Sierra Otomi'@en	wikibase-item								
+Q96-P2936-Q7511556-f6900e8e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7511556	'Sierra Popoluca'@en	wikibase-item								
+Q96-P2936-Q56451-e52efb90-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56451	'Sierra Totonac'@en	wikibase-item								
+Q96-P2936-Q12953989-41b63235-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953989	'Sierra de Juárez Zapotec'@en	wikibase-item								
+Q96-P2936-Q7514027-e7706d5f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7514027	'Silacayoapan Mixtec'@en	wikibase-item								
+Q96-P2936-Q13583581-ffe89f0f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13583581	'Sindihui Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953733-6cc3b254-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953733	'Sinicahua Mixtec'@en	wikibase-item								
+Q96-P2936-Q7550388-af456f05-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7550388	'Sochiapam Chinantec'@en	wikibase-item								
+Q96-P2936-Q4632950-b2ed2d2e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q4632950	'Southeastern Puebla Nahuatl'@en	wikibase-item								
+Q96-P2936-Q57419690-98862d73-0	Q96	'Mexico'@en	P2936	'language used'@en	Q57419690	'Southeastern Tarahumara'@en	wikibase-item								
+Q96-P2936-Q12953917-4e5ddb9e-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953917	'Southeastern Tepehuán'@en	wikibase-item								
+Q96-P2936-Q3361765-6ee6728d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3361765	'Southern Pame'@en	wikibase-item								
+Q96-P2936-Q7570345-7ca32da2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7570345	'Southern Puebla Mixtec'@en	wikibase-item								
+Q96-P2936-Q12954000-4febed74-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12954000	'Southern Rincon Zapotec'@en	wikibase-item								
+Q96-P2936-Q12953909-3cbaa9f7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953909	'Southwestern Tarahumara'@en	wikibase-item								
+Q96-P2936-Q3518245-792d17d7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3518245	'Southwestern Tepehuan'@en	wikibase-item								
+Q96-P2936-Q7572000-247638da-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7572000	'Soyaltepec Mazatec'@en	wikibase-item								
+Q96-P2936-Q7572001-1c2b8750-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7572001	'Soyaltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q1321-5040f6c9-0	Q96	'Mexico'@en	P2936	'language used'@en	Q1321	'Spanish'@en	wikibase-item								
+Q96-P2936-Q7672849-a0eea7b3-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7672849	'Tabaa Zapotec'@en	wikibase-item								
+Q96-P2936-Q6047326-7f94ab61-0	Q96	'Mexico'@en	P2936	'language used'@en	Q6047326	'Tabasco Nahuatl'@en	wikibase-item								
+Q96-P2936-Q7673668-78d71a36-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7673668	'Tacahua Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953734-0d5cc0c6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953734	'Tamazola Mixtec'@en	wikibase-item								
+Q96-P2936-Q7687853-6788f8b2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7687853	'Tataltepec Chatino'@en	wikibase-item								
+Q96-P2936-Q7692795-a555ab32-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7692795	'Tecpatlán Totonac'@en	wikibase-item								
+Q96-P2936-Q7692927-867e316c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7692927	'Tecóatl Mazatec'@en	wikibase-item								
+Q96-P2936-Q35573-8937ffe4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35573	'Teenek'@en	wikibase-item								
+Q96-P2936-Q13510225-189213d6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13510225	'Tejalapan Zapotec'@en	wikibase-item								
+Q96-P2936-Q36686-23de3bc0-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36686	'Tektitek'@en	wikibase-item								
+Q96-P2936-Q2379405-4c41c53b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2379405	'Temascaltepec Nahuatl'@en	wikibase-item								
+Q96-P2936-Q7698191-dc92621f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7698191	'Temoaya Otomi'@en	wikibase-item								
+Q96-P2936-Q25559589-369170c4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559589	'Tenango Otomi'@en	wikibase-item								
+Q96-P2936-Q3915525-f1f9b871-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3915525	'Tepecano'@en	wikibase-item								
+Q96-P2936-Q20527242-c71f4933-0	Q96	'Mexico'@en	P2936	'language used'@en	Q20527242	'Tepeuxila Cuicatec'@en	wikibase-item								
+Q96-P2936-Q12953443-04b055cc-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953443	'Tepinapa Chinantec'@en	wikibase-item								
+Q96-P2936-Q3450252-5db72205-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3450252	'Tetelcingo Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12953453-80b04ae1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953453	'Teutila Cuicatec'@en	wikibase-item								
+Q96-P2936-Q25559590-27ecf8f1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25559590	'Texcatepec Otomi'@en	wikibase-item								
+Q96-P2936-Q5908707-7607271c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q5908707	'Texistepec Popoluca'@en	wikibase-item								
+Q96-P2936-Q7708357-0d1700e1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7708357	'Texmelucan Zapotec'@en	wikibase-item								
+Q96-P2936-Q3317286-e17a439a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3317286	'Tezoatlán Mixtec'@en	wikibase-item								
+Q96-P2936-Q7800805-10f889df-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7800805	'Tidaá Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953738-d26433ad-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953738	'Tijaltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q7802048-17406a05-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7802048	'Tilantongo Mixtec'@en	wikibase-item								
+Q96-P2936-Q7802050-969c4aad-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7802050	'Tilapa Otomi'@en	wikibase-item								
+Q96-P2936-Q7802959-fe265e0c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7802959	'Tilquiapan Zapotec'@en	wikibase-item								
+Q96-P2936-Q3027471-f02a49f6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3027471	'Tipai'@en	wikibase-item								
+Q96-P2936-Q56330-ce526a87-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56330	'Tlachichilco Tepehua'@en	wikibase-item								
+Q96-P2936-Q16115511-fc787709-0	Q96	'Mexico'@en	P2936	'language used'@en	Q16115511	'Tlacoapa Me\'phaa'@en	wikibase-item								
+Q96-P2936-Q12643657-7d7f2056-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12643657	'Tlacoatzintepec Chinantec'@en	wikibase-item								
+Q96-P2936-Q7810685-80df46bd-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7810685	'Tlacolulita Zapotec'@en	wikibase-item								
+Q96-P2936-Q10751739-c85407d6-0	Q96	'Mexico'@en	P2936	'language used'@en	Q10751739	'Tlahuica'@en	wikibase-item								
+Q96-P2936-Q7810697-94928a8f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7810697	'Tlahuitoltepec Mixe'@en	wikibase-item								
+Q96-P2936-Q2073277-876a2a25-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2073277	'Tlamacazapa Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12953740-db360613-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953740	'Tlazoyaltepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q36762-582acffb-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36762	'Tojolab\'al'@en	wikibase-item								
+Q96-P2936-Q7828390-a9fc42d4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7828390	'Totomachapan Zapotec'@en	wikibase-item								
+Q96-P2936-Q7828400-136515a5-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7828400	'Totontepec Mixe'@en	wikibase-item								
+Q96-P2936-Q56730-c744b8e1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56730	'Tubar'@en	wikibase-item								
+Q96-P2936-Q7857069-fb7c302b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7857069	'Tututepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q36808-e34bcc7f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36808	'Tzeltal'@en	wikibase-item								
+Q96-P2936-Q36809-0dc314b4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q36809	'Tzotzil'@en	wikibase-item								
+Q96-P2936-Q56343-fb7e4b45-0	Q96	'Mexico'@en	P2936	'language used'@en	Q56343	'Upper Necaxa Totonac'@en	wikibase-item								
+Q96-P2936-Q7901979-a05e428b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q7901979	'Usila Chinantec'@en	wikibase-item								
+Q96-P2936-Q12953442-53e3d91d-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953442	'Valle Nacional Chinantec'@en	wikibase-item								
+Q96-P2936-Q12645553-c58f729c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12645553	'Western Durango Nahuatl'@en	wikibase-item								
+Q96-P2936-Q32861734-46ef0245-0	Q96	'Mexico'@en	P2936	'language used'@en	Q32861734	'Western Highland Chatino'@en	wikibase-item								
+Q96-P2936-Q16114351-57e93f43-0	Q96	'Mexico'@en	P2936	'language used'@en	Q16114351	'Western Highland Purepecha'@en	wikibase-item								
+Q96-P2936-Q2678840-0f9a5760-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2678840	'Western Huasteca Nahuatl'@en	wikibase-item								
+Q96-P2936-Q12953731-e12a3554-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953731	'Western Juxtlahuaca Mixtec'@en	wikibase-item								
+Q96-P2936-Q35575-6b526e1c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q35575	'Wixarika'@en	wikibase-item								
+Q96-P2936-Q8042823-ba02a645-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8042823	'Xadani Zapotec'@en	wikibase-item								
+Q96-P2936-Q8042887-3ab8081f-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8042887	'Xanaguía Zapotec'@en	wikibase-item								
+Q96-P2936-Q8042924-3c8a4300-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8042924	'Xanica Zapotec'@en	wikibase-item								
+Q96-P2936-Q8044353-9345ff6a-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8044353	'Xicotepec Totonac'@en	wikibase-item								
+Q96-P2936-Q8047534-19dc88b1-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8047534	'Yalálag Zapotec'@en	wikibase-item								
+Q96-P2936-Q34191-4eb6f692-0	Q96	'Mexico'@en	P2936	'language used'@en	Q34191	'Yaqui'@en	wikibase-item								
+Q96-P2936-Q12645368-e270d976-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12645368	'Yareni Zapotec'@en	wikibase-item								
+Q96-P2936-Q3574815-01e53c26-0	Q96	'Mexico'@en	P2936	'language used'@en	Q3574815	'Yatee Zapotec'@en	wikibase-item								
+Q96-P2936-Q8050301-8f91002b-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8050301	'Yatzachi Zapotec'@en	wikibase-item								
+Q96-P2936-Q8050300-97a31b6c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8050300	'Yatzechi Zapotec'@en	wikibase-item								
+Q96-P2936-Q8050392-76180718-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8050392	'Yavesía Zapotec'@en	wikibase-item								
+Q96-P2936-Q8054817-28c43a0c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8054817	'Yoloxóchitl Mixtec'@en	wikibase-item								
+Q96-P2936-Q12953741-c81ac2bd-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12953741	'Yosondúa Mixtec'@en	wikibase-item								
+Q96-P2936-Q13354-ddfcb3a4-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13354	'Yucatec Maya'@en	wikibase-item								
+Q96-P2936-Q25562736-6e583221-0	Q96	'Mexico'@en	P2936	'language used'@en	Q25562736	'Yucuañe Mixtec'@en	wikibase-item								
+Q96-P2936-Q12645448-c95fa7cf-0	Q96	'Mexico'@en	P2936	'language used'@en	Q12645448	'Yutanduchi Mixtec'@en	wikibase-item								
+Q96-P2936-Q8063390-9e0b7a82-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8063390	'Zaachila Zapotec'@en	wikibase-item								
+Q96-P2936-Q8063754-e5bc70a2-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8063754	'Zacatepec Chatino'@en	wikibase-item								
+Q96-P2936-Q8063756-837342ac-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8063756	'Zacatepec Mixtec'@en	wikibase-item								
+Q96-P2936-Q2204061-5394fd80-0	Q96	'Mexico'@en	P2936	'language used'@en	Q2204061	'Zacatlán-Ahuacatlán-Tepetzintla Nahuatl'@en	wikibase-item								
+Q96-P2936-Q8066220-651d1043-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8066220	'Zaniza Zapotec'@en	wikibase-item								
+Q96-P2936-Q13214-bf436ea7-0	Q96	'Mexico'@en	P2936	'language used'@en	Q13214	'Zapotec'@en	wikibase-item								
+Q96-P2936-Q603106-4ba8ab5c-0	Q96	'Mexico'@en	P2936	'language used'@en	Q603106	'Zenzontepec Chatino'@en	wikibase-item								
+Q96-P2936-Q8074100-6b043c32-0	Q96	'Mexico'@en	P2936	'language used'@en	Q8074100	'Zoogocho Zapotec'@en	wikibase-item								
+Q96-P37-Q13300-977f2f07-0	Q96	'Mexico'@en	P37	'official language'@en	Q13300	'Nahuatl'@en	wikibase-item								
+Q96-P37-Q1321-47372994-0	Q96	'Mexico'@en	P37	'official language'@en	Q1321	'Spanish'@en	wikibase-item								
+Q96-P37-Q13354-df0479b2-0	Q96	'Mexico'@en	P37	'official language'@en	Q13354	'Yucatec Maya'@en	wikibase-item								
+Q96-P37-Q1661395-3a50cf65-0	Q96	'Mexico'@en	P37	'official language'@en	Q1661395	'languages of Mexico'@en	wikibase-item								

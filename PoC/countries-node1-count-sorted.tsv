@@ -1,0 +1,2818 @@
+node1	node1;label	label	node2
+Q252	'Indonesia'@en	count	1489
+Q668	'India'@en	count	1475
+Q30	'United States of America'@en	count	1371
+Q691	'Papua New Guinea'@en	count	1289
+Q408	'Australia'@en	count	1223
+Q148	'People\'s Republic of China'@en	count	1065
+Q96	'Mexico'@en	count	1058
+Q16	'Canada'@en	count	1045
+Q1033	'Nigeria'@en	count	1032
+Q159	'Russia'@en	count	995
+Q183	'Germany'@en	count	951
+Q155	'Brazil'@en	count	945
+Q142	'France'@en	count	936
+Q38	'Italy'@en	count	836
+Q36	'Poland'@en	count	818
+Q34	'Sweden'@en	count	802
+Q928	'Philippines'@en	count	795
+Q17	'Japan'@en	count	788
+Q145	'United Kingdom'@en	count	785
+Q43	'Turkey'@en	count	746
+Q1009	'Cameroon'@en	count	744
+Q31	'Belgium'@en	count	741
+Q33	'Finland'@en	count	738
+Q29	'Spain'@en	count	726
+Q833	'Malaysia'@en	count	714
+Q28	'Hungary'@en	count	706
+Q801	'Israel'@en	count	690
+Q20	'Norway'@en	count	689
+Q212	'Ukraine'@en	count	680
+Q974	'Democratic Republic of the Congo'@en	count	680
+Q889	'Afghanistan'@en	count	679
+Q35	'Denmark'@en	count	673
+Q218	'Romania'@en	count	670
+Q794	'Iran'@en	count	668
+Q215	'Slovenia'@en	count	661
+Q41	'Greece'@en	count	649
+Q414	'Argentina'@en	count	646
+Q419	'Peru'@en	count	643
+Q262	'Algeria'@en	count	636
+Q39	'Switzerland'@en	count	631
+Q843	'Pakistan'@en	count	629
+Q869	'Thailand'@en	count	627
+Q423	'North Korea'@en	count	619
+Q836	'Myanmar'@en	count	619
+Q717	'Venezuela'@en	count	618
+Q40	'Austria'@en	count	615
+Q55	'Netherlands'@en	count	615
+Q213	'Czech Republic'@en	count	614
+Q739	'Colombia'@en	count	614
+Q837	'Nepal'@en	count	614
+Q902	'Bangladesh'@en	count	610
+Q881	'Vietnam'@en	count	601
+Q219	'Bulgaria'@en	count	600
+Q851	'Saudi Arabia'@en	count	600
+Q1036	'Uganda'@en	count	598
+Q924	'Tanzania'@en	count	586
+Q222	'Albania'@en	count	581
+Q884	'South Korea'@en	count	581
+Q865	'Taiwan'@en	count	579
+Q79	'Egypt'@en	count	578
+Q211	'Latvia'@en	count	576
+Q736	'Ecuador'@en	count	576
+Q45	'Portugal'@en	count	574
+Q230	'Georgia'@en	count	573
+Q115	'Ethiopia'@en	count	566
+Q258	'South Africa'@en	count	558
+Q227	'Azerbaijan'@en	count	557
+Q657	'Chad'@en	count	557
+Q114	'Kenya'@en	count	554
+Q221	'North Macedonia'@en	count	548
+Q403	'Serbia'@en	count	548
+Q298	'Chile'@en	count	546
+Q184	'Belarus'@en	count	543
+Q1008	'Ivory Coast'@en	count	542
+Q32	'Luxembourg'@en	count	542
+Q399	'Armenia'@en	count	542
+Q117	'Ghana'@en	count	538
+Q1028	'Morocco'@en	count	535
+Q241	'Cuba'@en	count	532
+Q191	'Estonia'@en	count	531
+Q77	'Uruguay'@en	count	531
+Q750	'Bolivia'@en	count	530
+Q27	'Republic of Ireland'@en	count	525
+Q965	'Burkina Faso'@en	count	525
+Q819	'Laos'@en	count	519
+Q912	'Mali'@en	count	519
+Q1016	'Libya'@en	count	518
+Q189	'Iceland'@en	count	518
+Q1029	'Mozambique'@en	count	513
+Q916	'Angola'@en	count	513
+Q858	'Syria'@en	count	512
+Q953	'Zambia'@en	count	510
+Q929	'Central African Republic'@en	count	502
+Q796	'Iraq'@en	count	501
+Q224	'Croatia'@en	count	500
+Q686	'Vanuatu'@en	count	498
+Q37	'Lithuania'@en	count	497
+Q774	'Guatemala'@en	count	497
+Q424	'Cambodia'@en	count	496
+Q232	'Kazakhstan'@en	count	492
+Q229	'Cyprus'@en	count	491
+Q733	'Paraguay'@en	count	490
+Q664	'New Zealand'@en	count	489
+Q1041	'Senegal'@en	count	488
+Q334	'Singapore'@en	count	488
+Q1049	'Sudan'@en	count	484
+Q711	'Mongolia'@en	count	481
+Q948	'Tunisia'@en	count	475
+Q1006	'Guinea'@en	count	474
+Q1030	'Namibia'@en	count	472
+Q954	'Zimbabwe'@en	count	467
+Q963	'Botswana'@en	count	465
+Q804	'Panama'@en	count	464
+Q962	'Benin'@en	count	461
+Q786	'Dominican Republic'@en	count	460
+Q398	'Bahrain'@en	count	459
+Q1000	'Gabon'@en	count	458
+Q1032	'Niger'@en	count	458
+Q878	'United Arab Emirates'@en	count	456
+Q1014	'Liberia'@en	count	454
+Q792	'El Salvador'@en	count	454
+Q214	'Slovakia'@en	count	453
+Q244	'Barbados'@en	count	453
+Q233	'Malta'@en	count	451
+Q967	'Burundi'@en	count	450
+Q217	'Moldova'@en	count	448
+Q800	'Costa Rica'@en	count	448
+Q1011	'Cape Verde'@en	count	447
+Q945	'Togo'@en	count	447
+Q811	'Nicaragua'@en	count	443
+Q347	'Liechtenstein'@en	count	442
+Q790	'Haiti'@en	count	441
+Q805	'Yemen'@en	count	441
+Q1020	'Malawi'@en	count	440
+Q783	'Honduras'@en	count	440
+Q971	'Republic of the Congo'@en	count	438
+Q917	'Bhutan'@en	count	436
+Q1044	'Sierra Leone'@en	count	432
+Q921	'Brunei'@en	count	431
+Q1025	'Mauritania'@en	count	430
+Q822	'Lebanon'@en	count	430
+Q1013	'Lesotho'@en	count	428
+Q754	'Trinidad and Tobago'@en	count	428
+Q842	'Oman'@en	count	426
+Q1019	'Madagascar'@en	count	421
+Q242	'Belize'@en	count	420
+Q1037	'Rwanda'@en	count	419
+Q225	'Bosnia and Herzegovina'@en	count	417
+Q265	'Uzbekistan'@en	count	417
+Q756617	'Kingdom of Denmark'@en	count	417
+Q712	'Fiji'@en	count	416
+Q685	'Solomon Islands'@en	count	415
+Q778	'The Bahamas'@en	count	415
+Q846	'Qatar'@en	count	415
+Q863	'Tajikistan'@en	count	415
+Q734	'Guyana'@en	count	414
+Q986	'Eritrea'@en	count	413
+Q983	'Equatorial Guinea'@en	count	411
+Q15180	'Soviet Union'@en	count	409
+Q813	'Kyrgyzstan'@en	count	407
+Q1005	'The Gambia'@en	count	406
+Q574	'East Timor'@en	count	406
+Q810	'Jordan'@en	count	406
+Q236	'Montenegro'@en	count	404
+Q854	'Sri Lanka'@en	count	404
+Q683	'Samoa'@en	count	402
+Q730	'Suriname'@en	count	400
+Q826	'Maldives'@en	count	398
+Q1007	'Guinea-Bissau'@en	count	397
+Q1045	'Somalia'@en	count	397
+Q766	'Jamaica'@en	count	396
+Q977	'Djibouti'@en	count	393
+Q228	'Andorra'@en	count	392
+Q958	'South Sudan'@en	count	378
+Q1039	'São Tomé and Príncipe'@en	count	368
+Q769	'Grenada'@en	count	365
+Q702	'Federated States of Micronesia'@en	count	362
+Q678	'Tonga'@en	count	360
+Q760	'Saint Lucia'@en	count	360
+Q817	'Kuwait'@en	count	360
+Q1042	'Seychelles'@en	count	357
+Q710	'Kiribati'@en	count	357
+Q781	'Antigua and Barbuda'@en	count	356
+Q874	'Turkmenistan'@en	count	351
+Q235	'Monaco'@en	count	343
+Q238	'San Marino'@en	count	339
+Q757	'Saint Vincent and the Grenadines'@en	count	338
+Q970	'Comoros'@en	count	328
+Q695	'Palau'@en	count	327
+Q784	'Dominica'@en	count	327
+Q709	'Marshall Islands'@en	count	320
+Q5705	'Catalonia'@en	count	318
+Q237	'Vatican City'@en	count	305
+Q763	'Saint Kitts and Nevis'@en	count	305
+Q1246	'Kosovo'@en	count	285
+Q672	'Tuvalu'@en	count	266
+Q891	'Nizhny Novgorod'@en	count	266
+Q21203	'Aruba'@en	count	255
+Q697	'Nauru'@en	count	253
+Q25	'Wales'@en	count	250
+Q16641	'American Samoa'@en	count	248
+Q16957	'German Democratic Republic'@en	count	236
+Q29999	'Kingdom of the Netherlands'@en	count	212
+Q16644	'Northern Mariana Islands'@en	count	210
+Q33946	'Czechoslovakia'@en	count	207
+Q25279	'Curaçao'@en	count	200
+Q2277	'Roman Empire'@en	count	193
+Q28513	'Austria-Hungary'@en	count	188
+Q133356	'Ukrainian Soviet Socialist Republic'@en	count	185
+Q12544	'Byzantine Empire'@en	count	184
+Q12548	'Holy Roman Empire'@en	count	166
+Q26988	'Cook Islands'@en	count	160
+Q907112	'Transnistria'@en	count	160
+Q34020	'Niue'@en	count	157
+Q12560	'Ottoman Empire'@en	count	155
+Q34266	'Russian Empire'@en	count	146
+Q13426199	'Republic of China'@en	count	144
+Q36704	'Yugoslavia'@en	count	144
+Q3908	'Galicia'@en	count	140
+Q2184	'Russian Soviet Federative Socialist Republic'@en	count	139
+Q26273	'Sint Maarten'@en	count	126
+Q713750	'West Germany'@en	count	126
+Q130280	'Estonian Soviet Socialist Republic'@en	count	125
+Q27306	'Kingdom of Prussia'@en	count	123
+Q41304	'Weimar Republic'@en	count	120
+Q81931	'Confederate States of America'@en	count	118
+Q7318	'Nazi Germany'@en	count	116
+Q25227	'Netherlands Antilles'@en	count	115
+Q34754	'Somaliland'@en	count	111
+Q230791	'Kingdom of Scotland'@en	count	109
+Q1747689	'Ancient Rome'@en	count	107
+Q2895	'Byelorussian Soviet Socialist Republic'@en	count	106
+Q83286	'Socialist Federal Republic of Yugoslavia'@en	count	102
+Q40362	'Sahrawi Arab Democratic Republic'@en	count	101
+Q38872	'Prussia'@en	count	95
+Q37024	'Serbia and Montenegro'@en	count	93
+Q174193	'United Kingdom of Great Britain and Ireland'@en	count	92
+Q43287	'German Empire'@en	count	90
+Q131964	'Austrian Empire'@en	count	89
+Q172107	'Polish–Lithuanian Commonwealth'@en	count	89
+Q179876	'Kingdom of England'@en	count	88
+Q243610	'Ukrainian People\'s Republic'@en	count	85
+Q172579	'Kingdom of Italy'@en	count	84
+Q5684	'Babylon'@en	count	84
+Q95895695	'Free Imperial City of Strasbourg'@en	count	83
+Q212439	'Cossack Hetmanate'@en	count	82
+Q389688	'Achaemenid Empire'@en	count	82
+Q4948	'Republic of Venice'@en	count	81
+Q70972	'Kingdom of France'@en	count	81
+Q83891	'Sasanian Empire'@en	count	80
+Q207272	'Second Polish Republic'@en	count	79
+Q244165	'Republic of Artsakh'@en	count	79
+Q49683	'Grand Duchy of Lithuania'@en	count	79
+Q12557	'Mongol Empire'@en	count	78
+Q170174	'Papal States'@en	count	78
+Q171150	'Kingdom of Hungary'@en	count	77
+Q180573	'Republic of Vietnam'@en	count	76
+Q33296	'Mughal Empire'@en	count	76
+Q8680	'British Empire'@en	count	76
+Q1108445	'Kievan Rus\''@en	count	75
+Q161885	'Great Britain'@en	count	73
+Q170468	'United Arab Republic'@en	count	73
+Q545205	'Transcaucasian Socialist Federative Soviet Republic'@en	count	72
+Q199688	'Almohad Caliphate'@en	count	71
+Q12536	'Abbasid Caliphate'@en	count	70
+Q199442	'Kingdom of Aragon'@en	count	70
+Q1106424	'Darawiish'@en	count	69
+Q11768	'Ancient Egypt'@en	count	69
+Q188712	'Empire of Japan'@en	count	69
+Q41137	'Assyrian Empire'@en	count	69
+Q75613	'Almoravid dynasty'@en	count	68
+Q6563843	'Nizari Ismaili state'@en	count	67
+Q8575586	'Umayyad Caliphate'@en	count	67
+Q80702	'Spanish Empire'@en	count	66
+Q132856	'Armenian Soviet Socialist Republic'@en	count	65
+Q154195	'Kingdom of Bavaria'@en	count	65
+Q185682	'French Indochina'@en	count	65
+Q229411	'Delhi Sultanate'@en	count	65
+Q30747910	'Islamic Republic of Afghanistan'@en	count	65
+Q129286	'British India'@en	count	64
+Q131337	'Azerbaijan Soviet Socialist Republic'@en	count	64
+Q2396442	'Kingdom of Galicia and Lodomeria'@en	count	64
+Q30623	'Manchukuo'@en	count	64
+Q427941	'Islamic Emirate of Afghanistan'@en	count	64
+Q170072	'Dutch Republic'@en	count	63
+Q186096	'Tsardom of Russia'@en	count	63
+Q204920	'Crown of Aragon'@en	count	63
+Q45670	'Kingdom of Portugal'@en	count	63
+Q1206012	'German Reich'@en	count	62
+Q130229	'Georgian Soviet Socialist Republic'@en	count	62
+Q161036	'Free State of Prussia'@en	count	62
+Q10957559	'Principality of Moldavia'@en	count	60
+Q199841	'South Yemen'@en	count	60
+Q17167	'Roman Republic'@en	count	59
+Q172640	'North Vietnam'@en	count	59
+Q179293	'Kingdom of Castile'@en	count	59
+Q217196	'Crown of Castile'@en	count	59
+Q28179	'Joseon'@en	count	59
+Q330988	'Democratic Kampuchea'@en	count	59
+Q42585	'Kingdom of Bohemia'@en	count	59
+Q150058	'Thiruvithamkoor Maharajyam'@en	count	58
+Q165154	'Kingdom of Sardinia'@en	count	58
+Q16674377	'Federal Islamic Republic of the Comoros'@en	count	58
+Q180393	'Kingdom of the Two Sicilies'@en	count	58
+Q79965	'Golden Horde'@en	count	58
+Q164079	'Kingdom of Hanover'@en	count	57
+Q191077	'Kingdom of Yugoslavia'@en	count	57
+Q1986139	'Parthian Empire'@en	count	57
+Q58296	'French First Republic'@en	count	57
+Q62633	'Grand Duchy of Finland'@en	count	57
+Q7209	'Han dynasty'@en	count	57
+Q798431	'Republic of Dahomey'@en	count	57
+Q160307	'Fatimid Caliphate'@en	count	56
+Q18234383	'Safavid Empire'@en	count	56
+Q42834	'Western Roman Empire (395-476 AD)'@en	count	55
+Q69808	'Vichy France'@en	count	55
+Q93180	'Seleucid Empire'@en	count	55
+Q1054184	'Khmer Republic'@en	count	54
+Q140359	'First Czechoslovak Republic'@en	count	54
+Q150981	'North German Confederation'@en	count	54
+Q154741	'Confederation of the Rhine'@en	count	54
+Q159856	'Duchy of Brabant'@en	count	54
+Q28208	'Goryeo'@en	count	54
+Q41642	'Phoenicia'@en	count	54
+Q13474305	'Spanish State'@en	count	53
+Q154667	'Kingdom of Georgia'@en	count	53
+Q188161	'Dutch East Indies'@en	count	53
+Q221457	'Congress Poland'@en	count	53
+Q457167	'West Ukrainian People\'s Republic'@en	count	53
+Q6500954	'Zaire'@en	count	53
+Q123559	'al-Andalus'@en	count	52
+Q147909	'Kingdom of Bulgaria'@en	count	52
+Q212056	'Mongolian People\'s Republic'@en	count	52
+Q2208978	'Alamannia'@en	count	52
+Q22880	'Electoral Palatinate'@en	count	52
+Q2305208	'Russian Socialist Federative Soviet Republic'@en	count	52
+Q153660	'Italian Social Republic'@en	count	51
+Q183150	'Colchis'@en	count	51
+Q3399982	'Kingdom of Spain (1700-1808)'@en	count	51
+Q153015	'Kingdom of Saxony'@en	count	50
+Q175276	'Kingdom of León'@en	count	50
+Q186320	'Grand Duchy of Baden'@en	count	50
+Q190025	'Federal Republic of Central America'@en	count	50
+Q211274	'Polish People\'s Republic'@en	count	50
+Q215530	'Kingdom of Ireland'@en	count	50
+Q216173	'Free City of Danzig'@en	count	50
+Q55502	'Kingdom of Jerusalem'@en	count	50
+Q6500483	'Nguyen dynasty'@en	count	50
+Q71084	'First French Empire'@en	count	50
+Q767089	'Salamis'@en	count	50
+Q83958	'Macedonia'@en	count	50
+Q853348	'Czechoslovak Socialist Republic'@en	count	50
+Q1277557	'Democratic Federal Yugoslavia'@en	count	49
+Q15102440	'Kingdom of Serbs, Croats and Slovenes'@en	count	49
+Q153943	'Kingdom of Westphalia'@en	count	49
+Q159631	'Kingdom of Württemberg'@en	count	49
+Q173065	'Kingdom of Naples'@en	count	49
+Q209857	'Kingdom of Lombardy–Venetia'@en	count	49
+Q2429397	'Ancient Carthage'@en	count	49
+Q28025	'Ryukyu Kingdom'@en	count	49
+Q28233	'Korean Empire'@en	count	49
+Q61292	'Far Eastern Republic'@en	count	49
+Q620765	'Lydia'@en	count	49
+Q62623	'Kalmar Union'@en	count	49
+Q152750	'Protectorate of Bohemia and Moravia'@en	count	48
+Q28456	'Silla'@en	count	48
+Q373189	'Bithynia'@en	count	48
+Q402145	'Mataram Sultanate'@en	count	48
+Q838261	'Federal Republic of Yugoslavia'@en	count	48
+Q10359001	'Hasmonean Kingdom'@en	count	47
+Q153529	'Duchy of Milan'@en	count	47
+Q154401	'Slovak State (1939-1945)'@en	count	47
+Q177076	'Caucasian Albania'@en	count	47
+Q199821	'Gran Colombia'@en	count	47
+Q200262	'Kingdom of Navarre'@en	count	47
+Q238445	'Emirate of Granada'@en	count	47
+Q426025	'Duchy of Savoy'@en	count	47
+Q550374	'South African Republic'@en	count	47
+Q862701	'People\'s Republic of Benin'@en	count	47
+Q121932	'People\'s Republic of Bulgaria'@en	count	46
+Q128904	'Elam'@en	count	46
+Q15581	'Principality of Catalonia'@en	count	46
+Q185068	'Urartu'@en	count	46
+Q797422	'Republic of Upper Volta'@en	count	46
+Q816709	'Tuvan People\'s Republic'@en	count	46
+Q11774	'Gupta Empire'@en	count	45
+Q180114	'Ayyubid dynasty'@en	count	45
+Q193619	'Union of South Africa'@en	count	45
+Q206696	'Helvetic Republic'@en	count	45
+Q230407	'Kingdom of Israel'@en	count	45
+Q31747	'Irish Free State'@en	count	45
+Q335070	'Alba Longa'@en	count	45
+Q519718	'Taungoo Dynasty'@en	count	45
+Q752431	'New Hebrides'@en	count	45
+Q153128	'Independent State of Croatia'@en	count	44
+Q15864	'United Kingdom of the Netherlands'@en	count	44
+Q170770	'Grand Duchy of Moscow'@en	count	44
+Q207521	'Ethiopian Empire'@en	count	44
+Q62943	'Maurya Empire'@en	count	44
+Q76236	'Lithuanian–Belorussian Soviet Socialist Republic'@en	count	44
+Q105092	'Kingdom of Mercia'@en	count	43
+Q153963	'German East Africa'@en	count	43
+Q218023	'Orange Free State'@en	count	43
+Q28573	'Inca Empire'@en	count	43
+Q389004	'Principality of Wallachia'@en	count	43
+Q582861	'Marinid Dynasty'@en	count	43
+Q654342	'Federation of Rhodesia and Nyasaland'@en	count	43
+Q68682	'Bukharan People\'s Soviet Republic'@en	count	43
+Q95950649	'duchy of Alsace'@en	count	43
+Q107299	'Kingdom of Northumbria'@en	count	42
+Q188553	'Batavian Republic'@en	count	42
+Q203493	'Kingdom of Romania'@en	count	42
+Q205718	'Zirid dynasty'@en	count	42
+Q518101	'First Republic of Austria'@en	count	42
+Q652560	'West Indies Federation'@en	count	42
+Q76048	'Congo Free State'@en	count	42
+Q878276	'Later Lê Dynasty'@en	count	42
+Q102679	'Numidia'@en	count	41
+Q139319	'Russian Republic'@en	count	41
+Q148540	'Republic of Florence'@en	count	41
+Q165269	'East Frisia'@en	count	41
+Q2010024	'Second Czechoslovak Republic'@en	count	41
+Q20135	'Grand Duchy of Hesse'@en	count	41
+Q245160	'Democratic Republic of Georgia'@en	count	41
+Q696241	'Khanate of Kokand'@en	count	41
+Q70802	'French Third Republic'@en	count	41
+Q105313	'Kingdom of Wessex'@en	count	40
+Q12490507	'Rashidun Caliphate'@en	count	40
+Q1483430	'Principality of Kiev'@en	count	40
+Q153080	'East Francia'@en	count	40
+Q154849	'Grand Duchy of Tuscany'@en	count	40
+Q156418	'Kingdom of Hawaiʻi'@en	count	40
+Q160440	'Crimean Khanate'@en	count	40
+Q16410	'People\'s Republic of Hungary'@en	count	40
+Q165040	'Duchy of Parma'@en	count	40
+Q173082	'Dacia'@en	count	40
+Q188586	'Kingdom of Sicily'@en	count	40
+Q205662	'Tokugawa Shogunate'@en	count	40
+Q231392	'Kingdom of Asturias'@en	count	40
+Q266923	'Kingdom of Mysore'@en	count	40
+Q273874	'Buyid dynasty'@en	count	40
+Q310650	'Schaumburg-Lippe'@en	count	40
+Q504759	'Chu'@en	count	40
+Q5743	'Ebla'@en	count	40
+Q577668	'Khanate of Bukhara'@en	count	40
+Q600018	'Kingdom of Hungary'@en	count	40
+Q818742	'Mon State'@en	count	40
+Q836680	'Duchy of Nassau'@en	count	40
+Q1479726	'Federation of Malaya'@en	count	39
+Q151938	'Neutral Moresnet'@en	count	39
+Q152115	'Duchy of Warsaw'@en	count	39
+Q167639	'Vijayanagara Empire'@en	count	39
+Q174306	'Republic of Genoa'@en	count	39
+Q321371	'Bosporan Kingdom'@en	count	39
+Q5780	'Meroë'@en	count	39
+Q107380	'Lippe'@en	count	38
+Q151148	'Chola dynasty'@en	count	38
+Q157070	'County of Flanders'@en	count	38
+Q170588	'Republic of Texas'@en	count	38
+Q175881	'Roman Republic'@en	count	38
+Q185488	'Volga Bulgaria'@en	count	38
+Q208475	'Edom'@en	count	38
+Q209065	'Kingdom of Greece'@en	count	38
+Q216786	'Champa'@en	count	38
+Q2465074	'Ban de la Roche'@en	count	38
+Q303421	'Kingdom of Galicia'@en	count	38
+Q335088	'Armenian Kingdom of Cilicia'@en	count	38
+Q382593	'New Netherland'@en	count	38
+Q467864	'People\'s Socialist Republic of Albania'@en	count	38
+Q48685	'Judah'@en	count	38
+Q655621	'Principality of Transylvania'@en	count	38
+Q1028848	'French Cameroons'@en	count	37
+Q12060881	'Imperial China'@en	count	37
+Q146761	'Hatay State'@en	count	37
+Q151536	'Novgorod Republic'@en	count	37
+Q158835	'Prince-Bishopric of Liège'@en	count	37
+Q178913	'Empire of Trebizond'@en	count	37
+Q186537	'Khanate of Kazan'@en	count	37
+Q191369	'Ugarit'@en	count	37
+Q2006542	'Dominion of Pakistan'@en	count	37
+Q21077045	'landgraviate of Upper Alsace'@en	count	37
+Q2444884	'Tibet'@en	count	37
+Q28370	'Goguryeo'@en	count	37
+Q391980	'Free Territory of Trieste'@en	count	37
+Q473748	'Buganda'@en	count	37
+Q4843701	'Great Socialist People\'s Libyan Arab Jamahiriya'@en	count	37
+Q497777	'First Spanish Republic'@en	count	37
+Q523380	'Republic of Central Lithuania'@en	count	37
+Q541455	'Anglo-Egyptian Sudan'@en	count	37
+Q71092	'Second French Empire'@en	count	37
+Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	count	37
+Q1078602	'Kingdom of Nepal'@en	count	36
+Q139670	'First Republic of Armenia'@en	count	36
+Q158445	'Grand Duchy of Mecklenburg-Schwerin'@en	count	36
+Q184536	'Mali Empire'@en	count	36
+Q188836	'Xiongnu'@en	count	36
+Q1998866	'Czech and Slovak Federal Republic'@en	count	36
+Q202687	'Songhai Empire'@en	count	36
+Q208169	'Republic of Ragusa'@en	count	36
+Q211092	'Socialist Republic of Slovenia'@en	count	36
+Q212278	'Kingdom of Holland'@en	count	36
+Q23039102	'First Toungoo Empire'@en	count	36
+Q370736	'Cape Colony'@en	count	36
+Q476757	'Democratic Republic of Afghanistan'@en	count	36
+Q491106	'Khanate of Khiva'@en	count	36
+Q699964	'Archduchy of Austria'@en	count	36
+Q11285099	'United States occupation of the Ryukyu Islands'@en	count	35
+Q139377	'Kingdom of Aksum'@en	count	35
+Q156038	'Duchy of Courland and Semigallia'@en	count	35
+Q16056854	'Kingdom of Hungary'@en	count	35
+Q163329	'Canaan'@en	count	35
+Q176495	'Federal State of Austria'@en	count	35
+Q178038	'Second Spanish Republic'@en	count	35
+Q213353	'Cisalpine Republic'@en	count	35
+Q241748	'Kingdom of Serbia'@en	count	35
+Q37102	'Republic of the Rif'@en	count	35
+Q468814	'Dahomey'@en	count	35
+Q61291	'Khorezm People\'s Soviet Republic'@en	count	35
+Q662653	'British Somaliland'@en	count	35
+Q842091	'Duchy of Normandy'@en	count	35
+Q1028835	'British Cameroons'@en	count	34
+Q126936	'Visigothic Kingdom'@en	count	34
+Q1335260	'Emirate of Afghanistan'@en	count	34
+Q1392840	'Novgorodian Rus\''@en	count	34
+Q148499	'Margraviate of Brandenburg'@en	count	34
+Q1508143	'Ukrainian State'@en	count	34
+Q153091	'Duchy of Prussia'@en	count	34
+Q155019	'Duchy of Lorraine'@en	count	34
+Q171203	'Benin Empire'@en	count	34
+Q178665	'Mitanni'@en	count	34
+Q189988	'Central African Empire'@en	count	34
+Q25979	'Kushan Empire'@en	count	34
+Q267584	'Yemen Arab Republic'@en	count	34
+Q386496	'Kingdom of Montenegro'@en	count	34
+Q4461035	'Akkadian empire'@en	count	34
+Q5257	'Satavahana dynasty'@en	count	34
+Q555994	'Aq Qoyunlu'@en	count	34
+Q58942549	'landgraviate of Lower Alsace'@en	count	34
+Q650370	'Margraviate of Baden-Durlach'@en	count	34
+Q71747	'Duchy of Brittany'@en	count	34
+Q718763	'South Seas Mandate'@en	count	34
+Q738144	'United Provinces of the Río de la Plata'@en	count	34
+Q766543	'Hispanic Monarchy One'@en	count	34
+Q878309	'Ly dynasty'@en	count	34
+Q964024	'Moldavian Democratic Republic'@en	count	34
+Q1057542	'Republic of Hawaii'@en	count	33
+Q1751495	'Slovak Socialist Republic'@en	count	33
+Q207991	'Pahlavi Dynasty'@en	count	33
+Q208404	'Kingdom of Armenia'@en	count	33
+Q217230	'Empire of Brazil'@en	count	33
+Q252580	'Duchy of Modena and Reggio'@en	count	33
+Q2685298	'Romanian People\'s Republic'@en	count	33
+Q268970	'Republic of German-Austria'@en	count	33
+Q3108185	'Ba\'athist Iraq'@en	count	33
+Q322763	'County of Dagsburg'@en	count	33
+Q431575	'Idrisid dynasty'@en	count	33
+Q46370	'West Francia'@en	count	33
+Q62589	'Union between Sweden and Norway'@en	count	33
+Q652275	'County of Cerdanya'@en	count	33
+Q696908	'Kingdom of Poland'@en	count	33
+Q69829	'French Fourth Republic'@en	count	33
+Q796583	'Kingdom of Kongo'@en	count	33
+Q8890160	'Kingdom of Poland (1025-1795)'@en	count	33
+Q941881	'Netherlands New Guinea'@en	count	33
+Q1072362	'Provisional Revolutionary Government of the Republic of South Vietnam'@en	count	32
+Q1415128	'Republic of Afghanistan'@en	count	32
+Q154816	'Kingdom of the Iberians'@en	count	32
+Q1639475	'Mountainous Republic of the Northern Caucasus'@en	count	32
+Q1796239	'Kingdom of Seville'@en	count	32
+Q223936	'Kingdom of Italy (Napoleonic)'@en	count	32
+Q237234	'Osroene'@en	count	32
+Q252268	'county of Sundgau'@en	count	32
+Q285658	'First Mexican Empire'@en	count	32
+Q319881	'Republic of Formosa'@en	count	32
+Q330362	'Commonwealth of England'@en	count	32
+Q420759	'Second Bulgarian Empire'@en	count	32
+Q503623	'Gold Coast'@en	count	32
+Q58326	'French Second Republic'@en	count	32
+Q6207845	'Jodhpur State'@en	count	32
+Q746558	'Emirate of Bukhara'@en	count	32
+Q826021	'Kenmu Restoration'@en	count	32
+Q836676	'Kingdom of Majorca'@en	count	32
+Q975405	'Sultanate of Rum'@en	count	32
+Q1034173	'Tây Sơn Dynasty'@en	count	31
+Q1044536	'Spain under the Restoration'@en	count	31
+Q1142179	'Orange River Colony'@en	count	31
+Q1165546	'Mosquito Coast'@en	count	31
+Q11730773	'Khorezm Socialist Soviet Republic'@en	count	31
+Q146720	'Mandatory Iraq'@en	count	31
+Q146885	'Second Syrian Republic'@en	count	31
+Q156199	'Electorate of Saxony'@en	count	31
+Q1796202	'Kingdom of Granada'@en	count	31
+Q201705	'Khmer Empire'@en	count	31
+Q25395037	'Kingdom of Hungary'@en	count	31
+Q491559	'First Republic of South Korea'@en	count	31
+Q580188	'Mutawakkilite Kingdom of Yemen'@en	count	31
+Q646374	'French India'@en	count	31
+Q689837	'Spanish Sahara'@en	count	31
+Q834486	'Federation of South Arabia'@en	count	31
+Q1077630	'Septinsular Republic'@en	count	30
+Q1081620	'Siam'@en	count	30
+Q10975458	'Maramureș'@en	count	30
+Q1192936	'Kingdom of Burundi'@en	count	30
+Q124943	'Kingdom of Egypt'@en	count	30
+Q1448131	'Albanian Kingdom'@en	count	30
+Q1477220	'Somali Democratic Republic'@en	count	30
+Q156020	'State of the Teutonic Order'@en	count	30
+Q16550783	'Duchy of Anhalt'@en	count	30
+Q189545	'Zengid dynasty'@en	count	30
+Q201038	'Roman Kingdom'@en	count	30
+Q203751	'Upper Egypt'@en	count	30
+Q207162	'Bourbon Restoration'@en	count	30
+Q2670092	'Dominion of Ceylon'@en	count	30
+Q283680	'Carchemish'@en	count	30
+Q31454	'Kingdom of Libya'@en	count	30
+Q320930	'Cao Wei'@en	count	30
+Q431731	'Tanganyika'@en	count	30
+Q63158027	'Qajar Iran'@en	count	30
+Q693980	'Duchy of Swabia'@en	count	30
+Q738264	'State of Los Altos'@en	count	30
+Q815731	'Principality of Bulgaria'@en	count	30
+Q1395011	'Chalukya dynasty'@en	count	29
+Q1415585	'Islamic State of Afghanistan'@en	count	29
+Q142417	'Kingdom of Valencia'@en	count	29
+Q146871	'First Saudi State'@en	count	29
+Q150056	'Kingdom of Cochin'@en	count	29
+Q153136	'Habsburg Monarchy'@en	count	29
+Q157367	'Brandenburg-Prussia'@en	count	29
+Q157904	'Sultanate of Zanzibar'@en	count	29
+Q170180	'Margraviate of Meissen'@en	count	29
+Q193152	'Great Moravia'@en	count	29
+Q216632	'Mali Federation'@en	count	29
+Q284667	'Electorate of Mainz'@en	count	29
+Q3041595	'Iraqi Republic (1958–1968)'@en	count	29
+Q3092690	'Feudal Japan'@en	count	29
+Q3456410	'Republic of Mulhouse'@en	count	29
+Q3960459	'Kingdom of Sikkim'@en	count	29
+Q430309	'Đại Việt'@en	count	29
+Q501303	'Free City of Kraków'@en	count	29
+Q517333	'Principality of Polotsk'@en	count	29
+Q5291089	'Dominion of Fiji'@en	count	29
+Q590743	'Ruanda-Urundi'@en	count	29
+Q618399	'Republic of the Congo (Léopoldville)'@en	count	29
+Q668294	'Kamerun'@en	count	29
+Q671899	'Duchy of Teschen'@en	count	29
+Q68678	'Socialist Soviet Republic of Byelorussia'@en	count	29
+Q686971	'Lands of the Bohemian Crown'@en	count	29
+Q7242857	'Pridnestrovian Moldavian Soviet Socialist Republic'@en	count	29
+Q7380487	'Kingdom of Pontus'@en	count	29
+Q752662	'Hafsid dynasty'@en	count	29
+Q762943	'County of Holland'@en	count	29
+Q779011	'Principality of Montenegro'@en	count	29
+Q814959	'Beiyang Government'@en	count	29
+Q83546	'Grand Duchy of Vladimir'@en	count	29
+Q956357	'Kingdom of Hejaz'@en	count	29
+Q105098	'Austrasia'@en	count	28
+Q1122980	'Comtat Venaissin'@en	count	28
+Q1233672	'County of Barcelona'@en	count	28
+Q127861	'Khedivate of Egypt'@en	count	28
+Q1290149	'Federal People\'s Republic of Yugoslavia'@en	count	28
+Q1352878	'Duchy of Livonia'@en	count	28
+Q1406298	'Serbian Empire'@en	count	28
+Q1433867	'Kazakh Khanate'@en	count	28
+Q1470101	'Kingdom of Hungary'@en	count	28
+Q149805	'Kingdom of Iraq'@en	count	28
+Q1775277	'Dominion of India'@en	count	28
+Q181254	'Empire of Nicaea'@en	count	28
+Q223793	'Kingdom of Etruria'@en	count	28
+Q2246183	'Cures'@en	count	28
+Q232806	'County of Edessa'@en	count	28
+Q234009	'Magadha'@en	count	28
+Q243652	'Hungarian Soviet Republic'@en	count	28
+Q28428	'Baekje'@en	count	28
+Q2981019	'Ostikanate of Arminiya'@en	count	28
+Q31929	'Carolingian Empire'@en	count	28
+Q3446210	'Kingdom of Pamplona'@en	count	28
+Q38610	'Dominion of Newfoundland'@en	count	28
+Q487829	'Chagatai'@en	count	28
+Q659312	'Ligurian Republic'@en	count	28
+Q69323	'Kingdom of France'@en	count	28
+Q736839	'Kamakura shogunate'@en	count	28
+Q747314	'Bechuanaland Protectorate'@en	count	28
+Q75903	'Turkestan Autonomous Soviet Socialist Republic'@en	count	28
+Q8272919	'Interwar Lithuania'@en	count	28
+Q838291	'Socialist Republic of Montenegro'@en	count	28
+Q845909	'Scythia'@en	count	28
+Q940741	'Republic of Hungary'@en	count	28
+Q958291	'United Principalities of Moldavia and Wallachia'@en	count	28
+Q965174	'Coalition Provisional Authority'@en	count	28
+Q104863335	'Duchy of Poland'@en	count	27
+Q1063498	'United States of the Ionian Islands'@en	count	27
+Q106577	'Neustria'@en	count	27
+Q1138904	'Kingdom of Afghanistan'@en	count	27
+Q1139762	'Kanem-Bornu Empire'@en	count	27
+Q13053139	'Hittite Empire'@en	count	27
+Q155361	'Rouran Khaganate'@en	count	27
+Q1636212	'Karabakh Khanate'@en	count	27
+Q171348	'Crown of the Kingdom of Poland'@en	count	27
+Q171740	'Caliphate of Córdoba'@en	count	27
+Q180568	'New Kingdom of Egypt'@en	count	27
+Q207330	'Lagash'@en	count	27
+Q2342822	'West Pakistan'@en	count	27
+Q2393278	'Republic of Cospaia'@en	count	27
+Q253094	'Kingdom of Hungary'@en	count	27
+Q28322	'Balhae'@en	count	27
+Q310293	'Saar Protectorate'@en	count	27
+Q324470	'Kara Koyunlu tribe'@en	count	27
+Q326304	'Moab'@en	count	27
+Q334714	'Duchy of Athens'@en	count	27
+Q3403551	'Principality of Halych'@en	count	27
+Q3708094	'Seljuk Empire'@en	count	27
+Q377350	'Iberian Union'@en	count	27
+Q444912	'Romanian Old Kingdom'@en	count	27
+Q529605	'Electorate of Hesse'@en	count	27
+Q583038	'Ostrogothic Kingdom'@en	count	27
+Q588672	'Hammadid dynasty'@en	count	27
+Q617078	'People\'s Republic of Mozambique'@en	count	27
+Q650489	'Margraviate of Baden'@en	count	27
+Q696242	'Wang Jingwei regime'@en	count	27
+Q729768	'Zulu Kingdom'@en	count	27
+Q7559152	'Somali Republic'@en	count	27
+Q7603765	'State of Malta'@en	count	27
+Q769782	'Kingdom of Powys'@en	count	27
+Q83572	'Sikh Empire'@en	count	27
+Q83821	'Bijapur Sultanate'@en	count	27
+Q97924757	'Free City of Colmar'@en	count	27
+Q1069959	'Kingdom of Imereti'@en	count	26
+Q1131500	'Free State of Icaria'@en	count	26
+Q130842	'French mandate of Lebanon'@en	count	26
+Q139708	'French Mandate for Syria and the Lebanon'@en	count	26
+Q1419681	'Crimean People\'s Republic'@en	count	26
+Q1469742	'Sunda Kingdom'@en	count	26
+Q152420	'Guelders'@en	count	26
+Q153665	'German South-West Africa'@en	count	26
+Q1542741	'Palmares'@en	count	26
+Q1617495	'Kingdom of Jaén'@en	count	26
+Q1720882	'Cutch State'@en	count	26
+Q175379	'Empire of China'@en	count	26
+Q178085	'Principality of Zeta'@en	count	26
+Q18285930	'German Empire of 1848/1849'@en	count	26
+Q200896	'Slovak Soviet Republic'@en	count	26
+Q207600	'Aghlabids'@en	count	26
+Q2090473	'Khazar Khaganate'@en	count	26
+Q210198	'Erivan Khanate'@en	count	26
+Q2340665	'Basutoland'@en	count	26
+Q234197	'Srivijaya'@en	count	26
+Q2608489	'Aztec Empire'@en	count	26
+Q332137	'Kingdom of Commagene'@en	count	26
+Q371334	'Second Mexican Empire'@en	count	26
+Q48698054	'Montsoreau'@en	count	26
+Q60792510	'Kingdom of Romania under Fascism'@en	count	26
+Q60849901	'Bukhara Socialist Soviet Republic'@en	count	26
+Q62567	'Kingdom of Iceland'@en	count	26
+Q705240	'Hohenlohe'@en	count	26
+Q705438	'Free State of Anhalt'@en	count	26
+Q714006	'Republic of Ezo'@en	count	26
+Q783684	'Provisional Government of the French Republic'@en	count	26
+Q808575	'Baroda State'@en	count	26
+Q832888	'county of Nordgau'@en	count	26
+Q894030	'Bornu Empire'@en	count	26
+Q96456912	'Free City of Sélestat'@en	count	26
+Q97946582	'Free City of Munster'@en	count	26
+Q1057118	'Kingdom of Chenla'@en	count	25
+Q1061057	'Aceh Sultanate'@en	count	25
+Q1141215	'Granadine Confederation'@en	count	25
+Q1152126	'People\'s Republic of the Congo'@en	count	25
+Q1297894	'County of Ribagorza'@en	count	25
+Q1337854	'emirate of Córdoba'@en	count	25
+Q1361989	'First Philippine Republic'@en	count	25
+Q1400154	'Federated Malay States'@en	count	25
+Q14905932	'Republic of Cuba'@en	count	25
+Q1541699	'County of Empúries'@en	count	25
+Q17319155	'Udaipur State'@en	count	25
+Q1740542	'Quba Khanate'@en	count	25
+Q1743884	'Kition'@en	count	25
+Q191324	'Middle Kingdom of Egypt'@en	count	25
+Q2017684	'French protectorate of Tunisia'@en	count	25
+Q203817	'First Bulgarian Empire'@en	count	25
+Q2088141	'Caucasian Imamate'@en	count	25
+Q220594	'Nabataeans'@en	count	25
+Q249578	'Ghaznavid Empire'@en	count	25
+Q2670751	'Margraviate of Moravia'@en	count	25
+Q28411	'Avar Khaganate'@en	count	25
+Q289577	'Himyarite Kingdom'@en	count	25
+Q2940142	'Kingdom of Toledo'@en	count	25
+Q2994258	'Regional Defence Council of Aragon'@en	count	25
+Q3111454	'Tran dynasty'@en	count	25
+Q329618	'German colonial empire'@en	count	25
+Q332005	'Principality of Achaea'@en	count	25
+Q4304392	'Moscovian State'@en	count	25
+Q46652	'Malacca sultanate'@en	count	25
+Q5324	'Gurjara-Pratihara'@en	count	25
+Q54810282	'Free City of Rosheim'@en	count	25
+Q63134381	'Khwarezmian Empire'@en	count	25
+Q706553	'County of Nice'@en	count	25
+Q722071	'Ashanti Empire'@en	count	25
+Q800236	'Bahawalpur State'@en	count	25
+Q837855	'Qi'@en	count	25
+Q844250	'Lordship of Ireland'@en	count	25
+Q844295	'Yamataikoku'@en	count	25
+Q854917	'Bhavnagar State'@en	count	25
+Q858841	'Kingdom of Croatia'@en	count	25
+Q870055	'Kingdom of Laos'@en	count	25
+Q912052	'Wei'@en	count	25
+Q97940738	'Free City of Haguenau'@en	count	25
+Q97943978	'Free City of Wissembourg'@en	count	25
+Q1183407	'Taifa of Algeciras'@en	count	24
+Q1235720	'Republic of Lucca'@en	count	24
+Q1436243	'Makhnovshchina'@en	count	24
+Q1517159	'YEMEN -HADRAMAUT'@en	count	24
+Q1796198	'Kingdom of Córdoba'@en	count	24
+Q182647	'Khwarezm'@en	count	24
+Q200969	'Chaldea'@en	count	24
+Q2060657	'Singasari'@en	count	24
+Q2138849	'Free City of Landau'@en	count	24
+Q216068	'Sheba'@en	count	24
+Q221357	'Dutch Brazil'@en	count	24
+Q2320005	'Ptolemaic Kingdom'@en	count	24
+Q2360973	'Duchy of Carniola'@en	count	24
+Q2475921	'Bogd Khanate'@en	count	24
+Q2622868	'Bagratid Armenia'@en	count	24
+Q28084	'Gaya confederacy'@en	count	24
+Q3486676	'Taiping Heavenly Kingdom'@en	count	24
+Q488521	'Fourth Republic of South Korea'@en	count	24
+Q49910	'Colony of Aden'@en	count	24
+Q523435	'United States of Indonesia'@en	count	24
+Q5440850	'Federation of Nigeria'@en	count	24
+Q548114	'Free State of Fiume'@en	count	24
+Q54818777	'Imperial Abbey of Wissembourg'@en	count	24
+Q62651	'Denmark-Norway'@en	count	24
+Q63021609	'Kingdom of Navarre beyond the Pyrenees'@en	count	24
+Q630882	'Republic of New Granada'@en	count	24
+Q697837	'Mengjiang'@en	count	24
+Q704300	'Free City of Frankfurt'@en	count	24
+Q7233551	'Post-independence Burma, 1948–1962'@en	count	24
+Q80211	'Lithuanian Soviet Socialist Republic'@en	count	24
+Q828665	'Ikhshidid dynasty'@en	count	24
+Q849623	'Oyo Empire'@en	count	24
+Q889897	'Bunyoro'@en	count	24
+Q953432	'Couto Misto'@en	count	24
+Q97941965	'Free City of Turckheim'@en	count	24
+Q1044668	'Republic of Rose Island'@en	count	23
+Q1048340	'Kingdom of Albania'@en	count	23
+Q11178782	'Czechoslovak Republic'@en	count	23
+Q112660052	'British India'@en	count	23
+Q1135255	'Chinese Soviet Republic'@en	count	23
+Q1154406	'Ashikaga shogunate'@en	count	23
+Q1235737	'County of Aragon'@en	count	23
+Q1483495	'Principality of Smolensk'@en	count	23
+Q1557792	'Gwalior State'@en	count	23
+Q162192	'Riograndense Republic'@en	count	23
+Q17557	'California Republic'@en	count	23
+Q177819	'Old Kingdom of Egypt'@en	count	23
+Q1785592	'Kourion'@en	count	23
+Q1789596	'Croatia in personal union with Hungary'@en	count	23
+Q19831559	'Oldenburg'@en	count	23
+Q2114397	'Yogyakarta Sultanate'@en	count	23
+Q21296156	'Republic of Marcos Perez Jimenez'@en	count	23
+Q2162698	'Duchy of Bohemia'@en	count	23
+Q2252973	'Duchy of Florence'@en	count	23
+Q2431480	'Tibetan Empire'@en	count	23
+Q260437	'Atropatene'@en	count	23
+Q2616953	'Quisling regime'@en	count	23
+Q330533	'Seventeen Provinces'@en	count	23
+Q374521	'Bahmani Sultanate'@en	count	23
+Q3968612	'Italian United Provinces'@en	count	23
+Q42199	'Principality of Ansbach'@en	count	23
+Q44642	'Federation of Arab Republics'@en	count	23
+Q449639	'Alodia'@en	count	23
+Q466581	'Hoysala Empire'@en	count	23
+Q482705	'Fifth Republic of South Korea'@en	count	23
+Q487687	'Third Republic of South Korea'@en	count	23
+Q5124786	'Civitas Schinesghe'@en	count	23
+Q514423	'Parthenopean Republic'@en	count	23
+Q54810258	'Free City of Obernai'@en	count	23
+Q568471	'Duchy of Żagań'@en	count	23
+Q569871	'Free People\'s State of Württemberg'@en	count	23
+Q600524	'Sokoto Caliphate'@en	count	23
+Q61385	'Galician Soviet Socialist Republic'@en	count	23
+Q692015	'United States of Belgium'@en	count	23
+Q704278	'Mahan confederacy'@en	count	23
+Q730163	'Autonomous Republic of Northern Epirus'@en	count	23
+Q736727	'Republic of Siena'@en	count	23
+Q7735661	'Commonwealth realm of the Gambia'@en	count	23
+Q797527	'British Togoland'@en	count	23
+Q835382	'Free State of Lippe'@en	count	23
+Q837136	'Kingdom of Deheubarth'@en	count	23
+Q899706	'Peru–Bolivian Confederation'@en	count	23
+Q940123	'Rustamid dynasty'@en	count	23
+Q953068	'South-West Africa'@en	count	23
+Q97940833	'Free City of'@en	count	23
+Q1048918	'Kingdom of the Suebi'@en	count	22
+Q1139807	'County of Portugal'@en	count	22
+Q1164500	'Kingdom of Murcia'@en	count	22
+Q12183911	'Syrian Federation'@en	count	22
+Q1232988	'Italian Eritrea'@en	count	22
+Q1252942	'Duklja'@en	count	22
+Q1274468	'Republic of Bosnia and Herzegovina'@en	count	22
+Q1365493	'Republic of Pisa'@en	count	22
+Q1423581	'Italian Regency of Carnaro'@en	count	22
+Q14552167	'Porbandar State'@en	count	22
+Q1483510	'Principality of Wales'@en	count	22
+Q1501306	'Vakataka empire'@en	count	22
+Q1572529	'Hanthawaddy Kingdom'@en	count	22
+Q157734	'Muscat and Oman'@en	count	22
+Q1591030	'Hausa Kingdoms'@en	count	22
+Q1649871	'Kingdom of Poland (1386-1569)'@en	count	22
+Q1703449	'Shaki Khanate'@en	count	22
+Q187035	'Principality of Albania'@en	count	22
+Q206789	'Ghana Empire'@en	count	22
+Q233263	'Second Republic of South Korea'@en	count	22
+Q235030	'Principality of Antioch'@en	count	22
+Q2376315	'British Burma'@en	count	22
+Q2454585	'Third Czechoslovak Republic'@en	count	22
+Q2504040	'Gagauz Republic'@en	count	22
+Q2577303	'Kingdom of Sardinia'@en	count	22
+Q272033	'County of Tripoli'@en	count	22
+Q28057	'Tamna'@en	count	22
+Q30744169	'Fereral Republic of Cameroon'@en	count	22
+Q3185305	'Kingdom of Israel'@en	count	22
+Q3572054	'Lordship of Albarracin'@en	count	22
+Q3780537	'Gaza Empire'@en	count	22
+Q400998	'Ahmadnagar Sultanate'@en	count	22
+Q422065	'Sultanate of Sulu'@en	count	22
+Q435583	'Old Swiss Confederacy'@en	count	22
+Q4398229	'Russian state 1918-1920'@en	count	22
+Q466803	'Pallava dynasty'@en	count	22
+Q467627	'Durrani Empire'@en	count	22
+Q484370	'People\'s Republic of Korea'@en	count	22
+Q507796	'Gujarat Sultanate'@en	count	22
+Q530670	'Kingdom of Burgundy'@en	count	22
+Q568712	'Wassoulou Empire'@en	count	22
+Q5866728	'Democratic Republic of the Sudan'@en	count	22
+Q6124144	'Jaipur State'@en	count	22
+Q623751	'Kingdom of Bernicia'@en	count	22
+Q6412669	'Kingdom of Tunisia'@en	count	22
+Q83618	'Maratha Empire'@en	count	22
+Q844910	'Pandya dynasty'@en	count	22
+Q10295972	'Hunnic Empire'@en	count	21
+Q1071439	'Merina Kingdom'@en	count	21
+Q10914393	'Neo-Assyrian Empire'@en	count	21
+Q111471	'Dál Riata'@en	count	21
+Q111822288	'Second Bani Khalid Emirate'@en	count	21
+Q1191125	'Moghulistan'@en	count	21
+Q1241847	'Giudicato of Arborea'@en	count	21
+Q1328546	'Kucha'@en	count	21
+Q1414395	'Republic of South Maluku'@en	count	21
+Q146328	'Commonwealth of the Philippines'@en	count	21
+Q146872	'State of Aleppo'@en	count	21
+Q1469100	'Beylik of Karaman'@en	count	21
+Q1553143	'Alwar State'@en	count	21
+Q1678784	'Jaisalmer State'@en	count	21
+Q1728782	'Kapurthala State'@en	count	21
+Q1778994	'Kuban People\'s Republic'@en	count	21
+Q1779823	'Alash Autonomy'@en	count	21
+Q187684	'Despotate of Epirus'@en	count	21
+Q191484	'Old Great Bulgaria'@en	count	21
+Q1923401	'Zunghar Khanate'@en	count	21
+Q2086556	'Kakatiya dynasty'@en	count	21
+Q20949725	'Principality of Sperlinga'@en	count	21
+Q2300296	'Latvian Socialist Soviet Republic'@en	count	21
+Q2305337	'Azerbaijan People\'s Government'@en	count	21
+Q2578706	'Kingdom of Ceredigion'@en	count	21
+Q2603305	'Federation of Ethiopia and Eritrea'@en	count	21
+Q265824	'Second Hellenic Republic'@en	count	21
+Q2719360	'Duchy of Luxembourg'@en	count	21
+Q27260	'Samma dynasty'@en	count	21
+Q28405	'Gojoseon'@en	count	21
+Q28511	'Buyeo'@en	count	21
+Q2980623	'Kingdom of Bosnia'@en	count	21
+Q3013827	'Hellenic State'@en	count	21
+Q3087763	'Republic of Egypt (1953–1958)'@en	count	21
+Q309272	'Mauretania'@en	count	21
+Q325493	'Kingdom of Abkhazia'@en	count	21
+Q3324486	'Prince-Bishopric of Montenegro'@en	count	21
+Q357201	'Burgundy'@en	count	21
+Q49326	'Majapahit'@en	count	21
+Q54805326	'lordship of Échéry'@en	count	21
+Q5848651	'United States of Venezuela'@en	count	21
+Q61427	'Donetsk-Krivoy Rog Soviet Republic'@en	count	21
+Q624638	'Arachosia'@en	count	21
+Q631210	'Nogai Horde'@en	count	21
+Q676184	'Kingdom of Sussex'@en	count	21
+Q684030	'Principality of Serbia'@en	count	21
+Q692946	'Gorizia and Gradisca'@en	count	21
+Q695322	'Landgraviate of Hesse'@en	count	21
+Q697787	'Duchy of Limburg'@en	count	21
+Q707584	'County of Loon'@en	count	21
+Q72785	'Cretan State'@en	count	21
+Q729481	'Transpadane Republic'@en	count	21
+Q775550	'Adamawa Emirate'@en	count	21
+Q828443	'Senegambia Confederation'@en	count	21
+Q8341881	'Persian Socialist Soviet Republic'@en	count	21
+Q856843	'United Arab States'@en	count	21
+Q874954	'Principality of Theodoro'@en	count	21
+Q877155	'Chera Dynasty'@en	count	21
+Q877619	'French Consulate'@en	count	21
+Q889912	'Toro Kingdom'@en	count	21
+Q97940882	'Free City of Seltz'@en	count	21
+Q110888	'Kingdom of Essex'@en	count	20
+Q1117051	'Kingdom of Illyria'@en	count	20
+Q130802	'Alawite State'@en	count	20
+Q1395320	'Duchy of Siewierz'@en	count	20
+Q1396700	'Faridkot State'@en	count	20
+Q1408764	'Circassia'@en	count	20
+Q1520008	'Duchy of Neopatria'@en	count	20
+Q152855	'Kingdom of Tungning'@en	count	20
+Q1656908	'Idrisid Emirate of Asir'@en	count	20
+Q1658411	'Raj of Sarawak'@en	count	20
+Q1757296	'Soli'@en	count	20
+Q1760473	'Principality of Abkhazia'@en	count	20
+Q1852345	'Trucial States'@en	count	20
+Q19901436	'Suriname'@en	count	20
+Q210163	'Astrakhan Khanate'@en	count	20
+Q2122499	'Surakarta Sunanate'@en	count	20
+Q2261321	'Beylik of Adana'@en	count	20
+Q2288441	'Kingdom of Candia'@en	count	20
+Q2347668	'Libyan Arab Republic'@en	count	20
+Q2381337	'Ukrainian People\'s Republic of Soviets'@en	count	20
+Q25424205	'Sultanate of Mohéli'@en	count	20
+Q2625496	'State of East Indonesia'@en	count	20
+Q2641492	'Triveneto'@en	count	20
+Q2704093	'Military dictatorship of Chile'@en	count	20
+Q2872689	'Turkestan Autonomy'@en	count	20
+Q325461	'Kingdom of Thessalonica'@en	count	20
+Q328818	'Kingdom of Kent'@en	count	20
+Q3307686	'Visigothic Kingdom of Tolosa'@en	count	20
+Q3845765	'Marquisate of Zuccarello'@en	count	20
+Q39501433	'State of Venezuela'@en	count	20
+Q4080196	'Bashkurdistan'@en	count	20
+Q4393602	'Republic of the North Solomons'@en	count	20
+Q4445623	'Duchy of Suzdal'@en	count	20
+Q5177890	'County of Luxembourg'@en	count	20
+Q536476	'Toucouleur Empire'@en	count	20
+Q616992	'Governorate of Montenegro'@en	count	20
+Q697084	'Duchy of Oldenburg'@en	count	20
+Q698089	'Grand Duchy of Würzburg'@en	count	20
+Q715257	'Later Silla'@en	count	20
+Q76821846	'Medina community'@en	count	20
+Q777981	'Duchy of the Archipelago'@en	count	20
+Q797214	'French Togoland'@en	count	20
+Q837187	'Hamdanid dynasty'@en	count	20
+Q853477	'Lan Xang'@en	count	20
+Q854468	'Kingdom of Mutapa'@en	count	20
+Q870517	'Odrysian kingdom'@en	count	20
+Q910505	'Tmutarakan'@en	count	20
+Q96204511	'Bahrain and its Dependencies'@en	count	20
+Q1029847	'Natalia Republic'@en	count	19
+Q10416611	'Vandal Kingdom'@en	count	19
+Q1057551	'Loulan Kingdom'@en	count	19
+Q1108659	'Republic of Benin'@en	count	19
+Q11876909	'State of Brazil'@en	count	19
+Q1232887	'County of Savoy'@en	count	19
+Q146562	'State of Damascus'@en	count	19
+Q146597	'Zand dynasty'@en	count	19
+Q1472105	'Kingdom of Haiti'@en	count	19
+Q149427	'Samo\'s Empire'@en	count	19
+Q1541813	'County of Roussillon'@en	count	19
+Q1606043	'Siberian Republic'@en	count	19
+Q1627675	'Pyu city-states'@en	count	19
+Q16595757	'Genoese Republic'@en	count	19
+Q1756546	'Kingdom of Nejd and Hejaz'@en	count	19
+Q18608788	'Ghurid Empire'@en	count	19
+Q195972	'Kingdom of Kartli'@en	count	19
+Q1994382	'North Caucasian Emirate'@en	count	19
+Q2027229	'Second Philippine Republic'@en	count	19
+Q2037576	'Republic of San Marco'@en	count	19
+Q210542	'Fourth Brazilian Republic'@en	count	19
+Q22936401	'Luyag na Kaboloan'@en	count	19
+Q2415003	'Kingdom of Serbia'@en	count	19
+Q2507497	'National Legionary State'@en	count	19
+Q2605410	'Tarascan State'@en	count	19
+Q2980922	'Columbia District'@en	count	19
+Q2988765	'Sultanate of Siak Sri Indrapura'@en	count	19
+Q3028514	'Kingdom of Tahiti'@en	count	19
+Q30573	'Lokot Autonomy'@en	count	19
+Q3113481	'Principality of Transylvania'@en	count	19
+Q3279296	'Sweden-Finland'@en	count	19
+Q33061	'Taifa of Zaragoza'@en	count	19
+Q332232	'Republic of Mahabad'@en	count	19
+Q370372	'Emirate of Cyrenaica'@en	count	19
+Q4311709	'Nagpur kingdom'@en	count	19
+Q4420038	'Singapore in Federation of Malaysia'@en	count	19
+Q468902	'Middle Francia'@en	count	19
+Q4689103	'Transitional Islamic State of Afghanistan'@en	count	19
+Q48779892	'Kingdom of Naples'@en	count	19
+Q494354	'Kara-Khanid Khanate'@en	count	19
+Q528546	'First Hellenic Republic'@en	count	19
+Q547241	'Hen Ogledd'@en	count	19
+Q552157	'Nieuwe Republiek'@en	count	19
+Q55599391	'Kingdom of Sardinia (1324-1713)'@en	count	19
+Q577867	'Kingdom of Poland (1025-1385)'@en	count	19
+Q612359	'Kingdom of Lithuania'@en	count	19
+Q686965	'Anhalt-Bernburg'@en	count	19
+Q696640	'Duchy of Pomerania'@en	count	19
+Q701914	'Territory of the Military Commander in Serbia'@en	count	19
+Q716890	'Indore State'@en	count	19
+Q734867	'Banten Sultanate'@en	count	19
+Q777147	'Albanian Kingdom'@en	count	19
+Q841364	'Ayutthaya Kingdom'@en	count	19
+Q854415	'Kingdom of the Lombards'@en	count	19
+Q859966	'Bikaner State'@en	count	19
+Q866716	'Jalayirids'@en	count	19
+Q871091	'British Malaya'@en	count	19
+Q8842943	'Estado Libre del Istmo'@en	count	19
+Q888574	'Pagan Kingdom'@en	count	19
+Q9063401	'United Provinces of Central America'@en	count	19
+Q954585	'Kingdom of Brycheiniog'@en	count	19
+Q11029653	'Nabataean kingdom'@en	count	18
+Q1132786	'Ouaddai Empire'@en	count	18
+Q1155700	'Rattanakosin Kingdom'@en	count	18
+Q1172600	'Datia State'@en	count	18
+Q1209822	'Kingdom of Kakheti'@en	count	18
+Q1269234	'Stellaland'@en	count	18
+Q1275158	'Elymais'@en	count	18
+Q1375154	'Benares State'@en	count	18
+Q14624218	'Western Chalukya Empire'@en	count	18
+Q146713	'Arab Federation'@en	count	18
+Q146740	'Jabal Druze State'@en	count	18
+Q1514510	'County of Urgell'@en	count	18
+Q1517772	'Protectorate of South Arabia'@en	count	18
+Q1604981	'Ratlam State'@en	count	18
+Q163268	'Principality of Tver'@en	count	18
+Q1785349	'Kota State'@en	count	18
+Q1865132	'Aden Protectorate'@en	count	18
+Q187979	'Early Dynastic Period of Egypt'@en	count	18
+Q1923781	'Albanian Republic'@en	count	18
+Q2022804	'Socialist Republic of Chile'@en	count	18
+Q2051582	'All-Palestine Government'@en	count	18
+Q20716241	'Ten Kingdoms'@en	count	18
+Q2078820	'Odessa Soviet Republic'@en	count	18
+Q2145402	'Republic of South Peru'@en	count	18
+Q2208280	'People\'s Republic of Angola'@en	count	18
+Q2640598	'Kabardia'@en	count	18
+Q269109	'Principality of Ryazan'@en	count	18
+Q276951	'Taifa of Seville'@en	count	18
+Q313136	'Kingdom of Dumnonia'@en	count	18
+Q317078	'Pskov Republic'@en	count	18
+Q3535371	'Pudukkottai State'@en	count	18
+Q3627069	'Banate of Bosnia'@en	count	18
+Q402580	'Mataram Kingdom'@en	count	18
+Q4083686	'Sultanate of Bengal'@en	count	18
+Q42345047	'Catalan Republic (1641)'@en	count	18
+Q42346215	'Catalan State'@en	count	18
+Q463289	'Cispadane Republic'@en	count	18
+Q488880	'Greco-Bactrian Kingdom'@en	count	18
+Q538636	'Ankole'@en	count	18
+Q568638	'Duchy of Silesia'@en	count	18
+Q584435	'Pattani Kingdom'@en	count	18
+Q599613	'County of Namur'@en	count	18
+Q603771	'Emirate of Crete'@en	count	18
+Q622855	'Ifriqiya'@en	count	18
+Q637238	'Electorate of Baden'@en	count	18
+Q6680233	'Lordship of Chios'@en	count	18
+Q680472	'Principality of Volhynia'@en	count	18
+Q693570	'Duchy of Ferrara'@en	count	18
+Q697781	'Principality of Stavelot-Malmedy'@en	count	18
+Q707767	'Prince-Bishopric of Utrecht'@en	count	18
+Q717112	'Beylik of Aydın'@en	count	18
+Q7443295	'Second Federal Republic of Mexico'@en	count	18
+Q846670	'Danishmends'@en	count	18
+Q868942	'Republic of Kuwait'@en	count	18
+Q877875	'Palmyrene Empire'@en	count	18
+Q940821	'People\'s Democratic Republic of Ethiopia'@en	count	18
+Q956451	'Kingdom of Dyfed'@en	count	18
+Q963303	'Union of Lublin'@en	count	18
+Q98605707	'People\'s Revolutionary Republic of Guinea'@en	count	18
+Q1031430	'Habsburg Netherlands'@en	count	17
+Q1061488	'United States of Colombia'@en	count	17
+Q1062946	'Characene'@en	count	17
+Q1106857	'State of Somaliland'@en	count	17
+Q11913591	'Champaner'@en	count	17
+Q1307407	'Tiwanaku Empire'@en	count	17
+Q136884	'Lazica'@en	count	17
+Q139948	'Khanate of Kalat'@en	count	17
+Q146600	'Arab Kingdom of Syria'@en	count	17
+Q1530762	'Kingdom of Kandy'@en	count	17
+Q1541613	'County of Astarac'@en	count	17
+Q157109	'Burgundian Netherlands'@en	count	17
+Q157535	'People\'s Republic of Zanzibar'@en	count	17
+Q16601665	'Principality of Masserano'@en	count	17
+Q1660566	'Sultanate of Banjar'@en	count	17
+Q175934	'Pratapgarh State'@en	count	17
+Q1794352	'Electorate of Trier'@en	count	17
+Q190513	'Khanate of Sibir'@en	count	17
+Q2037817	'County of Girona'@en	count	17
+Q2096678	'Beylik of Isfendiyar'@en	count	17
+Q23022146	'Kingdom of Tonga'@en	count	17
+Q2341105	'Great Horde'@en	count	17
+Q2342282	'Oman proper'@en	count	17
+Q2414171	'First Brazilian Republic'@en	count	17
+Q2468597	'Turkish Republic of Aras'@en	count	17
+Q2477776	'Kimek Khanate'@en	count	17
+Q2618121	'Principality of Samos'@en	count	17
+Q2703679	'Crimean Regional Government'@en	count	17
+Q283627	'Margraviate of Austria'@en	count	17
+Q2907860	'Principality of Mingrelia'@en	count	17
+Q29654286	'Kingdom of Cappadocia'@en	count	17
+Q320530	'lordship of Lichtenberg'@en	count	17
+Q3624335	'Duchy of Austria'@en	count	17
+Q4147013	'Tulunid emirate'@en	count	17
+Q4210248	'Kalmyk Khanate'@en	count	17
+Q42346134	'Catalan State (1873)'@en	count	17
+Q4250299	'Autonomous Turkish Cypriot Administration'@en	count	17
+Q4412594	'Republic of Uhtua'@en	count	17
+Q506008	'Kingdom of Deira'@en	count	17
+Q5062192	'Centralist Republic of Mexico'@en	count	17
+Q5362837	'Emirate of Jabal Shammar'@en	count	17
+Q564809	'Republic of Acre'@en	count	17
+Q568523	'Nobatia'@en	count	17
+Q56885910	'Emirate of Diriyah'@en	count	17
+Q574644	'Bishopric of Speyer'@en	count	17
+Q61950933	'Kingdom of Dalmatia'@en	count	17
+Q625380	'Eastern Hungarian Kingdom'@en	count	17
+Q63149558	'Afsharid Empire'@en	count	17
+Q6553448	'State of Buenos Aires'@en	count	17
+Q657946	'Kolhapur State'@en	count	17
+Q6673921	'Lotharingia'@en	count	17
+Q676811	'Taifa of Valencia'@en	count	17
+Q746443	'Golden Ambrosian Republic'@en	count	17
+Q762084	'Bamana Empire'@en	count	17
+Q806963	'Banswara State'@en	count	17
+Q829356	'Kingdom of Makuria'@en	count	17
+Q832554	'Argentine Confederation'@en	count	17
+Q837998	'Kingdom of East Anglia'@en	count	17
+Q842390	'Tuʻi Tonga Empire'@en	count	17
+Q854850	'Bharatpur State'@en	count	17
+Q867782	'Kingdom of Funan'@en	count	17
+Q901974	'Free City of Danzig'@en	count	17
+Q933592	'Duchy of Massa and Carrara'@en	count	17
+Q976099	'Malayan Union'@en	count	17
+Q1028133	'Autonomous Albanian Republic of Korçë'@en	count	16
+Q1033421	'Hammudid dynasty'@en	count	16
+Q1046443	'Republic of Užice'@en	count	16
+Q1060520	'Chamba State'@en	count	16
+Q1141632	'Kingdom of Vientiane'@en	count	16
+Q117020	'Free Imperial City of Nuremberg'@en	count	16
+Q1207641	'Dhenkanal State'@en	count	16
+Q12150341	'Samanid Empire'@en	count	16
+Q1250763	'Emirate of Sicily'@en	count	16
+Q1252744	'Jind State'@en	count	16
+Q1322662	'Principality of Chernigov'@en	count	16
+Q1343485	'North Ingria'@en	count	16
+Q13534654	'Taifa of Toledo'@en	count	16
+Q1365851	'Minaeans'@en	count	16
+Q146862	'Second Saudi State'@en	count	16
+Q1472873	'Kingdom of Baguirmi'@en	count	16
+Q150061	'Republic of Ararat'@en	count	16
+Q1502813	'Sultanate of Agadez'@en	count	16
+Q1518576	'Provisional National Government of the Southwestern Caucasus'@en	count	16
+Q1541642	'County of Besalú'@en	count	16
+Q15890801	'Signoria of Milan'@en	count	16
+Q1615455	'Duchy of Mirandola'@en	count	16
+Q16187935	'Barony of Castalla'@en	count	16
+Q1683106	'Jaora State'@en	count	16
+Q16953965	'British Military Administration'@en	count	16
+Q175211	'Kingdom of Germany'@en	count	16
+Q1806438	'Las Bela State'@en	count	16
+Q19915237	'People\'s Republic of Albania'@en	count	16
+Q2029522	'Ternate Sultanate'@en	count	16
+Q2039087	'Chandela'@en	count	16
+Q205708	'Taifa of Granada'@en	count	16
+Q2128743	'Rajkot State'@en	count	16
+Q214102	'Union'@en	count	16
+Q215643	'Indo-Greek Kingdom'@en	count	16
+Q2295939	'Duchy of Gascony'@en	count	16
+Q2361927	'Duchy of Masovia'@en	count	16
+Q2365048	'Adal Sultanate'@en	count	16
+Q240123	'Indo-Scythians'@en	count	16
+Q252323	'Taifa of Dénia'@en	count	16
+Q2526023	'Colony of Jamaica'@en	count	16
+Q255931	'Hariphunchai'@en	count	16
+Q2597352	'Kingdom of Norway (1814)'@en	count	16
+Q282475	'Kingdom of Kartli-Kakheti'@en	count	16
+Q2979717	'Second Empire of Haiti'@en	count	16
+Q3045696	'Ottoman Algeria'@en	count	16
+Q3192661	'Kangra-Lambagraon'@en	count	16
+Q3571951	'Royal Lordship of Molina'@en	count	16
+Q3892131	'Provincia Libre de Guayaquil'@en	count	16
+Q4182327	'White movement in Transbaikal'@en	count	16
+Q537503	'Principality of Piombino'@en	count	16
+Q544630	'Republic of Maryland'@en	count	16
+Q55523	'Hokuzan'@en	count	16
+Q55659450	'Socialist Soviet Republic Of Georgia'@en	count	16
+Q568473	'Burgraviate of Nuremberg'@en	count	16
+Q624887	'Neo-Babylonian Empire'@en	count	16
+Q62519	'Finnish Democratic Republic'@en	count	16
+Q633573	'Kingdom of Rheged'@en	count	16
+Q640010	'Great Ardra'@en	count	16
+Q651377	'Shunga Empire'@en	count	16
+Q654766	'Republic of North Peru'@en	count	16
+Q657448	'County of Conflent'@en	count	16
+Q657861	'Dholpur State'@en	count	16
+Q671658	'Republic of Yucatán'@en	count	16
+Q733799	'Kingdom of the Hwicce'@en	count	16
+Q733897	'Old Babylonian Empire'@en	count	16
+Q7418448	'Eldiguzid state'@en	count	16
+Q748595	'Qataban'@en	count	16
+Q748846	'Dilmun'@en	count	16
+Q760893	'Jolof Empire'@en	count	16
+Q7877575	'Commonwealth realm of Uganda'@en	count	16
+Q809652	'Barwani State'@en	count	16
+Q878319	'Serbian Despotate'@en	count	16
+Q887803	'Bruneian Empire'@en	count	16
+Q921067	'Taifa of Murcia'@en	count	16
+Q1059707	'Lanna'@en	count	15
+Q106771868	'Sheikhdom of Diriyah'@en	count	15
+Q10988528	'Second East Turkestan Republic'@en	count	15
+Q1109279	'First Mexican Republic'@en	count	15
+Q1115291	'Thonburi Kingdom'@en	count	15
+Q1264808	'Beylik of Dulkadir'@en	count	15
+Q1311219	'Jaffna kingdom'@en	count	15
+Q1320058	'French Protectorate of Laos'@en	count	15
+Q13590051	'Kingdom of the Burgundians'@en	count	15
+Q1435466	'Limerick Soviet'@en	count	15
+Q1454024	'Free City of Mainz'@en	count	15
+Q1474791	'Sultanate of Darfur'@en	count	15
+Q1479630	'Kingdom of Loango'@en	count	15
+Q1493843	'Klein Vrystaat'@en	count	15
+Q14957246	'Hunza State'@en	count	15
+Q1533541	'Gobir'@en	count	15
+Q1541779	'County of Osona'@en	count	15
+Q1541787	'County of Pallars'@en	count	15
+Q1745385	'United States of Matsya'@en	count	15
+Q1761355	'Kuban-Black Sea Soviet Republic'@en	count	15
+Q1917014	'County of Sicily'@en	count	15
+Q202775	'Qu\'aiti Sultanate'@en	count	15
+Q2029317	'Samtskhe atabegate'@en	count	15
+Q206279	'Waalo'@en	count	15
+Q2195101	'Principality of Guria'@en	count	15
+Q225890	'Kingdom of Strathclyde'@en	count	15
+Q2287085	'Kuban Soviet Republic'@en	count	15
+Q2308237	'Ahom Kingdom'@en	count	15
+Q23366230	'Republic of Geneva'@en	count	15
+Q2437292	'Nueva Galicia'@en	count	15
+Q2458532	'Terra Mariana'@en	count	15
+Q2607292	'Eastern Turkic Khaganate'@en	count	15
+Q26234937	'First Syrian Republic'@en	count	15
+Q2935756	'Canada East'@en	count	15
+Q2989491	'Kharan State'@en	count	15
+Q2991433	'County of Sobrarbe'@en	count	15
+Q3136869	'Kingdom of Dambadeniya'@en	count	15
+Q3281269	'North Sea Empire'@en	count	15
+Q3315525	'Taifa of Majorca'@en	count	15
+Q3456487	'Sudanese Republic'@en	count	15
+Q373650	'Sur Empire'@en	count	15
+Q3755547	'Kingdom of Italy'@en	count	15
+Q3845763	'Margravate of Mantua'@en	count	15
+Q404774	'Sultanate of Lahej'@en	count	15
+Q4154364	'Sultanate of Damagaram'@en	count	15
+Q4318679	'Principality of Suzdal—Nizhny Novgorod'@en	count	15
+Q459188	'Kingdom of the Isles'@en	count	15
+Q4899891	'Beylik of Tunis'@en	count	15
+Q5622720	'Commonwealth realm of Guyana'@en	count	15
+Q5775982	'history of Ecuador (1830–1860)'@en	count	15
+Q5782830	'Muisca Confederation'@en	count	15
+Q5870215	'Third Republic of the Philippines'@en	count	15
+Q589251	'County of Montbéliard'@en	count	15
+Q639073	'South Kasai'@en	count	15
+Q65362	'SAO Eastern Slavonia, Baranja and Western Syrmia'@en	count	15
+Q655092	'Cisrhenian Republic'@en	count	15
+Q661340	'Duchy of Salzburg'@en	count	15
+Q668412	'Pala Empire'@en	count	15
+Q673837	'Landgraviate of Hesse-Marburg'@en	count	15
+Q700102	'Hohenlohe-Langenburg'@en	count	15
+Q701273	'Jinhan confederacy'@en	count	15
+Q704358	'State of Burma'@en	count	15
+Q7126720	'Palanpur State'@en	count	15
+Q7216494	'First Kingdom of Kakheti'@en	count	15
+Q761103	'Dendi Kingdom'@en	count	15
+Q770776	'Dutch Gold Coast'@en	count	15
+Q781705	'Mughan Soviet Republic'@en	count	15
+Q83536	'Anglo-Corsican Kingdom'@en	count	15
+Q889030	'Kingdom of Manipur'@en	count	15
+Q889884	'Kingdom of Rwanda'@en	count	15
+Q917553	'Patiala State'@en	count	15
+Q918204	'Rajpipla State'@en	count	15
+Q986881	'Kingdom of Butua'@en	count	15
+Q1045322	'Kingdom of Nanzhao'@en	count	14
+Q1052040	'Cayor'@en	count	14
+Q1062415	'Kingdom of Champasak'@en	count	14
+Q1146786	'Señorío of Cuzcatlán'@en	count	14
+Q1150706	'Kalinga'@en	count	14
+Q1188459	'Yarkent Khanate'@en	count	14
+Q1194765	'Kamarupa'@en	count	14
+Q1207561	'Dhar State'@en	count	14
+Q12406729	'Israeli Military Governorate'@en	count	14
+Q1247508	'Domain of Soissons'@en	count	14
+Q1268307	'Dvaravati'@en	count	14
+Q1280122	'Principality of Capua'@en	count	14
+Q1296908	'Kathiri Sultanate'@en	count	14
+Q13072974	'Socialist Republic of the Union of Burma'@en	count	14
+Q1378584	'Byeonhan confederacy'@en	count	14
+Q140446	'Zagwe dynasty'@en	count	14
+Q1406277	'Viscounts of Béarn'@en	count	14
+Q1466831	'Marion'@en	count	14
+Q146880	'State of Syria'@en	count	14
+Q149846	'County palatine of Cephalonia and Zakynthos'@en	count	14
+Q150069	'United Suvadive Republic'@en	count	14
+Q1535236	'Kalahandi State'@en	count	14
+Q1535245	'Sri Ksetra Kingdom'@en	count	14
+Q1537016	'Kanem Empire'@en	count	14
+Q1557627	'State of Franklin'@en	count	14
+Q157727	'Ifat Sultanate'@en	count	14
+Q1589163	'Kingdom of Kotte'@en	count	14
+Q16000109	'Herodian Kingdom of Judea'@en	count	14
+Q1688822	'Jhabua State'@en	count	14
+Q1806491	'Transylvania Colony'@en	count	14
+Q18129046	'Oudh State'@en	count	14
+Q1842362	'Crimean Socialist Soviet Republic'@en	count	14
+Q1900716	'Margraviate Hachberg-Sausenberg'@en	count	14
+Q1926064	'Republic of Mountainous Armenia'@en	count	14
+Q199383	'Kingdom of Ossory'@en	count	14
+Q1998401	'North Yemen'@en	count	14
+Q2001966	'Company rule in India'@en	count	14
+Q2014442	'Republic of the Rio Grande'@en	count	14
+Q2030015	'Sultanate of Deli'@en	count	14
+Q2043564	'Shamkhalate of Tarki'@en	count	14
+Q205466	'Göktürks'@en	count	14
+Q2264816	'Dogfeiling'@en	count	14
+Q2276431	'Shahpura State'@en	count	14
+Q2285679	'Taifa of Córdoba'@en	count	14
+Q2353476	'Strandzha Commune'@en	count	14
+Q2500952	'Ava Kingdom'@en	count	14
+Q2524715	'Taifa of Ronda'@en	count	14
+Q2668584	'Taifa of Carmona'@en	count	14
+Q2684394	'Taifa of Baeza'@en	count	14
+Q273025	'Gallic Empire'@en	count	14
+Q276841	'Taifa of Badajoz'@en	count	14
+Q288200	'Provisional Government of Mexico'@en	count	14
+Q2975232	'Republic of Independent Guyana'@en	count	14
+Q30890672	'Kingdom of Sicily'@en	count	14
+Q3167772	'Kingdom of Polonnaruwa'@en	count	14
+Q3241025	'Limbdi State'@en	count	14
+Q338248	'Kingdom of Luang Phrabang'@en	count	14
+Q3502470	'Cara culture'@en	count	14
+Q4075906	'Baku Commune'@en	count	14
+Q412980	'Ajmer-Merwara'@en	count	14
+Q4470663	'Ukrainian National Government'@en	count	14
+Q501754	'Carantania'@en	count	14
+Q5285024	'Diyar Bakr'@en	count	14
+Q5343710	'Kingdom of Italy'@en	count	14
+Q542165	'Despotate of Dobruja'@en	count	14
+Q55521	'Chūzan'@en	count	14
+Q58053082	'Emirate of Liptako'@en	count	14
+Q617218	'Yamhad'@en	count	14
+Q671362	'Principality of Turov and Pinsk'@en	count	14
+Q684501	'Duchy of Głogów'@en	count	14
+Q699871	'Taebong'@en	count	14
+Q701969	'Principality of Regensburg'@en	count	14
+Q7251405	'Protectorate of Peru'@en	count	14
+Q756895	'Kediri'@en	count	14
+Q771193	'Kingdom of Brittany'@en	count	14
+Q774783	'Sovereign Principality of the United Netherlands'@en	count	14
+Q807068	'Baol'@en	count	14
+Q809955	'Bashahr State'@en	count	14
+Q827040	'Nanyue'@en	count	14
+Q831218	'Uyghur Khaganate'@en	count	14
+Q846025	'Mahajanapada'@en	count	14
+Q860407	'Kahlur State'@en	count	14
+Q863279	'Sukhothai Kingdom'@en	count	14
+Q8950	'Second Republic of Venezuela'@en	count	14
+Q90579326	'Socialist Soviet Republic Of Armenia'@en	count	14
+Q913828	'Republic of Prekmurje'@en	count	14
+Q929357	'Nabha State'@en	count	14
+Q96028967	'Emirate of Nejd and Hasa'@en	count	14
+Q965346	'Tripolitanian Republic'@en	count	14
+Q979756	'Free State of Mecklenburg-Strelitz'@en	count	14
+Q1064825	'Livonian confederation'@en	count	13
+Q107258515	'Pahlavi Iran'@en	count	13
+Q108865218	'mandatory Lebanese Republic'@en	count	13
+Q108865226	'State of Greater Lebanon'@en	count	13
+Q1137403	'Yue'@en	count	13
+Q1155818	'Anga Kingdom'@en	count	13
+Q1192437	'East Sumatra'@en	count	13
+Q1277895	'Türgesh'@en	count	13
+Q13107370	'Principality of Serbia (early medieval)'@en	count	13
+Q13131807	'Kingdom of Morgannwg'@en	count	13
+Q1329990	'Lapathus'@en	count	13
+Q1333032	'Elmet'@en	count	13
+Q1337828	'Emirate of Tbilisi'@en	count	13
+Q139315	'Dʿmt'@en	count	13
+Q1407718	'Confederate Ireland'@en	count	13
+Q1463691	'Anconine Republic'@en	count	13
+Q1476723	'Sachin State'@en	count	13
+Q1479952	'Kadamba Dynasty'@en	count	13
+Q149861	'Dithmarschen'@en	count	13
+Q1587244	'Kong Empire'@en	count	13
+Q1588434	'Thanjavur Nayak kingdom'@en	count	13
+Q16685842	'State of the Comoros'@en	count	13
+Q1688526	'Yettishar'@en	count	13
+Q17015016	'Bishopric of Verdun'@en	count	13
+Q1740533	'Baku Khanate'@en	count	13
+Q1791839	'Akwamu'@en	count	13
+Q18634909	'Worker\'s Socialist Respublic of Amur'@en	count	13
+Q190636	'Centrocaspian Dictatorship'@en	count	13
+Q192262	'Autonomous Province of Western Bosnia'@en	count	13
+Q1968654	'Beylik of Saruhan'@en	count	13
+Q1991540	'Duchy of Courland and Semigallia'@en	count	13
+Q2006756	'First Empire of Haiti'@en	count	13
+Q2034184	'Tastil'@en	count	13
+Q2060937	'Taifa of Albarracín'@en	count	13
+Q2096935	'Kingdom of Sedang'@en	count	13
+Q2121220	'Quiché\' Kingdom of Q\'umarkaj'@en	count	13
+Q2150951	'State of Haiti'@en	count	13
+Q22684779	'Omani Empire'@en	count	13
+Q2428714	'Sena dynasty'@en	count	13
+Q2485209	'Emirate of Beihan'@en	count	13
+Q24863078	'United States administered Bonin Islands'@en	count	13
+Q25413868	'Bolivian State'@en	count	13
+Q25432445	'Alawite Territory'@en	count	13
+Q2665520	'Lordship of Prilep'@en	count	13
+Q2668600	'Taifa of Niebla'@en	count	13
+Q267484	'Taifa of Málaga'@en	count	13
+Q2712121	'Irish Republic'@en	count	13
+Q2741089	'Greater Republic of Central America'@en	count	13
+Q3053276	'Byzantine Empire under the Palaiologos dynasty'@en	count	13
+Q3177663	'Pakualaman'@en	count	13
+Q3177715	'Pagaruyung Kingdom'@en	count	13
+Q318987	'Bishopric of Eichstätt'@en	count	13
+Q325725	'Duchy of Wroclaw'@en	count	13
+Q332337	'League of Corinth'@en	count	13
+Q3348640	'Italian Ethiopia'@en	count	13
+Q3532158	'Venad'@en	count	13
+Q355857	'Switzerland as a federal state'@en	count	13
+Q3765117	'Eastern Chalukyas'@en	count	13
+Q385084	'Great Perm'@en	count	13
+Q3932084	'Kingdom of Tambapanni'@en	count	13
+Q4086877	'Muhammad in Medina'@en	count	13
+Q4118614	'Sultanate of Tidore'@en	count	13
+Q4124689	'Free City of Riga'@en	count	13
+Q4148098	'Norwegian Jarldom of Orkney'@en	count	13
+Q4202331	'Kingdom of Chiangmai'@en	count	13
+Q4274522	'Tyrconnell'@en	count	13
+Q436994	'Kingdom of Dublin'@en	count	13
+Q4827705	'Avanti'@en	count	13
+Q48742118	'Kingdom of Italy under Fascism'@en	count	13
+Q5171759	'Corniculum'@en	count	13
+Q5228183	'Kingdom of Vaspurakan'@en	count	13
+Q5326812	'Fairy tale of Kedah'@en	count	13
+Q546266	'County of Champagne'@en	count	13
+Q552328	'Mannaeans'@en	count	13
+Q55522	'Nanzan'@en	count	13
+Q623151	'Empire of Thessalonica'@en	count	13
+Q638064	'Shirvan'@en	count	13
+Q6392538	'Commonwealth realm of Kenya'@en	count	13
+Q640998	'Senior juz'@en	count	13
+Q6412664	'Realm of Stefan Dragutin'@en	count	13
+Q649310	'Idar State'@en	count	13
+Q6753657	'Maona of Chios and Phocaea'@en	count	13
+Q698239	'Hubaekje'@en	count	13
+Q701337	'Empire of Vietnam'@en	count	13
+Q707128	'Jeong-an kingdom'@en	count	13
+Q708865	'Reformed Government of the Republic of China'@en	count	13
+Q756854	'Kosala'@en	count	13
+Q758709	'Audhali'@en	count	13
+Q7842409	'Commonwealth realm of Trinidad and Tobago'@en	count	13
+Q831048	'Nassau-Hadamar'@en	count	13
+Q855058	'Bhor State'@en	count	13
+Q862404	'Sultanate of Hobyo'@en	count	13
+Q862532	'Ajuuraan state'@en	count	13
+Q885304	'Margraviate of Baden-Hachberg'@en	count	13
+Q914031	'Tonk State'@en	count	13
+Q927154	'Tsardom of Vidin'@en	count	13
+Q956729	'Counts of Berga'@en	count	13
+Q1028095	'Cambay State'@en	count	12
+Q1062546	'Later Jin'@en	count	12
+Q106504426	'Golconda Sultanate'@en	count	12
+Q107312248	'Republic of China'@en	count	12
+Q10748344	'Provisional Central Government of Vietnam'@en	count	12
+Q108868568	'mandatory Syrian Republic'@en	count	12
+Q1089675	'Chobanids'@en	count	12
+Q11061992	'Government of the Republic of China in Guangzhou'@en	count	12
+Q11177699	'Czechoslovak Federative Republic'@en	count	12
+Q11266977	'Epirus'@en	count	12
+Q11344632	'Sultanate of the Maldives'@en	count	12
+Q1149098	'Dai'@en	count	12
+Q1157054	'Daegaya'@en	count	12
+Q116080	'Polish Underground State'@en	count	12
+Q1196201	'Tuyuhun'@en	count	12
+Q12167518	'Kholodny Yar Republic'@en	count	12
+Q1261908	'Principality of Pereyaslavl'@en	count	12
+Q1292987	'Maravi'@en	count	12
+Q1362278	'United States of Stellaland'@en	count	12
+Q1435740	'Fogny'@en	count	12
+Q1541353	'Sirmoor State'@en	count	12
+Q1541723	'Lippe'@en	count	12
+Q1562357	'Republic of Central Albania'@en	count	12
+Q156506	'Serbian-Hungarian Baranya-Baja Republic'@en	count	12
+Q1658023	'Ijebu Kingdom'@en	count	12
+Q16656928	'Kazan kingdom'@en	count	12
+Q16958904	'Kingdom of the Morea'@en	count	12
+Q1740529	'Derbent khanate'@en	count	12
+Q1740536	'Ganja khanate'@en	count	12
+Q1768252	'Kingdom of Luba'@en	count	12
+Q1771706	'Alania'@en	count	12
+Q1771831	'Kruševo Republic'@en	count	12
+Q1885093	'Mahra Sultanate'@en	count	12
+Q1931074	'Sarbadars'@en	count	12
+Q1989935	'Provisional Government of Albania'@en	count	12
+Q2067314	'County of Bigorre'@en	count	12
+Q2077648	'Sultanate of Cirebon'@en	count	12
+Q2086608	'Western Satraps'@en	count	12
+Q2196956	'Kingdom of Norway (872–1397)'@en	count	12
+Q2221701	'Sangli State'@en	count	12
+Q2253783	'Kingdom of Glywysing'@en	count	12
+Q2268597	'United Provinces of Central Italy'@en	count	12
+Q2273304	'Moravian Serbia'@en	count	12
+Q2290502	'Sitamau State'@en	count	12
+Q2308885	'Lemko Republic'@en	count	12
+Q2326511	'Republica Bernensis'@en	count	12
+Q23501351	'Shamshadil'@en	count	12
+Q23541302	'Kaluga Soviet Republic'@en	count	12
+Q2368688	'Republic of Cabinda'@en	count	12
+Q2390716	'Kingdom of Pajang'@en	count	12
+Q2412900	'Republic of Salé'@en	count	12
+Q2413855	'Juliana Republic'@en	count	12
+Q2456191	'Kingdom of Seisyllwg'@en	count	12
+Q248572	'Sultanate of Maguindanao'@en	count	12
+Q2510537	'Komancza Republic'@en	count	12
+Q2528503	'Sarmatia'@en	count	12
+Q2548416	'Wankaner State'@en	count	12
+Q2624304	'Charkhari State'@en	count	12
+Q26472	'Dali Kingdom'@en	count	12
+Q2817348	'Bima Sultanate'@en	count	12
+Q28307	'Mustang'@en	count	12
+Q2899771	'Principality of Hungary'@en	count	12
+Q2989469	'Makran'@en	count	12
+Q3048062	'Orange River Sovereignty'@en	count	12
+Q322062	'Duchy of Jülich-Berg'@en	count	12
+Q3267672	'Republic of Entre Ríos'@en	count	12
+Q3284315	'Pasai'@en	count	12
+Q3302610	'Restored Hanthawaddy Kingdom'@en	count	12
+Q3321385	'Yeke Kingdom'@en	count	12
+Q3446232	'Tanjungpura Kingdom'@en	count	12
+Q3486796	'Republic of the Sudan'@en	count	12
+Q3503548	'Sultanate of Bulungan'@en	count	12
+Q3503559	'Sultanate of Serdang'@en	count	12
+Q3560494	'Eastern Xia'@en	count	12
+Q3738649	'Dual monarchy of England and France'@en	count	12
+Q3963975	'Akkalkot State'@en	count	12
+Q4147012	'State of Buryat-Mongolia'@en	count	12
+Q4147015	'Principality of Philaretos Brachamios'@en	count	12
+Q4184652	'Transcaspian Government'@en	count	12
+Q4208290	'Kazikumukh Khanate'@en	count	12
+Q4208754	'Kaitag Utsmiate'@en	count	12
+Q4397927	'Russian Democratic Federative Republic'@en	count	12
+Q481766	'Amurru kingdom'@en	count	12
+Q498735	'division of Korea'@en	count	12
+Q502009	'State of Maranhão'@en	count	12
+Q509572	'Koch Bihar'@en	count	12
+Q5102103	'Reddy Dynasty'@en	count	12
+Q5589262	'Government of National Salvation'@en	count	12
+Q560771	'Margraviate of Baden-Baden'@en	count	12
+Q581741	'Chimor'@en	count	12
+Q5947557	'Taifa of Ceuta (1061-1084)'@en	count	12
+Q63135869	'Ayyubid Sultanate'@en	count	12
+Q665833	'Soviet Republic of Naissaar'@en	count	12
+Q668415	'Orchha State'@en	count	12
+Q669241	'League of Lezhë'@en	count	12
+Q68257522	'State of Guatemala'@en	count	12
+Q691037	'Busoga'@en	count	12
+Q703195	'Later Balhae'@en	count	12
+Q707917	'East Hebei Autonomous Council'@en	count	12
+Q7882199	'Burgundian State'@en	count	12
+Q796651	'Azcapotzalco'@en	count	12
+Q836169	'Qasim Khanate'@en	count	12
+Q838416	'Association internationale du Congo'@en	count	12
+Q861784	'Sultanate of Mogadishu'@en	count	12
+Q871792	'Ottoman Greece'@en	count	12
+Q87791	'Frisian Kingdom'@en	count	12
+Q892272	'Bundu'@en	count	12
+Q903061	'Cochinchina Autonomous Republic'@en	count	12
+Q922317	'Morvi State'@en	count	12
+Q941887	'Beylik of Karasi'@en	count	12
+Q973433	'Dungarpur State'@en	count	12
+Q999381	'Jefferson Territory'@en	count	12
+Q1068408	'Kuru Kingdom'@en	count	11
+Q1071493	'Chhatarpur State'@en	count	11
+Q1088024	'Meirionnydd'@en	count	11
+Q11704201	'Taifa of Arjona'@en	count	11
+Q1172593	'Dathina'@en	count	11
+Q11750128	'Kingdom of Poland'@en	count	11
+Q11950939	'Tasik'@en	count	11
+Q1196298	'Chouchi Kingdom'@en	count	11
+Q1207105	'Dewas State'@en	count	11
+Q12183875	'Sharifian Empire'@en	count	11
+Q121869	'Nupe'@en	count	11
+Q1255614	'Indo-Parthian Kingdom'@en	count	11
+Q12642600	'Middle Assyrian Empire'@en	count	11
+Q12817455	'County of Nassau'@en	count	11
+Q1295806	'Lower Yafa'@en	count	11
+Q129799	'Bukey Horde'@en	count	11
+Q1322424	'Maakhir'@en	count	11
+Q1345964	'Gododdin'@en	count	11
+Q13496558	'Bishopric of Brixen'@en	count	11
+Q149832	'Kingdom of Kurdistan'@en	count	11
+Q15243157	'Luwu'@en	count	11
+Q1540575	'Gozo'@en	count	11
+Q1545942	'Nawanagar State'@en	count	11
+Q15535871	'Uzbek Khanate'@en	count	11
+Q1614427	'Montpellier seigneury'@en	count	11
+Q1627613	'Republic of Ancona'@en	count	11
+Q1629505	'Kingdom of Bamum'@en	count	11
+Q1638408	'Rinpungpa'@en	count	11
+Q1649290	'Idel-Ural State'@en	count	11
+Q16881283	'Sultanate of Muscat'@en	count	11
+Q17030701	'Kingdom of Tlemcen'@en	count	11
+Q1760404	'Uqaylid Dynasty'@en	count	11
+Q1761381	'Giudicato of Logudoro'@en	count	11
+Q176466	'Rewa State'@en	count	11
+Q1796223	'Kingdom of Lunda'@en	count	11
+Q180235	'Wadhwan State'@en	count	11
+Q1812976	'Emirate of Trarza'@en	count	11
+Q18164260	'Radhanpur State'@en	count	11
+Q182279	'Fadhli Sultanate'@en	count	11
+Q19837669	'Principality of Salm'@en	count	11
+Q1994569	'Taifa of Silves'@en	count	11
+Q2042616	'Chalkidian League'@en	count	11
+Q2077765	'Taifa of Santa Maria do Algarve'@en	count	11
+Q2109946	'Principality of Galilee'@en	count	11
+Q2121850	'Aqrabi'@en	count	11
+Q21694591	'Takasago'@en	count	11
+Q2247225	'Tarumanagara'@en	count	11
+Q2297073	'Giudicato of Cagliari'@en	count	11
+Q2436604	'Taifa of Mértola'@en	count	11
+Q2506068	'Azadistan'@en	count	11
+Q2534729	'Tournaisis'@en	count	11
+Q2564694	'Powys Fadog'@en	count	11
+Q2576305	'Duchy of Croatia'@en	count	11
+Q2580032	'Taifa of Almería'@en	count	11
+Q2593459	'Provisional Government of Hawaii'@en	count	11
+Q2594661	'Kingdom of Gwent'@en	count	11
+Q2620668	'Kingdom of Viguera'@en	count	11
+Q26234049	'Brussels Republic'@en	count	11
+Q2626105	'Kingdom of Sophene'@en	count	11
+Q2670639	'Powys Wenwynwyn'@en	count	11
+Q303836	'Republic of Tarnobrzeg'@en	count	11
+Q30609	'Independent Macedonia'@en	count	11
+Q3079884	'Fuladu'@en	count	11
+Q3177676	'Pakuan Pajajaran'@en	count	11
+Q3233989	'Lanfang Republic'@en	count	11
+Q3324546	'Sovereign Council of Asturias and León'@en	count	11
+Q3326429	'Mount Lebanon Mutasarrifate'@en	count	11
+Q3338842	'State of Maranhão and Piauí'@en	count	11
+Q3339389	'State of Grão-Pará and Rio Negro'@en	count	11
+Q3393334	'Signoria of Florence'@en	count	11
+Q3456469	'Republic of Liège'@en	count	11
+Q3496573	'Republic of Zamboanga'@en	count	11
+Q3530610	'Thanjavur Maratha kingdom'@en	count	11
+Q3566568	'Wassoulou'@en	count	11
+Q369587	'Kingdom of Kakongo'@en	count	11
+Q3932080	'Kingdom of Sardinia and Corsica'@en	count	11
+Q3960415	'Signoria di Correggio'@en	count	11
+Q4167201	'Dosso Kingdom'@en	count	11
+Q4453003	'Tashkent State'@en	count	11
+Q49322	'Demak'@en	count	11
+Q501684	'Kingdom of Gomma'@en	count	11
+Q507346	'Baté Empire'@en	count	11
+Q5483255	'Republic of Quito'@en	count	11
+Q5675285	'Kazembe'@en	count	11
+Q616965	'State of Grão-Pará and Maranhão'@en	count	11
+Q62389	'Icelandic Commonwealth'@en	count	11
+Q6412538	'Kingdom of Araba'@en	count	11
+Q6412613	'Kingdom of Kano'@en	count	11
+Q648046	'United Duchies of Jülich-Cleves-Berg'@en	count	11
+Q65037349	'Saffarid Empire'@en	count	11
+Q6741448	'Commonwealth realm of Malawi'@en	count	11
+Q680997	'Principality of Lower Pannonia'@en	count	11
+Q7308003	'Regency Council'@en	count	11
+Q7314513	'Republic of South Carolina'@en	count	11
+Q764697	'Taifa of Orihuela'@en	count	11
+Q784963	'Anglo-Saxon England'@en	count	11
+Q8067629	'Zazzau'@en	count	11
+Q886986	'Kingdom of Lindsey'@en	count	11
+Q889970	'Jorvik'@en	count	11
+Q904346	'Kingdom of Desmond'@en	count	11
+Q914898	'Kingdom of Khotan'@en	count	11
+Q949268	'Nanda Empire'@en	count	11
+Q96404668	'Emirate of Qatar'@en	count	11
+Q976913	'Narsinghgarh State'@en	count	11
+Q1029062	'Martyazo'@en	count	10
+Q105633777	'British Protectorate of Qatar'@en	count	10
+Q1067513	'Injuids'@en	count	10
+Q1068171	'Tarhuntassa'@en	count	10
+Q10950147	'Western Pomerania'@en	count	10
+Q1099731	'Oghuz Yabgu State'@en	count	10
+Q111967268	'Islamic government of Laristan'@en	count	10
+Q112062660	'Portuguese Cochin'@en	count	10
+Q1155101	'Jin'@en	count	10
+Q11681694	'Republic of Spanish Haiti'@en	count	10
+Q1186858	'Empire of Great Fulo'@en	count	10
+Q11944481	'Raghogarh State'@en	count	10
+Q1257607	'United Nations Transitional Administration for Eastern Slavonia, Baranja and Western Sirmium'@en	count	10
+Q1261743	'Samthar State'@en	count	10
+Q1311805	'Travunia'@en	count	10
+Q13134747	'Batavian Commonwealth'@en	count	10
+Q1324889	'Beylik of Germiyan'@en	count	10
+Q1357404	'Chiang Hung'@en	count	10
+Q13576027	'Prome Kingdom'@en	count	10
+Q1367119	'Upper Yafa'@en	count	10
+Q1398212	'Rhodanic Republic'@en	count	10
+Q1400780	'Sailana State'@en	count	10
+Q143309	'Counts of Louvain'@en	count	10
+Q1461024	'Kingdom of Yamma'@en	count	10
+Q1471373	'Saloum'@en	count	10
+Q14920623	'Commonwealth realm of Sierra Leone'@en	count	10
+Q1515009	'Duchy of Greater Poland'@en	count	10
+Q1541812	'County of Troyes'@en	count	10
+Q1550130	'Kingdom of Artsakh'@en	count	10
+Q1588594	'Panna State'@en	count	10
+Q1607154	'Savanur State'@en	count	10
+Q16624774	'Kingdom of Nicoya'@en	count	10
+Q16850784	'Kingdom of Jolof'@en	count	10
+Q1709337	'Kingdom of Nekor'@en	count	10
+Q17311418	'Guler State'@en	count	10
+Q1796232	'Kingdom of Ndongo'@en	count	10
+Q187461	'Kingdom of Hereti'@en	count	10
+Q1949159	'Black Sea Soviet Republic'@en	count	10
+Q1951726	'Mudhol State'@en	count	10
+Q2028318	'Gurian Republic'@en	count	10
+Q2047076	'Yenisei Kyrgyz Khaganate'@en	count	10
+Q2081763	'Taifa of Saltés and Huelva'@en	count	10
+Q209327	'Kuba Kingdom'@en	count	10
+Q20973653	'Kingdom of Munster'@en	count	10
+Q2122988	'Zamorin of Calicut'@en	count	10
+Q2145397	'Goshen'@en	count	10
+Q2166417	'Taifa of Lérida'@en	count	10
+Q220167	'Lydenburg Republic'@en	count	10
+Q2314963	'Kingdom of Cusco'@en	count	10
+Q2327097	'Imperial City of Windsheim'@en	count	10
+Q2327139	'Taifa of Guadix and Baza'@en	count	10
+Q2368545	'Surguja State'@en	count	10
+Q2370784	'Shun Dynasty'@en	count	10
+Q2390604	'Taifa of Arcos'@en	count	10
+Q2552742	'Northland State'@en	count	10
+Q2579852	'Taurida Soviet Socialist Republic'@en	count	10
+Q2620565	'Taifa of Lisbon'@en	count	10
+Q2634240	'Asahan Sultanate'@en	count	10
+Q2657134	'Kingdom of Albania'@en	count	10
+Q2670895	'Taifa of Alpuente'@en	count	10
+Q2671329	'Taifa of Calatayud'@en	count	10
+Q2723760	'Giudicato of Gallura'@en	count	10
+Q27842	'Kingdom of Singapura'@en	count	10
+Q282350	'Land of Punt'@en	count	10
+Q283330	'County of Buren'@en	count	10
+Q2991084	'county of Anjou'@en	count	10
+Q3175929	'Mirdasid dynasty'@en	count	10
+Q3359147	'Videha'@en	count	10
+Q3446243	'Kingdom of Ait Abbas'@en	count	10
+Q3456373	'Republic of Brescia'@en	count	10
+Q3482103	'Shilluk Kingdom'@en	count	10
+Q3556993	'Viscounty of Léon'@en	count	10
+Q3623202	'District of Branković'@en	count	10
+Q3653113	'Kingdom of Syunik'@en	count	10
+Q3847034	'Margraviate of Istria'@en	count	10
+Q39082339	'Saffarid State'@en	count	10
+Q3933247	'Republic of Noli'@en	count	10
+Q4060371	'Alabama in the American Civil War'@en	count	10
+Q4127081	'Provisional Ferghana government'@en	count	10
+Q4199254	'Sultanate Taranchinsky'@en	count	10
+Q4401303	'Butuan (historical polity)'@en	count	10
+Q4416710	'SAO Western Slavonia'@en	count	10
+Q4529862	'Principality of Èdesskoe'@en	count	10
+Q4783395	'Xianbei state'@en	count	10
+Q4903979	'Bida Emirate'@en	count	10
+Q4955540	'Brahmana Hindu Shahis of Afghanistan'@en	count	10
+Q532048	'Sandur State'@en	count	10
+Q5369469	'Dumakru'@en	count	10
+Q544636	'County of Verdun'@en	count	10
+Q5692614	'Kingdom of Najera'@en	count	10
+Q5694183	'taifa of Algeciras and Ronda'@en	count	10
+Q605000	'North Caucasian Soviet Republic'@en	count	10
+Q605199	'Vajji'@en	count	10
+Q605292	'Kindah Kingdom'@en	count	10
+Q6123742	'Second Republic (Dominican Republic)'@en	count	10
+Q6415938	'Emirate of Dhala'@en	count	10
+Q65182752	'State of El Salvador'@en	count	10
+Q68256371	'State of Costa Rica'@en	count	10
+Q696913	'Banat of Temeswar'@en	count	10
+Q703340	'Wiman Joseon'@en	count	10
+Q715210	'Geumgwan Gaya'@en	count	10
+Q7245103	'Principality of Gjirokastër'@en	count	10
+Q786080	'Kombo'@en	count	10
+Q7893618	'United Tribes of New Zealand'@en	count	10
+Q8050352	'Yauri Emirate'@en	count	10
+Q8146595	'Upingtonia'@en	count	10
+Q818666	'Berar Sultanate'@en	count	10
+Q825902	'Polish–Lithuanian union'@en	count	10
+Q874283	'Latin League'@en	count	10
+Q892292	'Bone Sultanate'@en	count	10
+Q918500	'Bantva Manavadar State'@en	count	10
+Q924833	'Kaarta'@en	count	10
+Q932393	'Raigarh State'@en	count	10
+Q9391434	'United Kingdom of Poland'@en	count	10
+Q954891	'Free State of Waldeck-Pyrmont'@en	count	10
+Q958477	'Republic of Utrecht'@en	count	10
+Q96051590	'Republic „Otto Luoghi“'@en	count	10
+Q9713085	'Lordship of Gibelet'@en	count	10
+Q999297	'Maihar State'@en	count	10
+Q104178033	'second taïfa of Ceuta'@en	count	9
+Q104192511	'Taifa of Valencia (second period)'@en	count	9
+Q10463	'Captaincy General of Venezuela'@en	count	9
+Q1047069	'Kizzuwatna'@en	count	9
+Q10715354	'Neo-Inca State'@en	count	9
+Q10749897	'Ancient Hawaii'@en	count	9
+Q10921634	'Khoshut Khanate'@en	count	9
+Q110133597	'County of Vianden'@en	count	9
+Q11089317	'North Shanxi Autonomous Government'@en	count	9
+Q11237141	'Kalingga'@en	count	9
+Q1152508	'Ducato di Brescia'@en	count	9
+Q11621245	'Mongol United Autonomous Government'@en	count	9
+Q1178974	'Daxi'@en	count	9
+Q1183649	'Deccan sultanates'@en	count	9
+Q11919179	'Taifa Tudela'@en	count	9
+Q119695	'New Castile Governorate'@en	count	9
+Q12163800	'Ukrainian State'@en	count	9
+Q124298	'Marquisate of Bodonitsa'@en	count	9
+Q12491034	'Kahuripan'@en	count	9
+Q1269910	'Republic of Madawaska'@en	count	9
+Q12739306	'Comrat Republic'@en	count	9
+Q1278242	'Eastern States Union'@en	count	9
+Q12816977	'Kanker State'@en	count	9
+Q1353404	'Principality of Kastrioti'@en	count	9
+Q1389743	'Kotoko kingdom'@en	count	9
+Q1408641	'Sultanate of Gowa'@en	count	9
+Q1411349	'County of Armagnac'@en	count	9
+Q1444485	'Empire of Kitara'@en	count	9
+Q145749	'Kingdom of Nri'@en	count	9
+Q1462877	'Kingdom of Kaffa'@en	count	9
+Q14759030	'Commonwealth realm of Mauritius'@en	count	9
+Q1493766	'Gao Empire'@en	count	9
+Q16178404	'Giri Sunanate'@en	count	9
+Q1641428	'Upper Aulaqi Sheikhdom'@en	count	9
+Q1642472	'Tondo (historical polity)'@en	count	9
+Q16761250	'Republika Srpska'@en	count	9
+Q1681450	'Jamkhandi State'@en	count	9
+Q16824250	'West Breifne'@en	count	9
+Q16826607	'State of Bahrain'@en	count	9
+Q1683696	'Diarra'@en	count	9
+Q1683756	'Jasdan State'@en	count	9
+Q16838406	'Gangpur State'@en	count	9
+Q17062152	'Takasankoku'@en	count	9
+Q1716449	'Kingdom of Whydah'@en	count	9
+Q1778868	'Kingdom of Gumma'@en	count	9
+Q1784316	'Koriya'@en	count	9
+Q18085321	'Republic of Pirates'@en	count	9
+Q18111824	'Dhrol State'@en	count	9
+Q1878022	'Emirate of Bari'@en	count	9
+Q1900717	'Margraviate of Brandenburg-Küstrin'@en	count	9
+Q1949209	'Taifa of Lorca'@en	count	9
+Q1964552	'Nandgaon State'@en	count	9
+Q1965597	'Anuradhapura Kingdom'@en	count	9
+Q1991460	'Ulaid'@en	count	9
+Q1991742	'Kingdom of Alba'@en	count	9
+Q20732380	'Empire of Harsha'@en	count	9
+Q2121839	'Alawi'@en	count	9
+Q2128715	'Rajgarh State'@en	count	9
+Q2153653	'Taifa of Segorbe'@en	count	9
+Q2293827	'Terek Soviet Republic'@en	count	9
+Q2324047	'County of Apulia'@en	count	9
+Q2398434	'Taifa of Murviedro and Sagunto'@en	count	9
+Q2424187	'Kingdom of Rarotonga'@en	count	9
+Q2460357	'Chincha people'@en	count	9
+Q2478615	'Taifa of Jerez'@en	count	9
+Q2548724	'Taifa of Jaén'@en	count	9
+Q2643374	'Taifa of Santarém'@en	count	9
+Q2658252	'Yamato (state)'@en	count	9
+Q2830724	'Beylik of Alaiye'@en	count	9
+Q2902588	'Damot'@en	count	9
+Q2919545	'Principality of Svaneti'@en	count	9
+Q2958284	'Taifa of Menorca'@en	count	9
+Q3107156	'Kilwa Sultanate'@en	count	9
+Q3136850	'Kingdom of Sitawaka'@en	count	9
+Q3196064	'Danube Bulgar Khanate'@en	count	9
+Q3242360	'Licchavi'@en	count	9
+Q33235	'Upper Burgundy'@en	count	9
+Q3446147	'Royaume d\'Yvetot'@en	count	9
+Q3456432	'République des Sept-Dizains'@en	count	9
+Q3511905	'First Nigerian Republic'@en	count	9
+Q35583423	'Emirate of  Almathami'@en	count	9
+Q3591852	'Free State of Antioquia'@en	count	9
+Q368986	'Republic of Mississippi'@en	count	9
+Q373988	'Beylik of Teke'@en	count	9
+Q3773496	'Kingdom of Gibraltar'@en	count	9
+Q3960417	'Signoria di Carrara'@en	count	9
+Q4056388	'Government of Inner Mongolia'@en	count	9
+Q4397920	'Russia Eastern Outskirts'@en	count	9
+Q4401190	'Rutul Federation'@en	count	9
+Q454941	'Amarasi'@en	count	9
+Q463845	'Landgraviate of Hesse-Rotenburg'@en	count	9
+Q4765854	'Shan States'@en	count	9
+Q4848487	'Bailundu'@en	count	9
+Q5555325	'Dominion of Ghana'@en	count	9
+Q558596	'Hadiya Kingdom'@en	count	9
+Q55979574	'Duchy of Thouars'@en	count	9
+Q568452	'Restoration in Switzerland'@en	count	9
+Q572222	'County of Horne'@en	count	9
+Q5919137	'Visigothic interregnum'@en	count	9
+Q596092	'Kingdom of Zimbabwe'@en	count	9
+Q605930	'Taifa of Tortosa'@en	count	9
+Q635394	'Massina Empire'@en	count	9
+Q6427080	'Kolathunadu'@en	count	9
+Q65051443	'Sheikhdom of al-`Irqa'@en	count	9
+Q65079691	'Western Togoland'@en	count	9
+Q660393	'Lower Lotharingia'@en	count	9
+Q68253870	'State of Honduras'@en	count	9
+Q684430	'Rauracian Republic'@en	count	9
+Q705598	'Wituland'@en	count	9
+Q713393	'Okjeo'@en	count	9
+Q719183	'Arewa'@en	count	9
+Q739722	'Wahidi Bir Ali'@en	count	9
+Q7416493	'Kingdom of Reman'@en	count	9
+Q7784940	'Third Republic of Madagascar'@en	count	9
+Q794210	'Aztec Triple Alliance'@en	count	9
+Q797579	'Baban'@en	count	9
+Q806019	'Bamra State'@en	count	9
+Q807069	'Baoni State'@en	count	9
+Q837326	'Principality of Nitra'@en	count	9
+Q862518	'Geledi Sultanate'@en	count	9
+Q877670	'Muzaffarids of Iran'@en	count	9
+Q889374	'Warsangali Sultanate'@en	count	9
+Q904766	'Heungyo'@en	count	9
+Q905131	'Kingdom of Breifne'@en	count	9
+Q932487	'Miraj Senior'@en	count	9
+Q967246	'Ngoyo'@en	count	9
+Q1028614	'Eastern Liao'@en	count	8
+Q104192518	'Taifa of Valencia (third period)'@en	count	8
+Q1054032	'Duchy of Estonia'@en	count	8
+Q105633625	'Emirate of Bahrain (1783–1971)'@en	count	8
+Q107669407	'Rustamid kingdom'@en	count	8
+Q10920088	'Zhou dynasty (1678–1681)'@en	count	8
+Q10955123	'South Chahar Autonomous Government'@en	count	8
+Q1096374	'Banu Ilyas'@en	count	8
+Q11026135	'Principality of Salm'@en	count	8
+Q111805383	'Qarmatian state'@en	count	8
+Q11240305	'Kartosuro'@en	count	8
+Q1188046	'Yan'@en	count	8
+Q11910203	'Al-Busi'@en	count	8
+Q1193554	'Guge'@en	count	8
+Q12054859	'Slovak People\'s Republic'@en	count	8
+Q1237976	'Palanpur Agency'@en	count	8
+Q12448145	'Maukhari'@en	count	8
+Q12491026	'Aru Kingdom'@en	count	8
+Q12491396	'Sultanate of Buton'@en	count	8
+Q12491399	'Kutai (Sultanate)'@en	count	8
+Q12660335	'Kashi'@en	count	8
+Q12793818	'Kobarid Republic'@en	count	8
+Q13093931	'Janggala'@en	count	8
+Q1311704	'Zachlumia'@en	count	8
+Q1322953	'Kingdom of Sanwi'@en	count	8
+Q1329944	'Chedi Kingdom'@en	count	8
+Q1331184	'Vatsa'@en	count	8
+Q1337764	'Daura Emirate'@en	count	8
+Q13414776	'Western Chu'@en	count	8
+Q144395	'Zainabad'@en	count	8
+Q1468426	'Ennarea'@en	count	8
+Q15241296	'Union of Burma'@en	count	8
+Q15824804	'Kénédougou Kingdom'@en	count	8
+Q1614435	'Lordship of Rostock'@en	count	8
+Q1623936	'Kingdom of Garo'@en	count	8
+Q1644002	'Gyaaman'@en	count	8
+Q1651832	'Thaton Kingdom'@en	count	8
+Q1656775	'Kingdom of Lithuania'@en	count	8
+Q16673775	'Kingdom of Kampuchea'@en	count	8
+Q16824911	'Bukhar Khudahs'@en	count	8
+Q1683780	'Jashpur State'@en	count	8
+Q17034723	'Jiaodong Kingdom'@en	count	8
+Q17176539	'County of Aversa'@en	count	8
+Q17355516	'Kingdom of Voss'@en	count	8
+Q1759078	'Kingdom of Jimma'@en	count	8
+Q1760729	'Alashiya'@en	count	8
+Q1776972	'Ramdurg State'@en	count	8
+Q1852814	'Provisional Government of Western Thrace'@en	count	8
+Q1897800	'Wahidi Balhaf'@en	count	8
+Q1929769	'Land of Nod'@en	count	8
+Q1936158	'Minyue'@en	count	8
+Q197913	'Zhongshan'@en	count	8
+Q19929935	'Commonwealth realm of Tanganyika'@en	count	8
+Q2030487	'Airgíalla'@en	count	8
+Q2147037	'Rewa Kantha Agency'@en	count	8
+Q21590889	'Dar al Kuti'@en	count	8
+Q2183293	'Duchy of Belz'@en	count	8
+Q21843649	'Khanate of Nishapur'@en	count	8
+Q2249661	'United Provinces of New Granada'@en	count	8
+Q2287491	'Qedarite'@en	count	8
+Q2328476	'Taifa of Segura'@en	count	8
+Q2337275	'Kingdom of Rajarata'@en	count	8
+Q2346056	'Kingdom of Livonia'@en	count	8
+Q2410637	'Beylik of Hamid'@en	count	8
+Q2463081	'Taifa of Constantina and Hornachuelos'@en	count	8
+Q2481399	'Osrūshana'@en	count	8
+Q2522604	'Taifa of Tejada'@en	count	8
+Q25423982	'Sultanate of Grande Comore'@en	count	8
+Q25459957	'Kingdom of Banggai'@en	count	8
+Q2553863	'White Horde'@en	count	8
+Q2625228	'League Federal'@en	count	8
+Q2666791	'Taifa of Morón'@en	count	8
+Q267256	'Dian Kingdom'@en	count	8
+Q2784785	'Kingdom of the Gepids'@en	count	8
+Q2967804	'Château-Regnault'@en	count	8
+Q3032694	'Taifa of Purchena'@en	count	8
+Q33242	'Lower Burgundy'@en	count	8
+Q3327860	'Celtic kingdom of Ireland'@en	count	8
+Q3446159	'Cornouaille'@en	count	8
+Q3446211	'Paser Sultanate'@en	count	8
+Q3446273	'Emirate of Tlemcen'@en	count	8
+Q3477825	'Lordship of Carpi'@en	count	8
+Q3503437	'Ming Xia'@en	count	8
+Q3509510	'Second Nigerian Republic'@en	count	8
+Q3591854	'Free and Independent State of Cundinamarca'@en	count	8
+Q3607864	'Albania Satrapy'@en	count	8
+Q3675486	'Mukriyan'@en	count	8
+Q3827580	'Banu Khazrun'@en	count	8
+Q3877418	'Ibelin'@en	count	8
+Q3921984	'Principality of Pavia'@en	count	8
+Q4114520	'Military Council (Georgia)'@en	count	8
+Q4199295	'Elisu Sultanate'@en	count	8
+Q4224859	'Principality of Trinidad'@en	count	8
+Q4285171	'Gornyy Uzel Matcha'@en	count	8
+Q4430531	'Soi︠u︡z obʺedinennykh gort︠s︡ev Gorskai︠a︡ Respublika'@en	count	8
+Q4833446	'Second Turkic Khaganate'@en	count	8
+Q48723590	'Kingdom of Limmu-Ennarea'@en	count	8
+Q500965	'Kingdom of Gera'@en	count	8
+Q5327935	'East Breifne'@en	count	8
+Q5519387	'Galuh Kingdom'@en	count	8
+Q552241	'Akhiyawa'@en	count	8
+Q558603	'Panchala'@en	count	8
+Q567986	'Fortriu'@en	count	8
+Q6389173	'Kengcheng'@en	count	8
+Q64576860	'Lordship of Bologna'@en	count	8
+Q669317	'Bidar Sultanate'@en	count	8
+Q6987126	'Negara Daha'@en	count	8
+Q7314427	'Republic of Baja California'@en	count	8
+Q736217	'Contado di Molise'@en	count	8
+Q751372	'Maflahi'@en	count	8
+Q761370	'Aro Confederacy'@en	count	8
+Q781935	'Principality of Benevento'@en	count	8
+Q799797	'Bafut Subdivision'@en	count	8
+Q8008721	'Huan Chu'@en	count	8
+Q810432	'Basoda State'@en	count	8
+Q810557	'Bastar State'@en	count	8
+Q83444	'Kingdom of Corsica'@en	count	8
+Q848383	'Duchy of Rome'@en	count	8
+Q85775800	'Lands of the Bohemian Crown'@en	count	8
+Q85861952	'Duchy of Bojano'@en	count	8
+Q862467	'Kingdom of Sine'@en	count	8
+Q862478	'Kaabu'@en	count	8
+Q872644	'Rugiland'@en	count	8
+Q874561	'Later Liao'@en	count	8
+Q892061	'Bonai State'@en	count	8
+Q909650	'Ara Gaya'@en	count	8
+Q932370	'Changbhakar'@en	count	8
+Q933413	'Jath State'@en	count	8
+Q97383678	'Heian Japan'@en	count	8
+Q1002606	'Buhaya'@en	count	7
+Q107422155	'early medieval England'@en	count	7
+Q10841085	'Đại Cồ Việt'@en	count	7
+Q10884385	'Dai'@en	count	7
+Q10888424	'Wakoku'@en	count	7
+Q11352710	'Ikikoku'@en	count	7
+Q11410904	'Ancient Izumo'@en	count	7
+Q1147373	'Dongdan Kingdom'@en	count	7
+Q1186434	'Muang Phuan'@en	count	7
+Q1190905	'Duchy of Pannonian Croatia'@en	count	7
+Q11917803	'Al-Dhubi'@en	count	7
+Q1193806	'Shu'@en	count	7
+Q12229205	'Uyunid Emirate'@en	count	7
+Q12491059	'Kingdom of Sumedang Larang'@en	count	7
+Q12491400	'Pelalawan Sultanate'@en	count	7
+Q1251091	'Salyan Sultanate'@en	count	7
+Q1254667	'Beylik of Erzincan'@en	count	7
+Q1257454	'Paddan Aram'@en	count	7
+Q1291919	'Yan'@en	count	7
+Q1317579	'Kedah Sultanate'@en	count	7
+Q1319681	'Qi'@en	count	7
+Q1327602	'Wei'@en	count	7
+Q1330149	'Surasena'@en	count	7
+Q1351979	'Stavropol Soviet Republic'@en	count	7
+Q1358851	'Zhangzhung'@en	count	7
+Q14550041	'Banovina of Croatia (medieval)'@en	count	7
+Q1457519	'Udaipur State'@en	count	7
+Q15075493	'Grand Duchy of Rusʹ'@en	count	7
+Q15104874	'Ailech'@en	count	7
+Q1618896	'Rus\' Khaganate'@en	count	7
+Q16427214	'Iceland under home rule'@en	count	7
+Q1688151	'Kingdom of Thomond'@en	count	7
+Q17025489	'Kingdom of Chakla'@en	count	7
+Q17355515	'Kingdom of Telemark'@en	count	7
+Q1778255	'Sarangarh State'@en	count	7
+Q1798703	'Sonepur State'@en	count	7
+Q18126839	'Kingdom of Pong'@en	count	7
+Q1843786	'Anhalt-Bernburg-Schaumburg-Hoym'@en	count	7
+Q1886032	'Vạn Xuân'@en	count	7
+Q1951905	'Muhammadgarh State'@en	count	7
+Q1963593	'Nagod State'@en	count	7
+Q1967878	'Land of Uz'@en	count	7
+Q19840305	'Kongsi federation'@en	count	7
+Q19892830	'Kingdom of Coorg'@en	count	7
+Q19937663	'Republic of Vinica'@en	count	7
+Q20108771	'Republic of Alexandria'@en	count	7
+Q2037501	'Republic of Ploiești'@en	count	7
+Q2048712	'Taifa of Rueda'@en	count	7
+Q20512270	'Etiuni'@en	count	7
+Q2056970	'Patna State'@en	count	7
+Q20739561	'Yancai'@en	count	7
+Q2076823	'Principality of Bidache'@en	count	7
+Q2078249	'Britannic Empire'@en	count	7
+Q21005050	'Kingdom of Morgannwg'@en	count	7
+Q21075369	'Abarsal'@en	count	7
+Q2128542	'Rairakhol State'@en	count	7
+Q21849591	'Diggers Republic'@en	count	7
+Q2191428	'Taifa of Jérica'@en	count	7
+Q2214985	'Northern Liao'@en	count	7
+Q2232777	'Taifa of Molina'@en	count	7
+Q22338414	'Kingdom Saal'@en	count	7
+Q2250546	'Taifa of Tavira'@en	count	7
+Q22569992	'Kingdom Tzu\''@en	count	7
+Q2300246	'Kingdom of Fez'@en	count	7
+Q2338948	'County of Manresa'@en	count	7
+Q2365056	'Lezgistan'@en	count	7
+Q23668714	'Yatenga Kingdom'@en	count	7
+Q2442581	'Dutch Loango-Angola'@en	count	7
+Q2501055	'Beylik of Dilmaç'@en	count	7
+Q25202872	'Bushi'@en	count	7
+Q25421261	'Emirate of Adrar'@en	count	7
+Q25536394	'Grand Duchy of Lithuania 1812'@en	count	7
+Q2627602	'Mukhrani'@en	count	7
+Q2670139	'Porhoët'@en	count	7
+Q28517256	'Peruvian Republic'@en	count	7
+Q2969231	'Liuqiu'@en	count	7
+Q2976571	'County of Drenthe'@en	count	7
+Q30592233	'Pahang Sultanate'@en	count	7
+Q3106846	'Wajo Kingdom'@en	count	7
+Q3332217	'Gorkha Kingdom'@en	count	7
+Q3446126	'Ay kingdom'@en	count	7
+Q3446167	'Kingdom of Derge'@en	count	7
+Q3446213	'Pinya Kingdom'@en	count	7
+Q3456423	'Republic of Volterra'@en	count	7
+Q3503555	'Palembang Sultanate'@en	count	7
+Q3591815	'Autonomous State of Iceland'@en	count	7
+Q3765100	'Vishnukundina'@en	count	7
+Q3813189	'Kasa kingdom'@en	count	7
+Q4068252	'Tsebelda'@en	count	7
+Q4105363	'Wahidi'@en	count	7
+Q4110986	'viscountcy of Osona'@en	count	7
+Q4121369	'Sharifate of Mecca'@en	count	7
+Q4202348	'Yin'@en	count	7
+Q426488	'March of Turin'@en	count	7
+Q428634	'Lordship of Negroponte'@en	count	7
+Q4363240	'Principality of Pir'@en	count	7
+Q4401071	'Rajahnate of Cebu'@en	count	7
+Q4401247	'Maynila'@en	count	7
+Q4498927	'Khoy Khanate'@en	count	7
+Q4527647	'Shuliavka Republic'@en	count	7
+Q466433	'Karkota dynasty'@en	count	7
+Q4802751	'Arzen'@en	count	7
+Q4902206	'Bhurshut'@en	count	7
+Q494625	'Usan'@en	count	7
+Q50825947	'Daju kingdom'@en	count	7
+Q5269336	'Dharmasraya'@en	count	7
+Q5311360	'Duchy of Inowrocław'@en	count	7
+Q5479650	'Franceville, New Hebrides'@en	count	7
+Q56282578	'Uryankhay Republic'@en	count	7
+Q5788450	'Restored Republic'@en	count	7
+Q58482373	'lordship of Caymont'@en	count	7
+Q616915	'Duchy of Poland (1138–1227)'@en	count	7
+Q638522	'Ardalan'@en	count	7
+Q6412624	'Kingdom of Mangalai'@en	count	7
+Q6412670	'Kingdom of Ugu'@en	count	7
+Q6430319	'Kontagora Emirate'@en	count	7
+Q644979	'Blue Horde'@en	count	7
+Q649262	'Arzawa'@en	count	7
+Q665248	'Freistaat Schwenten'@en	count	7
+Q6669561	'Chen Han'@en	count	7
+Q67200271	'Democratic Republic of Mohéli'@en	count	7
+Q6733951	'Mahi people'@en	count	7
+Q6750512	'Mankessim Kingdom'@en	count	7
+Q680530	'Principality of Terebovlia'@en	count	7
+Q6821029	'Song (1355–1366)'@en	count	7
+Q68257039	'State of Nicaragua'@en	count	7
+Q6830639	'Dachanghe'@en	count	7
+Q706488	'Kingdom of Middag'@en	count	7
+Q717451	'Beylik of Lâdik'@en	count	7
+Q727710	'Tabal'@en	count	7
+Q7515161	'Siljik'@en	count	7
+Q7636797	'Sultanate of Harar'@en	count	7
+Q7903544	'Uukwanyama'@en	count	7
+Q8050331	'Yaudheya'@en	count	7
+Q807288	'Baraundha State'@en	count	7
+Q831310	'Bethio'@en	count	7
+Q835619	'Principality of the Briançonese'@en	count	7
+Q862522	'Mossi Kingdoms'@en	count	7
+Q868222	'County of Coimbra'@en	count	7
+Q878717	'Bit Adini'@en	count	7
+Q894995	'Baudh State'@en	count	7
+Q909606	'Goryeong Gaya'@en	count	7
+Q925899	'Shaib'@en	count	7
+Q97060007	'Solomon Islands and Bismarck Archipelago'@en	count	7
+Q10565487	'Chen princedom'@en	count	6
+Q1061582	'Chan Santa Cruz'@en	count	6
+Q106311455	'Duchy of St Sava'@en	count	6
+Q106369135	'Ancient Kangleipak'@en	count	6
+Q106597444	'history of ancient Mesopotamian empires'@en	count	6
+Q107368497	'Đại Nam'@en	count	6
+Q1078062	'Principality of Taranto'@en	count	6
+Q1079109	'Calchfynydd'@en	count	6
+Q10791211	'Kingdom of Mrauk U'@en	count	6
+Q108868572	'independent First Syrian Republic'@en	count	6
+Q111016259	'Sheikhsar State'@en	count	6
+Q11175560	'Gaochang Kingdom (Qu clan)'@en	count	6
+Q11180184	'Qi (Huang Chao)'@en	count	6
+Q111971793	'Rulers of Lar'@en	count	6
+Q1125793	'Mangyül Gungthang'@en	count	6
+Q1166166	'Pagania'@en	count	6
+Q11909242	'Beylik of Sinop'@en	count	6
+Q11955494	'Yengan'@en	count	6
+Q12031755	'Kingdom of Dazhou'@en	count	6
+Q12491027	'Bali Kingdom'@en	count	6
+Q12491035	'Kalinyamat Sultanate'@en	count	6
+Q1254491	'Zobah'@en	count	6
+Q12617434	'Jujomaguk'@en	count	6
+Q13035917	'Republic of Kliprivier'@en	count	6
+Q1330881	'Hamazi'@en	count	6
+Q13375062	'Wahidi Azzan'@en	count	6
+Q13638247	'Fugger'@en	count	6
+Q1368026	'Lingnan'@en	count	6
+Q1390749	'Sultanate of Rafai'@en	count	6
+Q1395929	'Fante Confederacy'@en	count	6
+Q1425000	'County of Amiens'@en	count	6
+Q143737	'Gurgum'@en	count	6
+Q14803080	'Jimara'@en	count	6
+Q1483403	'Principality of Dukagjini'@en	count	6
+Q1483480	'Prince of Sedan'@en	count	6
+Q1483643	'Nakhon Si Thammarat Kingdom'@en	count	6
+Q1486262	'Zamua'@en	count	6
+Q1511207	'Matabele kingdom'@en	count	6
+Q1557298	'Soran Emirate'@en	count	6
+Q15898486	'Yong'@en	count	6
+Q1591062	'Haushabi'@en	count	6
+Q16261647	'Bijiguk'@en	count	6
+Q16271387	'Sultanate of Singora'@en	count	6
+Q1661685	'Indo-Sassanids'@en	count	6
+Q16635043	'Principality of Vyshgorod'@en	count	6
+Q16829979	'Domnonée'@en	count	6
+Q16933165	'Duchy of Sandomierz'@en	count	6
+Q17050280	'Kingdom of Kibi'@en	count	6
+Q17076645	'Gauda Kingdom'@en	count	6
+Q17080982	'Palistin'@en	count	6
+Q1708400	'Duchy of Płock'@en	count	6
+Q17166174	'Mbunda Kingdom'@en	count	6
+Q1721466	'Kapitaï and Koba'@en	count	6
+Q17523945	'Toltec Empire'@en	count	6
+Q17526620	'Shirvanshahs\' State'@en	count	6
+Q1792017	'Kummuh'@en	count	6
+Q1968554	'Abazinia'@en	count	6
+Q1975782	'Prince of Arches and Charleville'@en	count	6
+Q20022345	'Western Huetar Kingdom'@en	count	6
+Q2139081	'Kiang'@en	count	6
+Q21530380	'Dar Qimr'@en	count	6
+Q2235609	'Taifa of Huesca'@en	count	6
+Q2331954	'Despotate of Arta'@en	count	6
+Q2458078	'Cokossi'@en	count	6
+Q25459978	'Kingdom of Bolaang Mongondow'@en	count	6
+Q2603851	'Kingdom of Serbia'@en	count	6
+Q2662180	'Qocho'@en	count	6
+Q2732400	'Union of the Crowns'@en	count	6
+Q2750894	'Imperial city of Regensburg'@en	count	6
+Q28058158	'Madurai Nayak Kingdom'@en	count	6
+Q28455836	'Pahang Kingdom'@en	count	6
+Q28501433	'Free State of Costa Rica'@en	count	6
+Q28597313	'Palatinate of Rhine'@en	count	6
+Q287996	'Kingdom of Blambangan'@en	count	6
+Q3090194	'Khasso'@en	count	6
+Q31073142	'Emirate of Herat'@en	count	6
+Q3350794	'Pundravardhana'@en	count	6
+Q337767	'Wilusa'@en	count	6
+Q3446152	'Kingdom of Bora Bora'@en	count	6
+Q3446277	'Wang Doré'@en	count	6
+Q3456472	'Republic of Metz'@en	count	6
+Q3588910	'Kashgar Khanate'@en	count	6
+Q3588911	'Emirate of Sijilmassa'@en	count	6
+Q3591817	'Emirate of Abdelkader'@en	count	6
+Q3715864	'Duchy of Bergamo'@en	count	6
+Q4189498	'Zvenyhorod Principality'@en	count	6
+Q42378126	'Kingdom of Setul Mambang Segara'@en	count	6
+Q425405	'Kingdom of Khana'@en	count	6
+Q43132080	'Kerman Seljuk Sultanate'@en	count	6
+Q4325153	'Republic of the Novorossiysk'@en	count	6
+Q4332415	'Four Oirats'@en	count	6
+Q4338046	'Beylik of Osman'@en	count	6
+Q4401176	'Ma-i'@en	count	6
+Q4449685	'Beylik of Tacettin'@en	count	6
+Q4517333	'Da Chu'@en	count	6
+Q4522518	'Principality of Shaki'@en	count	6
+Q4667453	'Abhira Kingdom'@en	count	6
+Q4690373	'Afshar Beylik'@en	count	6
+Q4773399	'Taw yağı'@en	count	6
+Q48724193	'Pahang Kingdom'@en	count	6
+Q48728257	'Kingdom of Besut Darul Iman'@en	count	6
+Q4969562	'British Bencoolen'@en	count	6
+Q5060314	'Pala'@en	count	6
+Q51089496	'Nassau-Sonnenberg'@en	count	6
+Q55229963	'Kingdom of Fazughli'@en	count	6
+Q557392	'Eastern Kingdom of Women'@en	count	6
+Q60043695	'Kingdom of Talamanca'@en	count	6
+Q600562	'Mthethwa Paramountcy'@en	count	6
+Q6056625	'Kingdom of Pacaca'@en	count	6
+Q60838139	'Republic of Massa'@en	count	6
+Q6201794	'Jin'@en	count	6
+Q62070228	'Emirate of Homs'@en	count	6
+Q6374014	'Kasanze Kingdom'@en	count	6
+Q6412616	'Kingdom of Koya'@en	count	6
+Q6488087	'Lapai Emirate'@en	count	6
+Q65050489	'Sheikhdom of al-Hawra'@en	count	6
+Q6773257	'Eastern Karakhanids Khanate'@en	count	6
+Q6831903	'Daewiguk'@en	count	6
+Q7245108	'Principality of Lebanon'@en	count	6
+Q7245121	'Principality of Valona'@en	count	6
+Q7260839	'Purang-Guge Kingdom'@en	count	6
+Q7362320	'Peureulak'@en	count	6
+Q7636790	'Sultanate of Bambao'@en	count	6
+Q7636800	'Sultanate of Showa'@en	count	6
+Q7675292	'Tagmadert'@en	count	6
+Q7937982	'Viye'@en	count	6
+Q799040	'Bahdinan'@en	count	6
+Q806435	'Bang Assu'@en	count	6
+Q823862	'Quwê'@en	count	6
+Q85774522	'Jeypore Estate'@en	count	6
+Q8842993	'United States of Central America'@en	count	6
+Q897179	'Bavarian Nordgau'@en	count	6
+Q91329095	'Kingdom of Burgundy'@en	count	6
+Q918837	'Tianwan'@en	count	6
+Q92621935	'Free State of Jones'@en	count	6
+Q95408244	'Republic of Haiti (1820–1849)'@en	count	6
+Q95982472	'Kingdom of Cilicia (ancient)'@en	count	6
+Q973988	'Kingdom of Matamba'@en	count	6
+Q98085401	'Kingdom of Mapungubwe'@en	count	6
+Q986822	'Rozwi Empire'@en	count	6
+Q1027122	'Pengwern'@en	count	5
+Q104383185	'Rhodes'@en	count	5
+Q104476046	'Sultanate of Bacan'@en	count	5
+Q106568094	'Kingdom of Harar'@en	count	5
+Q10747080	'Champanagara'@en	count	5
+Q10878917	'Jiujiang'@en	count	5
+Q10922467	'Tsongkha'@en	count	5
+Q10935472	'Dacheng'@en	count	5
+Q11097973	'Li Shu'@en	count	5
+Q1111926	'Taqali'@en	count	5
+Q1145367	'Fusang'@en	count	5
+Q11578892	'Shule Kingdom'@en	count	5
+Q1165594	'Dar Sila'@en	count	5
+Q11710624	'I Rzeczpospolita'@en	count	5
+Q11750543	'Duchy of Kuyavia'@en	count	5
+Q1179260	'Dayuan'@en	count	5
+Q1251175	'Dotawo'@en	count	5
+Q12584242	'Gobiriguk'@en	count	5
+Q12590812	'Dabeolguk'@en	count	5
+Q12595272	'Morobiriguk'@en	count	5
+Q12599093	'North Okjeo'@en	count	5
+Q12599242	'Bulsabunsaguk'@en	count	5
+Q12610676	'Eumjeupbeolguk'@en	count	5
+Q13099593	'Soso Empire'@en	count	5
+Q1332305	'Lavo Kingdom'@en	count	5
+Q13563256	'Dalmatia'@en	count	5
+Q1376303	'Malla'@en	count	5
+Q154853	'Diauehi'@en	count	5
+Q15695801	'Marquisate of Oristano'@en	count	5
+Q15895314	'Zhai'@en	count	5
+Q16086793	'Revolutionary Serbia'@en	count	5
+Q16163029	'Sabeolguk'@en	count	5
+Q16167036	'Mokjiguk'@en	count	5
+Q16183455	'East Okjeo'@en	count	5
+Q16187820	'Golbeolguk'@en	count	5
+Q16188096	'Kingdom of Larantuka'@en	count	5
+Q1632126	'Turdetania'@en	count	5
+Q1661321	'Kingdom of Niumi'@en	count	5
+Q16678116	'Moskovskoye gosudarstvo'@en	count	5
+Q16880258	'Kingdom of Lingtsang'@en	count	5
+Q17022251	'Sultanate of Kano'@en	count	5
+Q17030053	'Han (208BC-200BC)'@en	count	5
+Q17034965	'Linjiang'@en	count	5
+Q17042434	'Solimana'@en	count	5
+Q1763996	'Văn Lang'@en	count	5
+Q1796221	'Mandara Kingdom'@en	count	5
+Q19276517	'Kingdom of Persia'@en	count	5
+Q1949848	'Angoche Sultanate'@en	count	5
+Q19568936	'Kingdom of Nagash'@en	count	5
+Q19568938	'Kingdom of Tankish'@en	count	5
+Q1965778	'Sarir'@en	count	5
+Q19855565	'Dazhong Kingdom'@en	count	5
+Q20536461	'Vardan Khudahs'@en	count	5
+Q2096441	'Subartu'@en	count	5
+Q20978063	'Kingdom of New Spain'@en	count	5
+Q21001782	'Kingdom of Leinster'@en	count	5
+Q21409375	'North-Eastern Rus\''@en	count	5
+Q21523635	'Kingdom of Ce'@en	count	5
+Q21704200	'Kingdom of Parisos'@en	count	5
+Q2219448	'Duchy of Saxony'@en	count	5
+Q22343505	'Kingdom K\'antu'@en	count	5
+Q24939253	'Mongyang State'@en	count	5
+Q2499883	'Ura'@en	count	5
+Q2526751	'Dál nAraidi'@en	count	5
+Q25591771	'Chola empire'@en	count	5
+Q2665398	'Matsya Kingdom'@en	count	5
+Q27907706	'Shule Kingdom'@en	count	5
+Q28163856	'Duchy of Surabaya'@en	count	5
+Q28776699	'Later Sabeol'@en	count	5
+Q3652371	'Abasgia'@en	count	5
+Q3775345	'Beylik of Çubukoğulları'@en	count	5
+Q3986684	'Chach'@en	count	5
+Q4224853	'The Glinsky Principality'@en	count	5
+Q4249540	'Qutqashen Sultanate'@en	count	5
+Q4337218	'Kingdom of Orungu'@en	count	5
+Q4406420	'Confederation of Madya-as'@en	count	5
+Q4453007	'Tashkent Khanate'@en	count	5
+Q4496560	'Hatti'@en	count	5
+Q473353	'Ammon'@en	count	5
+Q47499498	'Pre-Colonial Basutoland'@en	count	5
+Q4778463	'Anziku Kingdom'@en	count	5
+Q477900	'Parsua'@en	count	5
+Q4783941	'Aram Rehob'@en	count	5
+Q4899887	'Beylik of Tanrıbermiş'@en	count	5
+Q491790	'The sultanate of Kirman Seljuks'@en	count	5
+Q4985038	'Vettathunad'@en	count	5
+Q5124792	'Civula'@en	count	5
+Q514557	'Vest Recklinghausen'@en	count	5
+Q5311378	'Duchy of Perugia'@en	count	5
+Q600473	'Nakoku'@en	count	5
+Q625649	'Aram-Damascus'@en	count	5
+Q6412614	'Kingdom of Kapisi'@en	count	5
+Q6412645	'Kingdom of Raigama'@en	count	5
+Q6412672	'Kingdom of Uí Failghe'@en	count	5
+Q6412684	'Kingdom of the Canary Islands'@en	count	5
+Q6729587	'Magadha Kingdom'@en	count	5
+Q6799844	'Mbwila'@en	count	5
+Q695448	'Lajtabánság'@en	count	5
+Q7054713	'North Caucasian Huns'@en	count	5
+Q713397	'Dongye'@en	count	5
+Q717703	'Dongbuyeo'@en	count	5
+Q748876	'Kotokolia'@en	count	5
+Q7636789	'Sultanate of Bale'@en	count	5
+Q7636792	'Sultanate of Bazin'@en	count	5
+Q7636798	'Sultanate of Jarin'@en	count	5
+Q7636799	'Sultanate of Qata'@en	count	5
+Q777779	'Kingdom of Awsan'@en	count	5
+Q865584	'Princedom of Albania'@en	count	5
+Q90303093	'Russian peripheral countries'@en	count	5
+Q920527	'Britonia'@en	count	5
+Q922190	'Shanshan'@en	count	5
+Q929693	'Patria Nueva'@en	count	5
+Q102133106	'Royaume du Nafana'@en	count	4
+Q106881694	'Burmese kingdoms'@en	count	4
+Q10931099	'Sai'@en	count	4
+Q10935638	'Tai Republic'@en	count	4
+Q1100893	'Domain of the Dejanović noble family'@en	count	4
+Q11088223	'Ming Zheng'@en	count	4
+Q111650663	'Minanga'@en	count	4
+Q1149142	'Yuwen'@en	count	4
+Q11909245	'Bezaume'@en	count	4
+Q11909456	'Bit Agusi'@en	count	4
+Q1194906	'Assaka'@en	count	4
+Q12035643	'kingdom of Maroboduus'@en	count	4
+Q12132241	'Naiman state'@en	count	4
+Q12582633	'Gammunguk'@en	count	4
+Q12583396	'Geonmaguk'@en	count	4
+Q12584196	'Goriguk'@en	count	4
+Q12584384	'Gojamidongguk'@en	count	4
+Q12597397	'Balloguk'@en	count	4
+Q12605505	'Angnoguk'@en	count	4
+Q12607240	'Yeomnoguk'@en	count	4
+Q12608943	'Uyuguk'@en	count	4
+Q13534153	'Athens'@en	count	4
+Q15214542	'Dangs'@en	count	4
+Q1582792	'Mira'@en	count	4
+Q15900712	'Li Guangchang'@en	count	4
+Q16084290	'Illyrian Kingdom'@en	count	4
+Q16164005	'Uhyumotakguk'@en	count	4
+Q16171455	'Mioyamaguk'@en	count	4
+Q16171516	'Chosandobiriguk'@en	count	4
+Q1633698	'Hubushkia'@en	count	4
+Q16836300	'Principality of Farghana'@en	count	4
+Q17053216	'Principality of Ushrusana'@en	count	4
+Q17068375	'Ramannadesa'@en	count	4
+Q1800206	'Niani Empire'@en	count	4
+Q18524206	'Kingdom of Tallo'@en	count	4
+Q20076500	'Second Crimean Regional Government'@en	count	4
+Q2097045	'Yelang'@en	count	4
+Q2118309	'Poonch'@en	count	4
+Q2166619	'Mong Mao'@en	count	4
+Q2354842	'SAO Kninska Krajina'@en	count	4
+Q246690	'Namri'@en	count	4
+Q25053733	'Khasa Kingdom'@en	count	4
+Q2582590	'Teispids'@en	count	4
+Q25842407	'Michuholguk'@en	count	4
+Q2594899	'Woolli'@en	count	4
+Q2673941	'Salakanagara'@en	count	4
+Q2778131	'Dizak'@en	count	4
+Q28055530	'Principality of Iberia'@en	count	4
+Q3133774	'Wahidi Haban'@en	count	4
+Q3446156	'Buellt'@en	count	4
+Q3446205	'Myinsaing Kingdom'@en	count	4
+Q3446223	'Sagaing Kingdom'@en	count	4
+Q3656404	'Despotate of Angelokastron and Lepanto'@en	count	4
+Q3688464	'County of Novellara and Bagnolo'@en	count	4
+Q3695735	'Corsican_Constitution'@en	count	4
+Q424856	'Kingdom of al-Abwab'@en	count	4
+Q4401026	'Kingdom of Namayan'@en	count	4
+Q4495225	'Hamath'@en	count	4
+Q4503615	'Tsebelda culture'@en	count	4
+Q450736	'Alzi'@en	count	4
+Q46465122	'Islamic states'@en	count	4
+Q514271	'Republic of Heinzenland'@en	count	4
+Q55609338	'Democratic People\'s Republic of Angola'@en	count	4
+Q56376888	'Kingdom of the Aurès'@en	count	4
+Q60023785	'United Republic of Cameroon'@en	count	4
+Q60614780	'Kingdom of the Heruli'@en	count	4
+Q6404540	'Qutlugh-Khanids'@en	count	4
+Q6412603	'Kingdom of Iha'@en	count	4
+Q6412632	'Kingdom of Ndulu'@en	count	4
+Q65166389	'State of Ecuador'@en	count	4
+Q6648074	'Chu'@en	count	4
+Q6663923	'Locach'@en	count	4
+Q6675294	'Janganguk'@en	count	4
+Q7362066	'Roman Libya'@en	count	4
+Q7365405	'Kole'@en	count	4
+Q752265	'Seha River Land'@en	count	4
+Q7638035	'Sumpa'@en	count	4
+Q766411	'South African Republic'@en	count	4
+Q791787	'Aussa Sultanate'@en	count	4
+Q821546	'Bit Bahiani'@en	count	4
+Q872301	'Serbian Empire of Jovan Nenad'@en	count	4
+Q96337601	'Cultura Tarija'@en	count	4
+Q9643578	'Kara Del'@en	count	4
+Q96755166	'County of Meaux'@en	count	4
+Q97059002	'Java and Madura'@en	count	4
+Q10289365	'Getulia'@en	count	3
+Q10379866	'Kingdom of Powo'@en	count	3
+Q104869251	'Beda Sultanate'@en	count	3
+Q107388196	'Ancient Moirang'@en	count	3
+Q10885162	'Ito'@en	count	3
+Q11060334	'Changshan'@en	count	3
+Q110654992	'Khandesh Sultanate'@en	count	3
+Q11301088	'Jibin'@en	count	3
+Q11571391	'Gounuguo'@en	count	3
+Q12491054	'Kingdom of Siang'@en	count	3
+Q12582684	'Gamhaeguk'@en	count	3
+Q1291229	'Hua'@en	count	3
+Q1314592	'Laqe'@en	count	3
+Q1332370	'Ellipi'@en	count	3
+Q14164803	'Prince-Bishopric Fulda'@en	count	3
+Q1489916	'Isuwa'@en	count	3
+Q1519074	'Lands of Denmark'@en	count	3
+Q1555101	'Western Guo'@en	count	3
+Q16125570	'Aljund province'@en	count	3
+Q16171705	'Chopalguk'@en	count	3
+Q16178052	'Iseoguk'@en	count	3
+Q16295095	'Tuwana'@en	count	3
+Q16822366	'Banu Kathir'@en	count	3
+Q17040704	'Gouding'@en	count	3
+Q17059107	'Western Wei'@en	count	3
+Q17061544	'Hengshan'@en	count	3
+Q17524011	'Dardanian Kingdom'@en	count	3
+Q1877562	'Mark Marmoutier'@en	count	3
+Q1948254	'Mormaer of Moray'@en	count	3
+Q19568935	'Kingdom of Belgin'@en	count	3
+Q2004491	'Nuhašše'@en	count	3
+Q2014166	'Oddiyana'@en	count	3
+Q2074363	'Shupria'@en	count	3
+Q20820118	'South Yemen'@en	count	3
+Q2267498	'Xích Quỷ'@en	count	3
+Q2460753	'Turira'@en	count	3
+Q2502117	'Urua'@en	count	3
+Q2536329	'Provisional Government of Belgium (1814-1815)'@en	count	3
+Q2554365	'Wehali'@en	count	3
+Q2568325	'Kuninda Kingdom'@en	count	3
+Q2591393	'Jiaozhi'@en	count	3
+Q2598512	'Xue'@en	count	3
+Q2650123	'Tan'@en	count	3
+Q2805491	'Lochlann'@en	count	3
+Q28136352	'Cebrenia'@en	count	3
+Q28419349	'Bakhatgarh'@en	count	3
+Q28525144	'Kingdom of Colchis'@en	count	3
+Q2988069	'Pan Pan'@en	count	3
+Q3015833	'Sultanate of Dawaro'@en	count	3
+Q31723	'Kingdom of Mauretania'@en	count	3
+Q3347092	'Varendra'@en	count	3
+Q3436066	'Qutaibi'@en	count	3
+Q3443999	'Subeihi'@en	count	3
+Q3651039	'Duchy of Racha'@en	count	3
+Q3845404	'March of Fermo'@en	count	3
+Q4064872	'Anarta Kingdom'@en	count	3
+Q4093052	'Airstrike on Udbina Air Base'@en	count	3
+Q4215328	'Karluk yabghu'@en	count	3
+Q4272336	'Surparaka Kingdom'@en	count	3
+Q4296376	'Misiminia'@en	count	3
+Q4347782	'Skewbald Horde'@en	count	3
+Q4348096	'Pekat'@en	count	3
+Q4495832	'Harikela'@en	count	3
+Q483421	'Meluhha'@en	count	3
+Q4854092	'Brunswijk-Celle'@en	count	3
+Q48775206	'Kingdom of Wala'@en	count	3
+Q4987234	'Bulawayo'@en	count	3
+Q5274236	'Didouyu'@en	count	3
+Q56389709	'Poso'@en	count	3
+Q56704734	'Parada Kingdom'@en	count	3
+Q6358817	'Kammanu'@en	count	3
+Q6382548	'Kedatuan'@en	count	3
+Q6412602	'Kingdom of Igara'@en	count	3
+Q6412652	'Kingdom of Semien'@en	count	3
+Q6412675	'Kingdom of Valtio'@en	count	3
+Q6468406	'Lachin Kurdish Republic'@en	count	3
+Q65123867	'Kingdom of Yatenga'@en	count	3
+Q7144388	'Pate sultanate'@en	count	3
+Q7524320	'Sinhala Kingdom'@en	count	3
+Q7636795	'Sultanate of Dahlak'@en	count	3
+Q81893195	'Kingdom of Rohilkhand'@en	count	3
+Q85774520	'Kingdom of Capsus'@en	count	3
+Q86835744	'Kingdom of Ormond'@en	count	3
+Q878726	'Bit-Zamani'@en	count	3
+Q96385995	'Kingdom of Mankera'@en	count	3
+Q96622157	'Lechang'@en	count	3
+Q97357236	'Kingdom of the Sidhe'@en	count	3
+Q97446628	'British Ghana'@en	count	3
+Q97516320	'Tarascan'@en	count	3
+Q100987768	'Independent Hawaii'@en	count	2
+Q10259881	'Yuli'@en	count	2
+Q105336399	'Luwiya'@en	count	2
+Q10872373	'Army and Navy Marshal stronghold of the Republic of China'@en	count	2
+Q109236308	'Thakuri dynasty'@en	count	2
+Q111974133	'Togha Temürids'@en	count	2
+Q1157519	'Daiaeni'@en	count	2
+Q11929997	'Kushi'@en	count	2
+Q11936115	'Masmughans of Damavand'@en	count	2
+Q11938670	'Niatiaga'@en	count	2
+Q1195649	'Duan tribe'@en	count	2
+Q14516987	'Principality of Anhalt (1562–1606)'@en	count	2
+Q15902493	'Shadow Government of China'@en	count	2
+Q15907695	'Shan State Republic'@en	count	2
+Q16514067	'Odessa People\'s Republic'@en	count	2
+Q16674374	'Marquis of Veere and Flushing'@en	count	2
+Q16858170	'Zabarima'@en	count	2
+Q17108151	'Sultanate of Dewe'@en	count	2
+Q18417182	'County of Tassarolo'@en	count	2
+Q18648857	'The Landi State'@en	count	2
+Q1967443	'Zuyev Republic'@en	count	2
+Q20008225	'County of Borgonovo'@en	count	2
+Q20009900	'Duchy of Bari'@en	count	2
+Q2028730	'Orda Horde'@en	count	2
+Q21076431	'Gwiriko'@en	count	2
+Q2265843	'Sefwi'@en	count	2
+Q22667352	'Sak Tz\'i\''@en	count	2
+Q2300884	'Sonbai'@en	count	2
+Q2509414	'Tambralinga'@en	count	2
+Q2573715	'Duchy of Sorrento'@en	count	2
+Q26236153	'Bidiga'@en	count	2
+Q2658454	'Monarchies of Malaysia'@en	count	2
+Q29954627	'Commonwealth of England, Scotland and Ireland'@en	count	2
+Q3610549	'Kingdom of Ruhuna'@en	count	2
+Q3715872	'Duchy of Piacenza'@en	count	2
+Q3765271	'Utkala Kingdom'@en	count	2
+Q3771895	'Glastening'@en	count	2
+Q3818153	'Banu Ukhaidhir'@en	count	2
+Q3867365	'Muraddash'@en	count	2
+Q3932032	'Kamata Kingdom'@en	count	2
+Q4094853	'Borchaly sultanate'@en	count	2
+Q4146687	'State Meeting in Ufa'@en	count	2
+Q4155480	'Dasarna Kingdom'@en	count	2
+Q4167965	'Ancient Thracia'@en	count	2
+Q4204052	'Islamic Revolutionary State of Afghanistan'@en	count	2
+Q4212235	'Kangar union'@en	count	2
+Q4216316	'Karusha Kingdom'@en	count	2
+Q4272627	'Kasmira Kingdom'@en	count	2
+Q4442012	'Stepanskoe Principality'@en	count	2
+Q4777816	'Anupa Kingdom'@en	count	2
+Q4807407	'Asmaka Kingdom'@en	count	2
+Q5095124	'Chi Tu'@en	count	2
+Q5305952	'Dravida Kingdom'@en	count	2
+Q54006599	'Syrian Republic'@en	count	2
+Q5520664	'Gandhara Kingdom'@en	count	2
+Q5581085	'Gomanta Kingdom'@en	count	2
+Q5653520	'Hara Huna Kingdom'@en	count	2
+Q575247	'Pattin'@en	count	2
+Q5941965	'Huna Kingdom'@en	count	2
+Q5949183	'Gizilbunda'@en	count	2
+Q6372836	'Karnata Kingdom'@en	count	2
+Q6385364	'Kekeya Kingdom'@en	count	2
+Q6393363	'Kerala Kingdom'@en	count	2
+Q6400806	'Khasa'@en	count	2
+Q6406219	'Kikata Kingdom'@en	count	2
+Q6410251	'Kimpurusha Kingdom'@en	count	2
+Q6414031	'Kinnara Kingdom'@en	count	2
+Q6414862	'Kirata Kingdom'@en	count	2
+Q6429495	'Konkana Kingdom'@en	count	2
+Q6498248	'Lauhitya Kingdom'@en	count	2
+Q6728457	'Madra'@en	count	2
+Q6728459	'Madra Kingdom'@en	count	2
+Q6734111	'Mahisha Kingdom'@en	count	2
+Q6958282	'Naga Kingdom'@en	count	2
+Q6967073	'Nasikya Kingdom'@en	count	2
+Q6994316	'Nepa Kingdom'@en	count	2
+Q7130792	'Pandya Kingdom'@en	count	2
+Q7273754	'Zheltuga Republic'@en	count	2
+Q7636791	'Sultanate of Arbabni'@en	count	2
+Q7636794	'Sultanate of Dara'@en	count	2
+Q97446618	'Spanish Equatorial Guinea'@en	count	2
+Q97453140	'Kingdom of Luang Phrabang'@en	count	2
+Q10869627	'Northeast Supreme Administrative Council'@en	count	1
+Q10872458	'Northwest Chinese Soviet Federation'@en	count	1
+Q109599840	'Socialist Republic of Germany'@en	count	1
+Q110409568	'Betsimisaraka Kingdom'@en	count	1
+Q110491318	'Northern Liao'@en	count	1
+Q110625190	'Sultanate of Johor-Riau'@en	count	1
+Q13423693	'Realm of Simeon Uroš'@en	count	1
+Q20639104	'Margravate of Flanders'@en	count	1
+Q28051704	'Sena kingdom'@en	count	1
+Q28516740	'Sultanate of Pelalawan'@en	count	1

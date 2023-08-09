@@ -1,0 +1,3 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en
+ckg:c28	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P3896	'geoshape'@en

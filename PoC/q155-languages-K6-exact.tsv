@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
+Q155-P37-Q3436689-43cb42bb-0-P805-Q2666455-0	Q155-P37-Q3436689-43cb42bb-0		P805	'statement is subject of'@en	Q2666455	'languages of Brazil'@en	wikibase-item	Q155-P37-Q3436689-43cb42bb-0	Q155	'Brazil'@en	P37	'official language'@en	Q3436689	'Brazilian Sign Language'@en	wikibase-item
+Q155-P37-Q5146-11c20e95-0-P4626-Q750553-0	Q155-P37-Q5146-11c20e95-0		P4626	'identity of object in context'@en	Q750553	'Brazilian Portuguese'@en	wikibase-item	Q155-P37-Q5146-11c20e95-0	Q155	'Brazil'@en	P37	'official language'@en	Q5146	'Portuguese'@en	wikibase-item
+Q155-P37-Q5146-11c20e95-0-P805-Q2666455-0	Q155-P37-Q5146-11c20e95-0		P805	'statement is subject of'@en	Q2666455	'languages of Brazil'@en	wikibase-item	Q155-P37-Q5146-11c20e95-0	Q155	'Brazil'@en	P37	'official language'@en	Q5146	'Portuguese'@en	wikibase-item

@@ -1,0 +1,386 @@
+nohup: ignoring input
+Starting 'query' on pid 504008.
+[2023-08-07 00:00:26 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1365', 'Q96']
+---------------------------------------------
+Elapsed time: 1.47 seconds
+Starting 'reachable-nodes' on pid 504017.
+Elapsed time: 1.98 seconds
+Starting 'query' on pid 504026.
+[2023-08-07 00:00:29 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1365', 'Q96']
+---------------------------------------------
+Elapsed time: 1.12 seconds
+Starting 'query' on pid 504035.
+[2023-08-07 00:00:31 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1365', 'Q96']
+---------------------------------------------
+Elapsed time: 1.46 seconds
+Starting 'query' on pid 504044.
+[2023-08-07 00:00:32 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2" = ?
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1366', 'Q96']
+---------------------------------------------
+Elapsed time: 1.45 seconds
+Starting 'query' on pid 504053.
+[2023-08-07 00:00:33 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2" = ?
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1366', 'Q96']
+---------------------------------------------
+Elapsed time: 1.40 seconds
+Starting 'query' on pid 504062.
+[2023-08-07 00:00:35 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2" = ?
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P1366', 'Q96']
+---------------------------------------------
+Elapsed time: 1.15 seconds
+Starting 'query' on pid 504071.
+[2023-08-07 00:00:36 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P571', 'Q96']
+---------------------------------------------
+Elapsed time: 1.11 seconds
+Starting 'query' on pid 504080.
+[2023-08-07 00:00:37 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P571', 'Q96']
+---------------------------------------------
+Elapsed time: 1.12 seconds
+Starting 'query' on pid 504089.
+[2023-08-07 00:00:38 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c3
+     INNER JOIN graph_9 AS graph_9_c1, graph_9 AS graph_9_c2
+     ON graph_9_c1."node2" = graph_9_c2."node1"
+        AND graph_9_c1."node2;label" = graph_9_c2."node1;label"
+        AND graph_9_c2."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+  PARAS: ['P1365', 'Q96', 'P576']
+---------------------------------------------
+Elapsed time: 1.17 seconds
+Starting 'query' on pid 504098.
+[2023-08-07 00:00:39 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     INNER JOIN graph_9 AS graph_9_c2
+     ON graph_9_c1."node2" = graph_9_c2."node1"
+        AND graph_9_c1."node2;label" = graph_9_c2."node1;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c4
+     ON graph_9_c2."id" = graph_7_c4."node1"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+  PARAS: ['P1365', 'Q96', 'P576']
+---------------------------------------------
+Elapsed time: 1.47 seconds
+Starting 'query' on pid 504107.
+[2023-08-07 00:00:41 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P36', 'Q96']
+---------------------------------------------
+Elapsed time: 1.14 seconds
+Starting 'query' on pid 504116.
+[2023-08-07 00:00:42 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P36', 'Q96']
+---------------------------------------------
+Elapsed time: 1.08 seconds
+Starting 'query' on pid 504125.
+[2023-08-07 00:00:43 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c3
+     INNER JOIN graph_7 AS graph_7_c4, graph_9 AS graph_9_c1, graph_9 AS graph_9_c2
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_9_c1."node2" = graph_9_c2."node1"
+        AND graph_9_c1."node2;label" = graph_9_c2."node1;label"
+        AND graph_9_c2."id" = graph_7_c4."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+  PARAS: ['P36', 'Q96', 'P571']
+---------------------------------------------
+Elapsed time: 1.50 seconds
+Starting 'query' on pid 504134.
+[2023-08-07 00:00:44 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     INNER JOIN graph_9 AS graph_9_c2
+     ON graph_9_c1."node2" = graph_9_c2."node1"
+        AND graph_9_c1."node2;label" = graph_9_c2."node1;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c4
+     ON graph_9_c1."id" = graph_7_c4."node1"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c6
+     ON graph_9_c2."id" = graph_7_c6."node1"
+        AND graph_7_c6."node2;label" = graph_7_c6."node2;label"
+  PARAS: ['P36', 'Q96', 'P571']
+---------------------------------------------
+Elapsed time: 1.22 seconds
+Starting 'query' on pid 504143.
+[2023-08-07 00:00:46 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c3
+     INNER JOIN graph_7 AS graph_7_c4, graph_9 AS graph_9_c1, graph_9 AS graph_9_c2
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_9_c1."node1;label" = graph_9_c2."node1;label"
+        AND graph_9_c2."id" = graph_7_c4."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+  PARAS: ['P35', 'Q96', 'P1906', 'Q96']
+---------------------------------------------
+Elapsed time: 1.14 seconds
+Starting 'query' on pid 504152.
+[2023-08-07 00:00:47 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     INNER JOIN graph_9 AS graph_9_c2
+     ON graph_9_c1."node1;label" = graph_9_c2."node1;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c4
+     ON graph_9_c1."id" = graph_7_c4."node1"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c6
+     ON graph_9_c2."id" = graph_7_c6."node1"
+        AND graph_7_c6."node2;label" = graph_7_c6."node2;label"
+  PARAS: ['P35', 'Q96', 'P1906', 'Q96']
+---------------------------------------------
+Elapsed time: 1.15 seconds
+Starting 'query' on pid 504161.
+[2023-08-07 00:00:48 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c3
+     INNER JOIN graph_7 AS graph_7_c4, graph_9 AS graph_9_c1, graph_9 AS graph_9_c2
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_9_c1."node1;label" = graph_9_c2."node1;label"
+        AND graph_9_c2."id" = graph_7_c4."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+  PARAS: ['P6', 'Q96', 'P1313', 'Q96']
+---------------------------------------------
+Elapsed time: 1.10 seconds
+Starting 'query' on pid 504170.
+[2023-08-07 00:00:49 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     INNER JOIN graph_9 AS graph_9_c2
+     ON graph_9_c1."node1;label" = graph_9_c2."node1;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND graph_9_c2."label" = ?
+        AND graph_9_c2."node1" = ?
+        AND graph_9_c2."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c2."node2;label" = graph_9_c2."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c4
+     ON graph_9_c1."id" = graph_7_c4."node1"
+        AND graph_7_c4."node2;label" = graph_7_c4."node2;label"
+     LEFT JOIN graph_7 AS graph_7_c6
+     ON graph_9_c2."id" = graph_7_c6."node1"
+        AND graph_7_c6."node2;label" = graph_7_c6."node2;label"
+  PARAS: ['P6', 'Q96', 'P1313', 'Q96']
+---------------------------------------------
+Elapsed time: 1.23 seconds
+Starting 'query' on pid 504179.
+[2023-08-07 00:00:50 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P122', 'Q96']
+---------------------------------------------
+Elapsed time: 1.34 seconds
+Starting 'query' on pid 504188.
+[2023-08-07 00:00:52 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."label" = ?
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+  PARAS: ['P122', 'Q96']
+---------------------------------------------
+Elapsed time: 1.35 seconds
+Starting 'query' on pid 504197.
+[2023-08-07 00:00:53 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_7 AS graph_7_c2
+     INNER JOIN graph_9 AS graph_9_c1
+     ON graph_9_c1."id" = graph_7_c2."node1"
+        AND graph_7_c2."node2;label" = graph_7_c2."node2;label"
+        AND graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND (graph_9_c1."label" IN (?, ?, ?))
+  PARAS: ['Q96', 'P2936', 'P37', 'P103']
+---------------------------------------------
+Elapsed time: 1.47 seconds
+Starting 'query' on pid 504206.
+[2023-08-07 00:00:55 query]: SQL Translation:
+---------------------------------------------
+  SELECT *
+     FROM graph_9 AS graph_9_c1
+     LEFT JOIN graph_7 AS graph_7_c3
+     ON graph_9_c1."id" = graph_7_c3."node1"
+        AND graph_7_c3."node2;label" = graph_7_c3."node2;label"
+     WHERE graph_9_c1."node1" = ?
+        AND graph_9_c1."node1;label" = graph_9_c1."node1;label"
+        AND graph_9_c1."node2;label" = graph_9_c1."node2;label"
+        AND (graph_9_c1."label" IN (?, ?, ?))
+  PARAS: ['Q96', 'P2936', 'P37', 'P103']
+---------------------------------------------
+Elapsed time: 1.26 seconds

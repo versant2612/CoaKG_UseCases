@@ -1,0 +1,15 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en
+ckg:c40	P580	'start time'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c6	ckgT1	Temporal	ckgr1	ckg:Represented By	P585	'point in time'@en
+ckg:c41	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en
+ckg:c42	P582	'end time'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
+ckg:c45	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en
+ckg:c46	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en
+ckg:c47	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c26	ckgP1	Provenance	ckgr1	ckg:Represented By	P3680	'statement supported by'@en
+ckg:c49	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en

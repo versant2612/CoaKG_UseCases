@@ -1,0 +1,6 @@
+id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
+Q96-P1365-Q2608489-99c48117-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q2608489	'Aztec Empire'@en	wikibase-item								
+Q96-P1365-Q285658-1f8cb5c8-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q285658	'First Mexican Empire'@en	wikibase-item								
+Q96-P1365-Q671658-1b086531-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q671658	'Republic of Yucatán'@en	wikibase-item								
+Q96-P1365-Q5788450-ba02e6d4-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q5788450	'Restored Republic'@en	wikibase-item								
+Q96-P1365-Q170603-a410b689-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q170603	'Viceroyalty of New Spain'@en	wikibase-item								

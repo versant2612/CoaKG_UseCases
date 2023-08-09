@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
+Q155-P122-Q512187-3290be57-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q512187	'federal republic'@en	wikibase-item								
+Q155-P122-Q49892-bb752b52-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q49892	'presidential system'@en	wikibase-item								
+Q155-P122-Q188759-c1049d27-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q188759	'representative democracy'@en	wikibase-item								

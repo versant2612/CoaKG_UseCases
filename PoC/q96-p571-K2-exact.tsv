@@ -1,0 +1,27 @@
+id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
+Q96-P571-152919-88adc7f1-0-P1013-Q60024485-0	Q96-P571-152919-88adc7f1-0		P1013	'criterion used'@en	Q60024485	'independence recognized by another country'@en	wikibase-item
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8		time
+Q96-P571-152919-88adc7f1-0-P1326-44ea39-0	Q96-P571-152919-88adc7f1-0		P1326	'latest date'@en	^1822-01-01T00:00:00Z/9		time
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8		time
+Q96-P571-152919-88adc7f1-0-P807-Q29-0	Q96-P571-152919-88adc7f1-0		P807	'separated from'@en	Q29	'Spain'@en	wikibase-item
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8		time
+Q96-P571-4c1245-c3d094e3-0-P1013-Q1464916-0	Q96-P571-4c1245-c3d094e3-0		P1013	'criterion used'@en	Q1464916	'declaration of independence'@en	wikibase-item
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11		time
+Q96-P571-4c1245-c3d094e3-0-P805-Q1131780-0	Q96-P571-4c1245-c3d094e3-0		P805	'statement is subject of'@en	Q1131780	'Declaration of Independence of the Mexican Empire'@en	wikibase-item
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11		time
+Q96-P571-4c1245-c3d094e3-0-P805-Q1145411-0	Q96-P571-4c1245-c3d094e3-0		P805	'statement is subject of'@en	Q1145411	'Grito de Dolores'@en	wikibase-item
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11		time
+Q96-P571-4c1245-c3d094e3-0-P807-Q29-0	Q96-P571-4c1245-c3d094e3-0		P807	'separated from'@en	Q29	'Spain'@en	wikibase-item
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11		time
+Q96-P571-532906-27747016-0-P1013-Q60021702-0	Q96-P571-532906-27747016-0		P1013	'criterion used'@en	Q60021702	'independence recognized by country from which it separated'@en	wikibase-item
+Q96-P571-532906-27747016-0	Q96	'Mexico'@en	P571	'inception'@en	^1836-12-01T00:00:00Z/10		time
+Q96-P571-532906-27747016-0-P805-Q190025-0	Q96-P571-532906-27747016-0		P805	'statement is subject of'@en	Q190025	'Federal Republic of Central America'@en	wikibase-item
+Q96-P571-532906-27747016-0	Q96	'Mexico'@en	P571	'inception'@en	^1836-12-01T00:00:00Z/10		time
+Q96-P571-532906-27747016-0-P807-Q29-0	Q96-P571-532906-27747016-0		P807	'separated from'@en	Q29	'Spain'@en	wikibase-item
+Q96-P571-532906-27747016-0	Q96	'Mexico'@en	P571	'inception'@en	^1836-12-01T00:00:00Z/10		time
+Q96-P571-79d8e7-8df81a0f-0-P1013-Q1464916-0	Q96-P571-79d8e7-8df81a0f-0		P1013	'criterion used'@en	Q1464916	'declaration of independence'@en	wikibase-item
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11		time
+Q96-P571-79d8e7-8df81a0f-0-P805-Q1131780-0	Q96-P571-79d8e7-8df81a0f-0		P805	'statement is subject of'@en	Q1131780	'Declaration of Independence of the Mexican Empire'@en	wikibase-item
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11		time
+Q96-P571-79d8e7-8df81a0f-0-P807-Q29-0	Q96-P571-79d8e7-8df81a0f-0		P807	'separated from'@en	Q29	'Spain'@en	wikibase-item
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11		time
