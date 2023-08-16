@@ -1,0 +1,358 @@
+node1	node2;label	label	node2
+Q3024240	'historical country'@en	count	6087
+Q836688	'ancient Chinese state'@en	count	1023
+Q3624078	'sovereign state'@en	count	1010
+Q11514315	'historical period'@en	count	832
+Q48349	'empire'@en	count	787
+Q50068795	'historical Chinese state'@en	count	741
+Q164950	'dynasty'@en	count	656
+Q1336152	'princely state'@en	count	630
+Q1250464	'realm'@en	count	503
+Q330425	'sanjak'@en	count	493
+Q44565	'eyalet'@en	count	475
+Q182547	'Roman province'@en	count	429
+Q12857432	'Chinese dynasty'@en	count	402
+Q1371288	'vassal state'@en	count	330
+Q417175	'kingdom'@en	count	328
+Q11042	'culture'@en	count	264
+Q7275	'state'@en	count	263
+Q6256	'country'@en	count	253
+Q1292119	'style'@en	count	235
+Q10904438	'Twelve Vassals'@en	count	227
+Q19953632	'former administrative territorial entity'@en	count	216
+Q26830017	'state in the Holy Roman Empire'@en	count	203
+Q1462047	'vilayet of the Ottoman Empire'@en	count	174
+Q133442	'city-state'@en	count	172
+Q154547	'duchy'@en	count	169
+Q1620908	'historical region'@en	count	166
+Q12759805	'sultanate'@en	count	160
+Q131401	'caliphate'@en	count	159
+Q5402094	'barbarian kingdoms'@en	count	141
+Q133156	'colony'@en	count	139
+Q681026	'crown land of the Austrian Empire'@en	count	130
+Q208500	'principality'@en	count	126
+Q353344	'countship'@en	count	114
+Q15661340	'ancient city'@en	count	113
+Q3446291	'Gothic kingdom'@en	count	101
+Q43702	'federation'@en	count	94
+Q1088391	'rump state'@en	count	85
+Q189898	'emirate'@en	count	84
+Q56061	'administrative territorial entity'@en	count	84
+Q7695	'march'@en	count	83
+Q164142	'protectorate'@en	count	76
+Q170156	'confederation'@en	count	75
+Q99541706	'historical unrecognized state'@en	count	74
+Q15634554	'state with limited recognition'@en	count	71
+Q331644	'Khanate'@en	count	71
+Q107390	'federated state'@en	count	67
+Q1323642	'transcontinental country'@en	count	67
+Q34876	'province'@en	count	67
+Q7270	'republic'@en	count	67
+Q217177	'taifa'@en	count	58
+Q82794	'geographic region'@en	count	58
+Q11938128	'Mutasarrıf'@en	count	57
+Q129224	'foederati'@en	count	57
+Q2577883	'occupied territory'@en	count	55
+Q19698023	'former voivodeships of the Grand Duchy of Lithuania'@en	count	54
+Q6465	'department of France'@en	count	54
+Q188063	'fiefdom'@en	count	52
+Q5156764	'composite monarchy'@en	count	52
+Q1093720	'real union'@en	count	50
+Q96354653	'beylik'@en	count	50
+Q472538	'French sister republic'@en	count	41
+Q6428674	'era'@en	count	41
+Q84582639	'former voivodeships of the Crown of the Kingdom of Poland'@en	count	41
+Q86622	'governorate'@en	count	41
+Q21512251	'self-proclaimed state'@en	count	40
+Q3181749	'Caliphate'@en	count	40
+Q47530375	'governorate of the Russian Empire'@en	count	37
+Q7075127	'oblast of the Russian Empire'@en	count	36
+Q2472587	'people'@en	count	35
+Q5	'human'@en	count	34
+Q5589178	'regime'@en	count	34
+Q846025	'Mahajanapada'@en	count	34
+Q17524420	'aspect of history'@en	count	32
+Q678116	'government in exile'@en	count	32
+Q13417114	'noble family'@en	count	31
+Q190967	'Crusader states'@en	count	31
+Q58001476	'condado (Spain)'@en	count	31
+Q2788858	'maona'@en	count	30
+Q16334295	'group of humans'@en	count	29
+Q208164	'puppet state'@en	count	29
+Q1151405	'client state'@en	count	28
+Q1351282	'crown colony'@en	count	28
+Q1678467	'Jagir'@en	count	28
+Q20203507	'viceroyalty of the Spanish Empire'@en	count	28
+Q465613	'people\'s republic'@en	count	28
+Q6266	'nation'@en	count	28
+Q6949213	'mythological king'@en	count	28
+Q20181813	'colonial power'@en	count	27
+Q426759	'League of Nations mandate'@en	count	27
+Q183366	'territory'@en	count	26
+Q26879763	'Napoleonic client state'@en	count	25
+Q521972	'Czechoslovak Republic'@en	count	24
+Q742313	'Sardinian Judicati'@en	count	24
+Q1235532	'diocese of the Roman Empire'@en	count	23
+Q150093	'voivodeship of Poland'@en	count	23
+Q15649504	'satrapy'@en	count	23
+Q18920569	'traditional state in Nigeria'@en	count	23
+Q236036	'republics of the Soviet Union'@en	count	23
+Q28171280	'ancient civilization'@en	count	23
+Q3403564	'ecclesiastical principality'@en	count	23
+Q1145276	'fictional country'@en	count	22
+Q57318	'free imperial city'@en	count	21
+Q59281	'provisional government'@en	count	21
+Q188443	'micronation'@en	count	20
+Q19832712	'historical administrative division'@en	count	20
+Q21479969	'British protectorate'@en	count	20
+Q325261	'satellite state'@en	count	20
+Q640506	'cabinet'@en	count	20
+Q532	'village'@en	count	19
+Q11545907	'samurai government'@en	count	18
+Q202686	'Commonwealth realm'@en	count	18
+Q7252696	'province of Spanish America'@en	count	18
+Q1089515	'conquest dynasty'@en	count	17
+Q512187	'federal republic'@en	count	17
+Q2387481	'Indonesian monarchy'@en	count	16
+Q43185013	'maritime republic'@en	count	15
+Q7188	'government'@en	count	15
+Q7269	'monarchy'@en	count	15
+Q985073	'United Nations trust territory'@en	count	15
+Q173843	'regency'@en	count	14
+Q196068	'lordship'@en	count	14
+Q28575	'county'@en	count	14
+Q914425	'Signoria'@en	count	14
+Q17259945	'province of the Spanish Empire'@en	count	13
+Q2560551	'vassal and tributary state of the Ottoman Empire'@en	count	13
+Q5473816	'Crown land'@en	count	13
+Q79751	'oligarchy'@en	count	13
+Q852231	'county of the Kingdom of Hungary'@en	count	13
+Q105388829	'Roman Catholic diocese'@en	count	12
+Q1798550	'petty kingdom'@en	count	12
+Q3591895	'Savoyard state'@en	count	12
+Q41614	'constitutional monarchy'@en	count	12
+Q4835091	'territory'@en	count	12
+Q124734	'rebellion'@en	count	11
+Q16887380	'group'@en	count	11
+Q24457356	'historiographical concept'@en	count	11
+Q26879769	'state in the Confederation of the Rhine'@en	count	11
+Q26883974	'nomadic confederacy'@en	count	11
+Q3772949	'Subah'@en	count	11
+Q4312761	'viceroyalty of the Russian Empire'@en	count	11
+Q463742	'Hochstift'@en	count	11
+Q1074150	'shogunate'@en	count	10
+Q1309121	'hermit kingdom'@en	count	10
+Q276548	'secret society'@en	count	10
+Q27925057	'electoral principate'@en	count	10
+Q379817	'theme of the Byzantine Empire'@en	count	10
+Q642961	'Reichsgau'@en	count	10
+Q671370	'general governorate of the Russian Empire'@en	count	10
+Q11625999	'Branch Secretariat'@en	count	9
+Q12959600	'Constituent republics and provinces of Yugoslavia'@en	count	9
+Q131569	'treaty'@en	count	9
+Q161243	'dependent territory'@en	count	9
+Q1695783	'Real Audiencia'@en	count	9
+Q188686	'military occupation'@en	count	9
+Q3822336	'kingdom of Indies'@en	count	9
+Q486972	'human settlement'@en	count	9
+Q788176	'autonomous administrative territorial entity'@en	count	9
+Q842112	'socialist state'@en	count	9
+Q1127126	'military alliance'@en	count	8
+Q17152708	'republican regime in France'@en	count	8
+Q31728	'public administration'@en	count	8
+Q3924474	'former province of Italy'@en	count	8
+Q4482688	'feudal monarchy'@en	count	8
+Q515	'city'@en	count	8
+Q112099	'island nation'@en	count	7
+Q1520223	'constitutional republic'@en	count	7
+Q15646485	'division of British India'@en	count	7
+Q15649510	'satrapy of the Sasanian Empire'@en	count	7
+Q187587	'empire'@en	count	7
+Q223832	'dominion of the British Empire'@en	count	7
+Q327333	'government agency'@en	count	7
+Q5255892	'democratic republic'@en	count	7
+Q5588651	'governing body'@en	count	7
+Q617593	'apanage'@en	count	7
+Q841985	'han system'@en	count	7
+Q1048835	'political territorial entity'@en	count	6
+Q10864048	'first-level administrative country subdivision'@en	count	6
+Q11330026	'Historical'@en	count	6
+Q1662634	'clique'@en	count	6
+Q188800	'personal union'@en	count	6
+Q202156	'province of Ireland'@en	count	6
+Q43229	'organization'@en	count	6
+Q49614	'nickname'@en	count	6
+Q50337	'prefecture of Japan'@en	count	6
+Q574299	'provinces of Prussia'@en	count	6
+Q691981	'Duchies of Silesia'@en	count	6
+Q788046	'autonomous soviet socialist republic of a union republic of the Soviet Union'@en	count	6
+Q10931	'revolution'@en	count	5
+Q15733039	'governorate of the Russian Soviet Federative Socialist Republic'@en	count	5
+Q165116	'grand duchy'@en	count	5
+Q171308	'oblast'@en	count	5
+Q17319161	'princely estate of the British Raj'@en	count	5
+Q17544377	'history of a country or state'@en	count	5
+Q2264924	'port settlement'@en	count	5
+Q2640598	'Kabardia'@en	count	5
+Q4691986	'agency of British India'@en	count	5
+Q5036886	'Captaincies of the Spanish Empire'@en	count	5
+Q65183056	'state of the Federal Republic of Central America'@en	count	5
+Q100205512	'administrative territorial entity of ancient Rome'@en	count	4
+Q1068521	'Restoration'@en	count	4
+Q11573099	'royalty'@en	count	4
+Q1162751	'Government of Hungary'@en	count	4
+Q13218276	'Freie Stadt'@en	count	4
+Q13220204	'second-level administrative country subdivision'@en	count	4
+Q1414991	'area'@en	count	4
+Q15617994	'designation for an administrative territorial entity'@en	count	4
+Q1700154	'colonial society'@en	count	4
+Q209495	'historical province of France'@en	count	4
+Q2139582	'Reichsland'@en	count	4
+Q2346181	'Salute state'@en	count	4
+Q27062253	'Gau'@en	count	4
+Q27780831	'lost Roman Catholic diocese'@en	count	4
+Q2824645	'administrative divisions of Italy'@en	count	4
+Q2973941	'French legislative constituency'@en	count	4
+Q3117863	'isolated human group'@en	count	4
+Q3241965	'tributary state'@en	count	4
+Q4164871	'position'@en	count	4
+Q41763771	'oblast of the Kingdom of Serbs, Croats and Slovenes'@en	count	4
+Q4379644	'province of the Russian Empire'@en	count	4
+Q47530274	'okrug of the Russian Empire'@en	count	4
+Q50686	'single-party system'@en	count	4
+Q51576574	'Mediterranean country'@en	count	4
+Q56219758	'constituent republic within Czechoslovakia'@en	count	4
+Q57821	'fortification'@en	count	4
+Q5918768	'intendancy of the Spanish Empire'@en	count	4
+Q816829	'periodization'@en	count	4
+Q946136	'exarchate of the Byzantine Empire'@en	count	4
+Q97469558	'Zamindari estate'@en	count	4
+Q1129474	'cultural landscape'@en	count	3
+Q11396118	'divided country'@en	count	3
+Q1197588	'military government'@en	count	3
+Q12356456	'viceroyalty'@en	count	3
+Q133311	'tribe'@en	count	3
+Q15642541	'human-geographic territorial entity'@en	count	3
+Q15893266	'former entity'@en	count	3
+Q17362920	'Wikimedia duplicated page'@en	count	3
+Q179164	'unitary state'@en	count	3
+Q179671	'nation state'@en	count	3
+Q1798622	'governorate'@en	count	3
+Q192611	'electoral district'@en	count	3
+Q2221906	'geographic location'@en	count	3
+Q2478080	'name of Vietnam'@en	count	3
+Q29569274	'former name'@en	count	3
+Q333542	'overseas province of Portugal'@en	count	3
+Q465299	'archaeological culture'@en	count	3
+Q484652	'international organization'@en	count	3
+Q499720	'autonomous oblast of a union republic of the Soviet Union'@en	count	3
+Q50198	'province of Thailand'@en	count	3
+Q5164076	'constituent state'@en	count	3
+Q59104206	'polysynodal monarchy'@en	count	3
+Q699	'fairy tale'@en	count	3
+Q734818	'condominium'@en	count	3
+Q80096233	'information list'@en	count	3
+Q101352	'family name'@en	count	2
+Q106528203	'state constituency of Malaysia'@en	count	2
+Q1138279	'associated state'@en	count	2
+Q1156073	'royal house'@en	count	2
+Q1211369	'the empire on which the sun never sets'@en	count	2
+Q1226252	'tied island'@en	count	2
+Q12443800	'state of India'@en	count	2
+Q12621518	'princely states of Pakistan'@en	count	2
+Q1352230	'territory of the United States'@en	count	2
+Q1489259	'superpower'@en	count	2
+Q14946528	'conflation'@en	count	2
+Q15665395	'subdistrict of Mandatory Palestine'@en	count	2
+Q16148626	'dominion of Sweden'@en	count	2
+Q174450	'tetrarchy'@en	count	2
+Q17507349	'district of British India'@en	count	2
+Q1790360	'colonial empire'@en	count	2
+Q20683493	'krai of a union republic of the Soviet Union'@en	count	2
+Q2072238	'archdiocese'@en	count	2
+Q20825630	'canton of the First Spanish Republic'@en	count	2
+Q23037160	'quasi-state'@en	count	2
+Q2479824	'altepetl'@en	count	2
+Q2494447	'part principality'@en	count	2
+Q26654367	'former county'@en	count	2
+Q2991489	'county palatine'@en	count	2
+Q3252884	'Gau'@en	count	2
+Q3336843	'constituent country of the United Kingdom'@en	count	2
+Q36732	'kingdom'@en	count	2
+Q4388751	'Razryad'@en	count	2
+Q467745	'union territory of India'@en	count	2
+Q47092120	'province of Qing dynasty'@en	count	2
+Q4712904	'Alcaldía mayor'@en	count	2
+Q4830453	'business'@en	count	2
+Q5107861	'medieval commune'@en	count	2
+Q5589761	'governorate of the Spanish Empire'@en	count	2
+Q58683981	'señorio'@en	count	2
+Q65275063	'bugyōsho'@en	count	2
+Q7448101	'self-governing colony of the British Empire'@en	count	2
+Q7694920	'tehsil of India'@en	count	2
+Q865588	'committee'@en	count	2
+Q902814	'border town'@en	count	2
+Q91615393	'Wikidata items that need to be split'@en	count	2
+Q1010624	'Boer Republics'@en	count	1
+Q102131920	'Thikana'@en	count	1
+Q104117291	'region of Spain'@en	count	1
+Q1077333	'administrative territorial entity of Thailand'@en	count	1
+Q10860609	'country in Czechoslovakia'@en	count	1
+Q109614735	'communist regime'@en	count	1
+Q1102202	'dynastic union'@en	count	1
+Q111584956	'regional administration'@en	count	1
+Q112151069	'district of Gran Colombia'@en	count	1
+Q112865	'administrative territorial entity of Mexico'@en	count	1
+Q1163330	'Maharaja'@en	count	1
+Q11876947	'Egyptian dynasty'@en	count	1
+Q1248049	'Land'@en	count	1
+Q1307214	'form of government'@en	count	1
+Q13107770	'archipelagic state'@en	count	1
+Q1335818	'supranational union'@en	count	1
+Q13403037	'Period of appanages'@en	count	1
+Q13406463	'Wikimedia list article'@en	count	1
+Q1376651	'concessions in China'@en	count	1
+Q149621	'district'@en	count	1
+Q15149663	'state of Mexico'@en	count	1
+Q15239622	'disputed territory'@en	count	1
+Q1621034	'historical territory'@en	count	1
+Q16242623	'African empires'@en	count	1
+Q17152565	'international zone'@en	count	1
+Q17623546	'República de Cuba'@en	count	1
+Q1814867	'Imamiyyah'@en	count	1
+Q18285142	'oblast of a union republic of the Soviet Union'@en	count	1
+Q191320	'political geography'@en	count	1
+Q19576	'wilayah'@en	count	1
+Q2327385	'overseas territory'@en	count	1
+Q2417776	'Negara'@en	count	1
+Q2523556	'directorial system'@en	count	1
+Q26280629	'region of India'@en	count	1
+Q2889084	'Military Administration'@en	count	1
+Q29933858	'territorial claim'@en	count	1
+Q3110808	'province of Ethiopia'@en	count	1
+Q3183364	'administrative territorial entity of Spain'@en	count	1
+Q35657	'U.S. state'@en	count	1
+Q3950801	'satrapy of the Achaemenid Empire'@en	count	1
+Q4057683	'states of the German Empire'@en	count	1
+Q41792036	'oversea province of Spain'@en	count	1
+Q4358176	'council'@en	count	1
+Q4377540	'praetorian prefecture'@en	count	1
+Q44405	'theocracy'@en	count	1
+Q4445694	'sultanism'@en	count	1
+Q4765854	'Shan States'@en	count	1
+Q4891503	'cora'@en	count	1
+Q49892	'presidential system'@en	count	1
+Q51883617	'proposed state of the United States'@en	count	1
+Q543813	'Reichskommissariat'@en	count	1
+Q56167919	'historical province of Indonesia'@en	count	1
+Q5852411	'state of Australia'@en	count	1
+Q616981	'province of Brazil'@en	count	1
+Q618123	'geographical feature'@en	count	1
+Q672729	'Islamic Republic'@en	count	1
+Q815962	'colonization'@en	count	1
+Q841753	'governorate of Iraq'@en	count	1
+Q8473	'military'@en	count	1
+Q859563	'secular state'@en	count	1
+Q895526	'organ'@en	count	1
+Q931937	'jüz'@en	count	1
+Q93352	'coast'@en	count	1

@@ -1,92 +1,95 @@
 node1	node1;label	node1;valuetype	node1;valuetype_label	label	node2
-P805	'statement is subject of'@en	Q15221623	'bilateral relation'@en	count	6182
-P518	'applies to part'@en	Q162378	'grammatical gender'@en	count	4768
-P459	'determination method'@en	Q10843872	'engineering process'@en	count	3654
-P518	'applies to part'@en	Q104083	'grammatical number'@en	count	3581
-P407	'language of work or name'@en	Q1288568	'modern language'@en	count	2067
-P407	'language of work or name'@en	Q34770	'language'@en	count	2053
-P805	'statement is subject of'@en	Q13433827	'encyclopedia article'@en	count	1113
-P805	'statement is subject of'@en	Q12413618	'international border'@en	count	828
-P407	'language of work or name'@en	Q33742	'natural language'@en	count	787
-P805	'statement is subject of'@en	Q133346	'border'@en	count	698
-P31	'instance of'@en	Q104637420	'sourcing circumstance'@en	count	658
-P805	'statement is subject of'@en	Q15104814	'land boundary'@en	count	653
-P531	'diplomatic mission sent'@en	Q3917681	'embassy'@en	count	651
-P407	'language of work or name'@en	Q152559	'macrolanguage'@en	count	443
+P805	'statement is subject of'@en	Q15221623	'bilateral relation'@en	count	6231
+P518	'applies to part'@en	Q162378	'grammatical gender'@en	count	4822
+P459	'determination method'@en	Q10843872	'engineering process'@en	count	3713
+P518	'applies to part'@en	Q104083	'grammatical number'@en	count	3632
+P407	'language of work or name'@en	Q1288568	'modern language'@en	count	2089
+P407	'language of work or name'@en	Q34770	'language'@en	count	2075
+P805	'statement is subject of'@en	Q13433827	'encyclopedia article'@en	count	1149
+P805	'statement is subject of'@en	Q12413618	'international border'@en	count	830
+P407	'language of work or name'@en	Q33742	'natural language'@en	count	799
+P805	'statement is subject of'@en	Q133346	'border'@en	count	700
+P31	'instance of'@en	Q104637420	'sourcing circumstance'@en	count	672
+P805	'statement is subject of'@en	Q15104814	'land boundary'@en	count	655
+P531	'diplomatic mission sent'@en	Q3917681	'embassy'@en	count	652
+P407	'language of work or name'@en	Q152559	'macrolanguage'@en	count	447
 P805	'statement is subject of'@en	Q3089219	'maritime boundary'@en	count	413
-P459	'determination method'@en	Q791801	'estimation process'@en	count	351
-P4390	'mapping relation type'@en	Q60817979	'SKOS generic mapping relation'@en	count	340
+P459	'determination method'@en	Q791801	'estimation process'@en	count	363
+P4390	'mapping relation type'@en	Q60817979	'SKOS generic mapping relation'@en	count	353
 P518	'applies to part'@en	Q4369513	'sex of humans'@en	count	271
 P518	'applies to part'@en	Q48264	'gender identity'@en	count	271
-P195	'collection'@en	Q2668072	'collection'@en	count	254
-P459	'determination method'@en	Q15275719	'recurring event'@en	count	223
-P407	'language of work or name'@en	Q171263	'agglutinative language'@en	count	208
-P31	'instance of'@en	Q2545446	'grapheme'@en	count	198
-P39	'position held'@en	Q4164871	'position'@en	count	194
-P3680	'statement supported by'@en	Q3490295	'survey'@en	count	192
-P3680	'statement supported by'@en	Q41298	'magazine'@en	count	192
-P3680	'statement supported by'@en	Q737498	'academic journal'@en	count	192
-P518	'applies to part'@en	Q19798642	'Wikibase value'@en	count	157
-P518	'applies to part'@en	Q29431432	'dyad'@en	count	157
-P2061	'aspect ratio (W:H)'@en	Q14946528	'conflation'@en	count	155
-P2061	'aspect ratio (W:H)'@en	Q20970434	'width to height aspect ratio'@en	count	155
+P195	'collection'@en	Q2668072	'collection'@en	count	257
+P459	'determination method'@en	Q15275719	'recurring event'@en	count	224
+P407	'language of work or name'@en	Q171263	'agglutinative language'@en	count	210
+P31	'instance of'@en	Q2545446	'grapheme'@en	count	201
+P39	'position held'@en	Q4164871	'position'@en	count	195
+P3680	'statement supported by'@en	Q3490295	'survey'@en	count	194
+P3680	'statement supported by'@en	Q41298	'magazine'@en	count	194
+P3680	'statement supported by'@en	Q737498	'academic journal'@en	count	194
+P642	'of'@en	Q3624078	'sovereign state'@en	count	162
+P518	'applies to part'@en	Q19798642	'Wikibase value'@en	count	159
+P518	'applies to part'@en	Q29431432	'dyad'@en	count	159
+P2061	'aspect ratio (W:H)'@en	Q14946528	'conflation'@en	count	157
+P2061	'aspect ratio (W:H)'@en	Q20970434	'width to height aspect ratio'@en	count	157
+P642	'of'@en	Q3024240	'historical country'@en	count	140
 P102	'member of political party'@en	Q7278	'political party'@en	count	139
-P642	'of'@en	Q3024240	'historical country'@en	count	124
-P642	'of'@en	Q3624078	'sovereign state'@en	count	121
 P1365	'replaces'@en	Q5	'human'@en	count	115
 P837	'day in year for periodic occurrence'@en	Q14795564	'point in time with respect to recurrent timeframe'@en	count	108
 P1366	'replaced by'@en	Q5	'human'@en	count	107
-P1480	'sourcing circumstances'@en	Q104637420	'sourcing circumstance'@en	count	102
-P747	'has edition or translation'@en	Q3331189	'version, edition, or translation'@en	count	102
-P747	'has edition or translation'@en	Q48473	'library classification'@en	count	102
+P1480	'sourcing circumstances'@en	Q104637420	'sourcing circumstance'@en	count	103
+P747	'has edition or translation'@en	Q3331189	'version, edition, or translation'@en	count	103
+P747	'has edition or translation'@en	Q48473	'library classification'@en	count	103
+P642	'of'@en	Q6256	'country'@en	count	96
 P805	'statement is subject of'@en	Q67147037	'European Union border'@en	count	91
-P7452	'reason for preferred rank'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	81
+P7452	'reason for preferred rank'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	82
+P654	'direction relative to location'@en	Q23718	'cardinal direction'@en	count	70
 P805	'statement is subject of'@en	Q96323943	'Department of \"Ancient and Modern Book Collection\"'@en	count	69
 P518	'applies to part'@en	Q35657	'U.S. state'@en	count	68
-P654	'direction relative to location'@en	Q23718	'cardinal direction'@en	count	63
 P518	'applies to part'@en	Q41162	'republic of Russia'@en	count	62
-P642	'of'@en	Q6256	'country'@en	count	61
 P518	'applies to part'@en	Q1790144	'unit of time'@en	count	59
 P518	'applies to part'@en	Q82047057	'UCUM derived unit'@en	count	59
 P39	'position held'@en	Q294414	'public office'@en	count	58
 P518	'applies to part'@en	Q14795564	'point in time with respect to recurrent timeframe'@en	count	57
 P518	'applies to part'@en	Q21684377	'unit without standard conversion to SI'@en	count	57
 P39	'position held'@en	Q355567	'noble title'@en	count	56
-P5102	'nature of statement'@en	Q1207505	'quality'@en	count	49
-P5102	'nature of statement'@en	Q3062294	'Latin phrase'@en	count	49
+P642	'of'@en	Q20181813	'colonial power'@en	count	54
+P5102	'nature of statement'@en	Q1207505	'quality'@en	count	53
+P5102	'nature of statement'@en	Q3062294	'Latin phrase'@en	count	53
 P518	'applies to part'@en	Q835714	'oblasts of Russia'@en	count	48
 P805	'statement is subject of'@en	Q67371697	'border of the Schengen Area'@en	count	48
-P1001	'applies to jurisdiction'@en	Q6256	'country'@en	count	45
-P1001	'applies to jurisdiction'@en	Q3624078	'sovereign state'@en	count	41
+P1001	'applies to jurisdiction'@en	Q6256	'country'@en	count	46
+P1001	'applies to jurisdiction'@en	Q3624078	'sovereign state'@en	count	42
+P706	'located in/on physical feature'@en	Q23442	'island'@en	count	41
 P518	'applies to part'@en	Q5098	'province of Indonesia'@en	count	40
-P706	'located in/on physical feature'@en	Q23442	'island'@en	count	39
-P518	'applies to part'@en	Q1402592	'island group'@en	count	38
+P518	'applies to part'@en	Q1402592	'island group'@en	count	39
 P518	'applies to part'@en	Q485258	'federative unit of Brazil'@en	count	38
+P642	'of'@en	Q48349	'empire'@en	count	38
 P1393	'proxy'@en	Q5	'human'@en	count	35
 P1552	'has quality'@en	Q111691402	'user account quality'@en	count	35
 P3831	'object has role'@en	Q20667921	'type of French administrative division'@en	count	35
 P3831	'object has role'@en	Q56427813	'type of legal entity in France'@en	count	35
 P518	'applies to part'@en	Q3024240	'historical country'@en	count	35
-P642	'of'@en	Q48349	'empire'@en	count	35
 P1001	'applies to jurisdiction'@en	Q1520223	'constitutional republic'@en	count	34
 P1001	'applies to jurisdiction'@en	Q512187	'federal republic'@en	count	34
+P518	'applies to part'@en	Q33837	'archipelago'@en	count	34
+P518	'applies to part'@en	Q6256	'country'@en	count	34
 P1001	'applies to jurisdiction'@en	Q1489259	'superpower'@en	count	33
 P1001	'applies to jurisdiction'@en	Q14946528	'conflation'@en	count	33
 P1001	'applies to jurisdiction'@en	Q5255892	'democratic republic'@en	count	33
 P1001	'applies to jurisdiction'@en	Q99541706	'historical unrecognized state'@en	count	33
-P518	'applies to part'@en	Q6256	'country'@en	count	32
+P642	'of'@en	Q51576574	'Mediterranean country'@en	count	33
+P518	'applies to part'@en	Q82794	'geographic region'@en	count	32
 P102	'member of political party'@en	Q233591	'communist party'@en	count	31
 P39	'position held'@en	Q28640	'profession'@en	count	31
 P459	'determination method'@en	Q5058971	'census in Australia'@en	count	31
 P4649	'identity of subject in context'@en	Q3024240	'historical country'@en	count	31
-P518	'applies to part'@en	Q33837	'archipelago'@en	count	31
-P518	'applies to part'@en	Q82794	'geographic region'@en	count	31
+P642	'of'@en	Q7270	'republic'@en	count	31
 P102	'member of political party'@en	Q11744698	'parliamentary grouping'@en	count	30
 P102	'member of political party'@en	Q7210356	'political organization'@en	count	30
 P518	'applies to part'@en	Q161243	'dependent territory'@en	count	30
 P518	'applies to part'@en	Q17272692	'IANA time zone'@en	count	29
+P518	'applies to part'@en	Q56061	'administrative territorial entity'@en	count	29
 P102	'member of political party'@en	Q848197	'parliamentary group'@en	count	28
-P518	'applies to part'@en	Q56061	'administrative territorial entity'@en	count	28
 P407	'language of work or name'@en	Q33384	'dialect'@en	count	27
 P459	'determination method'@en	Q858439	'presidential election'@en	count	27
 P518	'applies to part'@en	Q82042	'part of speech'@en	count	27
@@ -96,17 +99,17 @@ P1365	'replaces'@en	Q386724	'work'@en	count	26
 P1365	'replaces'@en	Q669102	'arithmetic calendar'@en	count	26
 P1365	'replaces'@en	Q9337488	'interval measurement scale'@en	count	26
 P518	'applies to part'@en	Q15149663	'state of Mexico'@en	count	26
+P518	'applies to part'@en	Q15239622	'disputed territory'@en	count	25
 P518	'applies to part'@en	Q23442	'island'@en	count	25
 P518	'applies to part'@en	Q66724388	'autonomous country within the Kingdom of Denmark'@en	count	25
+P654	'direction relative to location'@en	Q10351538	'intercardinal direction'@en	count	25
 P1366	'replaced by'@en	Q3624078	'sovereign state'@en	count	24
 P4649	'identity of subject in context'@en	Q3624078	'sovereign state'@en	count	24
 P518	'applies to part'@en	Q1048835	'political territorial entity'@en	count	24
-P518	'applies to part'@en	Q15239622	'disputed territory'@en	count	24
-P642	'of'@en	Q20181813	'colonial power'@en	count	24
-P654	'direction relative to location'@en	Q10351538	'intercardinal direction'@en	count	24
 P1365	'replaces'@en	Q3024240	'historical country'@en	count	23
 P2868	'subject has role'@en	Q4164871	'position'@en	count	23
 P3831	'object has role'@en	Q4164871	'position'@en	count	23
+P642	'of'@en	Q417175	'kingdom'@en	count	23
 P805	'statement is subject of'@en	Q166542	'international relations'@en	count	23
 P39	'position held'@en	Q42045197	'hereditary position'@en	count	22
 P407	'language of work or name'@en	Q661936	'pro-drop language'@en	count	22
@@ -114,30 +117,32 @@ P1366	'replaced by'@en	Q6256	'country'@en	count	21
 P518	'applies to part'@en	Q15728204	'province of Saudi Arabia'@en	count	21
 P1264	'valid in period'@en	Q3024240	'historical country'@en	count	20
 P1310	'statement disputed by'@en	Q3624078	'sovereign state'@en	count	20
+P2868	'subject has role'@en	Q2628882	'legal status'@en	count	20
+P518	'applies to part'@en	Q36784	'region of France'@en	count	20
 P518	'applies to part'@en	Q493522	'municipality of Belgium'@en	count	20
 P642	'of'@en	Q11514315	'historical period'@en	count	20
 P805	'statement is subject of'@en	Q33829	'human population'@en	count	20
+P828	'has cause'@en	Q625298	'peace treaty'@en	count	20
+P3831	'object has role'@en	Q1207505	'quality'@en	count	19
+P3831	'object has role'@en	Q3062294	'Latin phrase'@en	count	19
+P459	'determination method'@en	Q1207505	'quality'@en	count	19
+P459	'determination method'@en	Q3062294	'Latin phrase'@en	count	19
 P518	'applies to part'@en	Q112099	'island nation'@en	count	19
 P518	'applies to part'@en	Q192611	'electoral district'@en	count	19
 P518	'applies to part'@en	Q26934845	'integral overseas territory'@en	count	19
-P518	'applies to part'@en	Q36784	'region of France'@en	count	19
 P518	'applies to part'@en	Q462778	'insular area'@en	count	19
-P642	'of'@en	Q51576574	'Mediterranean country'@en	count	19
+P642	'of'@en	Q1250464	'realm'@en	count	19
 P805	'statement is subject of'@en	Q3024240	'historical country'@en	count	19
 P1310	'statement disputed by'@en	Q6256	'country'@en	count	18
 P1365	'replaces'@en	Q22670030	'former French region'@en	count	18
 P1366	'replaced by'@en	Q36784	'region of France'@en	count	18
-P2868	'subject has role'@en	Q2628882	'legal status'@en	count	18
-P3831	'object has role'@en	Q1207505	'quality'@en	count	18
-P3831	'object has role'@en	Q3062294	'Latin phrase'@en	count	18
 P459	'determination method'@en	Q1499496	'German presidential election'@en	count	18
 P805	'statement is subject of'@en	Q87443571	'closed border'@en	count	18
 P1001	'applies to jurisdiction'@en	Q3336843	'constituent country of the United Kingdom'@en	count	17
 P1013	'criterion used'@en	Q15275719	'recurring event'@en	count	17
 P1480	'sourcing circumstances'@en	Q813912	'condition'@en	count	17
 P31	'instance of'@en	Q56061	'administrative territorial entity'@en	count	17
-P459	'determination method'@en	Q1207505	'quality'@en	count	17
-P459	'determination method'@en	Q3062294	'Latin phrase'@en	count	17
+P518	'applies to part'@en	Q202216	'overseas department and region of France'@en	count	17
 P1001	'applies to jurisdiction'@en	Q835714	'oblasts of Russia'@en	count	16
 P1011	'excluding'@en	Q15239622	'disputed territory'@en	count	16
 P1011	'excluding'@en	Q33837	'archipelago'@en	count	16
@@ -145,53 +150,54 @@ P21	'sex or gender'@en	Q4369513	'sex of humans'@en	count	16
 P21	'sex or gender'@en	Q48264	'gender identity'@en	count	16
 P2868	'subject has role'@en	Q16874643	'legal term'@en	count	16
 P3005	'valid in place'@en	Q1221156	'federal state of Germany'@en	count	16
-P518	'applies to part'@en	Q202216	'overseas department and region of France'@en	count	16
+P5102	'nature of statement'@en	Q2628882	'legal status'@en	count	16
 P518	'applies to part'@en	Q46395	'British overseas territories'@en	count	16
 P518	'applies to part'@en	Q50399	'province of Mongolia'@en	count	16
 P518	'applies to part'@en	Q902814	'border town'@en	count	16
 P518	'applies to part'@en	Q933394	'exclave'@en	count	16
-P642	'of'@en	Q1250464	'realm'@en	count	16
 P1001	'applies to jurisdiction'@en	Q6266	'nation'@en	count	15
 P1011	'excluding'@en	Q202216	'overseas department and region of France'@en	count	15
 P1011	'excluding'@en	Q36784	'region of France'@en	count	15
 P1365	'replaces'@en	Q36784	'region of France'@en	count	15
-P642	'of'@en	Q7270	'republic'@en	count	15
+P156	'followed by'@en	Q3624078	'sovereign state'@en	count	15
+P642	'of'@en	Q112099	'island nation'@en	count	15
+P642	'of'@en	Q1211369	'the empire on which the sun never sets'@en	count	15
 P805	'statement is subject of'@en	Q5015587	'Government of the Czech Republic'@en	count	15
 P828	'has cause'@en	Q131569	'treaty'@en	count	15
 P1013	'criterion used'@en	Q111243531	'population criterion'@en	count	14
 P282	'writing system'@en	Q29517555	'natural script'@en	count	14
 P459	'determination method'@en	Q15146717	'Italian presidential election'@en	count	14
-P5102	'nature of statement'@en	Q2628882	'legal status'@en	count	14
 P518	'applies to part'@en	Q719487	'French overseas collectivity'@en	count	14
 P527	'has part or parts'@en	Q1752346	'assembly'@en	count	14
+P642	'of'@en	Q1790360	'colonial empire'@en	count	14
 P642	'of'@en	Q7275	'state'@en	count	14
-P828	'has cause'@en	Q625298	'peace treaty'@en	count	14
 P1264	'valid in period'@en	Q17152708	'republican regime in France'@en	count	13
+P156	'followed by'@en	Q6256	'country'@en	count	13
 P3005	'valid in place'@en	Q7860962	'road type'@en	count	13
 P407	'language of work or name'@en	Q951873	'ethnolect'@en	count	13
 P459	'determination method'@en	Q104637420	'sourcing circumstance'@en	count	13
+P459	'determination method'@en	Q12718609	'statistical analysis'@en	count	13
 P518	'applies to part'@en	Q11828004	'province of Canada'@en	count	13
 P518	'applies to part'@en	Q3184121	'municipality of Brazil'@en	count	13
 P518	'applies to part'@en	Q6465	'department of France'@en	count	13
 P518	'applies to part'@en	Q783733	'unincorporated territory'@en	count	13
-P642	'of'@en	Q417175	'kingdom'@en	count	13
+P642	'of'@en	Q202686	'Commonwealth realm'@en	count	13
 P807	'separated from'@en	Q3024240	'historical country'@en	count	13
 P828	'has cause'@en	Q178561	'battle'@en	count	13
+P1013	'criterion used'@en	Q1789452	'criterion'@en	count	12
 P1376	'capital of'@en	Q3024240	'historical country'@en	count	12
 P407	'language of work or name'@en	Q1097949	'literary language'@en	count	12
 P407	'language of work or name'@en	Q33215	'constructed language'@en	count	12
 P407	'language of work or name'@en	Q838296	'international auxiliary language'@en	count	12
-P459	'determination method'@en	Q12718609	'statistical analysis'@en	count	12
 P5102	'nature of statement'@en	Q104637420	'sourcing circumstance'@en	count	12
 P518	'applies to part'@en	Q15849374	'subdistrict of the German Democratic Republic'@en	count	12
 P518	'applies to part'@en	Q2264924	'port settlement'@en	count	12
+P518	'applies to part'@en	Q7275	'state'@en	count	12
 P518	'applies to part'@en	Q842420	'region of Uzbekistan'@en	count	12
 P527	'has part or parts'@en	Q2570643	'senate'@en	count	12
 P527	'has part or parts'@en	Q3154693	'city council'@en	count	12
 P531	'diplomatic mission sent'@en	Q7843791	'consulate'@en	count	12
-P642	'of'@en	Q112099	'island nation'@en	count	12
 P837	'day in year for periodic occurrence'@en	Q73187956	'day of the Gregorian Calendar'@en	count	12
-P1013	'criterion used'@en	Q1789452	'criterion'@en	count	11
 P1535	'used by'@en	Q3024240	'historical country'@en	count	11
 P156	'followed by'@en	Q209325	'oblast of Belarus'@en	count	11
 P2241	'reason for deprecated rank'@en	Q27949697	'Wikibase reason for deprecated rank'@en	count	11
@@ -206,8 +212,8 @@ P518	'applies to part'@en	Q1140140	'mainland'@en	count	11
 P518	'applies to part'@en	Q192498	'administrative territorial entity of France'@en	count	11
 P518	'applies to part'@en	Q20181813	'colonial power'@en	count	11
 P518	'applies to part'@en	Q2736168	'historical nationality'@en	count	11
+P518	'applies to part'@en	Q3624078	'sovereign state'@en	count	11
 P518	'applies to part'@en	Q6266	'nation'@en	count	11
-P518	'applies to part'@en	Q7275	'state'@en	count	11
 P531	'diplomatic mission sent'@en	Q372690	'consulate general'@en	count	11
 P828	'has cause'@en	Q18009431	'Act of the Parliament of Great Britain'@en	count	11
 P92	'main regulatory text'@en	Q7755	'constitution'@en	count	11
@@ -215,8 +221,8 @@ P122	'basic form of government'@en	Q17152708	'republican regime in France'@en	co
 P1264	'valid in period'@en	Q5589178	'regime'@en	count	10
 P1365	'replaces'@en	Q3624078	'sovereign state'@en	count	10
 P155	'follows'@en	Q3624078	'sovereign state'@en	count	10
-P156	'followed by'@en	Q3624078	'sovereign state'@en	count	10
 P4649	'identity of subject in context'@en	Q512187	'federal republic'@en	count	10
+P5102	'nature of statement'@en	Q1969448	'term'@en	count	10
 P518	'applies to part'@en	Q104117291	'region of Spain'@en	count	10
 P518	'applies to part'@en	Q16532593	'autonomous city of Spain'@en	count	10
 P518	'applies to part'@en	Q171441	'enclave'@en	count	10
@@ -226,7 +232,6 @@ P518	'applies to part'@en	Q63791824	'country bordering the Baltic Sea'@en	count	
 P518	'applies to part'@en	Q654140	'province of the Democratic Republic of the Congo'@en	count	10
 P642	'of'@en	Q131401	'caliphate'@en	count	10
 P642	'of'@en	Q1323642	'transcontinental country'@en	count	10
-P642	'of'@en	Q202686	'Commonwealth realm'@en	count	10
 P642	'of'@en	Q43702	'federation'@en	count	10
 P805	'statement is subject of'@en	Q17305522	'data set of a specific country'@en	count	10
 P805	'statement is subject of'@en	Q35245	'etymology'@en	count	10
@@ -236,27 +241,29 @@ P807	'separated from'@en	Q1790360	'colonial empire'@en	count	10
 P1011	'excluding'@en	Q11828004	'province of Canada'@en	count	9
 P1534	'end cause'@en	Q45382	'coup d\'état'@en	count	9
 P155	'follows'@en	Q3024240	'historical country'@en	count	9
+P282	'writing system'@en	Q4004706	'unicase alphabet'@en	count	9
 P3831	'object has role'@en	Q28640	'profession'@en	count	9
 P3831	'object has role'@en	Q355567	'noble title'@en	count	9
-P5102	'nature of statement'@en	Q1969448	'term'@en	count	9
+P5102	'nature of statement'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	9
 P518	'applies to part'@en	Q1352230	'territory of the United States'@en	count	9
 P518	'applies to part'@en	Q1620908	'historical region'@en	count	9
 P518	'applies to part'@en	Q34763	'peninsula'@en	count	9
-P518	'applies to part'@en	Q3624078	'sovereign state'@en	count	9
 P518	'applies to part'@en	Q831740	'krai of Russia'@en	count	9
 P642	'of'@en	Q1450662	'Government of France'@en	count	9
 P828	'has cause'@en	Q198	'war'@en	count	9
+P1013	'criterion used'@en	Q1207505	'quality'@en	count	8
+P1013	'criterion used'@en	Q3062294	'Latin phrase'@en	count	8
 P1310	'statement disputed by'@en	Q15634554	'state with limited recognition'@en	count	8
 P1366	'replaced by'@en	Q3024240	'historical country'@en	count	8
 P1478	'has immediate cause'@en	Q1789452	'criterion'@en	count	8
 P156	'followed by'@en	Q3024240	'historical country'@en	count	8
-P156	'followed by'@en	Q6256	'country'@en	count	8
-P282	'writing system'@en	Q4004706	'unicase alphabet'@en	count	8
+P17	'country'@en	Q6256	'country'@en	count	8
 P35	'head of state'@en	Q5	'human'@en	count	8
 P3680	'statement supported by'@en	Q245065	'intergovernmental organization'@en	count	8
+P3680	'statement supported by'@en	Q3624078	'sovereign state'@en	count	8
 P3680	'statement supported by'@en	Q484652	'international organization'@en	count	8
 P39	'position held'@en	Q12737077	'occupation'@en	count	8
-P5102	'nature of statement'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	8
+P459	'determination method'@en	Q2628882	'legal status'@en	count	8
 P518	'applies to part'@en	Q15304003	'country of the Kingdom of the Netherlands'@en	count	8
 P518	'applies to part'@en	Q3336843	'constituent country of the United Kingdom'@en	count	8
 P518	'applies to part'@en	Q3502482	'cultural region'@en	count	8
@@ -265,21 +272,22 @@ P531	'diplomatic mission sent'@en	Q18414273	'high commission'@en	count	8
 P706	'located in/on physical feature'@en	Q185113	'cape'@en	count	8
 P805	'statement is subject of'@en	Q1190554	'occurrence'@en	count	8
 P805	'statement is subject of'@en	Q17163396	'open border'@en	count	8
+P828	'has cause'@en	Q10931	'revolution'@en	count	8
 P1264	'valid in period'@en	Q11514315	'historical period'@en	count	7
 P131	'located in the administrative territorial entity'@en	Q484170	'commune of France'@en	count	7
 P1310	'statement disputed by'@en	Q7270	'republic'@en	count	7
 P1534	'end cause'@en	Q22087155	'end cause'@en	count	7
-P17	'country'@en	Q6256	'country'@en	count	7
 P282	'writing system'@en	Q8192	'writing system'@en	count	7
 P282	'writing system'@en	Q867570	'Cyrillic alphabet'@en	count	7
+P3680	'statement supported by'@en	Q6256	'country'@en	count	7
 P3831	'object has role'@en	Q55983715	'organisms known by a particular common name'@en	count	7
 P407	'language of work or name'@en	Q25295	'language family'@en	count	7
 P407	'language of work or name'@en	Q399495	'standard language'@en	count	7
-P459	'determination method'@en	Q2628882	'legal status'@en	count	7
 P518	'applies to part'@en	Q1549591	'big city'@en	count	7
 P518	'applies to part'@en	Q1637706	'million city'@en	count	7
 P518	'applies to part'@en	Q2327385	'overseas territory'@en	count	7
 P518	'applies to part'@en	Q4164871	'position'@en	count	7
+P518	'applies to part'@en	Q515	'city'@en	count	7
 P560	'direction'@en	Q23718	'cardinal direction'@en	count	7
 P642	'of'@en	Q123480	'landlocked country'@en	count	7
 P642	'of'@en	Q1292119	'style'@en	count	7
@@ -289,8 +297,8 @@ P805	'statement is subject of'@en	Q22947	'inhabitant'@en	count	7
 P805	'statement is subject of'@en	Q6266	'nation'@en	count	7
 P805	'statement is subject of'@en	Q930729	'Government of Sweden'@en	count	7
 P807	'separated from'@en	Q3624078	'sovereign state'@en	count	7
-P828	'has cause'@en	Q10931	'revolution'@en	count	7
 P828	'has cause'@en	Q18009650	'Act of the Parliament of Ireland'@en	count	7
+P828	'has cause'@en	Q188055	'siege'@en	count	7
 P1013	'criterion used'@en	Q2135465	'legal concept'@en	count	6
 P1013	'criterion used'@en	Q56062113	'Wikidata-specific criterion related to disambiguation pages'@en	count	6
 P102	'member of political party'@en	Q25768329	'political party in Catalonia'@en	count	6
@@ -314,9 +322,10 @@ P518	'applies to part'@en	Q1250335	'animacy'@en	count	6
 P518	'applies to part'@en	Q1351282	'crown colony'@en	count	6
 P518	'applies to part'@en	Q15273785	'Belgian municipality with the title of city'@en	count	6
 P518	'applies to part'@en	Q17305516	'island group of Kiribati'@en	count	6
+P518	'applies to part'@en	Q26807495	'district of the French Southern and Antarctic Lands'@en	count	6
 P518	'applies to part'@en	Q4835091	'territory'@en	count	6
 P518	'applies to part'@en	Q5107	'continent'@en	count	6
-P518	'applies to part'@en	Q515	'city'@en	count	6
+P518	'applies to part'@en	Q5119	'capital'@en	count	6
 P518	'applies to part'@en	Q6617741	'WWF ecoregion'@en	count	6
 P518	'applies to part'@en	Q671370	'general governorate of the Russian Empire'@en	count	6
 P527	'has part or parts'@en	Q320289	'chamber of deputies'@en	count	6
@@ -331,7 +340,6 @@ P805	'statement is subject of'@en	Q74817647	'aspect in a geographic region'@en	c
 P807	'separated from'@en	Q1250464	'realm'@en	count	6
 P807	'separated from'@en	Q6256	'country'@en	count	6
 P828	'has cause'@en	Q13418847	'historical event'@en	count	6
-P828	'has cause'@en	Q188055	'siege'@en	count	6
 P828	'has cause'@en	Q4677783	'Act of the Parliament of the United Kingdom'@en	count	6
 P1001	'applies to jurisdiction'@en	Q41162	'republic of Russia'@en	count	5
 P1011	'excluding'@en	Q26934845	'integral overseas territory'@en	count	5
@@ -342,10 +350,14 @@ P1013	'criterion used'@en	Q10843872	'engineering process'@en	count	5
 P1264	'valid in period'@en	Q59281	'provisional government'@en	count	5
 P1366	'replaced by'@en	Q7270	'republic'@en	count	5
 P1393	'proxy'@en	Q4164871	'position'@en	count	5
+P1534	'end cause'@en	Q1464916	'declaration of independence'@en	count	5
+P1534	'end cause'@en	Q625298	'peace treaty'@en	count	5
 P156	'followed by'@en	Q7270	'republic'@en	count	5
+P17	'country'@en	Q3624078	'sovereign state'@en	count	5
 P276	'location'@en	Q185113	'cape'@en	count	5
 P276	'location'@en	Q50337	'prefecture of Japan'@en	count	5
 P276	'location'@en	Q532	'village'@en	count	5
+P282	'writing system'@en	Q30016797	'Arabic script based alphabet'@en	count	5
 P282	'writing system'@en	Q65045986	'bicameral script'@en	count	5
 P3831	'object has role'@en	Q16521	'taxon'@en	count	5
 P3831	'object has role'@en	Q2545446	'grapheme'@en	count	5
@@ -359,14 +371,16 @@ P4934	'calculated from'@en	Q6576792	'online community'@en	count	5
 P4934	'calculated from'@en	Q7094076	'online database'@en	count	5
 P518	'applies to part'@en	Q11687019	'external territory of Australia'@en	count	5
 P518	'applies to part'@en	Q205895	'landmass'@en	count	5
-P518	'applies to part'@en	Q5119	'capital'@en	count	5
+P518	'applies to part'@en	Q42523	'atoll'@en	count	5
 P518	'applies to part'@en	Q51576574	'Mediterranean country'@en	count	5
 P518	'applies to part'@en	Q51929311	'largest city'@en	count	5
+P518	'applies to part'@en	Q7270	'republic'@en	count	5
 P518	'applies to part'@en	Q737681	'municipalities with language facilities'@en	count	5
 P527	'has part or parts'@en	Q57053	'county of Croatia'@en	count	5
 P527	'has part or parts'@en	Q637846	'upper house'@en	count	5
 P531	'diplomatic mission sent'@en	Q41176	'building'@en	count	5
 P642	'of'@en	Q179164	'unitary state'@en	count	5
+P642	'of'@en	Q19953632	'former administrative territorial entity'@en	count	5
 P642	'of'@en	Q208500	'principality'@en	count	5
 P642	'of'@en	Q236036	'republics of the Soviet Union'@en	count	5
 P642	'of'@en	Q50068795	'historical Chinese state'@en	count	5
@@ -374,6 +388,7 @@ P642	'of'@en	Q512187	'federal republic'@en	count	5
 P642	'of'@en	Q842112	'socialist state'@en	count	5
 P642	'of'@en	Q849866	'communist state'@en	count	5
 P654	'direction relative to location'@en	Q11114344	'points of the compass'@en	count	5
+P706	'located in/on physical feature'@en	Q1161185	'high island'@en	count	5
 P706	'located in/on physical feature'@en	Q1402592	'island group'@en	count	5
 P706	'located in/on physical feature'@en	Q486972	'human settlement'@en	count	5
 P790	'approved by'@en	Q3624078	'sovereign state'@en	count	5
@@ -383,6 +398,8 @@ P805	'statement is subject of'@en	Q12143	'time zone'@en	count	5
 P805	'statement is subject of'@en	Q1292279	'political border'@en	count	5
 P805	'statement is subject of'@en	Q1314535	'border barrier'@en	count	5
 P805	'statement is subject of'@en	Q1464916	'declaration of independence'@en	count	5
+P805	'statement is subject of'@en	Q194465	'annexation'@en	count	5
+P805	'statement is subject of'@en	Q198	'war'@en	count	5
 P805	'statement is subject of'@en	Q202008	'exclusive economic zone'@en	count	5
 P805	'statement is subject of'@en	Q56391839	'transition calendar'@en	count	5
 P805	'statement is subject of'@en	Q625298	'peace treaty'@en	count	5
@@ -416,20 +433,23 @@ P1480	'sourcing circumstances'@en	Q1207505	'quality'@en	count	4
 P1480	'sourcing circumstances'@en	Q27949697	'Wikibase reason for deprecated rank'@en	count	4
 P1480	'sourcing circumstances'@en	Q3062294	'Latin phrase'@en	count	4
 P1534	'end cause'@en	Q178561	'battle'@en	count	4
-P1534	'end cause'@en	Q625298	'peace treaty'@en	count	4
 P1535	'used by'@en	Q1336152	'princely state'@en	count	4
 P155	'follows'@en	Q6256	'country'@en	count	4
+P156	'followed by'@en	Q1489259	'superpower'@en	count	4
+P156	'followed by'@en	Q14946528	'conflation'@en	count	4
+P156	'followed by'@en	Q1520223	'constitutional republic'@en	count	4
 P156	'followed by'@en	Q43702	'federation'@en	count	4
+P156	'followed by'@en	Q512187	'federal republic'@en	count	4
+P156	'followed by'@en	Q5255892	'democratic republic'@en	count	4
 P156	'followed by'@en	Q63791824	'country bordering the Baltic Sea'@en	count	4
+P156	'followed by'@en	Q99541706	'historical unrecognized state'@en	count	4
 P159	'headquarters location'@en	Q16831714	'government building'@en	count	4
 P17	'country'@en	Q179164	'unitary state'@en	count	4
-P17	'country'@en	Q3624078	'sovereign state'@en	count	4
 P263	'official residence'@en	Q16560	'palace'@en	count	4
 P276	'location'@en	Q1549591	'big city'@en	count	4
 P2868	'subject has role'@en	Q3024240	'historical country'@en	count	4
 P2894	'day of week'@en	Q41825	'day of the week'@en	count	4
 P361	'part of'@en	Q1127126	'military alliance'@en	count	4
-P3680	'statement supported by'@en	Q3624078	'sovereign state'@en	count	4
 P3680	'statement supported by'@en	Q678116	'government in exile'@en	count	4
 P37	'official language'@en	Q1288568	'modern language'@en	count	4
 P37	'official language'@en	Q34770	'language'@en	count	4
@@ -452,10 +472,8 @@ P518	'applies to part'@en	Q1977835	'autonomous republic'@en	count	4
 P518	'applies to part'@en	Q19832712	'historical administrative division'@en	count	4
 P518	'applies to part'@en	Q26830017	'state in the Holy Roman Empire'@en	count	4
 P518	'applies to part'@en	Q33829	'human population'@en	count	4
-P518	'applies to part'@en	Q42523	'atoll'@en	count	4
 P518	'applies to part'@en	Q5260616	'dependency of Norway'@en	count	4
 P518	'applies to part'@en	Q583865	'territorial collectivity of France'@en	count	4
-P518	'applies to part'@en	Q7270	'republic'@en	count	4
 P518	'applies to part'@en	Q728937	'railway line'@en	count	4
 P518	'applies to part'@en	Q83057	'region of Belgium'@en	count	4
 P527	'has part or parts'@en	Q110315658	'elected legislative house'@en	count	4
@@ -464,12 +482,12 @@ P527	'has part or parts'@en	Q17279032	'elective office'@en	count	4
 P527	'has part or parts'@en	Q4164871	'position'@en	count	4
 P527	'has part or parts'@en	Q4959031	'appellate court'@en	count	4
 P642	'of'@en	Q1335818	'supranational union'@en	count	4
+P642	'of'@en	Q1351282	'crown colony'@en	count	4
+P642	'of'@en	Q170156	'confederation'@en	count	4
 P642	'of'@en	Q179671	'nation state'@en	count	4
-P642	'of'@en	Q19953632	'former administrative territorial entity'@en	count	4
 P642	'of'@en	Q223832	'dominion of the British Empire'@en	count	4
 P642	'of'@en	Q26830017	'state in the Holy Roman Empire'@en	count	4
 P642	'of'@en	Q7695	'march'@en	count	4
-P706	'located in/on physical feature'@en	Q1161185	'high island'@en	count	4
 P706	'located in/on physical feature'@en	Q42523	'atoll'@en	count	4
 P797	'authority'@en	Q20181813	'colonial power'@en	count	4
 P797	'authority'@en	Q3624078	'sovereign state'@en	count	4
@@ -477,7 +495,6 @@ P797	'authority'@en	Q6256	'country'@en	count	4
 P805	'statement is subject of'@en	Q1054581	'buffer zone'@en	count	4
 P805	'statement is subject of'@en	Q11514315	'historical period'@en	count	4
 P805	'statement is subject of'@en	Q15239622	'disputed territory'@en	count	4
-P805	'statement is subject of'@en	Q198	'war'@en	count	4
 P805	'statement is subject of'@en	Q19832712	'historical administrative division'@en	count	4
 P805	'statement is subject of'@en	Q271669	'landform'@en	count	4
 P805	'statement is subject of'@en	Q312461	'terra nullius'@en	count	4
@@ -497,9 +514,7 @@ P1011	'excluding'@en	Q2736168	'historical nationality'@en	count	3
 P1011	'excluding'@en	Q56061	'administrative territorial entity'@en	count	3
 P1011	'excluding'@en	Q6465	'department of France'@en	count	3
 P1012	'including'@en	Q23442	'island'@en	count	3
-P1013	'criterion used'@en	Q1207505	'quality'@en	count	3
 P1013	'criterion used'@en	Q14946528	'conflation'@en	count	3
-P1013	'criterion used'@en	Q3062294	'Latin phrase'@en	count	3
 P1264	'valid in period'@en	Q5	'human'@en	count	3
 P131	'located in the administrative territorial entity'@en	Q161243	'dependent territory'@en	count	3
 P131	'located in the administrative territorial entity'@en	Q2074737	'municipality of Spain'@en	count	3
@@ -528,13 +543,14 @@ P156	'followed by'@en	Q619610	'social state'@en	count	3
 P159	'headquarters location'@en	Q16560	'palace'@en	count	3
 P17	'country'@en	Q112099	'island nation'@en	count	3
 P17	'country'@en	Q15304003	'country of the Kingdom of the Netherlands'@en	count	3
+P17	'country'@en	Q417175	'kingdom'@en	count	3
 P2354	'has list'@en	Q13406463	'Wikimedia list article'@en	count	3
 P276	'location'@en	Q15629617	'unorganized atoll of American Samoa'@en	count	3
 P276	'location'@en	Q191992	'headland'@en	count	3
 P276	'location'@en	Q3257686	'locality'@en	count	3
 P276	'location'@en	Q486972	'human settlement'@en	count	3
 P276	'location'@en	Q6644703	'village in British Columbia'@en	count	3
-P282	'writing system'@en	Q30016797	'Arabic script based alphabet'@en	count	3
+P282	'writing system'@en	Q185087	'abjad'@en	count	3
 P2868	'subject has role'@en	Q104098715	'territorial entity type'@en	count	3
 P2868	'subject has role'@en	Q1097498	'ruler'@en	count	3
 P2868	'subject has role'@en	Q28640	'profession'@en	count	3
@@ -547,9 +563,9 @@ P31	'instance of'@en	Q111691402	'user account quality'@en	count	3
 P31	'instance of'@en	Q7755	'constitution'@en	count	3
 P366	'has use'@en	Q162378	'grammatical gender'@en	count	3
 P3680	'statement supported by'@en	Q10876391	'Wikipedia language edition'@en	count	3
+P3680	'statement supported by'@en	Q112099	'island nation'@en	count	3
 P3680	'statement supported by'@en	Q15633582	'MediaWiki website'@en	count	3
 P3680	'statement supported by'@en	Q15634554	'state with limited recognition'@en	count	3
-P3680	'statement supported by'@en	Q6256	'country'@en	count	3
 P3680	'statement supported by'@en	Q814232	'survey methodology'@en	count	3
 P3831	'object has role'@en	Q15617994	'designation for an administrative territorial entity'@en	count	3
 P3831	'object has role'@en	Q286576	'register'@en	count	3
@@ -566,6 +582,7 @@ P459	'determination method'@en	Q1190554	'occurrence'@en	count	3
 P459	'determination method'@en	Q15194024	'resident registration'@en	count	3
 P459	'determination method'@en	Q22338585	'Brazilian legislative election'@en	count	3
 P459	'determination method'@en	Q39825	'census'@en	count	3
+P459	'determination method'@en	Q480242	'statistical service'@en	count	3
 P459	'determination method'@en	Q5058981	'census in the United Kingdom'@en	count	3
 P4649	'identity of subject in context'@en	Q164950	'dynasty'@en	count	3
 P4649	'identity of subject in context'@en	Q189898	'emirate'@en	count	3
@@ -574,8 +591,10 @@ P4649	'identity of subject in context'@en	Q43702	'federation'@en	count	3
 P4649	'identity of subject in context'@en	Q678116	'government in exile'@en	count	3
 P4649	'identity of subject in context'@en	Q731236	'Statute of Autonomy'@en	count	3
 P518	'applies to part'@en	Q1138279	'associated state'@en	count	3
+P518	'applies to part'@en	Q1161185	'high island'@en	count	3
 P518	'applies to part'@en	Q1200957	'tourist destination'@en	count	3
 P518	'applies to part'@en	Q1221156	'federal state of Germany'@en	count	3
+P518	'applies to part'@en	Q123480	'landlocked country'@en	count	3
 P518	'applies to part'@en	Q1307214	'form of government'@en	count	3
 P518	'applies to part'@en	Q14192199	'territory of Australia'@en	count	3
 P518	'applies to part'@en	Q14192234	'mainland territory of Australia'@en	count	3
@@ -584,6 +603,7 @@ P518	'applies to part'@en	Q183342	'federal city of Russia'@en	count	3
 P518	'applies to part'@en	Q196068	'lordship'@en	count	3
 P518	'applies to part'@en	Q200250	'metropolis'@en	count	3
 P518	'applies to part'@en	Q20667921	'type of French administrative division'@en	count	3
+P518	'applies to part'@en	Q20732232	'autonomous island of the Comoros'@en	count	3
 P518	'applies to part'@en	Q2221906	'geographic location'@en	count	3
 P518	'applies to part'@en	Q236036	'republics of the Soviet Union'@en	count	3
 P518	'applies to part'@en	Q268592	'industry'@en	count	3
@@ -600,10 +620,8 @@ P531	'diplomatic mission sent'@en	Q23891529	'honorary consulate'@en	count	3
 P531	'diplomatic mission sent'@en	Q4824242	'Australian High Commission'@en	count	3
 P531	'diplomatic mission sent'@en	Q98675100	'vice-ministerial level institution'@en	count	3
 P642	'of'@en	Q1336152	'princely state'@en	count	3
-P642	'of'@en	Q1351282	'crown colony'@en	count	3
 P642	'of'@en	Q1371288	'vassal state'@en	count	3
 P642	'of'@en	Q154547	'duchy'@en	count	3
-P642	'of'@en	Q170156	'confederation'@en	count	3
 P642	'of'@en	Q17544377	'history of a country or state'@en	count	3
 P642	'of'@en	Q190967	'Crusader states'@en	count	3
 P642	'of'@en	Q1914636	'activity'@en	count	3
@@ -624,8 +642,8 @@ P706	'located in/on physical feature'@en	Q515	'city'@en	count	3
 P706	'located in/on physical feature'@en	Q8502	'mountain'@en	count	3
 P748	'appointed by'@en	Q5	'human'@en	count	3
 P805	'statement is subject of'@en	Q1078001	'territorial dispute'@en	count	3
+P805	'statement is subject of'@en	Q178561	'battle'@en	count	3
 P805	'statement is subject of'@en	Q180684	'conflict'@en	count	3
-P805	'statement is subject of'@en	Q194465	'annexation'@en	count	3
 P805	'statement is subject of'@en	Q231002	'nationality'@en	count	3
 P805	'statement is subject of'@en	Q23442	'island'@en	count	3
 P805	'statement is subject of'@en	Q2472587	'people'@en	count	3
@@ -654,11 +672,13 @@ P1011	'excluding'@en	Q10864048	'first-level administrative country subdivision'@
 P1011	'excluding'@en	Q11687019	'external territory of Australia'@en	count	2
 P1011	'excluding'@en	Q1549591	'big city'@en	count	2
 P1011	'excluding'@en	Q18810091	'census division of Canada'@en	count	2
+P1011	'excluding'@en	Q23442	'island'@en	count	2
 P1011	'excluding'@en	Q28575	'county'@en	count	2
 P1011	'excluding'@en	Q783953	'territorial claims in Antarctica'@en	count	2
 P1012	'including'@en	Q165	'sea'@en	count	2
 P1012	'including'@en	Q312461	'terra nullius'@en	count	2
 P1012	'including'@en	Q33837	'archipelago'@en	count	2
+P1013	'criterion used'@en	Q2628882	'legal status'@en	count	2
 P102	'member of political party'@en	Q1030814	'big tent'@en	count	2
 P102	'member of political party'@en	Q766570	'Political parties in Russia'@en	count	2
 P122	'basic form of government'@en	Q1307214	'form of government'@en	count	2
@@ -723,17 +743,24 @@ P155	'follows'@en	Q11514315	'historical period'@en	count	2
 P155	'follows'@en	Q1323642	'transcontinental country'@en	count	2
 P155	'follows'@en	Q15634554	'state with limited recognition'@en	count	2
 P155	'follows'@en	Q28575	'county'@en	count	2
+P155	'follows'@en	Q34876	'province'@en	count	2
 P155	'follows'@en	Q5	'human'@en	count	2
 P155	'follows'@en	Q5255892	'democratic republic'@en	count	2
 P1552	'has quality'@en	Q162378	'grammatical gender'@en	count	2
 P1552	'has quality'@en	Q37113960	'estimate'@en	count	2
+P156	'followed by'@en	Q112099	'island nation'@en	count	2
+P156	'followed by'@en	Q123480	'landlocked country'@en	count	2
 P156	'followed by'@en	Q1250464	'realm'@en	count	2
 P156	'followed by'@en	Q18285142	'oblast of a union republic of the Soviet Union'@en	count	2
+P156	'followed by'@en	Q23442	'island'@en	count	2
+P156	'followed by'@en	Q26934845	'integral overseas territory'@en	count	2
+P156	'followed by'@en	Q3648563	'public body of the Netherlands'@en	count	2
+P156	'followed by'@en	Q417175	'kingdom'@en	count	2
 P159	'headquarters location'@en	Q15020931	'hôtel de ville'@en	count	2
 P17	'country'@en	Q185145	'great power'@en	count	2
 P17	'country'@en	Q20181813	'colonial power'@en	count	2
+P17	'country'@en	Q3024240	'historical country'@en	count	2
 P17	'country'@en	Q41614	'constitutional monarchy'@en	count	2
-P17	'country'@en	Q417175	'kingdom'@en	count	2
 P17	'country'@en	Q51576574	'Mediterranean country'@en	count	2
 P17	'country'@en	Q619610	'social state'@en	count	2
 P17	'country'@en	Q7270	'republic'@en	count	2
@@ -749,7 +776,6 @@ P276	'location'@en	Q2221906	'geographic location'@en	count	2
 P276	'location'@en	Q3957	'town'@en	count	2
 P276	'location'@en	Q42744322	'urban municipality of Germany'@en	count	2
 P282	'writing system'@en	Q108102018	'romanisation system'@en	count	2
-P282	'writing system'@en	Q185087	'abjad'@en	count	2
 P282	'writing system'@en	Q2182919	'alphabetic writing system'@en	count	2
 P282	'writing system'@en	Q335806	'abugida'@en	count	2
 P282	'writing system'@en	Q43091	'orthography'@en	count	2
@@ -774,8 +800,8 @@ P366	'has use'@en	Q104083	'grammatical number'@en	count	2
 P366	'has use'@en	Q12015335	'branch of engineering'@en	count	2
 P366	'has use'@en	Q268592	'industry'@en	count	2
 P366	'has use'@en	Q4167410	'Wikimedia disambiguation page'@en	count	2
-P3680	'statement supported by'@en	Q112099	'island nation'@en	count	2
 P3680	'statement supported by'@en	Q128093	'e-book'@en	count	2
+P3680	'statement supported by'@en	Q43702	'federation'@en	count	2
 P3680	'statement supported by'@en	Q5255892	'democratic republic'@en	count	2
 P3680	'statement supported by'@en	Q7725634	'literary work'@en	count	2
 P3823	'Ethnologue language status'@en	Q29051545	'Ethnologue language status'@en	count	2
@@ -801,7 +827,6 @@ P459	'determination method'@en	Q10871947	'National Population Census of the Peop
 P459	'determination method'@en	Q24934691	'census in Malaysia'@en	count	2
 P459	'determination method'@en	Q2725376	'demographics'@en	count	2
 P459	'determination method'@en	Q327333	'government agency'@en	count	2
-P459	'determination method'@en	Q480242	'statistical service'@en	count	2
 P459	'determination method'@en	Q76853179	'group of elections'@en	count	2
 P463	'member of'@en	Q772547	'armed forces'@en	count	2
 P4649	'identity of subject in context'@en	Q11514315	'historical period'@en	count	2
@@ -816,6 +841,7 @@ P488	'chairperson'@en	Q5	'human'@en	count	2
 P4900	'broader concept'@en	Q164950	'dynasty'@en	count	2
 P50	'author'@en	Q480242	'statistical service'@en	count	2
 P518	'applies to part'@en	Q101072	'definition'@en	count	2
+P518	'applies to part'@en	Q10351538	'intercardinal direction'@en	count	2
 P518	'applies to part'@en	Q104093226	'class that shouldn\'t be used as class'@en	count	2
 P518	'applies to part'@en	Q104880945	'climate emergency declarations in Australia'@en	count	2
 P518	'applies to part'@en	Q106589826	'Finnish National Land Survey place type'@en	count	2
@@ -824,6 +850,7 @@ P518	'applies to part'@en	Q110315658	'elected legislative house'@en	count	2
 P518	'applies to part'@en	Q11292	'coral reef'@en	count	2
 P518	'applies to part'@en	Q11514315	'historical period'@en	count	2
 P518	'applies to part'@en	Q1207505	'quality'@en	count	2
+P518	'applies to part'@en	Q13220204	'second-level administrative country subdivision'@en	count	2
 P518	'applies to part'@en	Q1323642	'transcontinental country'@en	count	2
 P518	'applies to part'@en	Q133442	'city-state'@en	count	2
 P518	'applies to part'@en	Q1371288	'vassal state'@en	count	2
@@ -843,7 +870,6 @@ P518	'applies to part'@en	Q19953632	'former administrative territorial entity'@e
 P518	'applies to part'@en	Q22670030	'former French region'@en	count	2
 P518	'applies to part'@en	Q25894868	'place type'@en	count	2
 P518	'applies to part'@en	Q261543	'state of Austria'@en	count	2
-P518	'applies to part'@en	Q26807495	'district of the French Southern and Antarctic Lands'@en	count	2
 P518	'applies to part'@en	Q27495502	'federal district of Brazil'@en	count	2
 P518	'applies to part'@en	Q28575	'county'@en	count	2
 P518	'applies to part'@en	Q294414	'public office'@en	count	2
@@ -882,25 +908,28 @@ P531	'diplomatic mission sent'@en	Q4164871	'position'@en	count	2
 P642	'of'@en	Q1088391	'rump state'@en	count	2
 P642	'of'@en	Q1156073	'royal house'@en	count	2
 P642	'of'@en	Q11939023	'núcleo de población'@en	count	2
-P642	'of'@en	Q1211369	'the empire on which the sun never sets'@en	count	2
 P642	'of'@en	Q12857432	'Chinese dynasty'@en	count	2
 P642	'of'@en	Q133156	'colony'@en	count	2
 P642	'of'@en	Q1520223	'constitutional republic'@en	count	2
 P642	'of'@en	Q15303838	'municipality seat'@en	count	2
 P642	'of'@en	Q15634554	'state with limited recognition'@en	count	2
+P642	'of'@en	Q162157	'chartered company'@en	count	2
 P642	'of'@en	Q162378	'grammatical gender'@en	count	2
 P642	'of'@en	Q164950	'dynasty'@en	count	2
-P642	'of'@en	Q1790360	'colonial empire'@en	count	2
 P642	'of'@en	Q187587	'empire'@en	count	2
 P642	'of'@en	Q2324993	'state power'@en	count	2
+P642	'of'@en	Q29569274	'former name'@en	count	2
 P642	'of'@en	Q34876	'province'@en	count	2
 P642	'of'@en	Q41614	'constitutional monarchy'@en	count	2
 P642	'of'@en	Q4164871	'position'@en	count	2
 P642	'of'@en	Q42045197	'hereditary position'@en	count	2
 P642	'of'@en	Q4209223	'Rechtsstaat'@en	count	2
+P642	'of'@en	Q43185013	'maritime republic'@en	count	2
 P642	'of'@en	Q4389937	'early feudal monarchy'@en	count	2
+P642	'of'@en	Q4830453	'business'@en	count	2
 P642	'of'@en	Q5589178	'regime'@en	count	2
 P642	'of'@en	Q617347	'stem duchy'@en	count	2
+P642	'of'@en	Q6881511	'enterprise'@en	count	2
 P642	'of'@en	Q7210356	'political organization'@en	count	2
 P642	'of'@en	Q7278	'political party'@en	count	2
 P642	'of'@en	Q859563	'secular state'@en	count	2
@@ -919,6 +948,7 @@ P790	'approved by'@en	Q484652	'international organization'@en	count	2
 P790	'approved by'@en	Q619610	'social state'@en	count	2
 P790	'approved by'@en	Q7270	'republic'@en	count	2
 P790	'approved by'@en	Q859563	'secular state'@en	count	2
+P793	'significant event'@en	Q1464916	'declaration of independence'@en	count	2
 P793	'significant event'@en	Q625298	'peace treaty'@en	count	2
 P797	'authority'@en	Q112099	'island nation'@en	count	2
 P797	'authority'@en	Q1250464	'realm'@en	count	2
@@ -926,11 +956,11 @@ P797	'authority'@en	Q202686	'Commonwealth realm'@en	count	2
 P797	'authority'@en	Q51576574	'Mediterranean country'@en	count	2
 P797	'authority'@en	Q7270	'republic'@en	count	2
 P805	'statement is subject of'@en	Q103903	'telephone numbering plan'@en	count	2
+P805	'statement is subject of'@en	Q1284645	'edict'@en	count	2
 P805	'statement is subject of'@en	Q1302249	'cross-reference'@en	count	2
 P805	'statement is subject of'@en	Q13418847	'historical event'@en	count	2
 P805	'statement is subject of'@en	Q164142	'protectorate'@en	count	2
 P805	'statement is subject of'@en	Q17334923	'location'@en	count	2
-P805	'statement is subject of'@en	Q178561	'battle'@en	count	2
 P805	'statement is subject of'@en	Q183366	'territory'@en	count	2
 P805	'statement is subject of'@en	Q18414273	'high commission'@en	count	2
 P805	'statement is subject of'@en	Q185113	'cape'@en	count	2
@@ -947,6 +977,7 @@ P805	'statement is subject of'@en	Q2221906	'geographic location'@en	count	2
 P805	'statement is subject of'@en	Q2325350	'state treaty'@en	count	2
 P805	'statement is subject of'@en	Q23691	'national anthem'@en	count	2
 P805	'statement is subject of'@en	Q3249551	'process'@en	count	2
+P805	'statement is subject of'@en	Q350604	'armed conflict'@en	count	2
 P805	'statement is subject of'@en	Q37901	'strait'@en	count	2
 P805	'statement is subject of'@en	Q384982	'Israel–Lebanon border'@en	count	2
 P805	'statement is subject of'@en	Q4162051	'diplomatic relations'@en	count	2
@@ -954,6 +985,7 @@ P805	'statement is subject of'@en	Q4167410	'Wikimedia disambiguation page'@en	co
 P805	'statement is subject of'@en	Q4167836	'Wikimedia category'@en	count	2
 P805	'statement is subject of'@en	Q41710	'ethnic group'@en	count	2
 P805	'statement is subject of'@en	Q43229	'organization'@en	count	2
+P805	'statement is subject of'@en	Q467011	'invasion'@en	count	2
 P805	'statement is subject of'@en	Q5244910	'de facto embassy'@en	count	2
 P805	'statement is subject of'@en	Q532	'village'@en	count	2
 P805	'statement is subject of'@en	Q5589178	'regime'@en	count	2
@@ -961,6 +993,7 @@ P805	'statement is subject of'@en	Q579581	'Taipei Representative Office'@en	coun
 P805	'statement is subject of'@en	Q590232	'geographical center'@en	count	2
 P805	'statement is subject of'@en	Q59532	'Christianization'@en	count	2
 P805	'statement is subject of'@en	Q610018	'foreign relations'@en	count	2
+P805	'statement is subject of'@en	Q646740	'landing operation'@en	count	2
 P805	'statement is subject of'@en	Q66374263	'religion of an area'@en	count	2
 P805	'statement is subject of'@en	Q680655	'constitutional document'@en	count	2
 P805	'statement is subject of'@en	Q816829	'periodization'@en	count	2
@@ -977,6 +1010,7 @@ P807	'separated from'@en	Q188800	'personal union'@en	count	2
 P807	'separated from'@en	Q202686	'Commonwealth realm'@en	count	2
 P828	'has cause'@en	Q107706	'armistice'@en	count	2
 P828	'has cause'@en	Q1190554	'occurrence'@en	count	2
+P828	'has cause'@en	Q1219394	'independence referendum'@en	count	2
 P828	'has cause'@en	Q13408009	'French law'@en	count	2
 P828	'has cause'@en	Q1789452	'criterion'@en	count	2
 P828	'has cause'@en	Q180684	'conflict'@en	count	2
@@ -986,6 +1020,7 @@ P828	'has cause'@en	Q194465	'annexation'@en	count	2
 P828	'has cause'@en	Q2571972	'decree'@en	count	2
 P828	'has cause'@en	Q2703920	'ordinance'@en	count	2
 P828	'has cause'@en	Q476068	'Act of Congress in the United States'@en	count	2
+P828	'has cause'@en	Q87167	'manuscript'@en	count	2
 P841	'feast day'@en	Q14795564	'point in time with respect to recurrent timeframe'@en	count	2
 P92	'main regulatory text'@en	Q625298	'peace treaty'@en	count	2
 P92	'main regulatory text'@en	Q6934728	'multilateral treaty'@en	count	2
@@ -1022,11 +1057,11 @@ P101	'field of work'@en	Q2267705	'field of study'@en	count	1
 P101	'field of work'@en	Q4671286	'academic major'@en	count	1
 P1011	'excluding'@en	Q12813115	'urban area in Sweden'@en	count	1
 P1011	'excluding'@en	Q13220204	'second-level administrative country subdivision'@en	count	1
+P1011	'excluding'@en	Q1352230	'territory of the United States'@en	count	1
 P1011	'excluding'@en	Q15310171	'seaport'@en	count	1
 P1011	'excluding'@en	Q164142	'protectorate'@en	count	1
 P1011	'excluding'@en	Q183342	'federal city of Russia'@en	count	1
 P1011	'excluding'@en	Q192611	'electoral district'@en	count	1
-P1011	'excluding'@en	Q23442	'island'@en	count	1
 P1011	'excluding'@en	Q249556	'railway company'@en	count	1
 P1011	'excluding'@en	Q26807495	'district of the French Southern and Antarctic Lands'@en	count	1
 P1011	'excluding'@en	Q312461	'terra nullius'@en	count	1
@@ -1034,7 +1069,9 @@ P1011	'excluding'@en	Q35657	'U.S. state'@en	count	1
 P1011	'excluding'@en	Q3750285	'administrative territorial entity of Canada'@en	count	1
 P1011	'excluding'@en	Q41162	'republic of Russia'@en	count	1
 P1011	'excluding'@en	Q44551483	'city'@en	count	1
+P1011	'excluding'@en	Q462778	'insular area'@en	count	1
 P1011	'excluding'@en	Q5119	'capital'@en	count	1
+P1011	'excluding'@en	Q783733	'unincorporated territory'@en	count	1
 P1011	'excluding'@en	Q7930989	'city/town'@en	count	1
 P1011	'excluding'@en	Q82794	'geographic region'@en	count	1
 P1012	'including'@en	Q1288568	'modern language'@en	count	1
@@ -1083,6 +1120,7 @@ P131	'located in the administrative territorial entity'@en	Q15303838	'municipali
 P131	'located in the administrative territorial entity'@en	Q1841580	'commune of Angola'@en	count	1
 P131	'located in the administrative territorial entity'@en	Q185113	'cape'@en	count	1
 P131	'located in the administrative territorial entity'@en	Q20181813	'colonial power'@en	count	1
+P131	'located in the administrative territorial entity'@en	Q20203507	'viceroyalty of the Spanish Empire'@en	count	1
 P131	'located in the administrative territorial entity'@en	Q207326	'summit'@en	count	1
 P131	'located in the administrative territorial entity'@en	Q209824	'oblast of Bulgaria'@en	count	1
 P131	'located in the administrative territorial entity'@en	Q22670030	'former French region'@en	count	1
@@ -1114,11 +1152,13 @@ P1310	'statement disputed by'@en	Q15627509	'military organization'@en	count	1
 P1310	'statement disputed by'@en	Q170156	'confederation'@en	count	1
 P1310	'statement disputed by'@en	Q17127659	'terrorist organization'@en	count	1
 P1310	'statement disputed by'@en	Q189898	'emirate'@en	count	1
+P1310	'statement disputed by'@en	Q245065	'intergovernmental organization'@en	count	1
 P1310	'statement disputed by'@en	Q2738074	'political movement'@en	count	1
 P1310	'statement disputed by'@en	Q3623811	'economic union'@en	count	1
 P1310	'statement disputed by'@en	Q4006	'map'@en	count	1
 P1310	'statement disputed by'@en	Q4120211	'regional organization'@en	count	1
 P1310	'statement disputed by'@en	Q41362222	'type of map'@en	count	1
+P1310	'statement disputed by'@en	Q484652	'international organization'@en	count	1
 P1310	'statement disputed by'@en	Q7210356	'political organization'@en	count	1
 P1310	'statement disputed by'@en	Q727002	'charter'@en	count	1
 P1310	'statement disputed by'@en	Q788176	'autonomous administrative territorial entity'@en	count	1
@@ -1138,6 +1178,7 @@ P1365	'replaces'@en	Q198	'war'@en	count	1
 P1365	'replaces'@en	Q19832712	'historical administrative division'@en	count	1
 P1365	'replaces'@en	Q223832	'dominion of the British Empire'@en	count	1
 P1365	'replaces'@en	Q236036	'republics of the Soviet Union'@en	count	1
+P1365	'replaces'@en	Q26989049	'National Historic Site Administered by Parks Canada'@en	count	1
 P1365	'replaces'@en	Q2716259	'metropolitan municipality in Turkey'@en	count	1
 P1365	'replaces'@en	Q28783456	'obsolete currency'@en	count	1
 P1365	'replaces'@en	Q325261	'satellite state'@en	count	1
@@ -1150,6 +1191,7 @@ P1365	'replaces'@en	Q625298	'peace treaty'@en	count	1
 P1365	'replaces'@en	Q678116	'government in exile'@en	count	1
 P1365	'replaces'@en	Q707813	'Hanseatic city'@en	count	1
 P1365	'replaces'@en	Q7270	'republic'@en	count	1
+P1365	'replaces'@en	Q756102	'open-air museum'@en	count	1
 P1365	'replaces'@en	Q8142	'currency'@en	count	1
 P1365	'replaces'@en	Q82794	'geographic region'@en	count	1
 P1365	'replaces'@en	Q842112	'socialist state'@en	count	1
@@ -1180,9 +1222,11 @@ P1366	'replaced by'@en	Q29569274	'former name'@en	count	1
 P1366	'replaced by'@en	Q339180	'pound'@en	count	1
 P1366	'replaced by'@en	Q417175	'kingdom'@en	count	1
 P1366	'replaced by'@en	Q43702	'federation'@en	count	1
+P1366	'replaced by'@en	Q486972	'human settlement'@en	count	1
 P1366	'replaced by'@en	Q5119	'capital'@en	count	1
 P1366	'replaced by'@en	Q5255892	'democratic republic'@en	count	1
 P1366	'replaced by'@en	Q56061	'administrative territorial entity'@en	count	1
+P1366	'replaced by'@en	Q59341087	'town in Nova Scotia'@en	count	1
 P1366	'replaced by'@en	Q6024226	'metropolitan municipality'@en	count	1
 P1366	'replaced by'@en	Q619610	'social state'@en	count	1
 P1366	'replaced by'@en	Q8142	'currency'@en	count	1
@@ -1223,6 +1267,7 @@ P1534	'end cause'@en	Q183366	'territory'@en	count	1
 P1534	'end cause'@en	Q18603729	'dissolution of an administrative territorial entity'@en	count	1
 P1534	'end cause'@en	Q188055	'siege'@en	count	1
 P1534	'end cause'@en	Q194465	'annexation'@en	count	1
+P1534	'end cause'@en	Q217901	'capitulation'@en	count	1
 P1534	'end cause'@en	Q43109	'referendum'@en	count	1
 P1534	'end cause'@en	Q467011	'invasion'@en	count	1
 P1534	'end cause'@en	Q4677783	'Act of the Parliament of the United Kingdom'@en	count	1
@@ -1253,17 +1298,18 @@ P1552	'has quality'@en	Q1288568	'modern language'@en	count	1
 P1552	'has quality'@en	Q1789452	'criterion'@en	count	1
 P1552	'has quality'@en	Q1969448	'term'@en	count	1
 P1552	'has quality'@en	Q27949697	'Wikibase reason for deprecated rank'@en	count	1
+P1552	'has quality'@en	Q286576	'register'@en	count	1
 P1552	'has quality'@en	Q33104279	'philosophical concept'@en	count	1
 P1552	'has quality'@en	Q33742	'natural language'@en	count	1
 P1552	'has quality'@en	Q34770	'language'@en	count	1
 P1552	'has quality'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	1
-P156	'followed by'@en	Q112099	'island nation'@en	count	1
 P156	'followed by'@en	Q1127126	'military alliance'@en	count	1
 P156	'followed by'@en	Q11514315	'historical period'@en	count	1
 P156	'followed by'@en	Q12136	'disease'@en	count	1
-P156	'followed by'@en	Q123480	'landlocked country'@en	count	1
 P156	'followed by'@en	Q1323642	'transcontinental country'@en	count	1
+P156	'followed by'@en	Q133156	'colony'@en	count	1
 P156	'followed by'@en	Q1371288	'vassal state'@en	count	1
+P156	'followed by'@en	Q15304003	'country of the Kingdom of the Netherlands'@en	count	1
 P156	'followed by'@en	Q154547	'duchy'@en	count	1
 P156	'followed by'@en	Q170156	'confederation'@en	count	1
 P156	'followed by'@en	Q17259945	'province of the Spanish Empire'@en	count	1
@@ -1274,7 +1320,7 @@ P156	'followed by'@en	Q20203507	'viceroyalty of the Spanish Empire'@en	count	1
 P156	'followed by'@en	Q202686	'Commonwealth realm'@en	count	1
 P156	'followed by'@en	Q20937557	'series'@en	count	1
 P156	'followed by'@en	Q2577883	'occupied territory'@en	count	1
-P156	'followed by'@en	Q417175	'kingdom'@en	count	1
+P156	'followed by'@en	Q35657	'U.S. state'@en	count	1
 P156	'followed by'@en	Q5	'human'@en	count	1
 P156	'followed by'@en	Q5036886	'Captaincies of the Spanish Empire'@en	count	1
 P156	'followed by'@en	Q532	'village'@en	count	1
@@ -1289,7 +1335,9 @@ P159	'headquarters location'@en	Q7138926	'parliament building'@en	count	1
 P159	'headquarters location'@en	Q751876	'château'@en	count	1
 P1629	'Wikidata item of this property'@en	Q625298	'peace treaty'@en	count	1
 P17	'country'@en	Q1048835	'political territorial entity'@en	count	1
+P17	'country'@en	Q1211369	'the empire on which the sun never sets'@en	count	1
 P17	'country'@en	Q1402592	'island group'@en	count	1
+P17	'country'@en	Q48349	'empire'@en	count	1
 P17	'country'@en	Q5164076	'constituent state'@en	count	1
 P17	'country'@en	Q56061	'administrative territorial entity'@en	count	1
 P1706	'together with'@en	Q1075	'color'@en	count	1
@@ -1297,12 +1345,17 @@ P1706	'together with'@en	Q214609	'material'@en	count	1
 P1706	'together with'@en	Q486972	'human settlement'@en	count	1
 P1706	'together with'@en	Q839954	'archaeological site'@en	count	1
 P180	'depicts'@en	Q12737077	'occupation'@en	count	1
+P180	'depicts'@en	Q133156	'colony'@en	count	1
 P180	'depicts'@en	Q15042037	'statistical territorial entity'@en	count	1
 P180	'depicts'@en	Q1549591	'big city'@en	count	1
+P180	'depicts'@en	Q16560	'palace'@en	count	1
+P180	'depicts'@en	Q2087181	'historic house museum'@en	count	1
 P180	'depicts'@en	Q2207288	'craft'@en	count	1
 P180	'depicts'@en	Q2264924	'port settlement'@en	count	1
+P180	'depicts'@en	Q3284499	'capitol building'@en	count	1
 P180	'depicts'@en	Q34763	'peninsula'@en	count	1
 P180	'depicts'@en	Q657326	'estates of the realm'@en	count	1
+P180	'depicts'@en	Q839954	'archaeological site'@en	count	1
 P180	'depicts'@en	Q96482621	'administrative territory in South Africa'@en	count	1
 P1889	'different from'@en	Q1088391	'rump state'@en	count	1
 P1889	'different from'@en	Q1147274	'Apostolic see'@en	count	1
@@ -1416,16 +1469,20 @@ P2868	'subject has role'@en	Q618779	'award'@en	count	1
 P3005	'valid in place'@en	Q107390	'federated state'@en	count	1
 P3005	'valid in place'@en	Q1250464	'realm'@en	count	1
 P3005	'valid in place'@en	Q13406463	'Wikimedia list article'@en	count	1
+P3005	'valid in place'@en	Q1351282	'crown colony'@en	count	1
 P3005	'valid in place'@en	Q1549591	'big city'@en	count	1
+P3005	'valid in place'@en	Q161243	'dependent territory'@en	count	1
 P3005	'valid in place'@en	Q1620908	'historical region'@en	count	1
 P3005	'valid in place'@en	Q1637706	'million city'@en	count	1
 P3005	'valid in place'@en	Q1901835	'seat of government'@en	count	1
+P3005	'valid in place'@en	Q19953632	'former administrative territorial entity'@en	count	1
 P3005	'valid in place'@en	Q2264924	'port settlement'@en	count	1
 P3005	'valid in place'@en	Q22865	'independent city of Germany'@en	count	1
 P3005	'valid in place'@en	Q257391	'federal capital'@en	count	1
 P3005	'valid in place'@en	Q27955379	'road transport infrastructure'@en	count	1
 P3005	'valid in place'@en	Q50330360	'second largest city'@en	count	1
 P3005	'valid in place'@en	Q510662	'ring road'@en	count	1
+P3005	'valid in place'@en	Q5107	'continent'@en	count	1
 P3005	'valid in place'@en	Q5119	'capital'@en	count	1
 P3005	'valid in place'@en	Q515	'city'@en	count	1
 P3005	'valid in place'@en	Q518261	'cultural area'@en	count	1
@@ -1434,6 +1491,7 @@ P3005	'valid in place'@en	Q57318	'free imperial city'@en	count	1
 P3005	'valid in place'@en	Q67123843	'town divided by border'@en	count	1
 P3005	'valid in place'@en	Q836915	'free state'@en	count	1
 P3005	'valid in place'@en	Q8432	'civilization'@en	count	1
+P3005	'valid in place'@en	Q855697	'subcontinent'@en	count	1
 P3005	'valid in place'@en	Q85636199	'urban district of Hamburg'@en	count	1
 P31	'instance of'@en	Q124734	'rebellion'@en	count	1
 P31	'instance of'@en	Q1307214	'form of government'@en	count	1
@@ -1487,18 +1545,23 @@ P366	'has use'@en	Q43229	'organization'@en	count	1
 P366	'has use'@en	Q6256	'country'@en	count	1
 P366	'has use'@en	Q7410456	'national police'@en	count	1
 P366	'has use'@en	Q8010730	'external agency'@en	count	1
+P3680	'statement supported by'@en	Q13107770	'archipelagic state'@en	count	1
 P3680	'statement supported by'@en	Q1323642	'transcontinental country'@en	count	1
 P3680	'statement supported by'@en	Q1345528	'United States Census'@en	count	1
 P3680	'statement supported by'@en	Q1417524	'unified command'@en	count	1
+P3680	'statement supported by'@en	Q1520223	'constitutional republic'@en	count	1
 P3680	'statement supported by'@en	Q1530022	'religious organization'@en	count	1
 P3680	'statement supported by'@en	Q15627509	'military organization'@en	count	1
 P3680	'statement supported by'@en	Q17127659	'terrorist organization'@en	count	1
 P3680	'statement supported by'@en	Q17737	'theory'@en	count	1
 P3680	'statement supported by'@en	Q189898	'emirate'@en	count	1
+P3680	'statement supported by'@en	Q202686	'Commonwealth realm'@en	count	1
+P3680	'statement supported by'@en	Q223832	'dominion of the British Empire'@en	count	1
 P3680	'statement supported by'@en	Q2738074	'political movement'@en	count	1
 P3680	'statement supported by'@en	Q3024240	'historical country'@en	count	1
-P3680	'statement supported by'@en	Q43702	'federation'@en	count	1
+P3680	'statement supported by'@en	Q49892	'presidential system'@en	count	1
 P3680	'statement supported by'@en	Q859563	'secular state'@en	count	1
+P3680	'statement supported by'@en	Q99541706	'historical unrecognized state'@en	count	1
 P37	'official language'@en	Q38058796	'extinct language'@en	count	1
 P37	'official language'@en	Q436240	'ancient language'@en	count	1
 P37	'official language'@en	Q45762	'dead language'@en	count	1
@@ -1543,9 +1606,11 @@ P457	'foundational text'@en	Q105774620	'Public General Act of the Parliament of 
 P457	'foundational text'@en	Q1326430	'social contract'@en	count	1
 P457	'foundational text'@en	Q7755	'constitution'@en	count	1
 P459	'determination method'@en	Q13136	'reference work'@en	count	1
+P459	'determination method'@en	Q1330251	'United Nations General Assembly resolution'@en	count	1
 P459	'determination method'@en	Q1345528	'United States Census'@en	count	1
 P459	'determination method'@en	Q177646	'subset'@en	count	1
 P459	'determination method'@en	Q182985	'electoral system'@en	count	1
+P459	'determination method'@en	Q20857065	'United States federal agency'@en	count	1
 P459	'determination method'@en	Q210588	'umbrella term'@en	count	1
 P459	'determination method'@en	Q2439355	'elections in Israel'@en	count	1
 P459	'determination method'@en	Q25369733	'East Timorese parliamentary election'@en	count	1
@@ -1555,6 +1620,7 @@ P459	'determination method'@en	Q4671286	'academic major'@en	count	1
 P459	'determination method'@en	Q47103999	'type of statistic'@en	count	1
 P459	'determination method'@en	Q5058989	'census in Ukraine'@en	count	1
 P459	'determination method'@en	Q7755	'constitution'@en	count	1
+P459	'determination method'@en	Q8458	'human rights'@en	count	1
 P460	'said to be the same as'@en	Q42045197	'hereditary position'@en	count	1
 P460	'said to be the same as'@en	Q48352	'head of state'@en	count	1
 P460	'said to be the same as'@en	Q80096233	'information list'@en	count	1
@@ -1597,7 +1663,6 @@ P5102	'nature of statement'@en	Q3624078	'sovereign state'@en	count	1
 P5102	'nature of statement'@en	Q5	'human'@en	count	1
 P518	'applies to part'@en	Q1006644	'federal government'@en	count	1
 P518	'applies to part'@en	Q10267322	'state district of Brazil'@en	count	1
-P518	'applies to part'@en	Q10351538	'intercardinal direction'@en	count	1
 P518	'applies to part'@en	Q10541491	'legal form'@en	count	1
 P518	'applies to part'@en	Q108300140	'occupation group according to ISCO'@en	count	1
 P518	'applies to part'@en	Q1093829	'city of the United States'@en	count	1
@@ -1609,11 +1674,9 @@ P518	'applies to part'@en	Q1151405	'client state'@en	count	1
 P518	'applies to part'@en	Q1151616	'stateless nation'@en	count	1
 P518	'applies to part'@en	Q1179466	'de facto regime'@en	count	1
 P518	'applies to part'@en	Q11862829	'academic discipline'@en	count	1
-P518	'applies to part'@en	Q123480	'landlocked country'@en	count	1
 P518	'applies to part'@en	Q1250464	'realm'@en	count	1
 P518	'applies to part'@en	Q12813115	'urban area in Sweden'@en	count	1
 P518	'applies to part'@en	Q1288568	'modern language'@en	count	1
-P518	'applies to part'@en	Q13220204	'second-level administrative country subdivision'@en	count	1
 P518	'applies to part'@en	Q134390	'province of the Netherlands'@en	count	1
 P518	'applies to part'@en	Q1428660	'type of rivers, streams and springs'@en	count	1
 P518	'applies to part'@en	Q148837	'polis'@en	count	1
@@ -1641,6 +1704,7 @@ P518	'applies to part'@en	Q21278897	'Wiktionary redirect'@en	count	1
 P518	'applies to part'@en	Q2145277	'house of representatives'@en	count	1
 P518	'applies to part'@en	Q21512251	'self-proclaimed state'@en	count	1
 P518	'applies to part'@en	Q22865	'independent city of Germany'@en	count	1
+P518	'applies to part'@en	Q23718	'cardinal direction'@en	count	1
 P518	'applies to part'@en	Q2424752	'product'@en	count	1
 P518	'applies to part'@en	Q2434238	'heritage'@en	count	1
 P518	'applies to part'@en	Q245065	'intergovernmental organization'@en	count	1
@@ -1667,6 +1731,7 @@ P518	'applies to part'@en	Q3750285	'administrative territorial entity of Canada'
 P518	'applies to part'@en	Q38048753	'natural cultural heritage site'@en	count	1
 P518	'applies to part'@en	Q4167410	'Wikimedia disambiguation page'@en	count	1
 P518	'applies to part'@en	Q4204060	'Islamic state'@en	count	1
+P518	'applies to part'@en	Q4209223	'Rechtsstaat'@en	count	1
 P518	'applies to part'@en	Q42744322	'urban municipality of Germany'@en	count	1
 P518	'applies to part'@en	Q4445055	'subregion of Portugal'@en	count	1
 P518	'applies to part'@en	Q4671286	'academic major'@en	count	1
@@ -1678,6 +1743,7 @@ P518	'applies to part'@en	Q5162954	'conservation designation'@en	count	1
 P518	'applies to part'@en	Q57362	'autonomous region of the People\'s Republic of China'@en	count	1
 P518	'applies to part'@en	Q576639	'essentially contested concept'@en	count	1
 P518	'applies to part'@en	Q58804331	'Venetian patrician family'@en	count	1
+P518	'applies to part'@en	Q608	'human sexual activity'@en	count	1
 P518	'applies to part'@en	Q67123843	'town divided by border'@en	count	1
 P518	'applies to part'@en	Q707813	'Hanseatic city'@en	count	1
 P518	'applies to part'@en	Q71533077	'Wikibase reason for preferred rank'@en	count	1
@@ -1715,6 +1781,7 @@ P531	'diplomatic mission sent'@en	Q751876	'château'@en	count	1
 P531	'diplomatic mission sent'@en	Q811979	'architectural structure'@en	count	1
 P642	'of'@en	Q107390	'federated state'@en	count	1
 P642	'of'@en	Q1089515	'conquest dynasty'@en	count	1
+P642	'of'@en	Q1093720	'real union'@en	count	1
 P642	'of'@en	Q110292213	'Grand principality'@en	count	1
 P642	'of'@en	Q118365	'dictatorship of the proletariat'@en	count	1
 P642	'of'@en	Q11862829	'academic discipline'@en	count	1
@@ -1722,7 +1789,7 @@ P642	'of'@en	Q12812139	'technical term'@en	count	1
 P642	'of'@en	Q13107770	'archipelagic state'@en	count	1
 P642	'of'@en	Q15617994	'designation for an administrative territorial entity'@en	count	1
 P642	'of'@en	Q16034119	'despotate'@en	count	1
-P642	'of'@en	Q162157	'chartered company'@en	count	1
+P642	'of'@en	Q161243	'dependent territory'@en	count	1
 P642	'of'@en	Q16242623	'African empires'@en	count	1
 P642	'of'@en	Q17152708	'republican regime in France'@en	count	1
 P642	'of'@en	Q180684	'conflict'@en	count	1
@@ -1732,21 +1799,20 @@ P642	'of'@en	Q18920569	'traditional state in Nigeria'@en	count	1
 P642	'of'@en	Q2074737	'municipality of Spain'@en	count	1
 P642	'of'@en	Q209495	'historical province of France'@en	count	1
 P642	'of'@en	Q2221906	'geographic location'@en	count	1
+P642	'of'@en	Q23442	'island'@en	count	1
 P642	'of'@en	Q245065	'intergovernmental organization'@en	count	1
 P642	'of'@en	Q24634210	'podcast'@en	count	1
 P642	'of'@en	Q2495771	'nomadic empire'@en	count	1
 P642	'of'@en	Q26879763	'Napoleonic client state'@en	count	1
-P642	'of'@en	Q29569274	'former name'@en	count	1
 P642	'of'@en	Q2993836	'Council of Ministers'@en	count	1
 P642	'of'@en	Q3183364	'administrative territorial entity of Spain'@en	count	1
 P642	'of'@en	Q3257686	'locality'@en	count	1
 P642	'of'@en	Q331644	'Khanate'@en	count	1
+P642	'of'@en	Q333542	'overseas province of Portugal'@en	count	1
 P642	'of'@en	Q339834	'regional power'@en	count	1
 P642	'of'@en	Q355567	'noble title'@en	count	1
-P642	'of'@en	Q43185013	'maritime republic'@en	count	1
 P642	'of'@en	Q465613	'people\'s republic'@en	count	1
 P642	'of'@en	Q4671286	'academic major'@en	count	1
-P642	'of'@en	Q4830453	'business'@en	count	1
 P642	'of'@en	Q4835091	'territory'@en	count	1
 P642	'of'@en	Q5	'human'@en	count	1
 P642	'of'@en	Q5156764	'composite monarchy'@en	count	1
@@ -1755,7 +1821,6 @@ P642	'of'@en	Q59104206	'polysynodal monarchy'@en	count	1
 P642	'of'@en	Q6266	'nation'@en	count	1
 P642	'of'@en	Q678116	'government in exile'@en	count	1
 P642	'of'@en	Q681026	'crown land of the Austrian Empire'@en	count	1
-P642	'of'@en	Q6881511	'enterprise'@en	count	1
 P642	'of'@en	Q7269	'monarchy'@en	count	1
 P642	'of'@en	Q816829	'periodization'@en	count	1
 P642	'of'@en	Q8187769	'economic activity'@en	count	1
@@ -1764,6 +1829,7 @@ P654	'direction relative to location'@en	Q2151613	'direction'@en	count	1
 P706	'located in/on physical feature'@en	Q1044181	'state of Palau'@en	count	1
 P706	'located in/on physical feature'@en	Q1065592	'desert island'@en	count	1
 P706	'located in/on physical feature'@en	Q1078001	'territorial dispute'@en	count	1
+P706	'located in/on physical feature'@en	Q10864048	'first-level administrative country subdivision'@en	count	1
 P706	'located in/on physical feature'@en	Q1136601	'unitary authority area in England'@en	count	1
 P706	'located in/on physical feature'@en	Q13539802	'place with town rights and privileges'@en	count	1
 P706	'located in/on physical feature'@en	Q15239622	'disputed territory'@en	count	1
@@ -1789,6 +1855,7 @@ P706	'located in/on physical feature'@en	Q46169	'national park'@en	count	1
 P706	'located in/on physical feature'@en	Q48731335	'village of Brunei'@en	count	1
 P706	'located in/on physical feature'@en	Q50330360	'second largest city'@en	count	1
 P706	'located in/on physical feature'@en	Q5119	'capital'@en	count	1
+P706	'located in/on physical feature'@en	Q5283489	'administrative territorial entity of Mauritius'@en	count	1
 P706	'located in/on physical feature'@en	Q57831	'fortress'@en	count	1
 P706	'located in/on physical feature'@en	Q6617741	'WWF ecoregion'@en	count	1
 P706	'located in/on physical feature'@en	Q667509	'municipality of Austria'@en	count	1
@@ -1839,7 +1906,6 @@ P7904	'gave up territory to'@en	Q6256	'country'@en	count	1
 P7904	'gave up territory to'@en	Q99541706	'historical unrecognized state'@en	count	1
 P793	'significant event'@en	Q13406463	'Wikimedia list article'@en	count	1
 P793	'significant event'@en	Q13408009	'French law'@en	count	1
-P793	'significant event'@en	Q1464916	'declaration of independence'@en	count	1
 P793	'significant event'@en	Q4157074	'boundary delimitation'@en	count	1
 P793	'significant event'@en	Q9557810	'bilateral treaty'@en	count	1
 P805	'statement is subject of'@en	Q10290447	'military coup'@en	count	1
@@ -1852,7 +1918,6 @@ P805	'statement is subject of'@en	Q1207505	'quality'@en	count	1
 P805	'statement is subject of'@en	Q1250464	'realm'@en	count	1
 P805	'statement is subject of'@en	Q1267939	'statistical region of Serbia'@en	count	1
 P805	'statement is subject of'@en	Q12833777	'Christianity of an area'@en	count	1
-P805	'statement is subject of'@en	Q1284645	'edict'@en	count	1
 P805	'statement is subject of'@en	Q128635	'value-added tax'@en	count	1
 P805	'statement is subject of'@en	Q1309121	'hermit kingdom'@en	count	1
 P805	'statement is subject of'@en	Q131596	'farm'@en	count	1
@@ -1906,6 +1971,7 @@ P805	'statement is subject of'@en	Q2523556	'directorial system'@en	count	1
 P805	'statement is subject of'@en	Q25297020	'transborder structure'@en	count	1
 P805	'statement is subject of'@en	Q25297630	'international bridge'@en	count	1
 P805	'statement is subject of'@en	Q2571972	'decree'@en	count	1
+P805	'statement is subject of'@en	Q25929224	'transfer of sovereignty'@en	count	1
 P805	'statement is subject of'@en	Q2627975	'ceremony'@en	count	1
 P805	'statement is subject of'@en	Q27345018	'international tripoint'@en	count	1
 P805	'statement is subject of'@en	Q2751586	'resolution'@en	count	1
@@ -1916,7 +1982,6 @@ P805	'statement is subject of'@en	Q3062294	'Latin phrase'@en	count	1
 P805	'statement is subject of'@en	Q321839	'agreement'@en	count	1
 P805	'statement is subject of'@en	Q3337280	'marine navigation'@en	count	1
 P805	'statement is subject of'@en	Q3393392	'highest point'@en	count	1
-P805	'statement is subject of'@en	Q350604	'armed conflict'@en	count	1
 P805	'statement is subject of'@en	Q3536928	'free trade agreement'@en	count	1
 P805	'statement is subject of'@en	Q35798	'executive branch'@en	count	1
 P805	'statement is subject of'@en	Q37484	'epic poem'@en	count	1
@@ -1929,9 +1994,9 @@ P805	'statement is subject of'@en	Q417175	'kingdom'@en	count	1
 P805	'statement is subject of'@en	Q421829	'act'@en	count	1
 P805	'statement is subject of'@en	Q42264828	'problem question'@en	count	1
 P805	'statement is subject of'@en	Q465613	'people\'s republic'@en	count	1
-P805	'statement is subject of'@en	Q467011	'invasion'@en	count	1
 P805	'statement is subject of'@en	Q4677783	'Act of the Parliament of the United Kingdom'@en	count	1
 P805	'statement is subject of'@en	Q48349	'empire'@en	count	1
+P805	'statement is subject of'@en	Q4927953	'bloodless war'@en	count	1
 P805	'statement is subject of'@en	Q49389	'tourism'@en	count	1
 P805	'statement is subject of'@en	Q515	'city'@en	count	1
 P805	'statement is subject of'@en	Q537127	'road bridge'@en	count	1
@@ -1944,7 +2009,6 @@ P805	'statement is subject of'@en	Q59281	'provisional government'@en	count	1
 P805	'statement is subject of'@en	Q59678118	'accession of a country to the European Union'@en	count	1
 P805	'statement is subject of'@en	Q6456916	'national economy'@en	count	1
 P805	'statement is subject of'@en	Q645883	'military operation'@en	count	1
-P805	'statement is subject of'@en	Q646740	'landing operation'@en	count	1
 P805	'statement is subject of'@en	Q65224	'monetary reform'@en	count	1
 P805	'statement is subject of'@en	Q678116	'government in exile'@en	count	1
 P805	'statement is subject of'@en	Q727002	'charter'@en	count	1
@@ -1969,7 +2033,6 @@ P828	'has cause'@en	Q1062856	'anniversary'@en	count	1
 P828	'has cause'@en	Q1140229	'political union'@en	count	1
 P828	'has cause'@en	Q1151067	'rule'@en	count	1
 P828	'has cause'@en	Q11514315	'historical period'@en	count	1
-P828	'has cause'@en	Q1219394	'independence referendum'@en	count	1
 P828	'has cause'@en	Q123550	'forum'@en	count	1
 P828	'has cause'@en	Q1284645	'edict'@en	count	1
 P828	'has cause'@en	Q131401	'caliphate'@en	count	1
@@ -2006,6 +2069,8 @@ P828	'has cause'@en	Q48349	'empire'@en	count	1
 P828	'has cause'@en	Q5255892	'democratic republic'@en	count	1
 P828	'has cause'@en	Q53463	'constitutional amendment'@en	count	1
 P828	'has cause'@en	Q53536964	'royal palace'@en	count	1
+P828	'has cause'@en	Q571	'book'@en	count	1
+P828	'has cause'@en	Q595819	'Versailles system'@en	count	1
 P828	'has cause'@en	Q646740	'landing operation'@en	count	1
 P828	'has cause'@en	Q680655	'constitutional document'@en	count	1
 P828	'has cause'@en	Q727002	'charter'@en	count	1
@@ -2014,7 +2079,7 @@ P828	'has cause'@en	Q751876	'château'@en	count	1
 P828	'has cause'@en	Q831663	'military campaign'@en	count	1
 P828	'has cause'@en	Q8465	'civil war'@en	count	1
 P828	'has cause'@en	Q861911	'speech'@en	count	1
-P828	'has cause'@en	Q87167	'manuscript'@en	count	1
+P828	'has cause'@en	Q864737	'unequal treaty'@en	count	1
 P828	'has cause'@en	Q900406	'reform'@en	count	1
 P828	'has cause'@en	Q93288	'contract'@en	count	1
 P837	'day in year for periodic occurrence'@en	Q51118183	'day of the week within a given month'@en	count	1

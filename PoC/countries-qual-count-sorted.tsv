@@ -1,184 +1,185 @@
 node1	node1;label	node1;pred	node1;pred_label	label	node2
-P585	'point in time'@en	P1082	'population'@en	count	9871
-P585	'point in time'@en	P1081	'Human Development Index'@en	count	6318
-P805	'statement is subject of'@en	P530	'diplomatic relation'@en	count	6210
-P518	'applies to part'@en	P1549	'demonym'@en	count	5614
-P585	'point in time'@en	P2250	'life expectancy'@en	count	3464
-P585	'point in time'@en	P4841	'total fertility rate'@en	count	2988
-P459	'determination method'@en	P4841	'total fertility rate'@en	count	2957
-P580	'start time'@en	P463	'member of'@en	count	2681
-P585	'point in time'@en	P2573	'number of out-of-school children'@en	count	1482
-P805	'statement is subject of'@en	P1343	'described by source'@en	count	1213
-P585	'point in time'@en	P8477	'BTI Status Index'@en	count	1150
-P585	'point in time'@en	P8476	'BTI Governance Index'@en	count	1149
-P580	'start time'@en	P35	'head of state'@en	count	1098
-P580	'start time'@en	P530	'diplomatic relation'@en	count	1090
-P580	'start time'@en	P6	'head of government'@en	count	1048
-P580	'start time'@en	P31	'instance of'@en	count	970
-P582	'end time'@en	P35	'head of state'@en	count	903
-P582	'end time'@en	P6	'head of government'@en	count	879
-P805	'statement is subject of'@en	P47	'shares border with'@en	count	865
-P531	'diplomatic mission sent'@en	P530	'diplomatic relation'@en	count	706
-P459	'determination method'@en	P1082	'population'@en	count	684
-P580	'start time'@en	P41	'flag image'@en	count	614
-P582	'end time'@en	P31	'instance of'@en	count	600
-P407	'language of work or name'@en	P443	'pronunciation audio'@en	count	581
-P585	'point in time'@en	P8328	'Democracy Index'@en	count	516
-P582	'end time'@en	P41	'flag image'@en	count	501
-P580	'start time'@en	P150	'contains administrative territorial entity'@en	count	488
-P366	'has use'@en	P2852	'emergency phone number'@en	count	480
+P585	'point in time'@en	P1082	'population'@en	count	10072
+P585	'point in time'@en	P1081	'Human Development Index'@en	count	6407
+P805	'statement is subject of'@en	P530	'diplomatic relation'@en	count	6260
+P518	'applies to part'@en	P1549	'demonym'@en	count	5679
+P585	'point in time'@en	P2250	'life expectancy'@en	count	3518
+P585	'point in time'@en	P4841	'total fertility rate'@en	count	3038
+P459	'determination method'@en	P4841	'total fertility rate'@en	count	3005
+P580	'start time'@en	P463	'member of'@en	count	2706
+P585	'point in time'@en	P2573	'number of out-of-school children'@en	count	1512
+P805	'statement is subject of'@en	P1343	'described by source'@en	count	1249
+P585	'point in time'@en	P8477	'BTI Status Index'@en	count	1161
+P585	'point in time'@en	P8476	'BTI Governance Index'@en	count	1160
+P580	'start time'@en	P35	'head of state'@en	count	1103
+P580	'start time'@en	P530	'diplomatic relation'@en	count	1093
+P580	'start time'@en	P6	'head of government'@en	count	1055
+P580	'start time'@en	P31	'instance of'@en	count	1011
+P582	'end time'@en	P35	'head of state'@en	count	906
+P582	'end time'@en	P6	'head of government'@en	count	883
+P805	'statement is subject of'@en	P47	'shares border with'@en	count	867
+P531	'diplomatic mission sent'@en	P530	'diplomatic relation'@en	count	707
+P459	'determination method'@en	P1082	'population'@en	count	693
+P582	'end time'@en	P31	'instance of'@en	count	648
+P580	'start time'@en	P41	'flag image'@en	count	633
+P407	'language of work or name'@en	P443	'pronunciation audio'@en	count	585
+P582	'end time'@en	P41	'flag image'@en	count	522
+P585	'point in time'@en	P8328	'Democracy Index'@en	count	520
+P580	'start time'@en	P150	'contains administrative territorial entity'@en	count	502
+P366	'has use'@en	P2852	'emergency phone number'@en	count	488
+P580	'start time'@en	P36	'capital'@en	count	460
 P518	'applies to part'@en	P421	'located in time zone'@en	count	458
-P1810	'subject named as'@en	P6404	'Treccani\'s Dizionario di Storia ID'@en	count	424
-P577	'publication date'@en	P6404	'Treccani\'s Dizionario di Storia ID'@en	count	424
-P580	'start time'@en	P36	'capital'@en	count	418
-P31	'instance of'@en	P571	'inception'@en	count	388
-P582	'end time'@en	P36	'capital'@en	count	376
-P195	'collection'@en	P242	'locator map image'@en	count	362
-P459	'determination method'@en	P2573	'number of out-of-school children'@en	count	351
-P2093	'author name string'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	317
-P407	'language of work or name'@en	P898	'IPA transcription'@en	count	299
-P585	'point in time'@en	P3864	'suicide rate'@en	count	291
-P459	'determination method'@en	P3864	'suicide rate'@en	count	287
-P31	'instance of'@en	P576	'dissolved, abolished or demolished date'@en	count	279
-P585	'point in time'@en	P1198	'unemployment rate'@en	count	275
-P580	'start time'@en	P17	'country'@en	count	273
-P582	'end time'@en	P150	'contains administrative territorial entity'@en	count	267
+P1810	'subject named as'@en	P6404	'Treccani\'s Dizionario di Storia ID'@en	count	435
+P577	'publication date'@en	P6404	'Treccani\'s Dizionario di Storia ID'@en	count	435
+P582	'end time'@en	P36	'capital'@en	count	418
+P31	'instance of'@en	P571	'inception'@en	count	399
+P195	'collection'@en	P242	'locator map image'@en	count	367
+P459	'determination method'@en	P2573	'number of out-of-school children'@en	count	363
+P2093	'author name string'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	327
+P582	'end time'@en	P150	'contains administrative territorial entity'@en	count	323
+P407	'language of work or name'@en	P898	'IPA transcription'@en	count	301
+P585	'point in time'@en	P3864	'suicide rate'@en	count	296
+P459	'determination method'@en	P3864	'suicide rate'@en	count	292
+P580	'start time'@en	P17	'country'@en	count	290
+P31	'instance of'@en	P576	'dissolved, abolished or demolished date'@en	count	282
+P585	'point in time'@en	P1198	'unemployment rate'@en	count	277
+P580	'start time'@en	P38	'currency'@en	count	276
 P1107	'proportion'@en	P172	'ethnic group'@en	count	265
-P580	'start time'@en	P38	'currency'@en	count	253
-P577	'publication date'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	252
-P1810	'subject named as'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	251
-P407	'language of work or name'@en	P3984	'subreddit'@en	count	250
-P1098	'number of speakers, writers, or signers'@en	P2936	'language used'@en	count	244
-P39	'position held'@en	P35	'head of state'@en	count	238
-P582	'end time'@en	P17	'country'@en	count	234
-P518	'applies to part'@en	P3000	'marriageable age'@en	count	224
-P1810	'subject named as'@en	P4527	'UK Parliament thesaurus ID'@en	count	217
-P407	'language of work or name'@en	P9937	'Postimees topic ID'@en	count	215
-P2144	'frequency'@en	P2884	'mains voltage'@en	count	213
+P642	'of'@en	P31	'instance of'@en	count	263
+P577	'publication date'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	261
+P1810	'subject named as'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	260
+P407	'language of work or name'@en	P3984	'subreddit'@en	count	254
+P582	'end time'@en	P17	'country'@en	count	253
+P1098	'number of speakers, writers, or signers'@en	P2936	'language used'@en	count	247
+P39	'position held'@en	P35	'head of state'@en	count	239
+P518	'applies to part'@en	P3000	'marriageable age'@en	count	226
+P1810	'subject named as'@en	P4527	'UK Parliament thesaurus ID'@en	count	223
+P407	'language of work or name'@en	P9937	'Postimees topic ID'@en	count	218
+P1932	'object stated as'@en	P1343	'described by source'@en	count	216
+P2144	'frequency'@en	P2884	'mains voltage'@en	count	215
 P585	'point in time'@en	P172	'ethnic group'@en	count	213
-P642	'of'@en	P31	'instance of'@en	count	210
-P1810	'subject named as'@en	P3984	'subreddit'@en	count	208
-P31	'instance of'@en	P1813	'short name'@en	count	208
-P4390	'mapping relation type'@en	P3911	'STW Thesaurus for Economics ID'@en	count	203
-P1810	'subject named as'@en	P3365	'Treccani ID'@en	count	197
-P1810	'subject named as'@en	P9937	'Postimees topic ID'@en	count	197
-P1932	'object stated as'@en	P1343	'described by source'@en	count	197
-P2044	'elevation above sea level'@en	P1589	'lowest point'@en	count	194
-P3680	'statement supported by'@en	P1552	'has quality'@en	count	192
-P478	'volume'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	185
-P580	'start time'@en	P94	'coat of arms image'@en	count	182
-P51	'audio'@en	P85	'anthem'@en	count	173
-P1810	'subject named as'@en	P6262	'Fandom article ID'@en	count	171
-P407	'language of work or name'@en	P6262	'Fandom article ID'@en	count	171
-P1264	'valid in period'@en	P421	'located in time zone'@en	count	163
-P582	'end time'@en	P38	'currency'@en	count	162
-P580	'start time'@en	P131	'located in the administrative territorial entity'@en	count	158
-P580	'start time'@en	P395	'licence plate code'@en	count	157
-P2061	'aspect ratio (W:H)'@en	P242	'locator map image'@en	count	155
-P582	'end time'@en	P94	'coat of arms image'@en	count	155
-P585	'point in time'@en	P1366	'replaced by'@en	count	155
-P9675	'MediaWiki page ID'@en	P6262	'Fandom article ID'@en	count	152
-P585	'point in time'@en	P1365	'replaces'@en	count	148
+P1810	'subject named as'@en	P3984	'subreddit'@en	count	212
+P31	'instance of'@en	P1813	'short name'@en	count	211
+P4390	'mapping relation type'@en	P3911	'STW Thesaurus for Economics ID'@en	count	206
+P1810	'subject named as'@en	P3365	'Treccani ID'@en	count	201
+P1810	'subject named as'@en	P9937	'Postimees topic ID'@en	count	199
+P2044	'elevation above sea level'@en	P1589	'lowest point'@en	count	196
+P3680	'statement supported by'@en	P1552	'has quality'@en	count	194
+P478	'volume'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	192
+P580	'start time'@en	P94	'coat of arms image'@en	count	188
+P582	'end time'@en	P38	'currency'@en	count	181
+P51	'audio'@en	P85	'anthem'@en	count	176
+P1810	'subject named as'@en	P6262	'Fandom article ID'@en	count	172
+P407	'language of work or name'@en	P6262	'Fandom article ID'@en	count	172
+P1264	'valid in period'@en	P421	'located in time zone'@en	count	165
+P582	'end time'@en	P94	'coat of arms image'@en	count	161
+P580	'start time'@en	P131	'located in the administrative territorial entity'@en	count	160
+P585	'point in time'@en	P1365	'replaces'@en	count	160
+P585	'point in time'@en	P1366	'replaced by'@en	count	160
+P580	'start time'@en	P395	'licence plate code'@en	count	159
+P2061	'aspect ratio (W:H)'@en	P242	'locator map image'@en	count	157
+P9675	'MediaWiki page ID'@en	P6262	'Fandom article ID'@en	count	153
 P102	'member of political party'@en	P6	'head of government'@en	count	141
+P580	'start time'@en	P3984	'subreddit'@en	count	141
 P582	'end time'@en	P463	'member of'@en	count	140
-P580	'start time'@en	P3984	'subreddit'@en	count	139
-P582	'end time'@en	P47	'shares border with'@en	count	137
+P582	'end time'@en	P47	'shares border with'@en	count	139
+P2096	'media legend'@en	P242	'locator map image'@en	count	135
 P585	'point in time'@en	P2936	'language used'@en	count	135
-P582	'end time'@en	P131	'located in the administrative territorial entity'@en	count	131
-P3831	'object has role'@en	P1451	'motto text'@en	count	129
-P580	'start time'@en	P47	'shares border with'@en	count	129
-P2096	'media legend'@en	P242	'locator map image'@en	count	125
+P582	'end time'@en	P131	'located in the administrative territorial entity'@en	count	133
+P3831	'object has role'@en	P1451	'motto text'@en	count	131
+P580	'start time'@en	P47	'shares border with'@en	count	131
 P518	'applies to part'@en	P2250	'life expectancy'@en	count	122
+P1552	'has quality'@en	P2936	'language used'@en	count	119
 P407	'language of work or name'@en	P856	'official website'@en	count	118
-P1552	'has quality'@en	P2936	'language used'@en	count	115
 P837	'day in year for periodic occurrence'@en	P832	'public holiday'@en	count	111
 P580	'start time'@en	P1313	'office held by head of government'@en	count	109
 P1539	'female population'@en	P1082	'population'@en	count	108
 P1540	'male population'@en	P1082	'population'@en	count	108
 P407	'language of work or name'@en	P10234	'Der Spiegel topic ID'@en	count	108
+P747	'has edition or translation'@en	P8248	'Colon Classification'@en	count	103
 P518	'applies to part'@en	P37	'official language'@en	count	102
-P747	'has edition or translation'@en	P8248	'Colon Classification'@en	count	102
+P580	'start time'@en	P1448	'official name'@en	count	97
+P580	'start time'@en	P527	'has part or parts'@en	count	97
 P4970	'alternative name'@en	P244	'Library of Congress authority ID'@en	count	96
-P580	'start time'@en	P1448	'official name'@en	count	95
 P407	'language of work or name'@en	P998	'Curlie ID'@en	count	93
-P478	'volume'@en	P1343	'described by source'@en	count	92
-P304	'page(s)'@en	P1343	'described by source'@en	count	90
-P1810	'subject named as'@en	P7305	'Online PWN Encyclopedia ID'@en	count	81
-P580	'start time'@en	P122	'basic form of government'@en	count	81
+P478	'volume'@en	P1343	'described by source'@en	count	93
+P582	'end time'@en	P527	'has part or parts'@en	count	93
+P304	'page(s)'@en	P1343	'described by source'@en	count	91
+P1545	'series ordinal'@en	P8483	'PM20 geo code'@en	count	85
+P4390	'mapping relation type'@en	P8483	'PM20 geo code'@en	count	85
+P5592	'number of works accessible online'@en	P8483	'PM20 geo code'@en	count	84
+P1810	'subject named as'@en	P8483	'PM20 geo code'@en	count	83
+P580	'start time'@en	P122	'basic form of government'@en	count	83
+P1810	'subject named as'@en	P7305	'Online PWN Encyclopedia ID'@en	count	82
 P459	'determination method'@en	P35	'head of state'@en	count	79
-P1545	'series ordinal'@en	P8483	'PM20 geo code'@en	count	76
-P4390	'mapping relation type'@en	P8483	'PM20 geo code'@en	count	76
-P5592	'number of works accessible online'@en	P8483	'PM20 geo code'@en	count	76
-P582	'end time'@en	P1448	'official name'@en	count	76
-P1810	'subject named as'@en	P8483	'PM20 geo code'@en	count	75
+P582	'end time'@en	P1448	'official name'@en	count	77
+P654	'direction relative to location'@en	P47	'shares border with'@en	count	76
+P828	'has cause'@en	P576	'dissolved, abolished or demolished date'@en	count	76
+P1810	'subject named as'@en	P6706	'De Agostini ID'@en	count	73
 P1365	'replaces'@en	P6	'head of government'@en	count	72
-P1810	'subject named as'@en	P6706	'De Agostini ID'@en	count	71
 P582	'end time'@en	P530	'diplomatic relation'@en	count	70
 P585	'point in time'@en	P6897	'literacy rate'@en	count	70
-P7452	'reason for preferred rank'@en	P8328	'Democracy Index'@en	count	69
-P654	'direction relative to location'@en	P47	'shares border with'@en	count	68
+P7452	'reason for preferred rank'@en	P8328	'Democracy Index'@en	count	70
 P1366	'replaced by'@en	P6	'head of government'@en	count	67
+P2044	'elevation above sea level'@en	P610	'highest point'@en	count	67
 P407	'language of work or name'@en	P138	'named after'@en	count	67
-P828	'has cause'@en	P576	'dissolved, abolished or demolished date'@en	count	67
-P2044	'elevation above sea level'@en	P610	'highest point'@en	count	66
+P580	'start time'@en	P85	'anthem'@en	count	66
 P1545	'series ordinal'@en	P6	'head of government'@en	count	65
-P580	'start time'@en	P85	'anthem'@en	count	65
+P582	'end time'@en	P122	'basic form of government'@en	count	65
+P585	'point in time'@en	P2046	'area'@en	count	65
 P1942	'McCune-Reischauer romanization'@en	P1705	'native label'@en	count	64
 P2001	'Revised Romanization'@en	P1705	'native label'@en	count	64
 P518	'applies to part'@en	P30	'continent'@en	count	64
-P580	'start time'@en	P527	'has part or parts'@en	count	63
-P582	'end time'@en	P122	'basic form of government'@en	count	63
-P585	'point in time'@en	P2046	'area'@en	count	63
-P1352	'ranking'@en	P8328	'Democracy Index'@en	count	62
+P1352	'ranking'@en	P8328	'Democracy Index'@en	count	63
 P1810	'subject named as'@en	P486	'MeSH descriptor ID'@en	count	62
 P582	'end time'@en	P1313	'office held by head of government'@en	count	61
 P518	'applies to part'@en	P6794	'minimum wage'@en	count	59
-P582	'end time'@en	P361	'part of'@en	count	54
-P582	'end time'@en	P527	'has part or parts'@en	count	52
-P585	'point in time'@en	P793	'significant event'@en	count	52
+P582	'end time'@en	P361	'part of'@en	count	59
+P585	'point in time'@en	P793	'significant event'@en	count	55
+P407	'language of work or name'@en	P989	'spoken text audio'@en	count	53
+P580	'start time'@en	P361	'part of'@en	count	53
+P813	'retrieved'@en	P8328	'Democracy Index'@en	count	52
 P580	'start time'@en	P6794	'minimum wage'@en	count	51
-P813	'retrieved'@en	P8328	'Democracy Index'@en	count	51
-P407	'language of work or name'@en	P989	'spoken text audio'@en	count	50
+P2441	'literal translation'@en	P1451	'motto text'@en	count	50
 P585	'point in time'@en	P5982	'annual number of weddings'@en	count	49
-P2441	'literal translation'@en	P1451	'motto text'@en	count	48
 P1013	'criterion used'@en	P1082	'population'@en	count	47
-P580	'start time'@en	P361	'part of'@en	count	47
 P582	'end time'@en	P6794	'minimum wage'@en	count	47
+P1810	'subject named as'@en	P691	'NKCR AUT ID'@en	count	46
 P527	'has part or parts'@en	P194	'legislative body'@en	count	46
+P706	'located in/on physical feature'@en	P1335	'coordinates of westernmost point'@en	count	46
 P102	'member of political party'@en	P35	'head of state'@en	count	45
-P1810	'subject named as'@en	P691	'NKCR AUT ID'@en	count	45
 P3831	'object has role'@en	P150	'contains administrative territorial entity'@en	count	45
-P706	'located in/on physical feature'@en	P1335	'coordinates of westernmost point'@en	count	45
-P805	'statement is subject of'@en	P571	'inception'@en	count	44
+P805	'statement is subject of'@en	P571	'inception'@en	count	45
 P1365	'replaces'@en	P35	'head of state'@en	count	43
+P4390	'mapping relation type'@en	P4342	'Store norske leksikon ID'@en	count	43
 P1480	'sourcing circumstances'@en	P571	'inception'@en	count	42
-P4390	'mapping relation type'@en	P4342	'Store norske leksikon ID'@en	count	42
 P580	'start time'@en	P1906	'office held by head of state'@en	count	42
 P580	'start time'@en	P37	'official language'@en	count	42
 P585	'point in time'@en	P166	'award received'@en	count	42
+P1810	'subject named as'@en	P2347	'YSO ID'@en	count	41
+P2868	'subject has role'@en	P463	'member of'@en	count	41
 P1001	'applies to jurisdiction'@en	P856	'official website'@en	count	40
 P1366	'replaced by'@en	P35	'head of state'@en	count	40
-P2868	'subject has role'@en	P463	'member of'@en	count	39
+P407	'language of work or name'@en	P242	'locator map image'@en	count	40
 P39	'position held'@en	P6	'head of government'@en	count	39
 P585	'point in time'@en	P8687	'social media followers'@en	count	39
-P407	'language of work or name'@en	P242	'locator map image'@en	count	38
+P582	'end time'@en	P85	'anthem'@en	count	38
 P459	'determination method'@en	P2936	'language used'@en	count	37
 P518	'applies to part'@en	P2855	'VAT-rate'@en	count	37
-P582	'end time'@en	P85	'anthem'@en	count	37
+P1810	'subject named as'@en	P244	'Library of Congress authority ID'@en	count	36
 P1943	'location map'@en	P150	'contains administrative territorial entity'@en	count	36
 P1393	'proxy'@en	P35	'head of state'@en	count	35
+P706	'located in/on physical feature'@en	P1334	'coordinates of easternmost point'@en	count	35
+P828	'has cause'@en	P571	'inception'@en	count	35
 P407	'language of work or name'@en	P4073	'Fandom wiki ID'@en	count	34
 P4649	'identity of subject in context'@en	P571	'inception'@en	count	34
+P580	'start time'@en	P1813	'short name'@en	count	34
 P6552	'Twitter user numeric ID'@en	P8687	'social media followers'@en	count	34
-P706	'located in/on physical feature'@en	P1334	'coordinates of easternmost point'@en	count	34
-P828	'has cause'@en	P571	'inception'@en	count	34
-P1810	'subject named as'@en	P2347	'YSO ID'@en	count	33
 P3005	'valid in place'@en	P3086	'speed limit'@en	count	33
-P580	'start time'@en	P1813	'short name'@en	count	33
-P1810	'subject named as'@en	P244	'Library of Congress authority ID'@en	count	32
 P5102	'nature of statement'@en	P47	'shares border with'@en	count	32
 P518	'applies to part'@en	P47	'shares border with'@en	count	32
 P580	'start time'@en	P2002	'Twitter username'@en	count	32
+P580	'start time'@en	P793	'significant event'@en	count	32
 P585	'point in time'@en	P2131	'nominal GDP'@en	count	32
 P625	'coordinate location'@en	P1589	'lowest point'@en	count	32
 P6552	'Twitter user numeric ID'@en	P2002	'Twitter username'@en	count	32
@@ -187,104 +188,110 @@ P582	'end time'@en	P1906	'office held by head of state'@en	count	31
 P571	'inception'@en	P150	'contains administrative territorial entity'@en	count	30
 P854	'reference URL'@en	P1343	'described by source'@en	count	30
 P518	'applies to part'@en	P571	'inception'@en	count	29
+P518	'applies to part'@en	P625	'coordinate location'@en	count	29
+P580	'start time'@en	P190	'twinned administrative body'@en	count	29
 P585	'point in time'@en	P1125	'Gini coefficient'@en	count	28
 P585	'point in time'@en	P2002	'Twitter username'@en	count	28
 P1365	'replaces'@en	P7295	'Gregorian calendar start date'@en	count	27
 P518	'applies to part'@en	P605	'NUTS code'@en	count	27
-P580	'start time'@en	P793	'significant event'@en	count	27
-P580	'start time'@en	P190	'twinned administrative body'@en	count	26
 P580	'start time'@en	P8424	'OpenHistoricalMap relation ID'@en	count	26
+P582	'end time'@en	P1813	'short name'@en	count	26
 P585	'point in time'@en	P150	'contains administrative territorial entity'@en	count	26
+P958	'section, verse, paragraph, or clause'@en	P1343	'described by source'@en	count	26
 P3831	'object has role'@en	P2238	'official symbol'@en	count	25
+P3831	'object has role'@en	P37	'official language'@en	count	25
 P580	'start time'@en	P194	'legislative body'@en	count	25
-P582	'end time'@en	P1813	'short name'@en	count	25
+P580	'start time'@en	P421	'located in time zone'@en	count	25
 P582	'end time'@en	P8424	'OpenHistoricalMap relation ID'@en	count	25
 P654	'direction relative to location'@en	P206	'located in or next to body of water'@en	count	25
 P805	'statement is subject of'@en	P463	'member of'@en	count	25
-P958	'section, verse, paragraph, or clause'@en	P1343	'described by source'@en	count	25
 P1001	'applies to jurisdiction'@en	P3000	'marriageable age'@en	count	24
 P1264	'valid in period'@en	P36	'capital'@en	count	24
-P3831	'object has role'@en	P37	'official language'@en	count	24
+P2096	'media legend'@en	P18	'image'@en	count	24
+P1534	'end cause'@en	P576	'dissolved, abolished or demolished date'@en	count	23
 P1552	'has quality'@en	P2002	'Twitter username'@en	count	23
 P518	'applies to part'@en	P2046	'area'@en	count	23
-P518	'applies to part'@en	P625	'coordinate location'@en	count	23
-P580	'start time'@en	P421	'located in time zone'@en	count	23
 P585	'point in time'@en	P242	'locator map image'@en	count	23
 P805	'statement is subject of'@en	P6	'head of government'@en	count	23
-P2096	'media legend'@en	P18	'image'@en	count	22
+P156	'followed by'@en	P31	'instance of'@en	count	22
 P276	'location'@en	P7422	'minimum temperature record'@en	count	22
 P31	'instance of'@en	P150	'contains administrative territorial entity'@en	count	22
 P582	'end time'@en	P37	'official language'@en	count	22
+P582	'end time'@en	P793	'significant event'@en	count	21
 P585	'point in time'@en	P36	'capital'@en	count	21
 P1366	'replaced by'@en	P463	'member of'@en	count	20
-P1534	'end cause'@en	P576	'dissolved, abolished or demolished date'@en	count	20
 P1545	'series ordinal'@en	P35	'head of state'@en	count	20
 P1810	'subject named as'@en	P269	'IdRef ID'@en	count	20
 P1810	'subject named as'@en	P8370	'UNBIS Thesaurus ID'@en	count	20
+P5102	'nature of statement'@en	P36	'capital'@en	count	20
 P582	'end time'@en	P194	'legislative body'@en	count	20
 P585	'point in time'@en	P155	'follows'@en	count	20
 P805	'statement is subject of'@en	P1448	'official name'@en	count	20
 P805	'statement is subject of'@en	P1549	'demonym'@en	count	20
 P8555	'latest start date'@en	P530	'diplomatic relation'@en	count	20
+P407	'language of work or name'@en	P1621	'detail map'@en	count	19
+P518	'applies to part'@en	P1366	'replaced by'@en	count	19
+P580	'start time'@en	P297	'ISO 3166-1 alpha-2 code'@en	count	19
 P585	'point in time'@en	P3001	'retirement age'@en	count	19
 P585	'point in time'@en	P7422	'minimum temperature record'@en	count	19
 P1365	'replaces'@en	P150	'contains administrative territorial entity'@en	count	18
 P1365	'replaces'@en	P463	'member of'@en	count	18
 P1366	'replaced by'@en	P150	'contains administrative territorial entity'@en	count	18
-P407	'language of work or name'@en	P1621	'detail map'@en	count	18
-P5102	'nature of statement'@en	P36	'capital'@en	count	18
 P518	'applies to part'@en	P206	'located in or next to body of water'@en	count	18
+P580	'start time'@en	P156	'followed by'@en	count	18
 P585	'point in time'@en	P156	'followed by'@en	count	18
+P805	'statement is subject of'@en	P576	'dissolved, abolished or demolished date'@en	count	18
 P1001	'applies to jurisdiction'@en	P94	'coat of arms image'@en	count	17
+P1013	'criterion used'@en	P571	'inception'@en	count	17
 P1480	'sourcing circumstances'@en	P576	'dissolved, abolished or demolished date'@en	count	17
 P1810	'subject named as'@en	P1149	'Library of Congress Classification'@en	count	17
 P276	'location'@en	P6591	'maximum temperature record'@en	count	17
 P3005	'valid in place'@en	P3270	'compulsory education (minimum age)'@en	count	17
 P518	'applies to part'@en	P832	'public holiday'@en	count	17
 P576	'dissolved, abolished or demolished date'@en	P150	'contains administrative territorial entity'@en	count	17
-P580	'start time'@en	P297	'ISO 3166-1 alpha-2 code'@en	count	17
 P585	'point in time'@en	P6591	'maximum temperature record'@en	count	17
 P807	'separated from'@en	P150	'contains administrative territorial entity'@en	count	17
-P1013	'criterion used'@en	P571	'inception'@en	count	16
 P1480	'sourcing circumstances'@en	P1082	'population'@en	count	16
 P1545	'series ordinal'@en	P527	'has part or parts'@en	count	16
 P2441	'literal translation'@en	P85	'anthem'@en	count	16
 P3744	'number of subscribers'@en	P2002	'Twitter username'@en	count	16
-P582	'end time'@en	P793	'significant event'@en	count	16
-P805	'statement is subject of'@en	P576	'dissolved, abolished or demolished date'@en	count	16
+P518	'applies to part'@en	P576	'dissolved, abolished or demolished date'@en	count	16
 P1011	'excluding'@en	P5982	'annual number of weddings'@en	count	15
-P156	'followed by'@en	P31	'instance of'@en	count	15
 P518	'applies to part'@en	P38	'currency'@en	count	15
+P518	'applies to part'@en	P706	'located in/on physical feature'@en	count	15
 P580	'start time'@en	P3000	'marriageable age'@en	count	15
+P582	'end time'@en	P297	'ISO 3166-1 alpha-2 code'@en	count	15
+P582	'end time'@en	P421	'located in time zone'@en	count	15
 P642	'of'@en	P7084	'related category'@en	count	15
 P828	'has cause'@en	P17	'country'@en	count	15
 P1011	'excluding'@en	P832	'public holiday'@en	count	14
+P1480	'sourcing circumstances'@en	P2046	'area'@en	count	14
 P1534	'end cause'@en	P35	'head of state'@en	count	14
 P156	'followed by'@en	P150	'contains administrative territorial entity'@en	count	14
+P1810	'subject named as'@en	P227	'GND ID'@en	count	14
 P2096	'media legend'@en	P1621	'detail map'@en	count	14
 P21	'sex or gender'@en	P1549	'demonym'@en	count	14
 P2868	'subject has role'@en	P571	'inception'@en	count	14
-P518	'applies to part'@en	P576	'dissolved, abolished or demolished date'@en	count	14
-P518	'applies to part'@en	P706	'located in/on physical feature'@en	count	14
 P580	'start time'@en	P1365	'replaces'@en	count	14
 P625	'coordinate location'@en	P610	'highest point'@en	count	14
 P805	'statement is subject of'@en	P2855	'VAT-rate'@en	count	14
 P1013	'criterion used'@en	P47	'shares border with'@en	count	13
-P1480	'sourcing circumstances'@en	P2046	'area'@en	count	13
-P1810	'subject named as'@en	P227	'GND ID'@en	count	13
+P282	'writing system'@en	P1705	'native label'@en	count	13
 P2868	'subject has role'@en	P35	'head of state'@en	count	13
 P3831	'object has role'@en	P1813	'short name'@en	count	13
 P560	'direction'@en	P47	'shares border with'@en	count	13
-P580	'start time'@en	P156	'followed by'@en	count	13
 P580	'start time'@en	P2238	'official symbol'@en	count	13
-P582	'end time'@en	P297	'ISO 3166-1 alpha-2 code'@en	count	13
-P582	'end time'@en	P421	'located in time zone'@en	count	13
+P582	'end time'@en	P298	'ISO 3166-1 alpha-3 code'@en	count	13
 P6208	'award rationale'@en	P166	'award received'@en	count	13
 P1092	'total produced'@en	P2746	'production statistics'@en	count	12
 P1478	'has immediate cause'@en	P571	'inception'@en	count	12
-P282	'writing system'@en	P1705	'native label'@en	count	12
+P459	'determination method'@en	P36	'capital'@en	count	12
+P518	'applies to part'@en	P1365	'replaces'@en	count	12
 P580	'start time'@en	P158	'seal image'@en	count	12
+P580	'start time'@en	P298	'ISO 3166-1 alpha-3 code'@en	count	12
+P580	'start time'@en	P92	'main regulatory text'@en	count	12
 P582	'end time'@en	P210	'party chief representative'@en	count	12
+P582	'end time'@en	P299	'ISO 3166-1 numeric code'@en	count	12
 P585	'point in time'@en	P2746	'production statistics'@en	count	12
 P585	'point in time'@en	P8843	'poverty incidence'@en	count	12
 P706	'located in/on physical feature'@en	P150	'contains administrative territorial entity'@en	count	12
@@ -293,18 +300,17 @@ P1814	'name in kana'@en	P1705	'native label'@en	count	11
 P2125	'Revised Hepburn romanization'@en	P1705	'native label'@en	count	11
 P2868	'subject has role'@en	P6	'head of government'@en	count	11
 P366	'has use'@en	P41	'flag image'@en	count	11
+P3831	'object has role'@en	P36	'capital'@en	count	11
 P407	'language of work or name'@en	P2002	'Twitter username'@en	count	11
-P518	'applies to part'@en	P1365	'replaces'@en	count	11
-P518	'applies to part'@en	P1366	'replaced by'@en	count	11
+P407	'language of work or name'@en	P973	'described at URL'@en	count	11
 P518	'applies to part'@en	P2998	'age of candidacy'@en	count	11
 P518	'applies to part'@en	P7295	'Gregorian calendar start date'@en	count	11
 P580	'start time'@en	P1304	'central bank'@en	count	11
 P580	'start time'@en	P208	'executive body'@en	count	11
 P580	'start time'@en	P210	'party chief representative'@en	count	11
+P580	'start time'@en	P299	'ISO 3166-1 numeric code'@en	count	11
 P580	'start time'@en	P797	'authority'@en	count	11
-P580	'start time'@en	P92	'main regulatory text'@en	count	11
 P580	'start time'@en	P984	'IOC country code'@en	count	11
-P582	'end time'@en	P298	'ISO 3166-1 alpha-3 code'@en	count	11
 P582	'end time'@en	P797	'authority'@en	count	11
 P585	'point in time'@en	P122	'basic form of government'@en	count	11
 P1011	'excluding'@en	P5658	'railway traffic side'@en	count	10
@@ -312,29 +318,26 @@ P122	'basic form of government'@en	P35	'head of state'@en	count	10
 P1326	'latest date'@en	P571	'inception'@en	count	10
 P1810	'subject named as'@en	P3847	'Open Library subject ID'@en	count	10
 P3744	'number of subscribers'@en	P3984	'subreddit'@en	count	10
-P3831	'object has role'@en	P36	'capital'@en	count	10
-P459	'determination method'@en	P36	'capital'@en	count	10
-P580	'start time'@en	P298	'ISO 3166-1 alpha-3 code'@en	count	10
 P580	'start time'@en	P2997	'age of majority'@en	count	10
-P582	'end time'@en	P299	'ISO 3166-1 numeric code'@en	count	10
 P582	'end time'@en	P3000	'marriageable age'@en	count	10
 P585	'point in time'@en	P2141	'foreign direct investment net inflow'@en	count	10
+P642	'of'@en	P279	'subclass of'@en	count	10
 P642	'of'@en	P6	'head of government'@en	count	10
 P805	'statement is subject of'@en	P297	'ISO 3166-1 alpha-2 code'@en	count	10
 P805	'statement is subject of'@en	P36	'capital'@en	count	10
 P94	'coat of arms image'@en	P150	'contains administrative territorial entity'@en	count	10
 P1013	'criterion used'@en	P3000	'marriageable age'@en	count	9
 P131	'located in the administrative territorial entity'@en	P47	'shares border with'@en	count	9
+P155	'follows'@en	P31	'instance of'@en	count	9
 P1810	'subject named as'@en	P2397	'YouTube channel ID'@en	count	9
 P1810	'subject named as'@en	P268	'Bibliothèque nationale de France ID'@en	count	9
 P3680	'statement supported by'@en	P1082	'population'@en	count	9
 P3740	'number of works'@en	P2397	'YouTube channel ID'@en	count	9
 P3744	'number of subscribers'@en	P2397	'YouTube channel ID'@en	count	9
 P3831	'object has role'@en	P3342	'significant person'@en	count	9
-P407	'language of work or name'@en	P973	'described at URL'@en	count	9
 P5436	'number of viewers'@en	P2397	'YouTube channel ID'@en	count	9
 P580	'start time'@en	P2397	'YouTube channel ID'@en	count	9
-P580	'start time'@en	P299	'ISO 3166-1 numeric code'@en	count	9
+P582	'end time'@en	P156	'followed by'@en	count	9
 P582	'end time'@en	P208	'executive body'@en	count	9
 P585	'point in time'@en	P2140	'foreign direct investment net outflow'@en	count	9
 P585	'point in time'@en	P2397	'YouTube channel ID'@en	count	9
@@ -348,13 +351,15 @@ P1012	'including'@en	P2046	'area'@en	count	8
 P1310	'statement disputed by'@en	P150	'contains administrative territorial entity'@en	count	8
 P1310	'statement disputed by'@en	P31	'instance of'@en	count	8
 P1319	'earliest date'@en	P571	'inception'@en	count	8
-P155	'follows'@en	P31	'instance of'@en	count	8
+P1326	'latest date'@en	P576	'dissolved, abolished or demolished date'@en	count	8
 P1810	'subject named as'@en	P10565	'Encyclopedia of China ID (Third Edition)'@en	count	8
 P1810	'subject named as'@en	P8672	'Twitter topic ID'@en	count	8
 P2043	'length'@en	P47	'shares border with'@en	count	8
+P282	'writing system'@en	P1448	'official name'@en	count	8
 P2835	'lowest income threshold'@en	P2834	'individual tax rate'@en	count	8
 P35	'head of state'@en	P6	'head of government'@en	count	8
 P3740	'number of works'@en	P3847	'Open Library subject ID'@en	count	8
+P5102	'nature of statement'@en	P576	'dissolved, abolished or demolished date'@en	count	8
 P518	'applies to part'@en	P1082	'population'@en	count	8
 P518	'applies to part'@en	P1333	'coordinates of southernmost point'@en	count	8
 P518	'applies to part'@en	P1335	'coordinates of westernmost point'@en	count	8
@@ -362,8 +367,11 @@ P518	'applies to part'@en	P3001	'retirement age'@en	count	8
 P518	'applies to part'@en	P5658	'railway traffic side'@en	count	8
 P527	'has part or parts'@en	P17	'country'@en	count	8
 P527	'has part or parts'@en	P797	'authority'@en	count	8
+P580	'start time'@en	P1001	'applies to jurisdiction'@en	count	8
+P580	'start time'@en	P1451	'motto text'@en	count	8
 P580	'start time'@en	P2184	'history of topic'@en	count	8
 P580	'start time'@en	P2855	'VAT-rate'@en	count	8
+P582	'end time'@en	P1001	'applies to jurisdiction'@en	count	8
 P582	'end time'@en	P2184	'history of topic'@en	count	8
 P585	'point in time'@en	P2834	'individual tax rate'@en	count	8
 P585	'point in time'@en	P361	'part of'@en	count	8
@@ -377,7 +385,6 @@ P828	'has cause'@en	P1366	'replaced by'@en	count	8
 P1013	'criterion used'@en	P1889	'different from'@en	count	7
 P1114	'quantity'@en	P2670	'has part(s) of the class'@en	count	7
 P1319	'earliest date'@en	P576	'dissolved, abolished or demolished date'@en	count	7
-P1326	'latest date'@en	P576	'dissolved, abolished or demolished date'@en	count	7
 P1366	'replaced by'@en	P576	'dissolved, abolished or demolished date'@en	count	7
 P1534	'end cause'@en	P36	'capital'@en	count	7
 P1810	'subject named as'@en	P349	'National Diet Library ID'@en	count	7
@@ -385,19 +392,17 @@ P1810	'subject named as'@en	P4081	'BHL creator ID'@en	count	7
 P1932	'object stated as'@en	P244	'Library of Congress authority ID'@en	count	7
 P2303	'exception to constraint'@en	P3086	'speed limit'@en	count	7
 P276	'location'@en	P793	'significant event'@en	count	7
-P282	'writing system'@en	P1448	'official name'@en	count	7
 P3831	'object has role'@en	P194	'legislative body'@en	count	7
 P3831	'object has role'@en	P35	'head of state'@en	count	7
 P4390	'mapping relation type'@en	P1149	'Library of Congress Classification'@en	count	7
 P518	'applies to part'@en	P1332	'coordinates of northernmost point'@en	count	7
 P518	'applies to part'@en	P78	'top-level Internet domain'@en	count	7
 P580	'start time'@en	P140	'religion or worldview'@en	count	7
-P580	'start time'@en	P1451	'motto text'@en	count	7
 P580	'start time'@en	P163	'flag'@en	count	7
+P580	'start time'@en	P1705	'native label'@en	count	7
 P580	'start time'@en	P1943	'location map'@en	count	7
 P580	'start time'@en	P209	'highest judicial authority'@en	count	7
 P582	'end time'@en	P1304	'central bank'@en	count	7
-P582	'end time'@en	P156	'followed by'@en	count	7
 P582	'end time'@en	P2997	'age of majority'@en	count	7
 P582	'end time'@en	P984	'IOC country code'@en	count	7
 P585	'point in time'@en	P2132	'nominal GDP per capita'@en	count	7
@@ -405,15 +410,20 @@ P585	'point in time'@en	P5991	'carbon footprint'@en	count	7
 P805	'statement is subject of'@en	P138	'named after'@en	count	7
 P813	'retrieved'@en	P973	'described at URL'@en	count	7
 P1264	'valid in period'@en	P85	'anthem'@en	count	6
+P1365	'replaces'@en	P36	'capital'@en	count	6
+P1366	'replaced by'@en	P36	'capital'@en	count	6
 P1376	'capital of'@en	P36	'capital'@en	count	6
 P1376	'capital of'@en	P625	'coordinate location'@en	count	6
 P155	'follows'@en	P463	'member of'@en	count	6
 P1552	'has quality'@en	P2003	'Instagram username'@en	count	6
 P1706	'together with'@en	P35	'head of state'@en	count	6
+P180	'depicts'@en	P18	'image'@en	count	6
+P1810	'subject named as'@en	P1417	'Encyclopædia Britannica Online ID'@en	count	6
 P1810	'subject named as'@en	P396	'SBN author ID'@en	count	6
 P1810	'subject named as'@en	P6760	'Know Your Meme ID'@en	count	6
 P1942	'McCune-Reischauer romanization'@en	P1448	'official name'@en	count	6
 P2001	'Revised Romanization'@en	P1448	'official name'@en	count	6
+P2096	'media legend'@en	P41	'flag image'@en	count	6
 P2241	'reason for deprecated rank'@en	P530	'diplomatic relation'@en	count	6
 P3744	'number of subscribers'@en	P2003	'Instagram username'@en	count	6
 P3831	'object has role'@en	P2936	'language used'@en	count	6
@@ -425,9 +435,9 @@ P5102	'nature of statement'@en	P122	'basic form of government'@en	count	6
 P5102	'nature of statement'@en	P1366	'replaced by'@en	count	6
 P518	'applies to part'@en	P155	'follows'@en	count	6
 P518	'applies to part'@en	P2997	'age of majority'@en	count	6
-P580	'start time'@en	P1705	'native label'@en	count	6
 P580	'start time'@en	P237	'coat of arms'@en	count	6
 P580	'start time'@en	P242	'locator map image'@en	count	6
+P580	'start time'@en	P279	'subclass of'@en	count	6
 P580	'start time'@en	P2852	'emergency phone number'@en	count	6
 P580	'start time'@en	P30	'continent'@en	count	6
 P580	'start time'@en	P3001	'retirement age'@en	count	6
@@ -438,29 +448,33 @@ P582	'end time'@en	P1943	'location map'@en	count	6
 P582	'end time'@en	P242	'locator map image'@en	count	6
 P582	'end time'@en	P3001	'retirement age'@en	count	6
 P582	'end time'@en	P571	'inception'@en	count	6
+P582	'end time'@en	P92	'main regulatory text'@en	count	6
 P585	'point in time'@en	P2003	'Instagram username'@en	count	6
 P585	'point in time'@en	P457	'foundational text'@en	count	6
-P642	'of'@en	P279	'subclass of'@en	count	6
 P706	'located in/on physical feature'@en	P1333	'coordinates of southernmost point'@en	count	6
+P805	'statement is subject of'@en	P1366	'replaced by'@en	count	6
 P805	'statement is subject of'@en	P421	'located in time zone'@en	count	6
 P92	'main regulatory text'@en	P1365	'replaces'@en	count	6
+P1013	'criterion used'@en	P37	'official language'@en	count	5
 P1107	'proportion'@en	P103	'native language'@en	count	5
 P1264	'valid in period'@en	P1546	'motto'@en	count	5
 P131	'located in the administrative territorial entity'@en	P1333	'coordinates of southernmost point'@en	count	5
 P131	'located in the administrative territorial entity'@en	P1334	'coordinates of easternmost point'@en	count	5
 P1310	'statement disputed by'@en	P3842	'located in present-day administrative territorial entity'@en	count	5
 P1365	'replaces'@en	P31	'instance of'@en	count	5
-P1365	'replaces'@en	P36	'capital'@en	count	5
 P1393	'proxy'@en	P1906	'office held by head of state'@en	count	5
 P1416	'affiliation'@en	P1813	'short name'@en	count	5
 P1448	'official name'@en	P832	'public holiday'@en	count	5
 P1451	'motto text'@en	P1546	'motto'@en	count	5
 P1478	'has immediate cause'@en	P31	'instance of'@en	count	5
+P1534	'end cause'@en	P6	'head of government'@en	count	5
 P1545	'series ordinal'@en	P85	'anthem'@en	count	5
 P159	'headquarters location'@en	P194	'legislative body'@en	count	5
+P1721	'pinyin transliteration'@en	P1448	'official name'@en	count	5
 P1810	'subject named as'@en	P5019	'Brockhaus Enzyklopädie online ID'@en	count	5
 P1814	'name in kana'@en	P349	'National Diet Library ID'@en	count	5
 P2093	'author name string'@en	P9983	'Enciclopedia dei ragazzi ID'@en	count	5
+P2096	'media legend'@en	P94	'coat of arms image'@en	count	5
 P2125	'Revised Hepburn romanization'@en	P349	'National Diet Library ID'@en	count	5
 P2397	'YouTube channel ID'@en	P8687	'social media followers'@en	count	5
 P263	'official residence'@en	P1906	'office held by head of state'@en	count	5
@@ -471,6 +485,7 @@ P3005	'valid in place'@en	P1365	'replaces'@en	count	5
 P31	'instance of'@en	P37	'official language'@en	count	5
 P366	'has use'@en	P1549	'demonym'@en	count	5
 P3680	'statement supported by'@en	P5658	'railway traffic side'@en	count	5
+P3680	'statement supported by'@en	P576	'dissolved, abolished or demolished date'@en	count	5
 P37	'official language'@en	P1705	'native label'@en	count	5
 P407	'language of work or name'@en	P1705	'native label'@en	count	5
 P407	'language of work or name'@en	P2013	'Facebook ID'@en	count	5
@@ -480,7 +495,6 @@ P407	'language of work or name'@en	P41	'flag image'@en	count	5
 P4390	'mapping relation type'@en	P244	'Library of Congress authority ID'@en	count	5
 P5102	'nature of statement'@en	P1365	'replaces'@en	count	5
 P5102	'nature of statement'@en	P571	'inception'@en	count	5
-P5102	'nature of statement'@en	P576	'dissolved, abolished or demolished date'@en	count	5
 P5168	'applies to name of item'@en	P138	'named after'@en	count	5
 P518	'applies to part'@en	P1334	'coordinates of easternmost point'@en	count	5
 P518	'applies to part'@en	P209	'highest judicial authority'@en	count	5
@@ -492,16 +506,18 @@ P580	'start time'@en	P1435	'heritage designation'@en	count	5
 P580	'start time'@en	P1622	'driving side'@en	count	5
 P580	'start time'@en	P2884	'mains voltage'@en	count	5
 P582	'end time'@en	P127	'owned by'@en	count	5
+P582	'end time'@en	P155	'follows'@en	count	5
 P582	'end time'@en	P1622	'driving side'@en	count	5
+P582	'end time'@en	P1705	'native label'@en	count	5
 P582	'end time'@en	P209	'highest judicial authority'@en	count	5
+P582	'end time'@en	P279	'subclass of'@en	count	5
 P582	'end time'@en	P30	'continent'@en	count	5
 P582	'end time'@en	P3075	'official religion'@en	count	5
-P582	'end time'@en	P92	'main regulatory text'@en	count	5
 P585	'point in time'@en	P5167	'vehicles per thousand people'@en	count	5
+P585	'point in time'@en	P94	'coat of arms image'@en	count	5
 P706	'located in/on physical feature'@en	P1332	'coordinates of northernmost point'@en	count	5
 P805	'statement is subject of'@en	P122	'basic form of government'@en	count	5
 P805	'statement is subject of'@en	P1335	'coordinates of westernmost point'@en	count	5
-P805	'statement is subject of'@en	P1366	'replaced by'@en	count	5
 P805	'statement is subject of'@en	P37	'official language'@en	count	5
 P805	'statement is subject of'@en	P7295	'Gregorian calendar start date'@en	count	5
 P828	'has cause'@en	P7295	'Gregorian calendar start date'@en	count	5
@@ -518,19 +534,15 @@ P131	'located in the administrative territorial entity'@en	P6591	'maximum temper
 P1319	'earliest date'@en	P17	'country'@en	count	4
 P1365	'replaces'@en	P571	'inception'@en	count	4
 P1366	'replaced by'@en	P31	'instance of'@en	count	4
-P1366	'replaced by'@en	P36	'capital'@en	count	4
 P1476	'title'@en	P856	'official website'@en	count	4
 P1534	'end cause'@en	P463	'member of'@en	count	4
-P1534	'end cause'@en	P6	'head of government'@en	count	4
+P1545	'series ordinal'@en	P31	'instance of'@en	count	4
 P1545	'series ordinal'@en	P463	'member of'@en	count	4
 P1545	'series ordinal'@en	P571	'inception'@en	count	4
 P1545	'series ordinal'@en	P576	'dissolved, abolished or demolished date'@en	count	4
 P1545	'series ordinal'@en	P989	'spoken text audio'@en	count	4
 P1552	'has quality'@en	P2013	'Facebook ID'@en	count	4
 P17	'country'@en	P47	'shares border with'@en	count	4
-P1721	'pinyin transliteration'@en	P1448	'official name'@en	count	4
-P180	'depicts'@en	P18	'image'@en	count	4
-P1810	'subject named as'@en	P1417	'Encyclopædia Britannica Online ID'@en	count	4
 P1810	'subject named as'@en	P2002	'Twitter username'@en	count	4
 P1810	'subject named as'@en	P2013	'Facebook ID'@en	count	4
 P1810	'subject named as'@en	P3222	'NE.se ID'@en	count	4
@@ -556,26 +568,27 @@ P459	'determination method'@en	P2135	'total exports'@en	count	4
 P4970	'alternative name'@en	P1149	'Library of Congress Classification'@en	count	4
 P518	'applies to part'@en	P463	'member of'@en	count	4
 P577	'publication date'@en	P9983	'Enciclopedia dei ragazzi ID'@en	count	4
-P580	'start time'@en	P1001	'applies to jurisdiction'@en	count	4
 P580	'start time'@en	P2936	'language used'@en	count	4
 P580	'start time'@en	P2964	'right to vote'@en	count	4
+P580	'start time'@en	P4711	'CHGIS ID'@en	count	4
 P580	'start time'@en	P625	'coordinate location'@en	count	4
 P580	'start time'@en	P78	'top-level Internet domain'@en	count	4
-P582	'end time'@en	P1001	'applies to jurisdiction'@en	count	4
 P582	'end time'@en	P1365	'replaces'@en	count	4
 P582	'end time'@en	P158	'seal image'@en	count	4
-P582	'end time'@en	P1705	'native label'@en	count	4
 P582	'end time'@en	P237	'coat of arms'@en	count	4
+P582	'end time'@en	P4711	'CHGIS ID'@en	count	4
 P585	'point in time'@en	P1344	'participant in'@en	count	4
 P585	'point in time'@en	P1538	'number of households'@en	count	4
+P585	'point in time'@en	P18	'image'@en	count	4
 P585	'point in time'@en	P2135	'total exports'@en	count	4
 P585	'point in time'@en	P3529	'median income'@en	count	4
 P585	'point in time'@en	P3847	'Open Library subject ID'@en	count	4
-P585	'point in time'@en	P94	'coat of arms image'@en	count	4
 P585	'point in time'@en	P989	'spoken text audio'@en	count	4
+P793	'significant event'@en	P571	'inception'@en	count	4
 P797	'authority'@en	P797	'authority'@en	count	4
 P805	'statement is subject of'@en	P1332	'coordinates of northernmost point'@en	count	4
 P805	'statement is subject of'@en	P1334	'coordinates of easternmost point'@en	count	4
+P805	'statement is subject of'@en	P1365	'replaces'@en	count	4
 P805	'statement is subject of'@en	P3075	'official religion'@en	count	4
 P805	'statement is subject of'@en	P807	'separated from'@en	count	4
 P813	'retrieved'@en	P1343	'described by source'@en	count	4
@@ -585,26 +598,30 @@ P902	'HDS ID'@en	P1343	'described by source'@en	count	4
 P953	'full work available at URL'@en	P1343	'described by source'@en	count	4
 P1011	'excluding'@en	P1082	'population'@en	count	3
 P1012	'including'@en	P206	'located in or next to body of water'@en	count	3
-P1013	'criterion used'@en	P37	'official language'@en	count	3
 P1013	'criterion used'@en	P5140	'coordinates of geographic center'@en	count	3
+P1013	'criterion used'@en	P576	'dissolved, abolished or demolished date'@en	count	3
 P122	'basic form of government'@en	P571	'inception'@en	count	3
 P1310	'statement disputed by'@en	P47	'shares border with'@en	count	3
 P1365	'replaces'@en	P85	'anthem'@en	count	3
 P1366	'replaced by'@en	P85	'anthem'@en	count	3
 P1416	'affiliation'@en	P140	'religion or worldview'@en	count	3
+P1476	'title'@en	P3365	'Treccani ID'@en	count	3
 P1480	'sourcing circumstances'@en	P6	'head of government'@en	count	3
+P156	'followed by'@en	P361	'part of'@en	count	3
 P156	'followed by'@en	P463	'member of'@en	count	3
 P180	'depicts'@en	P41	'flag image'@en	count	3
 P180	'depicts'@en	P94	'coat of arms image'@en	count	3
 P1810	'subject named as'@en	P2003	'Instagram username'@en	count	3
 P1810	'subject named as'@en	P2163	'FAST ID'@en	count	3
 P1810	'subject named as'@en	P3616	'Vision of Britain place ID'@en	count	3
+P1810	'subject named as'@en	P8189	'National Library of Israel J9U ID'@en	count	3
 P1810	'subject named as'@en	P950	'Biblioteca Nacional de España ID'@en	count	3
 P1810	'subject named as'@en	P9734	'Treccani\'s Enciclopedia Dantesca ID'@en	count	3
-P2096	'media legend'@en	P41	'flag image'@en	count	3
-P2096	'media legend'@en	P94	'coat of arms image'@en	count	3
+P1932	'object stated as'@en	P10242	'Lur Encyclopedic Dictionary ID'@en	count	3
 P2241	'reason for deprecated rank'@en	P8895	'All the Tropes identifier'@en	count	3
 P2440	'transliteration'@en	P1705	'native label'@en	count	3
+P2441	'literal translation'@en	P1705	'native label'@en	count	3
+P2699	'URL'@en	P1343	'described by source'@en	count	3
 P276	'location'@en	P1334	'coordinates of easternmost point'@en	count	3
 P276	'location'@en	P1335	'coordinates of westernmost point'@en	count	3
 P2868	'subject has role'@en	P1441	'present in work'@en	count	3
@@ -634,18 +651,17 @@ P527	'has part or parts'@en	P209	'highest judicial authority'@en	count	3
 P577	'publication date'@en	P9734	'Treccani\'s Enciclopedia Dantesca ID'@en	count	3
 P580	'start time'@en	P1335	'coordinates of westernmost point'@en	count	3
 P580	'start time'@en	P138	'named after'@en	count	3
+P580	'start time'@en	P155	'follows'@en	count	3
 P580	'start time'@en	P227	'GND ID'@en	count	3
 P580	'start time'@en	P5140	'coordinates of geographic center'@en	count	3
 P580	'start time'@en	P605	'NUTS code'@en	count	3
 P580	'start time'@en	P607	'conflict'@en	count	3
-P582	'end time'@en	P155	'follows'@en	count	3
 P582	'end time'@en	P607	'conflict'@en	count	3
 P582	'end time'@en	P610	'highest point'@en	count	3
 P582	'end time'@en	P625	'coordinate location'@en	count	3
 P582	'end time'@en	P901	'FIPS 10-4 (countries and regions)'@en	count	3
 P585	'point in time'@en	P163	'flag'@en	count	3
 P585	'point in time'@en	P1705	'native label'@en	count	3
-P585	'point in time'@en	P18	'image'@en	count	3
 P585	'point in time'@en	P2013	'Facebook ID'@en	count	3
 P585	'point in time'@en	P607	'conflict'@en	count	3
 P585	'point in time'@en	P7888	'merged into'@en	count	3
@@ -653,8 +669,6 @@ P585	'point in time'@en	P9396	'trade union membership rate'@en	count	3
 P642	'of'@en	P1365	'replaces'@en	count	3
 P642	'of'@en	P38	'currency'@en	count	3
 P748	'appointed by'@en	P6	'head of government'@en	count	3
-P793	'significant event'@en	P571	'inception'@en	count	3
-P805	'statement is subject of'@en	P1365	'replaces'@en	count	3
 P805	'statement is subject of'@en	P140	'religion or worldview'@en	count	3
 P805	'statement is subject of'@en	P1622	'driving side'@en	count	3
 P805	'statement is subject of'@en	P474	'country calling code'@en	count	3
@@ -671,6 +685,7 @@ P1107	'proportion'@en	P2936	'language used'@en	count	2
 P1114	'quantity'@en	P912	'has facility'@en	count	2
 P112	'founded by'@en	P856	'official website'@en	count	2
 P1310	'statement disputed by'@en	P155	'follows'@en	count	2
+P1310	'statement disputed by'@en	P576	'dissolved, abolished or demolished date'@en	count	2
 P1310	'statement disputed by'@en	P94	'coat of arms image'@en	count	2
 P1326	'latest date'@en	P17	'country'@en	count	2
 P1365	'replaces'@en	P38	'currency'@en	count	2
@@ -687,13 +702,13 @@ P1534	'end cause'@en	P122	'basic form of government'@en	count	2
 P1534	'end cause'@en	P156	'followed by'@en	count	2
 P1534	'end cause'@en	P17	'country'@en	count	2
 P1534	'end cause'@en	P31	'instance of'@en	count	2
+P1534	'end cause'@en	P361	'part of'@en	count	2
 P1538	'number of households'@en	P1082	'population'@en	count	2
 P1545	'series ordinal'@en	P17	'country'@en	count	2
-P1545	'series ordinal'@en	P31	'instance of'@en	count	2
 P1552	'has quality'@en	P1198	'unemployment rate'@en	count	2
 P1552	'has quality'@en	P1549	'demonym'@en	count	2
 P1552	'has quality'@en	P85	'anthem'@en	count	2
-P156	'followed by'@en	P361	'part of'@en	count	2
+P156	'followed by'@en	P279	'subclass of'@en	count	2
 P159	'headquarters location'@en	P797	'authority'@en	count	2
 P17	'country'@en	P281	'postal code'@en	count	2
 P17	'country'@en	P94	'coat of arms image'@en	count	2
@@ -710,7 +725,6 @@ P1810	'subject named as'@en	P6293	'YSA ID'@en	count	2
 P1810	'subject named as'@en	P648	'Open Library ID'@en	count	2
 P1810	'subject named as'@en	P7775	'RationalWiki ID'@en	count	2
 P1810	'subject named as'@en	P7859	'WorldCat Identities ID'@en	count	2
-P1810	'subject named as'@en	P8189	'National Library of Israel J9U ID'@en	count	2
 P1810	'subject named as'@en	P8365	'Thesaurus Sozialwissenschaften ID'@en	count	2
 P1810	'subject named as'@en	P8785	'AniDB tag ID'@en	count	2
 P1810	'subject named as'@en	P9037	'BHCL UUID'@en	count	2
@@ -719,7 +733,6 @@ P1810	'subject named as'@en	P9775	'Treccani\'s Lessico del XXI Secolo ID'@en	cou
 P1813	'short name'@en	P1549	'demonym'@en	count	2
 P1814	'name in kana'@en	P1448	'official name'@en	count	2
 P1814	'name in kana'@en	P1549	'demonym'@en	count	2
-P1932	'object stated as'@en	P10242	'Lur Encyclopedic Dictionary ID'@en	count	2
 P1932	'object stated as'@en	P31	'instance of'@en	count	2
 P1932	'object stated as'@en	P3847	'Open Library subject ID'@en	count	2
 P1932	'object stated as'@en	P4081	'BHL creator ID'@en	count	2
@@ -732,14 +745,15 @@ P2312	'maximum value'@en	P2884	'mains voltage'@en	count	2
 P2313	'minimum value'@en	P2884	'mains voltage'@en	count	2
 P2354	'has list'@en	P1906	'office held by head of state'@en	count	2
 P2397	'YouTube channel ID'@en	P1651	'YouTube video ID'@en	count	2
+P2440	'transliteration'@en	P1448	'official name'@en	count	2
 P2441	'literal translation'@en	P1448	'official name'@en	count	2
-P2441	'literal translation'@en	P1705	'native label'@en	count	2
 P2614	'World Heritage criteria'@en	P1435	'heritage designation'@en	count	2
 P263	'official residence'@en	P1313	'office held by head of government'@en	count	2
 P2699	'URL'@en	P1082	'population'@en	count	2
-P2699	'URL'@en	P1343	'described by source'@en	count	2
+P2699	'URL'@en	P485	'archives at'@en	count	2
 P2795	'directions'@en	P5140	'coordinates of geographic center'@en	count	2
 P2868	'subject has role'@en	P3120	'TOID'@en	count	2
+P3005	'valid in place'@en	P279	'subclass of'@en	count	2
 P3005	'valid in place'@en	P37	'official language'@en	count	2
 P31	'instance of'@en	P140	'religion or worldview'@en	count	2
 P31	'instance of'@en	P582	'end time'@en	count	2
@@ -811,12 +825,12 @@ P580	'start time'@en	P112	'founded by'@en	count	2
 P580	'start time'@en	P1332	'coordinates of northernmost point'@en	count	2
 P580	'start time'@en	P1334	'coordinates of easternmost point'@en	count	2
 P580	'start time'@en	P1336	'territory claimed by'@en	count	2
+P580	'start time'@en	P1366	'replaced by'@en	count	2
 P580	'start time'@en	P1376	'capital of'@en	count	2
 P580	'start time'@en	P1621	'detail map'@en	count	2
 P580	'start time'@en	P2013	'Facebook ID'@en	count	2
 P580	'start time'@en	P2046	'area'@en	count	2
 P580	'start time'@en	P2258	'mobile country code'@en	count	2
-P580	'start time'@en	P279	'subclass of'@en	count	2
 P580	'start time'@en	P457	'foundational text'@en	count	2
 P580	'start time'@en	P5008	'on focus list of Wikimedia project'@en	count	2
 P582	'end time'@en	P112	'founded by'@en	count	2
@@ -827,7 +841,6 @@ P582	'end time'@en	P1451	'motto text'@en	count	2
 P582	'end time'@en	P1621	'detail map'@en	count	2
 P582	'end time'@en	P2046	'area'@en	count	2
 P582	'end time'@en	P227	'GND ID'@en	count	2
-P582	'end time'@en	P279	'subclass of'@en	count	2
 P582	'end time'@en	P2936	'language used'@en	count	2
 P582	'end time'@en	P605	'NUTS code'@en	count	2
 P582	'end time'@en	P78	'top-level Internet domain'@en	count	2
@@ -836,6 +849,7 @@ P585	'point in time'@en	P1120	'number of deaths'@en	count	2
 P585	'point in time'@en	P1174	'visitors per year'@en	count	2
 P585	'point in time'@en	P1651	'YouTube video ID'@en	count	2
 P585	'point in time'@en	P1689	'central government debt as a percent of GDP'@en	count	2
+P585	'point in time'@en	P1943	'location map'@en	count	2
 P585	'point in time'@en	P237	'coat of arms'@en	count	2
 P585	'point in time'@en	P31	'instance of'@en	count	2
 P585	'point in time'@en	P6343	'urban population'@en	count	2
@@ -869,6 +883,7 @@ P898	'IPA transcription'@en	P1705	'native label'@en	count	2
 P92	'main regulatory text'@en	P38	'currency'@en	count	2
 P92	'main regulatory text'@en	P576	'dissolved, abolished or demolished date'@en	count	2
 P1001	'applies to jurisdiction'@en	P208	'executive body'@en	count	1
+P1001	'applies to jurisdiction'@en	P31	'instance of'@en	count	1
 P1001	'applies to jurisdiction'@en	P571	'inception'@en	count	1
 P1001	'applies to jurisdiction'@en	P9929	'madhhab'@en	count	1
 P101	'field of work'@en	P166	'award received'@en	count	1
@@ -876,11 +891,12 @@ P101	'field of work'@en	P194	'legislative body'@en	count	1
 P1011	'excluding'@en	P1333	'coordinates of southernmost point'@en	count	1
 P1011	'excluding'@en	P1335	'coordinates of westernmost point'@en	count	1
 P1011	'excluding'@en	P361	'part of'@en	count	1
+P1011	'excluding'@en	P527	'has part or parts'@en	count	1
 P1012	'including'@en	P37	'official language'@en	count	1
 P1013	'criterion used'@en	P1813	'short name'@en	count	1
 P1013	'criterion used'@en	P2997	'age of majority'@en	count	1
 P1013	'criterion used'@en	P36	'capital'@en	count	1
-P1013	'criterion used'@en	P576	'dissolved, abolished or demolished date'@en	count	1
+P1013	'criterion used'@en	P582	'end time'@en	count	1
 P1107	'proportion'@en	P2564	'Köppen climate classification'@en	count	1
 P1107	'proportion'@en	P30	'continent'@en	count	1
 P1114	'quantity'@en	P527	'has part or parts'@en	count	1
@@ -893,6 +909,7 @@ P1264	'valid in period'@en	P1313	'office held by head of government'@en	count	1
 P1269	'facet of'@en	P1448	'official name'@en	count	1
 P127	'owned by'@en	P770	'cause of destruction'@en	count	1
 P131	'located in the administrative territorial entity'@en	P1589	'lowest point'@en	count	1
+P131	'located in the administrative territorial entity'@en	P361	'part of'@en	count	1
 P131	'located in the administrative territorial entity'@en	P610	'highest point'@en	count	1
 P131	'located in the administrative territorial entity'@en	P7422	'minimum temperature record'@en	count	1
 P131	'located in the administrative territorial entity'@en	P94	'coat of arms image'@en	count	1
@@ -903,7 +920,6 @@ P1310	'statement disputed by'@en	P242	'locator map image'@en	count	1
 P1310	'statement disputed by'@en	P36	'capital'@en	count	1
 P1310	'statement disputed by'@en	P41	'flag image'@en	count	1
 P1310	'statement disputed by'@en	P463	'member of'@en	count	1
-P1310	'statement disputed by'@en	P576	'dissolved, abolished or demolished date'@en	count	1
 P1313	'office held by head of government'@en	P6	'head of government'@en	count	1
 P1319	'earliest date'@en	P1082	'population'@en	count	1
 P1319	'earliest date'@en	P1538	'number of households'@en	count	1
@@ -922,9 +938,9 @@ P1433	'published in'@en	P1343	'described by source'@en	count	1
 P1433	'published in'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	1
 P1444	'destination point'@en	P2043	'length'@en	count	1
 P1444	'destination point'@en	P2049	'width'@en	count	1
+P1448	'official name'@en	P36	'capital'@en	count	1
 P1476	'title'@en	P1343	'described by source'@en	count	1
 P1476	'title'@en	P242	'locator map image'@en	count	1
-P1476	'title'@en	P3365	'Treccani ID'@en	count	1
 P1476	'title'@en	P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	1
 P1476	'title'@en	P6706	'De Agostini ID'@en	count	1
 P1478	'has immediate cause'@en	P1365	'replaces'@en	count	1
@@ -947,6 +963,7 @@ P1534	'end cause'@en	P1906	'office held by head of state'@en	count	1
 P1534	'end cause'@en	P194	'legislative body'@en	count	1
 P1534	'end cause'@en	P527	'has part or parts'@en	count	1
 P1534	'end cause'@en	P582	'end time'@en	count	1
+P1534	'end cause'@en	P92	'main regulatory text'@en	count	1
 P1535	'used by'@en	P1549	'demonym'@en	count	1
 P1535	'used by'@en	P2852	'emergency phone number'@en	count	1
 P1538	'number of households'@en	P6343	'urban population'@en	count	1
@@ -976,10 +993,12 @@ P1552	'has quality'@en	P37	'official language'@en	count	1
 P1552	'has quality'@en	P571	'inception'@en	count	1
 P1552	'has quality'@en	P7818	'French Vikidia ID'@en	count	1
 P156	'followed by'@en	P194	'legislative body'@en	count	1
-P156	'followed by'@en	P279	'subclass of'@en	count	1
+P156	'followed by'@en	P244	'Library of Congress authority ID'@en	count	1
 P156	'followed by'@en	P576	'dissolved, abolished or demolished date'@en	count	1
 P1629	'Wikidata item of this property'@en	P47	'shares border with'@en	count	1
 P1683	'quotation'@en	P1417	'Encyclopædia Britannica Online ID'@en	count	1
+P17	'country'@en	P361	'part of'@en	count	1
+P17	'country'@en	P92	'main regulatory text'@en	count	1
 P1705	'native label'@en	P36	'capital'@en	count	1
 P1706	'together with'@en	P2238	'official symbol'@en	count	1
 P1706	'together with'@en	P793	'significant event'@en	count	1
@@ -992,6 +1011,7 @@ P1810	'subject named as'@en	P1617	'BBC Things ID'@en	count	1
 P1810	'subject named as'@en	P213	'ISNI'@en	count	1
 P1810	'subject named as'@en	P2581	'BabelNet ID'@en	count	1
 P1810	'subject named as'@en	P36	'capital'@en	count	1
+P1810	'subject named as'@en	P4293	'PM20 folder ID'@en	count	1
 P1810	'subject named as'@en	P4427	'GACS ID'@en	count	1
 P1810	'subject named as'@en	P4613	'Encyclopedia of Modern Ukraine ID'@en	count	1
 P1810	'subject named as'@en	P508	'BNCF Thesaurus ID'@en	count	1
@@ -1018,6 +1038,7 @@ P1889	'different from'@en	P2402	'total expenditure'@en	count	1
 P1932	'object stated as'@en	P1149	'Library of Congress Classification'@en	count	1
 P1932	'object stated as'@en	P2936	'language used'@en	count	1
 P1932	'object stated as'@en	P571	'inception'@en	count	1
+P1932	'object stated as'@en	P6364	'official color'@en	count	1
 P194	'legislative body'@en	P1410	'number of seats in legislature'@en	count	1
 P1942	'McCune-Reischauer romanization'@en	P1451	'motto text'@en	count	1
 P2001	'Revised Romanization'@en	P1451	'motto text'@en	count	1
@@ -1033,9 +1054,11 @@ P2348	'time period'@en	P242	'locator map image'@en	count	1
 P2348	'time period'@en	P571	'inception'@en	count	1
 P2354	'has list'@en	P1313	'office held by head of government'@en	count	1
 P2354	'has list'@en	P208	'executive body'@en	count	1
+P2440	'transliteration'@en	P1451	'motto text'@en	count	1
 P2521	'female form of label'@en	P1906	'office held by head of state'@en	count	1
 P2561	'name'@en	P47	'shares border with'@en	count	1
 P2567	'amended by'@en	P92	'main regulatory text'@en	count	1
+P2699	'URL'@en	P3417	'Quora topic ID'@en	count	1
 P275	'copyright license'@en	P1325	'external data available at'@en	count	1
 P276	'location'@en	P1534	'end cause'@en	count	1
 P276	'location'@en	P1906	'office held by head of state'@en	count	1
@@ -1044,6 +1067,7 @@ P276	'location'@en	P47	'shares border with'@en	count	1
 P276	'location'@en	P5140	'coordinates of geographic center'@en	count	1
 P279	'subclass of'@en	P527	'has part or parts'@en	count	1
 P279	'subclass of'@en	P571	'inception'@en	count	1
+P282	'writing system'@en	P1451	'motto text'@en	count	1
 P282	'writing system'@en	P1549	'demonym'@en	count	1
 P282	'writing system'@en	P2936	'language used'@en	count	1
 P2868	'subject has role'@en	P155	'follows'@en	count	1
@@ -1069,8 +1093,8 @@ P3680	'statement supported by'@en	P1366	'replaced by'@en	count	1
 P3680	'statement supported by'@en	P1538	'number of households'@en	count	1
 P3680	'statement supported by'@en	P156	'followed by'@en	count	1
 P3680	'statement supported by'@en	P4442	'mean age'@en	count	1
-P3680	'statement supported by'@en	P576	'dissolved, abolished or demolished date'@en	count	1
 P3740	'number of works'@en	P3185	'VK ID'@en	count	1
+P3740	'number of works'@en	P4293	'PM20 folder ID'@en	count	1
 P3744	'number of subscribers'@en	P3185	'VK ID'@en	count	1
 P3831	'object has role'@en	P1333	'coordinates of southernmost point'@en	count	1
 P3831	'object has role'@en	P1334	'coordinates of easternmost point'@en	count	1
@@ -1099,6 +1123,7 @@ P459	'determination method'@en	P122	'basic form of government'@en	count	1
 P459	'determination method'@en	P1304	'central bank'@en	count	1
 P459	'determination method'@en	P194	'legislative body'@en	count	1
 P459	'determination method'@en	P2044	'elevation above sea level'@en	count	1
+P459	'determination method'@en	P31	'instance of'@en	count	1
 P459	'determination method'@en	P4442	'mean age'@en	count	1
 P459	'determination method'@en	P463	'member of'@en	count	1
 P459	'determination method'@en	P5140	'coordinates of geographic center'@en	count	1
@@ -1111,6 +1136,7 @@ P459	'determination method'@en	P6897	'literacy rate'@en	count	1
 P459	'determination method'@en	P85	'anthem'@en	count	1
 P460	'said to be the same as'@en	P1313	'office held by head of government'@en	count	1
 P4626	'identity of object in context'@en	P37	'official language'@en	count	1
+P465	'sRGB color hex triplet'@en	P6364	'official color'@en	count	1
 P4900	'broader concept'@en	P1149	'Library of Congress Classification'@en	count	1
 P4900	'broader concept'@en	P244	'Library of Congress authority ID'@en	count	1
 P4900	'broader concept'@en	P6814	'NWBib ID'@en	count	1
@@ -1126,6 +1152,8 @@ P5102	'nature of statement'@en	P2238	'official symbol'@en	count	1
 P5102	'nature of statement'@en	P237	'coat of arms'@en	count	1
 P5102	'nature of statement'@en	P527	'has part or parts'@en	count	1
 P5102	'nature of statement'@en	P94	'coat of arms image'@en	count	1
+P5139	'Möllendorff transliteration'@en	P1448	'official name'@en	count	1
+P5139	'Möllendorff transliteration'@en	P1705	'native label'@en	count	1
 P5168	'applies to name of item'@en	P443	'pronunciation audio'@en	count	1
 P518	'applies to part'@en	P1336	'territory claimed by'@en	count	1
 P518	'applies to part'@en	P138	'named after'@en	count	1
@@ -1133,12 +1161,15 @@ P518	'applies to part'@en	P1943	'location map'@en	count	1
 P518	'applies to part'@en	P1944	'relief location map'@en	count	1
 P518	'applies to part'@en	P242	'locator map image'@en	count	1
 P518	'applies to part'@en	P2547	'perimeter'@en	count	1
+P518	'applies to part'@en	P2999	'age of consent'@en	count	1
 P518	'applies to part'@en	P31	'instance of'@en	count	1
 P518	'applies to part'@en	P85	'anthem'@en	count	1
 P527	'has part or parts'@en	P166	'award received'@en	count	1
 P547	'commemorates'@en	P832	'public holiday'@en	count	1
+P5592	'number of works accessible online'@en	P4293	'PM20 folder ID'@en	count	1
 P571	'inception'@en	P156	'followed by'@en	count	1
 P571	'inception'@en	P35	'head of state'@en	count	1
+P571	'inception'@en	P463	'member of'@en	count	1
 P571	'inception'@en	P85	'anthem'@en	count	1
 P576	'dissolved, abolished or demolished date'@en	P1365	'replaces'@en	count	1
 P576	'dissolved, abolished or demolished date'@en	P1366	'replaced by'@en	count	1
@@ -1149,16 +1180,15 @@ P577	'publication date'@en	P646	'Freebase ID'@en	count	1
 P577	'publication date'@en	P7012	'World Encyclopedia of Puppetry Arts ID'@en	count	1
 P577	'publication date'@en	P9850	'Enciclopedia dell\'Arte Medievale ID'@en	count	1
 P577	'publication date'@en	P9935	'XXI Secolo ID'@en	count	1
+P580	'start time'@en	P10624	'official observer status in organisation'@en	count	1
 P580	'start time'@en	P1082	'population'@en	count	1
 P580	'start time'@en	P1278	'Legal Entity Identifier'@en	count	1
 P580	'start time'@en	P1333	'coordinates of southernmost point'@en	count	1
 P580	'start time'@en	P1344	'participant in'@en	count	1
-P580	'start time'@en	P1366	'replaced by'@en	count	1
 P580	'start time'@en	P1417	'Encyclopædia Britannica Online ID'@en	count	1
 P580	'start time'@en	P1464	'category for people born here'@en	count	1
 P580	'start time'@en	P1465	'category for people who died here'@en	count	1
 P580	'start time'@en	P1546	'motto'@en	count	1
-P580	'start time'@en	P155	'follows'@en	count	1
 P580	'start time'@en	P1944	'relief location map'@en	count	1
 P580	'start time'@en	P2047	'duration'@en	count	1
 P580	'start time'@en	P2140	'foreign direct investment net outflow'@en	count	1
@@ -1171,6 +1201,7 @@ P580	'start time'@en	P417	'patron saint'@en	count	1
 P580	'start time'@en	P460	'said to be the same as'@en	count	1
 P580	'start time'@en	P5141	'coastline'@en	count	1
 P580	'start time'@en	P571	'inception'@en	count	1
+P580	'start time'@en	P6364	'official color'@en	count	1
 P582	'end time'@en	P10624	'official observer status in organisation'@en	count	1
 P582	'end time'@en	P1082	'population'@en	count	1
 P582	'end time'@en	P1335	'coordinates of westernmost point'@en	count	1
@@ -1193,6 +1224,7 @@ P582	'end time'@en	P460	'said to be the same as'@en	count	1
 P582	'end time'@en	P474	'country calling code'@en	count	1
 P582	'end time'@en	P5140	'coordinates of geographic center'@en	count	1
 P582	'end time'@en	P832	'public holiday'@en	count	1
+P585	'point in time'@en	P1028	'donated by'@en	count	1
 P585	'point in time'@en	P10622	'per capita income'@en	count	1
 P585	'point in time'@en	P1336	'territory claimed by'@en	count	1
 P585	'point in time'@en	P138	'named after'@en	count	1
@@ -1202,6 +1234,7 @@ P585	'point in time'@en	P2299	'PPP GDP per capita'@en	count	1
 P585	'point in time'@en	P2402	'total expenditure'@en	count	1
 P585	'point in time'@en	P3075	'official religion'@en	count	1
 P585	'point in time'@en	P3185	'VK ID'@en	count	1
+P585	'point in time'@en	P35	'head of state'@en	count	1
 P585	'point in time'@en	P3984	'subreddit'@en	count	1
 P585	'point in time'@en	P4010	'GDP (PPP)'@en	count	1
 P585	'point in time'@en	P4442	'mean age'@en	count	1
@@ -1215,12 +1248,14 @@ P625	'coordinate location'@en	P47	'shares border with'@en	count	1
 P642	'of'@en	P1269	'facet of'@en	count	1
 P642	'of'@en	P1534	'end cause'@en	count	1
 P642	'of'@en	P194	'legislative body'@en	count	1
+P642	'of'@en	P361	'part of'@en	count	1
 P642	'of'@en	P793	'significant event'@en	count	1
 P6498	'illiterate population'@en	P6343	'urban population'@en	count	1
 P6498	'illiterate population'@en	P6344	'rural population'@en	count	1
 P6499	'literate population'@en	P6343	'urban population'@en	count	1
 P6499	'literate population'@en	P6344	'rural population'@en	count	1
 P706	'located in/on physical feature'@en	P5140	'coordinates of geographic center'@en	count	1
+P706	'located in/on physical feature'@en	P527	'has part or parts'@en	count	1
 P730	'service retirement'@en	P94	'coat of arms image'@en	count	1
 P7452	'reason for preferred rank'@en	P1622	'driving side'@en	count	1
 P7452	'reason for preferred rank'@en	P1943	'location map'@en	count	1
@@ -1252,6 +1287,7 @@ P805	'statement is subject of'@en	P94	'coat of arms image'@en	count	1
 P813	'retrieved'@en	P1082	'population'@en	count	1
 P813	'retrieved'@en	P1313	'office held by head of government'@en	count	1
 P813	'retrieved'@en	P1549	'demonym'@en	count	1
+P813	'retrieved'@en	P3417	'Quora topic ID'@en	count	1
 P828	'has cause'@en	P122	'basic form of government'@en	count	1
 P828	'has cause'@en	P1906	'office held by head of state'@en	count	1
 P828	'has cause'@en	P37	'official language'@en	count	1
@@ -1265,6 +1301,7 @@ P828	'has cause'@en	P807	'separated from'@en	count	1
 P8338	'applies to name of object'@en	P138	'named after'@en	count	1
 P8554	'earliest end date'@en	P530	'diplomatic relation'@en	count	1
 P856	'official website'@en	P1082	'population'@en	count	1
+P856	'official website'@en	P530	'diplomatic relation'@en	count	1
 P8687	'social media followers'@en	P2002	'Twitter username'@en	count	1
 P8687	'social media followers'@en	P2013	'Facebook ID'@en	count	1
 P88	'commissioned by'@en	P576	'dissolved, abolished or demolished date'@en	count	1

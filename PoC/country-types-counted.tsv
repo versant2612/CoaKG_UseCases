@@ -1,0 +1,8 @@
+node1	node2;label	label	node2
+Q3024240	'historical country'@en	count	2608
+Q3624078	'sovereign state'@en	count	426
+Q6256	'country'@en	count	248
+Q133156	'colony'@en	count	210
+Q48349	'empire'@en	count	78
+Q512187	'federal republic'@en	count	11
+Q859563	'secular state'@en	count	8

@@ -1,310 +1,310 @@
 node1	node1;label	label	node2
-P2936	'language used'@en	count	9972
-P1082	'population'@en	count	9961
-P1549	'demonym'@en	count	7403
-P530	'diplomatic relation'@en	count	6775
-P1081	'Human Development Index'@en	count	6320
-P31	'instance of'@en	count	5903
-P463	'member of'@en	count	5137
-P150	'contains administrative territorial entity'@en	count	4415
-P2250	'life expectancy'@en	count	3433
-P4841	'total fertility rate'@en	count	2988
-P36	'capital'@en	count	2328
-P571	'inception'@en	count	2308
-P646	'Freebase ID'@en	count	2177
-P576	'dissolved, abolished or demolished date'@en	count	2118
-P242	'locator map image'@en	count	1800
-P41	'flag image'@en	count	1711
-P1343	'described by source'@en	count	1660
-P37	'official language'@en	count	1590
-P47	'shares border with'@en	count	1546
-P2573	'number of out-of-school children'@en	count	1480
-P30	'continent'@en	count	1476
-P1365	'replaces'@en	count	1447
-P17	'country'@en	count	1379
-P910	'topic\'s main category'@en	count	1334
-P122	'basic form of government'@en	count	1321
-P625	'coordinate location'@en	count	1299
-P373	'Commons category'@en	count	1278
-P35	'head of state'@en	count	1254
-P94	'coat of arms image'@en	count	1207
-P6	'head of government'@en	count	1186
-P1366	'replaced by'@en	count	1137
-P8476	'BTI Governance Index'@en	count	1103
-P8477	'BTI Status Index'@en	count	1091
-P1448	'official name'@en	count	1067
-P1705	'native label'@en	count	1064
-P38	'currency'@en	count	987
-P214	'VIAF ID'@en	count	817
-P361	'part of'@en	count	722
-P1813	'short name'@en	count	715
-P1417	'Encyclopædia Britannica Online ID'@en	count	713
-P421	'located in time zone'@en	count	690
-P244	'Library of Congress authority ID'@en	count	598
-P443	'pronunciation audio'@en	count	582
-P2852	'emergency phone number'@en	count	571
-P2046	'area'@en	count	561
-P7859	'WorldCat Identities ID'@en	count	554
-P3075	'official religion'@en	count	549
-P1889	'different from'@en	count	547
-P2671	'Google Knowledge Graph ID'@en	count	543
-P2924	'Great Russian Encyclopedia Online ID'@en	count	525
-P8328	'Democracy Index'@en	count	515
-P227	'GND ID'@en	count	513
-P1451	'motto text'@en	count	509
-P156	'followed by'@en	count	509
-P85	'anthem'@en	count	503
-P140	'religion or worldview'@en	count	490
-P155	'follows'@en	count	465
-P2853	'electrical plug type'@en	count	461
+P2936	'language used'@en	count	10166
+P1082	'population'@en	count	10165
+P1549	'demonym'@en	count	7485
+P530	'diplomatic relation'@en	count	6827
+P1081	'Human Development Index'@en	count	6409
+P31	'instance of'@en	count	6208
+P463	'member of'@en	count	5197
+P150	'contains administrative territorial entity'@en	count	4661
+P2250	'life expectancy'@en	count	3485
+P4841	'total fertility rate'@en	count	3038
+P36	'capital'@en	count	2470
+P571	'inception'@en	count	2453
+P646	'Freebase ID'@en	count	2319
+P576	'dissolved, abolished or demolished date'@en	count	2255
+P242	'locator map image'@en	count	1904
+P41	'flag image'@en	count	1825
+P1343	'described by source'@en	count	1718
+P37	'official language'@en	count	1663
+P47	'shares border with'@en	count	1574
+P30	'continent'@en	count	1550
+P1365	'replaces'@en	count	1522
+P17	'country'@en	count	1512
+P2573	'number of out-of-school children'@en	count	1510
+P910	'topic\'s main category'@en	count	1417
+P625	'coordinate location'@en	count	1400
+P122	'basic form of government'@en	count	1364
+P373	'Commons category'@en	count	1356
+P94	'coat of arms image'@en	count	1271
+P35	'head of state'@en	count	1261
+P1366	'replaced by'@en	count	1235
+P6	'head of government'@en	count	1195
+P8476	'BTI Governance Index'@en	count	1113
+P1705	'native label'@en	count	1107
+P8477	'BTI Status Index'@en	count	1100
+P1448	'official name'@en	count	1092
+P38	'currency'@en	count	1072
+P214	'VIAF ID'@en	count	874
+P361	'part of'@en	count	775
+P1417	'Encyclopædia Britannica Online ID'@en	count	745
+P1813	'short name'@en	count	725
+P421	'located in time zone'@en	count	705
+P244	'Library of Congress authority ID'@en	count	645
+P7859	'WorldCat Identities ID'@en	count	602
+P2046	'area'@en	count	587
+P443	'pronunciation audio'@en	count	586
+P2671	'Google Knowledge Graph ID'@en	count	580
+P2852	'emergency phone number'@en	count	579
+P3075	'official religion'@en	count	576
+P1889	'different from'@en	count	567
+P156	'followed by'@en	count	541
+P227	'GND ID'@en	count	541
+P2924	'Great Russian Encyclopedia Online ID'@en	count	541
+P85	'anthem'@en	count	527
+P1451	'motto text'@en	count	522
+P8328	'Democracy Index'@en	count	519
+P140	'religion or worldview'@en	count	512
+P155	'follows'@en	count	478
+P2853	'electrical plug type'@en	count	464
+P527	'has part or parts'@en	count	442
+P8189	'National Library of Israel J9U ID'@en	count	437
+P6404	'Treccani\'s Dizionario di Storia ID'@en	count	436
 P832	'public holiday'@en	count	435
-P6404	'Treccani\'s Dizionario di Storia ID'@en	count	425
-P1906	'office held by head of state'@en	count	418
-P8189	'National Library of Israel J9U ID'@en	count	415
-P3417	'Quora topic ID'@en	count	408
-P268	'Bibliothèque nationale de France ID'@en	count	405
-P1296	'Gran Enciclopèdia Catalana ID'@en	count	399
-P3842	'located in present-day administrative territorial entity'@en	count	397
-P163	'flag'@en	count	391
-P527	'has part or parts'@en	count	387
-P194	'legislative body'@en	count	386
-P172	'ethnic group'@en	count	358
-P237	'coat of arms'@en	count	355
-P3219	'Encyclopædia Universalis ID'@en	count	349
-P18	'image'@en	count	340
-P691	'NKCR AUT ID'@en	count	336
-P1464	'category for people born here'@en	count	330
-P206	'located in or next to body of water'@en	count	321
-P8313	'Den Store Danske ID'@en	count	317
-P1313	'office held by head of government'@en	count	310
-P7867	'category for maps'@en	count	309
-P1667	'Getty Thesaurus of Geographic Names ID'@en	count	302
-P898	'IPA transcription'@en	count	302
-P3864	'suicide rate'@en	count	294
-P1792	'category of associated people'@en	count	287
-P998	'Curlie ID'@en	count	283
-P1198	'unemployment rate'@en	count	277
-P131	'located in the administrative territorial entity'@en	count	276
-P2959	'permanent duplicated item'@en	count	276
-P1465	'category for people who died here'@en	count	275
-P7818	'French Vikidia ID'@en	count	270
-P4342	'Store norske leksikon ID'@en	count	264
-P8408	'KBpedia ID'@en	count	259
-P2347	'YSO ID'@en	count	257
-P793	'significant event'@en	count	257
-P8814	'WordNet 3.1 Synset ID'@en	count	257
-P2979	'maritime identification digits'@en	count	256
-P78	'top-level Internet domain'@en	count	256
-P856	'official website'@en	count	254
-P2184	'history of topic'@en	count	253
-P349	'National Diet Library ID'@en	count	253
-P935	'Commons gallery'@en	count	253
-P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	252
-P1566	'GeoNames ID'@en	count	250
-P5063	'Interlingual Index ID'@en	count	249
-P8744	'economy of topic'@en	count	244
-P948	'page banner'@en	count	238
-P6385	'Krugosvet article'@en	count	236
-P1151	'topic\'s main Wikimedia portal'@en	count	234
-P8406	'Grove Art Online ID'@en	count	234
-P1344	'participant in'@en	count	229
-P3000	'marriageable age'@en	count	227
-P3984	'subreddit'@en	count	226
-P4801	'LoC and MARC vocabularies ID'@en	count	226
+P3417	'Quora topic ID'@en	count	426
+P1906	'office held by head of state'@en	count	422
+P268	'Bibliothèque nationale de France ID'@en	count	422
+P1296	'Gran Enciclopèdia Catalana ID'@en	count	409
+P163	'flag'@en	count	399
+P3842	'located in present-day administrative territorial entity'@en	count	398
+P194	'legislative body'@en	count	391
+P18	'image'@en	count	365
+P3219	'Encyclopædia Universalis ID'@en	count	363
+P237	'coat of arms'@en	count	360
+P172	'ethnic group'@en	count	359
+P1464	'category for people born here'@en	count	351
+P691	'NKCR AUT ID'@en	count	347
+P8313	'Den Store Danske ID'@en	count	336
+P206	'located in or next to body of water'@en	count	323
+P7867	'category for maps'@en	count	323
+P1313	'office held by head of government'@en	count	321
+P131	'located in the administrative territorial entity'@en	count	313
+P1667	'Getty Thesaurus of Geographic Names ID'@en	count	311
+P898	'IPA transcription'@en	count	304
+P3864	'suicide rate'@en	count	299
+P1792	'category of associated people'@en	count	293
+P998	'Curlie ID'@en	count	286
+P1465	'category for people who died here'@en	count	281
+P1198	'unemployment rate'@en	count	279
+P2959	'permanent duplicated item'@en	count	279
+P4342	'Store norske leksikon ID'@en	count	278
+P7818	'French Vikidia ID'@en	count	276
+P2347	'YSO ID'@en	count	267
+P793	'significant event'@en	count	267
+P8408	'KBpedia ID'@en	count	266
+P8814	'WordNet 3.1 Synset ID'@en	count	264
+P2184	'history of topic'@en	count	263
+P349	'National Diet Library ID'@en	count	262
+P4223	'Treccani\'s Enciclopedia Italiana ID'@en	count	261
+P2979	'maritime identification digits'@en	count	259
+P78	'top-level Internet domain'@en	count	259
+P935	'Commons gallery'@en	count	259
+P856	'official website'@en	count	258
+P1566	'GeoNames ID'@en	count	256
+P5063	'Interlingual Index ID'@en	count	256
+P8744	'economy of topic'@en	count	249
+P948	'page banner'@en	count	245
+P1151	'topic\'s main Wikimedia portal'@en	count	239
+P6385	'Krugosvet article'@en	count	239
+P8406	'Grove Art Online ID'@en	count	239
+P1344	'participant in'@en	count	234
+P4801	'LoC and MARC vocabularies ID'@en	count	231
+P269	'IdRef ID'@en	count	230
+P3984	'subreddit'@en	count	230
+P3000	'marriageable age'@en	count	229
+P5019	'Brockhaus Enzyklopädie online ID'@en	count	229
+P138	'named after'@en	count	228
+P1245	'OmegaWiki Defined Meaning'@en	count	226
 P9957	'museum-digital place ID'@en	count	226
-P269	'IdRef ID'@en	count	225
-P5019	'Brockhaus Enzyklopädie online ID'@en	count	225
-P1245	'OmegaWiki Defined Meaning'@en	count	222
-P474	'country calling code'@en	count	221
-P610	'highest point'@en	count	221
-P9241	'demographics of topic'@en	count	221
-P984	'IOC country code'@en	count	220
-P213	'ISNI'@en	count	218
-P402	'OpenStreetMap relation ID'@en	count	217
-P4527	'UK Parliament thesaurus ID'@en	count	217
-P1225	'U.S. National Archives Identifier'@en	count	216
-P297	'ISO 3166-1 alpha-2 code'@en	count	216
-P2596	'culture'@en	count	215
-P298	'ISO 3166-1 alpha-3 code'@en	count	215
-P6766	'Who\'s on First ID'@en	count	215
-P138	'named after'@en	count	213
-P1622	'driving side'@en	count	213
-P2884	'mains voltage'@en	count	213
-P299	'ISO 3166-1 numeric code'@en	count	213
-P3916	'UNESCO Thesaurus ID'@en	count	213
-P982	'MusicBrainz area ID'@en	count	213
-P1332	'coordinates of northernmost point'@en	count	212
-P3896	'geoshape'@en	count	212
-P2633	'geography of topic'@en	count	211
-P6573	'Klexikon article ID'@en	count	211
-P3422	'INSEE countries and foreign territories code'@en	count	210
-P3612	'Le Monde diplomatique subject ID'@en	count	210
-P5125	'Wikimedia outline'@en	count	210
-P5573	'archINFORM location ID'@en	count	210
-P4427	'GACS ID'@en	count	209
-P5437	'EuroVoc ID'@en	count	209
-P487	'Unicode character'@en	count	208
-P901	'FIPS 10-4 (countries and regions)'@en	count	208
-P7471	'iNaturalist place ID'@en	count	207
-P2581	'BabelNet ID'@en	count	204
-P949	'National Library of Israel ID (old)'@en	count	204
-P3911	'STW Thesaurus for Economics ID'@en	count	203
-P706	'located in/on physical feature'@en	count	203
-P486	'MeSH descriptor ID'@en	count	202
-P6293	'YSA ID'@en	count	201
-P9948	'The World Factbook country ID'@en	count	201
-P1334	'coordinates of easternmost point'@en	count	200
-P3175	'Statoids ID'@en	count	199
-P5250	'IAB code'@en	count	199
-P5400	'GeoNLP ID'@en	count	199
-P1335	'coordinates of westernmost point'@en	count	198
-P3365	'Treccani ID'@en	count	198
-P1589	'lowest point'@en	count	197
-P9937	'Postimees topic ID'@en	count	197
-P1552	'has quality'@en	count	196
-P2163	'FAST ID'@en	count	196
-P6200	'BBC News topic ID'@en	count	196
-P1333	'coordinates of southernmost point'@en	count	194
-P3068	'WIPO ST.3'@en	count	194
-P5456	'TasteAtlas ID'@en	count	194
-P8309	'Yle topic ID'@en	count	194
-P2258	'mobile country code'@en	count	192
-P3743	'ITU/ISO/IEC object identifier'@en	count	192
-P5180	'CIVICUS Monitor country entry'@en	count	192
-P1740	'category for films shot at this location'@en	count	185
-P3024	'ITU letter code'@en	count	185
-P7827	'Spanish Vikidia ID'@en	count	185
-P8217	'iDAI.gazetteer ID'@en	count	185
-P5905	'Comic Vine ID'@en	count	183
-P3221	'New York Times topic ID'@en	count	182
-P2855	'VAT-rate'@en	count	177
-P5198	'ASC Leiden Thesaurus ID'@en	count	177
-P902	'HDS ID'@en	count	177
-P1036	'Dewey Decimal Classification'@en	count	176
-P4212	'PACTOLS thesaurus ID'@en	count	171
-P4839	'Wolfram Language entity code'@en	count	171
-P6262	'Fandom article ID'@en	count	171
-P9100	'GitHub topic'@en	count	171
-P395	'licence plate code'@en	count	167
-P6849	'DR topic ID'@en	count	166
-P8519	'RKD thesaurus ID'@en	count	166
-P1304	'central bank'@en	count	160
-P208	'executive body'@en	count	159
-P3222	'NE.se ID'@en	count	159
-P10234	'Der Spiegel topic ID'@en	count	155
-P1617	'BBC Things ID'@en	count	147
-P10291	'Wikisimpsons ID'@en	count	146
-P276	'location'@en	count	142
-P3067	'GS1 country code'@en	count	142
-P3553	'Zhihu topic ID'@en	count	141
-P7305	'Online PWN Encyclopedia ID'@en	count	140
-P7870	'Analysis & Policy Observatory term ID'@en	count	140
-P2997	'age of majority'@en	count	139
-P8885	'Namuwiki ID'@en	count	138
-P9123	'Catalan Vikidia ID'@en	count	138
+P213	'ISNI'@en	count	224
+P474	'country calling code'@en	count	224
+P610	'highest point'@en	count	224
+P9241	'demographics of topic'@en	count	224
+P984	'IOC country code'@en	count	224
+P4527	'UK Parliament thesaurus ID'@en	count	223
+P402	'OpenStreetMap relation ID'@en	count	222
+P1225	'U.S. National Archives Identifier'@en	count	221
+P297	'ISO 3166-1 alpha-2 code'@en	count	221
+P298	'ISO 3166-1 alpha-3 code'@en	count	220
+P6766	'Who\'s on First ID'@en	count	219
+P299	'ISO 3166-1 numeric code'@en	count	218
+P2596	'culture'@en	count	217
+P982	'MusicBrainz area ID'@en	count	217
+P3612	'Le Monde diplomatique subject ID'@en	count	216
+P3916	'UNESCO Thesaurus ID'@en	count	216
+P1622	'driving side'@en	count	215
+P2633	'geography of topic'@en	count	215
+P2884	'mains voltage'@en	count	215
+P3896	'geoshape'@en	count	215
+P5573	'archINFORM location ID'@en	count	215
+P1332	'coordinates of northernmost point'@en	count	214
+P3422	'INSEE countries and foreign territories code'@en	count	214
+P6573	'Klexikon article ID'@en	count	214
+P4427	'GACS ID'@en	count	212
+P5125	'Wikimedia outline'@en	count	212
+P5437	'EuroVoc ID'@en	count	212
+P487	'Unicode character'@en	count	211
+P7471	'iNaturalist place ID'@en	count	211
+P901	'FIPS 10-4 (countries and regions)'@en	count	211
+P706	'located in/on physical feature'@en	count	209
+P949	'National Library of Israel ID (old)'@en	count	208
+P2581	'BabelNet ID'@en	count	206
+P3911	'STW Thesaurus for Economics ID'@en	count	206
+P486	'MeSH descriptor ID'@en	count	205
+P6293	'YSA ID'@en	count	205
+P3365	'Treccani ID'@en	count	204
+P9948	'The World Factbook country ID'@en	count	203
+P1334	'coordinates of easternmost point'@en	count	202
+P3175	'Statoids ID'@en	count	202
+P5250	'IAB code'@en	count	202
+P5400	'GeoNLP ID'@en	count	201
+P1335	'coordinates of westernmost point'@en	count	200
+P2163	'FAST ID'@en	count	200
+P1589	'lowest point'@en	count	199
+P6200	'BBC News topic ID'@en	count	199
+P9937	'Postimees topic ID'@en	count	199
+P1552	'has quality'@en	count	198
+P5456	'TasteAtlas ID'@en	count	197
+P8309	'Yle topic ID'@en	count	197
+P1333	'coordinates of southernmost point'@en	count	196
+P3068	'WIPO ST.3'@en	count	196
+P5180	'CIVICUS Monitor country entry'@en	count	195
+P2258	'mobile country code'@en	count	194
+P3743	'ITU/ISO/IEC object identifier'@en	count	194
+P1740	'category for films shot at this location'@en	count	188
+P3024	'ITU letter code'@en	count	187
+P5905	'Comic Vine ID'@en	count	187
+P7827	'Spanish Vikidia ID'@en	count	187
+P8217	'iDAI.gazetteer ID'@en	count	187
+P3221	'New York Times topic ID'@en	count	183
+P5198	'ASC Leiden Thesaurus ID'@en	count	183
+P1036	'Dewey Decimal Classification'@en	count	180
+P2855	'VAT-rate'@en	count	179
+P902	'HDS ID'@en	count	178
+P4839	'Wolfram Language entity code'@en	count	174
+P9100	'GitHub topic'@en	count	173
+P395	'licence plate code'@en	count	172
+P4212	'PACTOLS thesaurus ID'@en	count	172
+P6262	'Fandom article ID'@en	count	172
+P8519	'RKD thesaurus ID'@en	count	170
+P6849	'DR topic ID'@en	count	168
+P208	'executive body'@en	count	165
+P1304	'central bank'@en	count	163
+P3222	'NE.se ID'@en	count	162
+P10234	'Der Spiegel topic ID'@en	count	156
+P1617	'BBC Things ID'@en	count	149
+P276	'location'@en	count	148
+P10291	'Wikisimpsons ID'@en	count	147
+P3553	'Zhihu topic ID'@en	count	146
+P8885	'Namuwiki ID'@en	count	146
+P7305	'Online PWN Encyclopedia ID'@en	count	145
+P3067	'GS1 country code'@en	count	143
+P7870	'Analysis & Policy Observatory term ID'@en	count	141
+P2997	'age of majority'@en	count	140
+P9123	'Catalan Vikidia ID'@en	count	139
 P7850	'Joconde location ID'@en	count	137
-P2004	'NALT ID'@en	count	130
-P5002	'Orthodox Encyclopedia ID'@en	count	130
-P1791	'category of people buried here'@en	count	128
-P5698	'Invasive Species Compendium Datasheet ID'@en	count	125
-P7157	'The Top Tens ID'@en	count	120
-P9037	'BHCL UUID'@en	count	119
-P1438	'Jewish Encyclopedia ID (Russian)'@en	count	117
-P5587	'Libris-URI'@en	count	116
-P950	'Biblioteca Nacional de España ID'@en	count	116
+P2004	'NALT ID'@en	count	132
+P5002	'Orthodox Encyclopedia ID'@en	count	131
+P1791	'category of people buried here'@en	count	129
+P5698	'Invasive Species Compendium Datasheet ID'@en	count	128
+P7157	'The Top Tens ID'@en	count	122
+P5587	'Libris-URI'@en	count	120
+P9037	'BHCL UUID'@en	count	120
+P1438	'Jewish Encyclopedia ID (Russian)'@en	count	119
+P950	'Biblioteca Nacional de España ID'@en	count	117
+P5008	'on focus list of Wikimedia project'@en	count	116
 P3006	'Marine Regions Geographic ID'@en	count	114
 P7314	'TDV İslam Ansiklopedisi ID'@en	count	113
+P8402	'open data portal'@en	count	112
 P7012	'World Encyclopedia of Puppetry Arts ID'@en	count	111
-P8402	'open data portal'@en	count	111
-P5008	'on focus list of Wikimedia project'@en	count	110
-P10456	'Urban Electric Transit country ID'@en	count	107
-P9757	'Schoenberg Database of Manuscripts place ID'@en	count	106
-P4613	'Encyclopedia of Modern Ukraine ID'@en	count	105
-P9629	'Armeniapedia ID'@en	count	103
-P8248	'Colon Classification'@en	count	102
-P9886	'TermCymru ID'@en	count	101
+P10456	'Urban Electric Transit country ID'@en	count	108
+P9757	'Schoenberg Database of Manuscripts place ID'@en	count	107
+P4613	'Encyclopedia of Modern Ukraine ID'@en	count	106
+P9629	'Armeniapedia ID'@en	count	105
+P8248	'Colon Classification'@en	count	103
+P9886	'TermCymru ID'@en	count	102
+P1830	'owner of'@en	count	100
 P7829	'English Vikidia ID'@en	count	99
-P1830	'owner of'@en	count	96
-P112	'founded by'@en	count	93
-P3241	'Catholic Encyclopedia ID'@en	count	91
-P10730	'Data Commons ID'@en	count	90
-P6058	'Larousse ID'@en	count	90
+P112	'founded by'@en	count	98
+P3241	'Catholic Encyclopedia ID'@en	count	94
+P6058	'Larousse ID'@en	count	92
+P10730	'Data Commons ID'@en	count	91
+P9000	'World History Encyclopedia ID'@en	count	90
 P5843	'Gynopedia ID'@en	count	89
-P8826	'edition humboldt digital ID'@en	count	86
-P10297	'Google Arts & Culture entity ID'@en	count	85
-P3238	'trunk prefix'@en	count	85
+P8826	'edition humboldt digital ID'@en	count	88
+P1014	'Art & Architecture Thesaurus ID'@en	count	87
+P10297	'Google Arts & Culture entity ID'@en	count	87
+P3238	'trunk prefix'@en	count	86
+P8483	'PM20 geo code'@en	count	86
 P5658	'railway traffic side'@en	count	85
-P1014	'Art & Architecture Thesaurus ID'@en	count	83
-P9000	'World History Encyclopedia ID'@en	count	82
-P9368	'CNA topic ID'@en	count	80
-P209	'highest judicial authority'@en	count	79
-P8061	'AGROVOC ID'@en	count	79
-P906	'SELIBR ID'@en	count	78
+P9368	'CNA topic ID'@en	count	81
+P209	'highest judicial authority'@en	count	80
+P8061	'AGROVOC ID'@en	count	80
+P1621	'detail map'@en	count	79
+P906	'SELIBR ID'@en	count	79
 P2388	'office held by head of the organization'@en	count	77
-P8483	'PM20 geo code'@en	count	77
 P2950	'Nomisma ID'@en	count	76
 P3001	'retirement age'@en	count	76
-P1621	'detail map'@en	count	75
-P1546	'motto'@en	count	73
-P6706	'De Agostini ID'@en	count	73
-P2348	'time period'@en	count	72
+P6706	'De Agostini ID'@en	count	75
+P1269	'facet of'@en	count	74
+P1546	'motto'@en	count	74
+P2348	'time period'@en	count	73
 P3106	'Guardian topic ID'@en	count	72
 P605	'NUTS code'@en	count	72
+P7982	'Hrvatska enciklopedija ID'@en	count	72
 P5247	'Giant Bomb ID'@en	count	71
 P6897	'literacy rate'@en	count	71
-P1269	'facet of'@en	count	70
 P672	'MeSH tree code'@en	count	70
-P7982	'Hrvatska enciklopedija ID'@en	count	70
 P3509	'Dagens Nyheter topic ID'@en	count	69
 P7822	'Italian Vikidia ID'@en	count	68
 P2982	'UIC numerical country code'@en	count	67
 P2981	'UIC alphabetical country code'@en	count	65
-P1670	'Canadiana Authorities ID (former scheme)'@en	count	63
+P1670	'Canadiana Authorities ID (former scheme)'@en	count	64
+P190	'twinned administrative body'@en	count	64
 P6104	'maintained by WikiProject'@en	count	62
-P190	'twinned administrative body'@en	count	61
+P2572	'hashtag'@en	count	61
+P3065	'RERO ID'@en	count	60
 P3270	'compulsory education (minimum age)'@en	count	60
-P2572	'hashtag'@en	count	59
+P3847	'Open Library subject ID'@en	count	60
+P9545	'Encyclopedia of China Online Database ID (Second Edition)'@en	count	60
 P6794	'minimum wage'@en	count	59
-P9545	'Encyclopedia of China Online Database ID (Second Edition)'@en	count	59
-P3065	'RERO ID'@en	count	58
-P3847	'Open Library subject ID'@en	count	58
-P8370	'UNBIS Thesaurus ID'@en	count	57
-P8714	'GADM ID'@en	count	57
-P409	'Libraries Australia ID'@en	count	55
-P1315	'NLA Trove people ID'@en	count	54
+P8714	'GADM ID'@en	count	59
+P8370	'UNBIS Thesaurus ID'@en	count	58
+P409	'Libraries Australia ID'@en	count	56
+P1315	'NLA Trove people ID'@en	count	55
+P1424	'topic\'s main template'@en	count	55
+P989	'spoken text audio'@en	count	55
+P279	'subclass of'@en	count	54
 P8935	'Encyclopedia of the History of Ukraine ID'@en	count	54
 P8974	'SAPA ID'@en	count	54
-P9272	'DeCS ID'@en	count	53
+P9272	'DeCS ID'@en	count	54
+P1842	'Global Anabaptist Mennonite Encyclopedia Online ID'@en	count	52
+P1943	'location map'@en	count	52
 P7960	'Joconde discovery ID'@en	count	52
-P989	'spoken text audio'@en	count	52
-P1424	'topic\'s main template'@en	count	51
-P1842	'Global Anabaptist Mennonite Encyclopedia Online ID'@en	count	51
-P158	'seal image'@en	count	50
+P158	'seal image'@en	count	51
+P8179	'Canadiana Name Authority ID'@en	count	51
 P5982	'annual number of weddings'@en	count	50
 P8072	'CAB ID'@en	count	49
-P8179	'Canadiana Name Authority ID'@en	count	49
-P1943	'location map'@en	count	48
+P460	'said to be the same as'@en	count	48
+P92	'main regulatory text'@en	count	48
 P9466	'Gyldendals Teaterleksikon ID'@en	count	48
-P460	'said to be the same as'@en	count	47
-P92	'main regulatory text'@en	count	47
 P9498	'Enzyklopädie des europäischen Ostens ID'@en	count	47
 P166	'award received'@en	count	46
 P7832	'Basque Vikidia ID'@en	count	46
 P3271	'compulsory education (maximum age)'@en	count	44
 P3500	'Ringgold ID'@en	count	44
-P279	'subclass of'@en	count	43
+P457	'foundational text'@en	count	42
 P4619	'National Library of Brazil ID'@en	count	42
 P9240	'Encyclopedia of Seventh-day Adventists ID'@en	count	42
 P8717	'ILO Thesaurus ID'@en	count	41
-P457	'foundational text'@en	count	40
 P1711	'British Museum person or institution ID'@en	count	39
 P2238	'official symbol'@en	count	39
 P271	'CiNii author ID (books)'@en	count	39
 P5337	'Google News topics ID'@en	count	39
 P8687	'social media followers'@en	count	39
-P4672	'EMLO location ID'@en	count	37
+P4672	'EMLO location ID'@en	count	38
+P6713	'Australian War Memorial ID'@en	count	37
 P9346	'France24 topic ID (French)'@en	count	37
-P6713	'Australian War Memorial ID'@en	count	36
 P6900	'NicoNicoPedia ID'@en	count	36
 P8365	'Thesaurus Sozialwissenschaften ID'@en	count	36
 P3086	'speed limit'@en	count	35
@@ -315,73 +315,74 @@ P6839	'TV Tropes identifier'@en	count	34
 P9223	'Provenio UUID'@en	count	34
 P10757	'Personality Database profile ID'@en	count	33
 P2131	'nominal GDP'@en	count	33
+P582	'end time'@en	count	33
 P2002	'Twitter username'@en	count	32
 P2579	'studied by'@en	count	32
 P2927	'water as percent of area'@en	count	32
 P8424	'OpenHistoricalMap relation ID'@en	count	31
 P9084	'ABC News topic ID'@en	count	31
 P1584	'Pleiades ID'@en	count	30
+P3827	'JSTOR topic ID'@en	count	30
 P5357	'The Encyclopedia of Science Fiction ID'@en	count	30
+P6413	'JORFSearch organization ID'@en	count	30
 P1125	'Gini coefficient'@en	count	29
 P3529	'median income'@en	count	29
 P417	'patron saint'@en	count	29
-P6413	'JORFSearch organization ID'@en	count	29
 P7295	'Gregorian calendar start date'@en	count	29
 P7775	'RationalWiki ID'@en	count	29
 P1005	'Portuguese National Library ID'@en	count	27
 P1015	'NORAF ID'@en	count	27
-P3827	'JSTOR topic ID'@en	count	27
+P159	'headquarters location'@en	count	27
 P7422	'minimum temperature record'@en	count	27
 P3348	'National Library of Greece ID'@en	count	26
-P582	'end time'@en	count	26
 P8068	'ToposText place ID'@en	count	26
-P159	'headquarters location'@en	count	25
 P3479	'Omni topic ID'@en	count	25
 P8349	'Proleksis enciklopedija ID'@en	count	25
+P9929	'madhhab'@en	count	25
 P10283	'OpenAlex ID'@en	count	24
 P6150	'Academy Awards Database nominee ID'@en	count	24
 P9070	'Internet Encyclopedia of Ukraine ID'@en	count	24
-P9929	'madhhab'@en	count	24
 P1942	'McCune-Reischauer romanization'@en	count	23
+P485	'archives at'@en	count	23
+P9293	'AIATSIS Place Thesaurus ID'@en	count	23
+P1017	'Vatican Library ID (former scheme)'@en	count	22
 P1376	'capital of'@en	count	22
 P2001	'Revised Romanization'@en	count	22
+P3569	'Cultureel Woordenboek ID'@en	count	22
 P51	'audio'@en	count	22
+P797	'authority'@en	count	22
 P8472	'Encyclopedie berbere keyword ID'@en	count	22
-P9293	'AIATSIS Place Thesaurus ID'@en	count	22
-P1017	'Vatican Library ID (former scheme)'@en	count	21
-P3569	'Cultureel Woordenboek ID'@en	count	21
-P485	'archives at'@en	count	21
+P3021	'Iranica ID'@en	count	21
 P53	'family'@en	count	21
+P580	'start time'@en	count	21
 P6591	'maximum temperature record'@en	count	21
 P807	'separated from'@en	count	21
 P9222	'bashenc.online ID'@en	count	21
 P10397	'SBN place ID'@en	count	20
 P1149	'Library of Congress Classification'@en	count	20
+P127	'owned by'@en	count	20
 P1282	'OpenStreetMap tag or key'@en	count	20
 P1944	'relief location map'@en	count	20
-P3021	'Iranica ID'@en	count	20
 P3749	'Google Maps Customer ID'@en	count	20
 P418	'has seal, badge, or sigil'@en	count	20
 P6366	'Microsoft Academic ID'@en	count	20
-P797	'authority'@en	count	20
+P773	'ISO 3166-3'@en	count	20
 P1138	'Kunstindeks Danmark Artist ID'@en	count	19
 P7084	'related category'@en	count	19
+P7666	'Visuotinė lietuvių enciklopedija ID'@en	count	19
+P7786	'Joconde epoch ID'@en	count	19
 P1807	'Great Aragonese Encyclopedia ID'@en	count	18
-P580	'start time'@en	count	18
-P7666	'Visuotinė lietuvių enciklopedija ID'@en	count	18
+P8034	'Vatican Library VcBA ID'@en	count	18
 P8569	'YIVO Encyclopedia of Jews in Eastern Europe ID'@en	count	18
-P127	'owned by'@en	count	17
+P2044	'elevation above sea level'@en	count	17
 P5140	'coordinates of geographic center'@en	count	17
-P773	'ISO 3166-3'@en	count	17
 P7819	'OrthodoxWiki ID (English)'@en	count	17
-P8034	'Vatican Library VcBA ID'@en	count	17
 P1871	'CERL Thesaurus ID'@en	count	16
 P2082	'M.49 code'@en	count	16
 P4725	'C-SPAN organization ID'@en	count	16
 P607	'conflict'@en	count	16
 P6482	'Image Archive, Herder Institute'@en	count	16
 P7039	'National Library of Iceland ID'@en	count	16
-P7786	'Joconde epoch ID'@en	count	16
 P8168	'FactGrid item ID'@en	count	16
 P8374	'Criminological Thesaurus ID'@en	count	16
 P8895	'All the Tropes identifier'@en	count	16
@@ -389,7 +390,7 @@ P1280	'CONOR.SI ID'@en	count	15
 P1456	'list of monuments'@en	count	15
 P1482	'Stack Exchange tag'@en	count	15
 P2003	'Instagram username'@en	count	15
-P2044	'elevation above sea level'@en	count	15
+P3403	'coextensive with'@en	count	15
 P4211	'Bashkir encyclopedia (Russian version) ID (former scheme)'@en	count	15
 P7293	'PLWABN ID'@en	count	15
 P7699	'National Library of Lithuania ID'@en	count	15
@@ -398,28 +399,32 @@ P8625	'bibliography'@en	count	15
 P1375	'NSK ID'@en	count	14
 P2013	'Facebook ID'@en	count	14
 P3342	'significant person'@en	count	14
-P3403	'coextensive with'@en	count	14
 P4629	'Online Books Page author ID'@en	count	14
 P6870	'Latvian National Encyclopedia Online ID'@en	count	14
 P9322	'SVKKL authority ID'@en	count	14
+P1412	'languages spoken, written or signed'@en	count	13
 P1958	'Trismegistos Geo ID'@en	count	13
 P210	'party chief representative'@en	count	13
 P2986	'aircraft registration prefix'@en	count	13
 P6723	'BlackPast.org ID'@en	count	13
 P8843	'poverty incidence'@en	count	13
+P973	'described at URL'@en	count	13
+P10326	'ICPSR Geographic Names Thesaurus ID'@en	count	12
 P1142	'political ideology'@en	count	12
 P1281	'WOEID'@en	count	12
 P1936	'Digital Atlas of the Roman Empire ID'@en	count	12
 P2746	'production statistics'@en	count	12
+P300	'ISO 3166-2 code'@en	count	12
 P3097	'ISBN identifier group'@en	count	12
 P3134	'TripAdvisor ID'@en	count	12
 P3393	'LittleSis organization ID'@en	count	12
 P3451	'nighttime view'@en	count	12
 P7301	'Al-Jazeera topic ID'@en	count	12
 P7369	'National Library of Chile ID'@en	count	12
+P9198	'Encyclopédie berbère article ID'@en	count	12
 P9863	'Gujarati Vishwakosh entry'@en	count	12
 P9984	'CANTIC ID'@en	count	12
-P10326	'ICPSR Geographic Names Thesaurus ID'@en	count	11
+P1001	'applies to jurisdiction'@en	count	11
 P1336	'territory claimed by'@en	count	11
 P1814	'name in kana'@en	count	11
 P2141	'foreign direct investment net inflow'@en	count	11
@@ -427,39 +432,38 @@ P2354	'has list'@en	count	11
 P770	'cause of destruction'@en	count	11
 P7841	'Armenian Vikidia ID'@en	count	11
 P9082	'Academic Encyclopedia of Czech History ID'@en	count	11
-P9198	'Encyclopédie berbère article ID'@en	count	11
-P973	'described at URL'@en	count	11
 P10	'video'@en	count	10
+P10652	'International Jewish Cemetery Project ID'@en	count	10
+P1188	'Dharma Drum Institute of Liberal Arts place ID'@en	count	10
 P1273	'CANTIC ID (former scheme)'@en	count	10
 P1441	'present in work'@en	count	10
 P1449	'nickname'@en	count	10
 P2140	'foreign direct investment net outflow'@en	count	10
 P2670	'has part(s) of the class'@en	count	10
-P300	'ISO 3166-2 code'@en	count	10
+P281	'postal code'@en	count	10
+P2888	'exact match'@en	count	10
 P4081	'BHL creator ID'@en	count	10
 P6328	'Politika topic ID'@en	count	10
 P648	'Open Library ID'@en	count	10
+P6821	'Uppsala University Alvin ID'@en	count	10
 P7996	'EH.Net Encyclopedia of Economic and Business History ID'@en	count	10
 P8592	'aerial view'@en	count	10
 P8989	'category for the view of the item'@en	count	10
 P9765	'Great Ukrainian Encyclopedia Online ID'@en	count	10
 P9975	'Vokrug sveta article'@en	count	10
-P1001	'applies to jurisdiction'@en	count	9
-P10652	'International Jewish Cemetery Project ID'@en	count	9
-P1188	'Dharma Drum Institute of Liberal Arts place ID'@en	count	9
 P1325	'external data available at'@en	count	9
-P1412	'languages spoken, written or signed'@en	count	9
 P1890	'CCAB ID'@en	count	9
 P2397	'YouTube channel ID'@en	count	9
 P2503	'Historical Gazetteer (GOV) ID'@en	count	9
-P2888	'exact match'@en	count	9
+P2999	'age of consent'@en	count	9
 P396	'SBN author ID'@en	count	9
 P6592	'OpenStreetMap zoom level'@en	count	9
-P6821	'Uppsala University Alvin ID'@en	count	9
 P7846	'Beta maṣāḥǝft ID'@en	count	9
 P7888	'merged into'@en	count	9
 P9106	'Oxford Classical Dictionary ID'@en	count	9
+P10227	'National Library of Ireland ID'@en	count	8
 P10565	'Encyclopedia of China ID (Third Edition)'@en	count	8
+P10624	'official observer status in organisation'@en	count	8
 P1368	'LNB ID'@en	count	8
 P1481	'vici.org ID'@en	count	8
 P263	'official residence'@en	count	8
@@ -467,26 +471,25 @@ P2834	'individual tax rate'@en	count	8
 P360	'is a list of'@en	count	8
 P5492	'EDIT16 catalogue author ID'@en	count	8
 P6760	'Know Your Meme ID'@en	count	8
+P740	'location of formation'@en	count	8
 P7843	'German Vikidia ID'@en	count	8
 P8672	'Twitter topic ID'@en	count	8
-P10227	'National Library of Ireland ID'@en	count	7
 P10280	'category for honorary citizens of entity'@en	count	7
-P10624	'official observer status in organisation'@en	count	7
+P103	'native language'@en	count	7
 P1382	'partially coincident with'@en	count	7
 P2132	'nominal GDP per capita'@en	count	7
 P2326	'GNS Unique Feature ID'@en	count	7
 P2612	'TED topic ID'@en	count	7
-P281	'postal code'@en	count	7
 P2998	'age of candidacy'@en	count	7
-P2999	'age of consent'@en	count	7
 P3183	'Wall Street Journal topic ID'@en	count	7
 P4272	'DPLA subject term'@en	count	7
 P5167	'vehicles per thousand people'@en	count	7
 P5991	'carbon footprint'@en	count	7
 P6265	'MinDat locality ID'@en	count	7
-P740	'location of formation'@en	count	7
 P10553	'IxTheo authority ID'@en	count	6
+P1435	'heritage designation'@en	count	6
 P1968	'Foursquare venue ID'@en	count	6
+P207	'bathymetry image'@en	count	6
 P2614	'World Heritage criteria'@en	count	6
 P3762	'openMLOL author ID'@en	count	6
 P3987	'SHARE Catalogue author ID'@en	count	6
@@ -501,18 +504,19 @@ P9287	'Cyprus Bibliography ID'@en	count	6
 P9349	'France24 topic ID (Arabic)'@en	count	6
 P9475	'Encyclopedia of Korean Culture ID'@en	count	6
 P9736	'MANTO ID'@en	count	6
-P103	'native language'@en	count	5
 P1249	'time of earliest written record'@en	count	5
-P1435	'heritage designation'@en	count	5
-P207	'bathymetry image'@en	count	5
+P181	'taxon range map image'@en	count	5
 P2283	'uses'@en	count	5
 P2964	'right to vote'@en	count	5
 P4254	'Banglapedia ID (Bengali)'@en	count	5
+P4711	'CHGIS ID'@en	count	5
+P473	'local dialing code'@en	count	5
 P4777	'has boundary'@en	count	5
 P5034	'National Library of Korea ID'@en	count	5
 P508	'BNCF Thesaurus ID'@en	count	5
 P5086	'FIPS 5-2 alpha code (US states)'@en	count	5
 P5087	'FIPS 5-2 numeric code (US states)'@en	count	5
+P5395	'Canadian Encyclopedia article ID'@en	count	5
 P5748	'Basisklassifikation'@en	count	5
 P590	'GNIS ID'@en	count	5
 P6303	'Swedish Anbytarforum'@en	count	5
@@ -524,6 +528,7 @@ P7502	'Golden ID'@en	count	5
 P7959	'historic county'@en	count	5
 P8980	'KANTO ID'@en	count	5
 P10235	'LocalWiki ID'@en	count	4
+P1037	'director / manager'@en	count	4
 P10541	'TASS Encyclopedia country ID'@en	count	4
 P1207	'NUKAT ID'@en	count	4
 P1299	'depicted by'@en	count	4
@@ -533,6 +538,7 @@ P1538	'number of households'@en	count	4
 P1766	'place name sign'@en	count	4
 P2041	'National Gallery of Victoria artist ID'@en	count	4
 P2135	'total exports'@en	count	4
+P27	'country of citizenship'@en	count	4
 P2716	'collage image'@en	count	4
 P2799	'BVMC person ID'@en	count	4
 P2983	'UNDP country code'@en	count	4
@@ -560,18 +566,18 @@ P9879	'Encyclopaedia of Islam (third edition) ID'@en	count	4
 P9918	'Kallías ID'@en	count	4
 P9983	'Enciclopedia dei ragazzi ID'@en	count	4
 P10046	'Apple maps ID'@en	count	3
+P10242	'Lur Encyclopedic Dictionary ID'@en	count	3
 P10480	'symogih.org ID'@en	count	3
+P137	'operator'@en	count	3
 P1383	'contains settlement'@en	count	3
-P181	'taxon range map image'@en	count	3
 P1997	'Facebook Places ID'@en	count	3
 P2042	'Artsy artist ID'@en	count	3
+P2341	'indigenous to'@en	count	3
 P2561	'name'@en	count	3
 P2872	'visitor centre'@en	count	3
 P3616	'Vision of Britain place ID'@en	count	3
 P407	'language of work or name'@en	count	3
-P473	'local dialing code'@en	count	3
 P488	'chairperson'@en	count	3
-P5395	'Canadian Encyclopedia article ID'@en	count	3
 P585	'point in time'@en	count	3
 P6520	'Lokalhistoriewiki.no ID'@en	count	3
 P6680	'MeSH term ID'@en	count	3
@@ -583,6 +589,7 @@ P7506	'Naver Encyclopedia ID'@en	count	3
 P7607	'WikiTree category or space'@en	count	3
 P7772	'Atlas Obscura identifier'@en	count	3
 P8069	'ToposText person ID'@en	count	3
+P8119	'HASC'@en	count	3
 P8603	'Istrapedia ID'@en	count	3
 P8988	'Mapy.cz ID'@en	count	3
 P9348	'France24 topic ID (Spanish)'@en	count	3
@@ -592,12 +599,12 @@ P9734	'Treccani\'s Enciclopedia Dantesca ID'@en	count	3
 P9826	'Great Encyclopedia of Cyril and Methodius entry ID'@en	count	3
 P9862	'Encyclopaedia of Islam (second edition) ID'@en	count	3
 P9878	'Encyclopaedia of Islam (first edition) ID'@en	count	3
-P10242	'Lur Encyclopedic Dictionary ID'@en	count	2
-P1037	'director / manager'@en	count	2
+P10804	'Twitter list ID'@en	count	2
 P1120	'number of deaths'@en	count	2
 P1174	'visitors per year'@en	count	2
 P1256	'Iconclass notation'@en	count	2
 P15	'route map'@en	count	2
+P154	'logo image'@en	count	2
 P1559	'name in native language'@en	count	2
 P1629	'Wikidata item of this property'@en	count	2
 P1651	'YouTube video ID'@en	count	2
@@ -605,14 +612,14 @@ P1689	'central government debt as a percent of GDP'@en	count	2
 P1900	'EAGLE id'@en	count	2
 P1937	'UN/LOCODE'@en	count	2
 P1938	'Project Gutenberg author ID'@en	count	2
-P2341	'indigenous to'@en	count	2
+P2186	'Wiki Loves Monuments ID'@en	count	2
 P2427	'GRID ID'@en	count	2
 P245	'Union List of Artist Names ID'@en	count	2
 P2468	'Theatricalia theatre ID'@en	count	2
 P2547	'perimeter'@en	count	2
-P27	'country of citizenship'@en	count	2
 P3120	'TOID'@en	count	2
 P3185	'VK ID'@en	count	2
+P3280	'BAnQ author ID'@en	count	2
 P3415	'start period'@en	count	2
 P3430	'SNAC ARK ID'@en	count	2
 P3544	'Te Papa agent ID'@en	count	2
@@ -624,9 +631,12 @@ P3836	'Pinterest username'@en	count	2
 P3964	'BDCYL authority ID'@en	count	2
 P3977	'Songkick venue ID'@en	count	2
 P4003	'Facebook page ID'@en	count	2
+P4093	'Australian Statistical Geography 2016 ID'@en	count	2
 P4171	'World Heritage Tentative List ID'@en	count	2
 P4204	'The Times of India topic ID'@en	count	2
+P4228	'Encyclopedia of Australian Science ID'@en	count	2
 P4442	'mean age'@en	count	2
+P452	'industry'@en	count	2
 P4589	'Dreadnought Project page'@en	count	2
 P461	'opposite of'@en	count	2
 P466	'occupant'@en	count	2
@@ -635,6 +645,7 @@ P4973	'Wikitribune category'@en	count	2
 P5266	'Finnish national bibliography corporate name ID'@en	count	2
 P5421	'Trading Card Database person ID'@en	count	2
 P5555	'schematic'@en	count	2
+P5604	'archINFORM keyword ID'@en	count	2
 P6015	'Handbook of Texas ID'@en	count	2
 P61	'discoverer or inventor'@en	count	2
 P6295	'ARTIC artist ID'@en	count	2
@@ -647,16 +658,18 @@ P701	'Dodis ID'@en	count	2
 P7028	'National Library of Luxembourg ID'@en	count	2
 P7284	'The Independent topic ID'@en	count	2
 P7902	'Deutsche Biographie (GND) ID'@en	count	2
-P8119	'HASC'@en	count	2
 P828	'has cause'@en	count	2
 P836	'GSS code (2011)'@en	count	2
 P8590	'Jewish Encyclopedia ID'@en	count	2
 P8651	'Open Civic Data Division ID'@en	count	2
 P912	'has facility'@en	count	2
 P9350	'PeriodO period ID'@en	count	2
+P9381	'Enslaved.org place ID'@en	count	2
 P9437	'Politiklexikon ID'@en	count	2
 P9775	'Treccani\'s Lessico del XXI Secolo ID'@en	count	2
+P9885	'Bing entity ID'@en	count	2
 P1004	'MusicBrainz place ID'@en	count	1
+P1028	'donated by'@en	count	1
 P10321	'Urban Electric Transit city ID'@en	count	1
 P10329	'ICPSR Subject Thesaurus ID'@en	count	1
 P10385	'Vsemirnaya Istoriya Encyclopedia ID'@en	count	1
@@ -664,15 +677,15 @@ P10473	'Drevo Encyclopedia ID'@en	count	1
 P10530	'Encyclopedia of Transbaikalia ID'@en	count	1
 P10598	'Chuvash Encyclopedia topic ID'@en	count	1
 P10622	'per capita income'@en	count	1
-P10804	'Twitter list ID'@en	count	1
+P1077	'KOATUU identifier'@en	count	1
 P10832	'WorldCat Entities ID'@en	count	1
+P1114	'quantity'@en	count	1
 P1190	'Universal Decimal Classification'@en	count	1
 P1264	'valid in period'@en	count	1
 P1278	'Legal Entity Identifier'@en	count	1
 P1292	'DNB editions'@en	count	1
 P1410	'number of seats in legislature'@en	count	1
 P1419	'shape'@en	count	1
-P154	'logo image'@en	count	1
 P1695	'NLP ID (old)'@en	count	1
 P1749	'Parlement.com ID'@en	count	1
 P1754	'category related to list'@en	count	1
@@ -692,6 +705,7 @@ P2541	'operating area'@en	count	1
 P2564	'Köppen climate classification'@en	count	1
 P2652	'partnership with'@en	count	1
 P2699	'URL'@en	count	1
+P2770	'source of income'@en	count	1
 P2795	'directions'@en	count	1
 P2813	'house publication'@en	count	1
 P282	'writing system'@en	count	1
@@ -700,7 +714,6 @@ P2868	'subject has role'@en	count	1
 P2910	'icon'@en	count	1
 P2937	'parliamentary term'@en	count	1
 P3153	'Crossref funder ID'@en	count	1
-P3280	'BAnQ author ID'@en	count	1
 P3307	'Galiciana authority ID'@en	count	1
 P3407	'Klosterdatenbank ID'@en	count	1
 P3416	'end period'@en	count	1
@@ -716,13 +729,14 @@ P3997	'Bait La Zemer Ha-Ivri artist ID'@en	count	1
 P40	'child'@en	count	1
 P4004	'escutcheon image'@en	count	1
 P4010	'GDP (PPP)'@en	count	1
-P4093	'Australian Statistical Geography 2016 ID'@en	count	1
+P4014	'Australian Statistical Geography 2011 ID'@en	count	1
+P4094	'Australian Standard Geographic Classification 2006 ID'@en	count	1
 P4161	'Michelin Voyages ID'@en	count	1
 P4173	'Instagram location ID'@en	count	1
 P4195	'category for employees of the organization'@en	count	1
-P4228	'Encyclopedia of Australian Science ID'@en	count	1
 P4239	'vocalized name'@en	count	1
 P4255	'Banglapedia ID (English)'@en	count	1
+P4293	'PM20 folder ID'@en	count	1
 P4330	'contains'@en	count	1
 P4431	'Google Doodle'@en	count	1
 P4440	'Biblioteca Nacional de México ID'@en	count	1
@@ -737,21 +751,23 @@ P5141	'coastline'@en	count	1
 P5163	'Odnoklassniki ID'@en	count	1
 P5271	'Saint Louis Art Museum person ID'@en	count	1
 P5504	'RISM ID'@en	count	1
-P5604	'archINFORM keyword ID'@en	count	1
 P5607	'located in the ecclesiastical territorial entity'@en	count	1
 P570	'date of death'@en	count	1
 P5731	'Angelicum ID'@en	count	1
 P575	'time of discovery or invention'@en	count	1
 P5760	'Petit Futé site ID'@en	count	1
+P5986	'Getty Iconography Authority ID'@en	count	1
 P6016	'Tennessee Encyclopedia ID'@en	count	1
 P611	'religious order'@en	count	1
 P6181	'Disney A to Z ID'@en	count	1
 P629	'edition or translation of'@en	count	1
+P6364	'official color'@en	count	1
 P6412	'Gran Enciclopèdia de la Música ID'@en	count	1
 P6492	'BVPH authority ID'@en	count	1
 P6498	'illiterate population'@en	count	1
 P6499	'literate population'@en	count	1
 P6566	'Indonesian Cultural Heritage Registration System ID'@en	count	1
+P66	'ancestral home'@en	count	1
 P6683	'Alexander Turnbull Library ID'@en	count	1
 P6696	'PRELIB organization ID'@en	count	1
 P6698	'Japan Search name ID'@en	count	1
@@ -786,11 +802,12 @@ P8973	'Humanitarian OpenStreetMap Tasking Manager project ID'@en	count	1
 P8992	'1914-1918-Online ID'@en	count	1
 P9013	'Encyclopedia of Saami Culture ID'@en	count	1
 P9122	'SportsLogos.net team ID'@en	count	1
+P9281	'Encyclopedia of Greater Philadelphia ID'@en	count	1
 P9285	'Stadtlexikon Karlsruhe ID'@en	count	1
 P9291	'Eesti entsüklopeedia ID'@en	count	1
 P9314	'Latin Place Names ID'@en	count	1
 P9347	'France24 topic ID (English)'@en	count	1
-P9381	'Enslaved.org place ID'@en	count	1
+P9435	'KATOTTH ID'@en	count	1
 P9482	'Catalogue of the General State Archives ID'@en	count	1
 P9495	'National Historical Museums of Sweden ID'@en	count	1
 P9510	'Forbes Russia profile ID'@en	count	1
@@ -800,6 +817,5 @@ P9760	'Treccani\'s Enciclopedia del Cinema ID'@en	count	1
 P9807	'SNK ID'@en	count	1
 P9827	'GSSO ID'@en	count	1
 P9850	'Enciclopedia dell\'Arte Medievale ID'@en	count	1
-P9885	'Bing entity ID'@en	count	1
 P9904	'free/libre open source software development policy URL'@en	count	1
 P9935	'XXI Secolo ID'@en	count	1

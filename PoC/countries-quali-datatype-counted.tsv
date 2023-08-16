@@ -1,81 +1,81 @@
 node1	node1;label	node2;wikidatatype	label	node2
-P585	'point in time'@en	time	count	28940
-P580	'start time'@en	time	count	10913
-P805	'statement is subject of'@en	wikibase-item	count	8599
-P518	'applies to part'@en	wikibase-item	count	7067
-P582	'end time'@en	time	count	5344
-P459	'determination method'@en	wikibase-item	count	4435
-P1810	'subject named as'@en	string	count	2314
-P407	'language of work or name'@en	wikibase-item	count	2115
-P31	'instance of'@en	wikibase-item	count	914
-P531	'diplomatic mission sent'@en	wikibase-item	count	708
-P577	'publication date'@en	time	count	697
-P366	'has use'@en	wikibase-item	count	503
-P195	'collection'@en	wikibase-item	count	362
-P4390	'mapping relation type'@en	wikibase-item	count	340
-P2093	'author name string'@en	string	count	328
-P3831	'object has role'@en	wikibase-item	count	312
-P39	'position held'@en	wikibase-item	count	277
-P478	'volume'@en	string	count	277
+P585	'point in time'@en	time	count	29425
+P580	'start time'@en	time	count	11210
+P805	'statement is subject of'@en	wikibase-item	count	8692
+P518	'applies to part'@en	wikibase-item	count	7153
+P582	'end time'@en	time	count	5647
+P459	'determination method'@en	wikibase-item	count	4512
+P1810	'subject named as'@en	string	count	2380
+P407	'language of work or name'@en	wikibase-item	count	2137
+P31	'instance of'@en	wikibase-item	count	931
+P577	'publication date'@en	time	count	717
+P531	'diplomatic mission sent'@en	wikibase-item	count	709
+P366	'has use'@en	wikibase-item	count	511
+P195	'collection'@en	wikibase-item	count	367
+P4390	'mapping relation type'@en	wikibase-item	count	353
+P2093	'author name string'@en	string	count	338
+P642	'of'@en	wikibase-item	count	323
+P3831	'object has role'@en	wikibase-item	count	316
+P478	'volume'@en	string	count	285
+P39	'position held'@en	wikibase-item	count	278
 P1107	'proportion'@en	quantity	count	276
-P642	'of'@en	wikibase-item	count	265
-P2044	'elevation above sea level'@en	quantity	count	260
-P1098	'number of speakers, writers, or signers'@en	quantity	count	244
-P3680	'statement supported by'@en	wikibase-item	count	221
-P1932	'object stated as'@en	string	count	215
-P2144	'frequency'@en	quantity	count	214
-P1545	'series ordinal'@en	string	count	207
-P1264	'valid in period'@en	wikibase-item	count	203
-P1365	'replaces'@en	wikibase-item	count	200
+P2044	'elevation above sea level'@en	quantity	count	263
+P1098	'number of speakers, writers, or signers'@en	quantity	count	247
+P1932	'object stated as'@en	string	count	236
+P3680	'statement supported by'@en	wikibase-item	count	227
+P1545	'series ordinal'@en	string	count	218
+P2144	'frequency'@en	quantity	count	216
+P1264	'valid in period'@en	wikibase-item	count	205
+P1365	'replaces'@en	wikibase-item	count	201
+P2096	'media legend'@en	monolingualtext	count	187
 P102	'member of political party'@en	wikibase-item	count	186
-P51	'audio'@en	commonsMedia	count	173
-P2096	'media legend'@en	monolingualtext	count	170
-P1366	'replaced by'@en	wikibase-item	count	165
-P828	'has cause'@en	wikibase-item	count	165
-P1552	'has quality'@en	wikibase-item	count	161
-P2061	'aspect ratio (W:H)'@en	wikibase-item	count	155
-P9675	'MediaWiki page ID'@en	string	count	152
+P51	'audio'@en	commonsMedia	count	176
+P828	'has cause'@en	wikibase-item	count	175
+P1366	'replaced by'@en	wikibase-item	count	167
+P1552	'has quality'@en	wikibase-item	count	165
+P2061	'aspect ratio (W:H)'@en	wikibase-item	count	157
+P9675	'MediaWiki page ID'@en	string	count	153
 P4970	'alternative name'@en	string	count	121
+P5102	'nature of statement'@en	wikibase-item	count	113
 P1539	'female population'@en	quantity	count	112
 P1540	'male population'@en	quantity	count	112
 P837	'day in year for periodic occurrence'@en	wikibase-item	count	111
-P5102	'nature of statement'@en	wikibase-item	count	108
-P1480	'sourcing circumstances'@en	wikibase-item	count	107
-P706	'located in/on physical feature'@en	wikibase-item	count	103
-P1013	'criterion used'@en	wikibase-item	count	102
-P747	'has edition or translation'@en	wikibase-item	count	102
-P304	'page(s)'@en	string	count	94
-P654	'direction relative to location'@en	wikibase-item	count	93
-P1001	'applies to jurisdiction'@en	wikibase-item	count	92
-P2868	'subject has role'@en	wikibase-item	count	85
-P7452	'reason for preferred rank'@en	wikibase-item	count	81
-P5592	'number of works accessible online'@en	quantity	count	76
+P1013	'criterion used'@en	wikibase-item	count	108
+P1480	'sourcing circumstances'@en	wikibase-item	count	108
+P706	'located in/on physical feature'@en	wikibase-item	count	106
+P747	'has edition or translation'@en	wikibase-item	count	103
+P654	'direction relative to location'@en	wikibase-item	count	101
+P304	'page(s)'@en	string	count	95
+P1001	'applies to jurisdiction'@en	wikibase-item	count	93
+P2868	'subject has role'@en	wikibase-item	count	87
+P5592	'number of works accessible online'@en	quantity	count	85
+P7452	'reason for preferred rank'@en	wikibase-item	count	82
 P1942	'McCune-Reischauer romanization'@en	string	count	71
 P2001	'Revised Romanization'@en	string	count	71
+P2441	'literal translation'@en	monolingualtext	count	71
 P527	'has part or parts'@en	wikibase-item	count	71
-P2441	'literal translation'@en	monolingualtext	count	68
+P1534	'end cause'@en	wikibase-item	count	70
 P276	'location'@en	wikibase-item	count	67
+P813	'retrieved'@en	time	count	67
 P6552	'Twitter user numeric ID'@en	external-id	count	66
-P813	'retrieved'@en	time	count	65
-P1534	'end cause'@en	wikibase-item	count	63
-P3005	'valid in place'@en	wikibase-item	count	63
-P1352	'ranking'@en	quantity	count	62
+P3005	'valid in place'@en	wikibase-item	count	65
+P1352	'ranking'@en	quantity	count	63
+P1011	'excluding'@en	wikibase-item	count	56
 P625	'coordinate location'@en	globe-coordinate	count	56
-P1011	'excluding'@en	wikibase-item	count	55
+P156	'followed by'@en	wikibase-item	count	47
 P4649	'identity of subject in context'@en	wikibase-item	count	47
 P3744	'number of subscribers'@en	quantity	count	46
 P1393	'proxy'@en	wikibase-item	count	40
-P156	'followed by'@en	wikibase-item	count	37
-P1310	'statement disputed by'@en	wikibase-item	count	36
+P1310	'statement disputed by'@en	wikibase-item	count	37
+P131	'located in the administrative territorial entity'@en	wikibase-item	count	36
 P1943	'location map'@en	commonsMedia	count	36
-P131	'located in the administrative territorial entity'@en	wikibase-item	count	35
-P571	'inception'@en	time	count	35
+P571	'inception'@en	time	count	36
 P854	'reference URL'@en	url	count	30
+P282	'writing system'@en	wikibase-item	count	28
 P807	'separated from'@en	wikibase-item	count	26
-P282	'writing system'@en	wikibase-item	count	25
-P958	'section, verse, paragraph, or clause'@en	string	count	25
-P3740	'number of works'@en	quantity	count	24
-P1326	'latest date'@en	time	count	23
+P958	'section, verse, paragraph, or clause'@en	string	count	26
+P3740	'number of works'@en	quantity	count	25
+P1326	'latest date'@en	time	count	24
 P92	'main regulatory text'@en	wikibase-item	count	23
 P1319	'earliest date'@en	time	count	22
 P1478	'has immediate cause'@en	wikibase-item	count	22
@@ -84,8 +84,8 @@ P1012	'including'@en	wikibase-item	count	20
 P1814	'name in kana'@en	string	count	20
 P2125	'Revised Hepburn romanization'@en	string	count	20
 P576	'dissolved, abolished or demolished date'@en	time	count	20
+P155	'follows'@en	wikibase-item	count	18
 P790	'approved by'@en	wikibase-item	count	18
-P155	'follows'@en	wikibase-item	count	17
 P21	'sex or gender'@en	wikibase-item	count	16
 P122	'basic form of government'@en	wikibase-item	count	13
 P1535	'used by'@en	wikibase-item	count	13
@@ -93,32 +93,34 @@ P560	'direction'@en	wikibase-item	count	13
 P6208	'award rationale'@en	monolingualtext	count	13
 P1092	'total produced'@en	quantity	count	12
 P1376	'capital of'@en	wikibase-item	count	12
+P180	'depicts'@en	wikibase-item	count	12
 P361	'part of'@en	wikibase-item	count	12
 P1114	'quantity'@en	quantity	count	11
+P1476	'title'@en	monolingualtext	count	11
 P2241	'reason for deprecated rank'@en	wikibase-item	count	11
 P5436	'number of viewers'@en	quantity	count	11
-P180	'depicts'@en	wikibase-item	count	10
+P17	'country'@en	wikibase-item	count	10
 P94	'coat of arms image'@en	commonsMedia	count	10
-P1476	'title'@en	monolingualtext	count	9
 P2043	'length'@en	quantity	count	9
 P1416	'affiliation'@en	wikibase-item	count	8
-P17	'country'@en	wikibase-item	count	8
+P1448	'official name'@en	monolingualtext	count	8
 P1706	'together with'@en	wikibase-item	count	8
+P2699	'URL'@en	url	count	8
 P2835	'lowest income threshold'@en	quantity	count	8
 P35	'head of state'@en	wikibase-item	count	8
 P50	'author'@en	wikibase-item	count	8
-P1448	'official name'@en	monolingualtext	count	7
 P159	'headquarters location'@en	wikibase-item	count	7
+P1721	'pinyin transliteration'@en	string	count	7
 P2303	'exception to constraint'@en	wikibase-item	count	7
 P2397	'YouTube channel ID'@en	external-id	count	7
 P263	'official residence'@en	wikibase-item	count	7
+P793	'significant event'@en	wikibase-item	count	7
 P101	'field of work'@en	wikibase-item	count	6
-P1721	'pinyin transliteration'@en	string	count	6
 P2047	'duration'@en	quantity	count	6
+P2440	'transliteration'@en	string	count	6
 P279	'subclass of'@en	wikibase-item	count	6
 P503	'ISO standard'@en	external-id	count	6
 P5168	'applies to name of item'@en	monolingualtext	count	6
-P793	'significant event'@en	wikibase-item	count	6
 P1451	'motto text'@en	monolingualtext	count	5
 P18	'image'@en	commonsMedia	count	5
 P2836	'highest income threshold'@en	quantity	count	5
@@ -130,14 +132,12 @@ P1308	'officeholder'@en	wikibase-item	count	4
 P1433	'published in'@en	wikibase-item	count	4
 P1538	'number of households'@en	quantity	count	4
 P2354	'has list'@en	wikibase-item	count	4
-P2699	'URL'@en	url	count	4
 P2894	'day of week'@en	wikibase-item	count	4
 P457	'foundational text'@en	wikibase-item	count	4
 P797	'authority'@en	wikibase-item	count	4
 P902	'HDS ID'@en	external-id	count	4
 P953	'full work available at URL'@en	url	count	4
 P2312	'maximum value'@en	quantity	count	3
-P2440	'transliteration'@en	string	count	3
 P2899	'minimum age'@en	quantity	count	3
 P4070	'identifier shared with'@en	wikibase-item	count	3
 P4135	'maximum age'@en	quantity	count	3
@@ -158,12 +158,14 @@ P3823	'Ethnologue language status'@en	wikibase-item	count	2
 P463	'member of'@en	wikibase-item	count	2
 P488	'chairperson'@en	wikibase-item	count	2
 P5054	'cabinet'@en	wikibase-item	count	2
+P5139	'Möllendorff transliteration'@en	string	count	2
 P5237	'pronunciation variety'@en	wikibase-item	count	2
 P554	'website username'@en	string	count	2
 P6498	'illiterate population'@en	quantity	count	2
 P6499	'literate population'@en	quantity	count	2
 P7903	'gained territory from'@en	wikibase-item	count	2
 P841	'feast day'@en	wikibase-item	count	2
+P856	'official website'@en	url	count	2
 P8687	'social media followers'@en	quantity	count	2
 P9570	'scope note'@en	monolingualtext	count	2
 P973	'described at URL'@en	url	count	2
@@ -194,6 +196,7 @@ P4187	'Wylie transliteration'@en	string	count	1
 P443	'pronunciation audio'@en	commonsMedia	count	1
 P460	'said to be the same as'@en	wikibase-item	count	1
 P4626	'identity of object in context'@en	wikibase-item	count	1
+P465	'sRGB color hex triplet'@en	string	count	1
 P4913	'dialect of'@en	wikibase-item	count	1
 P547	'commemorates'@en	wikibase-item	count	1
 P730	'service retirement'@en	time	count	1
@@ -202,7 +205,6 @@ P770	'cause of destruction'@en	wikibase-item	count	1
 P7904	'gave up territory to'@en	wikibase-item	count	1
 P8338	'applies to name of object'@en	monolingualtext	count	1
 P8554	'earliest end date'@en	time	count	1
-P856	'official website'@en	url	count	1
 P88	'commissioned by'@en	wikibase-item	count	1
 P921	'main subject'@en	wikibase-item	count	1
 P97	'noble title'@en	wikibase-item	count	1
