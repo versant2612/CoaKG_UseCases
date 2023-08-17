@@ -31,7 +31,7 @@ ckg:c29	P580	'start time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c30	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c31	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c32	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c33	P3005	'valid in place'@en	ckg:Contextualizes	P1366	'replaced by'@en
+ckg:c33	P3005	'valid in place'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c34	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c35	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c36	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
