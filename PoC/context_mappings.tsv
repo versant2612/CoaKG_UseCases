@@ -159,13 +159,13 @@ ckg:c158	ckg:c91		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c159	ckg:c96		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c160	ckg:c97		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c161	ckg:c99		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c162	ckg:c103	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c163	ckg:c106	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c164	ckg:c108	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c165	ckg:c111	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c166	ckg:c115	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c167	ckg:c118	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c168	ckg:c121	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c169	ckg:c127	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
-ckg:c170	ckg:c132	ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c162	ckg:c103		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c163	ckg:c106		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c164	ckg:c108		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c165	ckg:c111		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c166	ckg:c115		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c167	ckg:c118		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c168	ckg:c121		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c169	ckg:c127		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c170	ckg:c132		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje
