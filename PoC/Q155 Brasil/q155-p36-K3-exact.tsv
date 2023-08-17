@@ -1,3 +1,0 @@
-id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
-Q155-P36-Q2844-dc7767a2-0-P580-a40689-0	Q155-P36-Q2844-dc7767a2-0		P580	'start time'@en	^1960-04-22T00:00:00Z/11		time	Q155-P36-Q2844-dc7767a2-0	Q155	'Brazil'@en	P36	'capital'@en	Q2844	'Brasília'@en	wikibase-item
-Q155-P36-Q8678-f61fa840-0-P582-a40689-0	Q155-P36-Q8678-f61fa840-0		P582	'end time'@en	^1960-04-22T00:00:00Z/11		time	Q155-P36-Q8678-f61fa840-0	Q155	'Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en	wikibase-item

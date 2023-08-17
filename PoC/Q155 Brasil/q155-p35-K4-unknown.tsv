@@ -1,0 +1,8 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P35-Q40722-9755b85b-0	Q155	'Brazil'@en	P35	'head of state'@en	Q40722	'Dilma Rousseff'@en	Q155-P35-Q40722-9755b85b-0-P805	Q155-P35-Q40722-9755b85b-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q236503-8f926bc0-0	Q155	'Brazil'@en	P35	'head of state'@en	Q236503	'Fernando Collor de Mello'@en	Q155-P35-Q236503-8f926bc0-0-P805	Q155-P35-Q236503-8f926bc0-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q230578-cbb0f2ec-0	Q155	'Brazil'@en	P35	'head of state'@en	Q230578	'Fernando Henrique Cardoso'@en	Q155-P35-Q230578-cbb0f2ec-0-P805	Q155-P35-Q230578-cbb0f2ec-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q485946-0e2d65bf-0	Q155	'Brazil'@en	P35	'head of state'@en	Q485946	'Itamar Franco'@en	Q155-P35-Q485946-0e2d65bf-0-P805	Q155-P35-Q485946-0e2d65bf-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q10304982-20d3e965-0	Q155	'Brazil'@en	P35	'head of state'@en	Q10304982	'Jair Bolsonaro'@en	Q155-P35-Q10304982-20d3e965-0-P805	Q155-P35-Q10304982-20d3e965-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q37181-f6e1088b-0	Q155	'Brazil'@en	P35	'head of state'@en	Q37181	'Luiz Inácio Lula da Silva'@en	Q155-P35-Q37181-f6e1088b-0-P805	Q155-P35-Q37181-f6e1088b-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q463533-cd253216-0	Q155	'Brazil'@en	P35	'head of state'@en	Q463533	'Michel Temer'@en	Q155-P35-Q463533-cd253216-0-P805	Q155-P35-Q463533-cd253216-0		P805	'statement is subject of'@en	unknown	

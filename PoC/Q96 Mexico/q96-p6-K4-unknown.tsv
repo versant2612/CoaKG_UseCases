@@ -1,0 +1,6 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P6-Q318508-9a982eb3-0	Q96	'Mexico'@en	P6	'head of government'@en	Q318508	'Andrés Manuel López Obrador'@en	Q96-P6-Q318508-9a982eb3-0-P805	Q96-P6-Q318508-9a982eb3-0		P805	'statement is subject of'@en	unknown	
+Q96-P6-Q296741-e0136617-0	Q96	'Mexico'@en	P6	'head of government'@en	Q296741	'Enrique Peña Nieto'@en	Q96-P6-Q296741-e0136617-0-P805	Q96-P6-Q296741-e0136617-0		P805	'statement is subject of'@en	unknown	
+Q96-P6-Q298149-ce74152c-0	Q96	'Mexico'@en	P6	'head of government'@en	Q298149	'Ernesto Zedillo'@en	Q96-P6-Q298149-ce74152c-0-P805	Q96-P6-Q298149-ce74152c-0		P805	'statement is subject of'@en	unknown	
+Q96-P6-Q57269-ea26eb99-0	Q96	'Mexico'@en	P6	'head of government'@en	Q57269	'Felipe Calderón'@en	Q96-P6-Q57269-ea26eb99-0-P805	Q96-P6-Q57269-ea26eb99-0		P805	'statement is subject of'@en	unknown	
+Q96-P6-Q190572-d67d7533-0	Q96	'Mexico'@en	P6	'head of government'@en	Q190572	'Vicente Fox Quesada'@en	Q96-P6-Q190572-d67d7533-0-P805	Q96-P6-Q190572-d67d7533-0		P805	'statement is subject of'@en	unknown	

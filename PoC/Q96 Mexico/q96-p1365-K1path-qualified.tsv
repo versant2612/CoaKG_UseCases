@@ -1,0 +1,20 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q5062192-P1365-Q1109279-4b2b4c5e-0	Q5062192	'Centralist Republic of Mexico'@en	P1365	'replaces'@en	Q1109279	'First Mexican Republic'@en							
+Q285658-P1365-Q170603-c9f6d0eb-0	Q285658	'First Mexican Empire'@en	P1365	'replaces'@en	Q170603	'Viceroyalty of New Spain'@en							
+Q96-P1365-Q170603-a410b689-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q170603	'Viceroyalty of New Spain'@en							
+Q96-P1365-Q2608489-99c48117-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q2608489	'Aztec Empire'@en							
+Q1109279-P1365-Q285658-50f733d2-0	Q1109279	'First Mexican Republic'@en	P1365	'replaces'@en	Q285658	'First Mexican Empire'@en							
+Q1165546-P1365-Q285658-bf06abc1-0	Q1165546	'Mosquito Coast'@en	P1365	'replaces'@en	Q285658	'First Mexican Empire'@en							
+Q190025-P1365-Q285658-e72f4de4-0	Q190025	'Federal Republic of Central America'@en	P1365	'replaces'@en	Q285658	'First Mexican Empire'@en							
+Q96-P1365-Q285658-1f8cb5c8-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q285658	'First Mexican Empire'@en							
+Q5788450-P1365-Q371334-73939911-0	Q5788450	'Restored Republic'@en	P1365	'replaces'@en	Q371334	'Second Mexican Empire'@en							
+Q170588-P1365-Q5062192-938d0f49-0	Q170588	'Republic of Texas'@en	P1365	'replaces'@en	Q5062192	'Centralist Republic of Mexico'@en							
+Q17557-P1365-Q5062192-09d56c34-0	Q17557	'California Republic'@en	P1365	'replaces'@en	Q5062192	'Centralist Republic of Mexico'@en							
+Q2014442-P1365-Q5062192-1629aca1-0	Q2014442	'Republic of the Rio Grande'@en	P1365	'replaces'@en	Q5062192	'Centralist Republic of Mexico'@en							
+Q671658-P1365-Q5062192-7993f064-0	Q671658	'Republic of Yucatán'@en	P1365	'replaces'@en	Q5062192	'Centralist Republic of Mexico'@en							
+Q7443295-P1365-Q5062192-97b5ebf9-0	Q7443295	'Second Federal Republic of Mexico'@en	P1365	'replaces'@en	Q5062192	'Centralist Republic of Mexico'@en							
+Q96-P1365-Q5788450-ba02e6d4-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q5788450	'Restored Republic'@en							
+Q7443295-P1365-Q671658-7603d053-0	Q7443295	'Second Federal Republic of Mexico'@en	P1365	'replaces'@en	Q671658	'Republic of Yucatán'@en							
+Q96-P1365-Q671658-1b086531-0	Q96	'Mexico'@en	P1365	'replaces'@en	Q671658	'Republic of Yucatán'@en							
+Q371334-P1365-Q7443295-e5e8767d-0	Q371334	'Second Mexican Empire'@en	P1365	'replaces'@en	Q7443295	'Second Federal Republic of Mexico'@en							
+Q2608489-P1365-Q796651-b9c30d97-0	Q2608489	'Aztec Empire'@en	P1365	'replaces'@en	Q796651	'Azcapotzalco'@en							

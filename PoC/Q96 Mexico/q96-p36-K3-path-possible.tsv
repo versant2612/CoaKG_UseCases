@@ -1,9 +1,0 @@
-node1	label	node2	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype	id	node1	node1;label	label	label;label	node2	node2;label	node2;wikidatatype
-Q96	reachable	Q1109279	Q1109279-P36-Q1489-705acfb8-0	Q1109279	'First Mexican Republic'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								
-Q96	reachable	Q2608489	Q2608489-P36-Q13695-92b3712f-0	Q2608489	'Aztec Empire'@en	P36	'capital'@en	Q13695	'Tenochtitlan'@en	wikibase-item								
-Q96	reachable	Q285658	Q285658-P36-Q1489-030433b7-0	Q285658	'First Mexican Empire'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								
-Q96	reachable	Q371334	Q371334-P36-Q1489-ee7d9b30-0	Q371334	'Second Mexican Empire'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								
-Q96	reachable	Q5062192	Q5062192-P36-Q1489-5b92c33a-0	Q5062192	'Centralist Republic of Mexico'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								
-Q96	reachable	Q671658	Q671658-P36-Q165204-c80dbf16-0	Q671658	'Republic of Yucatán'@en	P36	'capital'@en	Q165204	'Mérida'@en	wikibase-item								
-Q96	reachable	Q7443295	Q7443295-P36-Q1489-5378084c-0	Q7443295	'Second Federal Republic of Mexico'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								
-Q96	reachable	Q796651	Q796651-P36-Q1489-648cf623-0	Q796651	'Azcapotzalco'@en	P36	'capital'@en	Q1489	'Mexico City'@en	wikibase-item								

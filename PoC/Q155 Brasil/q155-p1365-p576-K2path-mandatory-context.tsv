@@ -1,0 +1,2 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q217230-P576-613a9d-c8558178-0	Q217230	'Empire of Brazil'@en	P576	P576	^1889-11-15T00:00:00Z/11		Q217230-P576-613a9d-c8558178-0-P805-Q2294549-0	Q217230-P576-613a9d-c8558178-0		P805	'statement is subject of'@en	Q2294549	'Proclamation of the Republic'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en

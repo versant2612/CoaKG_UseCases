@@ -1,0 +1,34 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q1139807-P36-Q83247-b9d230cf-0	Q1139807	'County of Portugal'@en	P36	'capital'@en	Q83247	'Braga'@en							
+Q11876909-P36-Q8678-75559718-0	Q11876909	'State of Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en							
+Q11876909-P36-Q36947-19f24be7-0	Q11876909	'State of Brazil'@en	P36	'capital'@en	Q36947	'Salvador'@en							
+Q12536-P36-Q1530-22d21932-0	Q12536	'Abbasid Caliphate'@en	P36	'capital'@en	Q1530	'Baghdad'@en							
+Q12536-P36-Q1530-24cdfeec-0	Q12536	'Abbasid Caliphate'@en	P36	'capital'@en	Q1530	'Baghdad'@en							
+Q12536-P36-Q85-990538e5-0	Q12536	'Abbasid Caliphate'@en	P36	'capital'@en	Q85	'Cairo'@en							
+Q12536-P36-Q186234-346b3714-0	Q12536	'Abbasid Caliphate'@en	P36	'capital'@en	Q186234	'Kufa'@en							
+Q12536-P36-Q170047-a318c14d-0	Q12536	'Abbasid Caliphate'@en	P36	'capital'@en	Q170047	'Samarra'@en							
+Q160307-P36-Q289618-27b3b18b-0	Q160307	'Fatimid Caliphate'@en	P36	'capital'@en	Q289618	'Al-Mansuriya'@en							
+Q160307-P36-Q85-effb75dc-0	Q160307	'Fatimid Caliphate'@en	P36	'capital'@en	Q85	'Cairo'@en							
+Q160307-P36-Q466054-1aa681cd-0	Q160307	'Fatimid Caliphate'@en	P36	'capital'@en	Q466054	'Mahdia'@en							
+Q199688-P36-Q101625-fc2c8b10-0	Q199688	'Almohad Caliphate'@en	P36	'capital'@en	Q101625	'Marrakesh'@en							
+Q199688-P36-Q2670516-0d82eef5-0	Q199688	'Almohad Caliphate'@en	P36	'capital'@en	Q2670516	'Nedroma'@en							
+Q199688-P36-Q131818-a7f62a1d-0	Q199688	'Almohad Caliphate'@en	P36	'capital'@en	Q131818	'Oran'@en							
+Q199688-P36-Q8717-6b2a3410-0	Q199688	'Almohad Caliphate'@en	P36	'capital'@en	Q8717	'Seville'@en							
+Q205708-P36-Q5115696-e84bdd32-0	Q205708	'Taifa of Granada'@en	P36	'capital'@en	Q5115696	'Madinat Gharnāṭah'@en							
+Q207600-P36-Q179570-755377ee-0	Q207600	'Aghlabids'@en	P36	'capital'@en	Q179570	'Kairouan'@en							
+Q217230-P36-Q8678-542fb790-0	Q217230	'Empire of Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en							
+Q267484-P36-Q8851-b037caf0-0	Q267484	'Taifa of Málaga'@en	P36	'capital'@en	Q8851	'Málaga'@en							
+Q431575-P36-Q80985-4cd8fb47-0	Q431575	'Idrisid dynasty'@en	P36	'capital'@en	Q80985	'Fez'@en							
+Q431575-P36-Q391215-709203bf-0	Q431575	'Idrisid dynasty'@en	P36	'capital'@en	Q391215	'Volubilis'@en							
+Q45670-P36-Q45412-df3a1581-0	Q45670	'Kingdom of Portugal'@en	P36	'capital'@en	Q45412	'Coimbra'@en							
+Q45670-P36-Q170903-256f58b3-0	Q45670	'Kingdom of Portugal'@en	P36	'capital'@en	Q170903	'Guimarães'@en							
+Q45670-P36-Q597-9d1d6066-0	Q45670	'Kingdom of Portugal'@en	P36	'capital'@en	Q597	'Lisbon'@en							
+Q45670-P36-Q597-fb5612b8-0	Q45670	'Kingdom of Portugal'@en	P36	'capital'@en	Q597	'Lisbon'@en							
+Q45670-P36-Q8678-3d3c9c73-0	Q45670	'Kingdom of Portugal'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en							
+Q5947557-P36-Q106428150-0c258719-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P36	'capital'@en	Q106428150	'Ceuta during the Muslim domination'@en							
+Q75613-P36-Q2826842-126c3197-0	Q75613	'Almoravid dynasty'@en	P36	'capital'@en	Q2826842	'Aghmat'@en							
+Q75613-P36-Q639003-c854767b-0	Q75613	'Almoravid dynasty'@en	P36	'capital'@en	Q639003	'Azougui'@en							
+Q75613-P36-Q101625-a808e091-0	Q75613	'Almoravid dynasty'@en	P36	'capital'@en	Q101625	'Marrakesh'@en							
+Q903779-P36-Q8678-6a0c29f0-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en							
+Q940123-P36-Q21038347-eb11fa01-0	Q940123	'Rustamid dynasty'@en	P36	'capital'@en	Q21038347	'Tihert'@en							
+Q940123-P36-Q565568-2d31cb63-0	Q940123	'Rustamid dynasty'@en	P36	'capital'@en	Q565568	'Tébessa'@en							
