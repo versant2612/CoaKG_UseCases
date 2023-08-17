@@ -131,6 +131,7 @@ ckg:c129	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P37	'official l
 ckg:c130	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c131	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c132	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
+ckg:c133	ckg:c47		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c134	ckgT1	Temporal	ckgr1	ckg:Represented By	P1264	'valid in period'@en
 ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en
 ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en
@@ -168,4 +169,6 @@ ckg:c167	ckg:c118		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c168	ckg:c121		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c169	ckg:c127		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c170	ckg:c132		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c171	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1313	'office held by head of government'@en
+ckg:c172	ckg:c171		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje

@@ -2,3 +2,5 @@ id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	la
 Q155-P36-Q8678-f61fa840-0	Q155	'Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en	Q155-P36-Q8678-f61fa840-0-P580	Q155-P36-Q8678-f61fa840-0		P580	'start time'@en	unknown	
 Q155-P36-Q2844-dc7767a2-0	Q155	'Brazil'@en	P36	'capital'@en	Q2844	'Brasília'@en	Q155-P36-Q2844-dc7767a2-0-P5102	Q155-P36-Q2844-dc7767a2-0		P5102	'nature of statement'@en	unknown	
 Q155-P36-Q8678-f61fa840-0	Q155	'Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en	Q155-P36-Q8678-f61fa840-0-P5102	Q155-P36-Q8678-f61fa840-0		P5102	'nature of statement'@en	unknown	
+Q155-P36-Q2844-dc7767a2-0	Q155	'Brazil'@en	P36	'capital'@en	Q2844	'Brasília'@en	Q155-P36-Q2844-dc7767a2-0-P805	Q155-P36-Q2844-dc7767a2-0		P805	'statement is subject of'@en	unknown	
+Q155-P36-Q8678-f61fa840-0	Q155	'Brazil'@en	P36	'capital'@en	Q8678	'Rio de Janeiro'@en	Q155-P36-Q8678-f61fa840-0-P805	Q155-P36-Q8678-f61fa840-0		P805	'statement is subject of'@en	unknown	

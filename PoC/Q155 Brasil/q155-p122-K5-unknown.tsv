@@ -1,1 +1,7 @@
 id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P122-Q512187-3290be57-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q512187	'federal republic'@en	Q155-P122-Q512187-3290be57-0-P580	Q155-P122-Q512187-3290be57-0		P580	'start time'@en	unknown	
+Q155-P122-Q49892-bb752b52-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q49892	'presidential system'@en	Q155-P122-Q49892-bb752b52-0-P580	Q155-P122-Q49892-bb752b52-0		P580	'start time'@en	unknown	
+Q155-P122-Q188759-c1049d27-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q188759	'representative democracy'@en	Q155-P122-Q188759-c1049d27-0-P580	Q155-P122-Q188759-c1049d27-0		P580	'start time'@en	unknown	
+Q155-P122-Q512187-3290be57-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q512187	'federal republic'@en	Q155-P122-Q512187-3290be57-0-P805	Q155-P122-Q512187-3290be57-0		P805	'statement is subject of'@en	unknown	
+Q155-P122-Q49892-bb752b52-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q49892	'presidential system'@en	Q155-P122-Q49892-bb752b52-0-P805	Q155-P122-Q49892-bb752b52-0		P805	'statement is subject of'@en	unknown	
+Q155-P122-Q188759-c1049d27-0	Q155	'Brazil'@en	P122	'basic form of government'@en	Q188759	'representative democracy'@en	Q155-P122-Q188759-c1049d27-0-P805	Q155-P122-Q188759-c1049d27-0		P805	'statement is subject of'@en	unknown	

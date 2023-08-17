@@ -587,9 +587,9 @@ printf "aqui8 "
 -o /app/kgtk/data/WD_PoC/q96-languages-K6-qualified.tsv
 
 \time --format='Elapsed time: %e seconds'  kgtk --debug query -i $GRAPH_CLAIMS --as cc -i $GRAPH_QUALS --as cq -i $GRAPH_CKG_POC --as ckg --force \
---match 'cc: (:Q96 {label: c_label})-[p1 {label: pred_label}]->(v1 {label: v1_label}), ckg: (C {label: C_label})-[pc2:ckgr1]->(c1 {label: c1_label})-[pc1:ckgr2]->(pred) ' \
+--match 'cc: (:Q96 {label: c_label})-[p1 {`label;label`: p_label}]->(v1 {label: v1_label}), ckg: (C {label: C_label})-[pc2:ckgr1]->(c1 {label: c1_label})-[pc1:ckgr2]->(pred) ' \
 --where 'EXISTS {ckg: (pc1)-[pc3:ckgp1]->(ckgl2)} AND NOT EXISTS {cq: (p1)-[q1]->(v2) where q1.label = c1} AND p1.label in ["P2936", "P37", "P103"] ' \
---return 'p1 as id, "Q96" as node1, c_label as `node1;label`, p1.label as label, pred_label as `label;label`, v1 as node2, v1_label as `node2;label`, concat(p1,"-",c1) as id, p1 as node1, "" as `node1;label`, c1 as label, c1_label as `label;label`, "unknown" as node2, "" as `node2;label` ' \
+--return 'p1 as id, "Q96" as node1, c_label as `node1;label`, p1.label as label, p_label as `label;label`, v1 as node2, v1_label as `node2;label`, concat(p1,"-",c1) as id, p1 as node1, "" as `node1;label`, c1 as label, c1_label as `label;label`, "unknown" as node2, "" as `node2;label` ' \
 -o /app/kgtk/data/WD_PoC/q96-languages-K6-unknown.tsv
 
 exit 0 
