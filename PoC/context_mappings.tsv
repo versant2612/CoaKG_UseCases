@@ -12,7 +12,7 @@ ckg:c10	ckgL1	Location	is_a	rdf:type	ckg:KnowledgeContext
 ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en
 ckg:c12	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c13	ckgL1	Location	ckgr1	ckg:Represented By	P3005	'valid in place'@en
-ckg:c14	P3005	'valid in place'@en	ckg:Contextualizes	P1365	'replaces'@en
+ckg:c14	P3005	'valid in place'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c15	ckgP1	Provenance	is_a	rdf:type	ckg:KnowledgeContext	
 ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en
 ckg:c17	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
