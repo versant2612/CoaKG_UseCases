@@ -15,7 +15,7 @@ ckg:c13	ckgL1	Location	ckgr1	ckg:Represented By	P3005	'valid in place'@en
 ckg:c14	P3005	'valid in place'@en	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c15	ckgP1	Provenance	is_a	rdf:type	ckg:KnowledgeContext	
 ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en
-ckg:c17	P92	    'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
+ckg:c17	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
 ckg:c19	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en
@@ -131,7 +131,6 @@ ckg:c129	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P37	'official l
 ckg:c130	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c131	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c132	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
-ckg:c133	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en
 ckg:c134	ckgT1	Temporal	ckgr1	ckg:Represented By	P1264	'valid in period'@en
 ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en
 ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en
