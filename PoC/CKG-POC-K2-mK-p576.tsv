@@ -1,1 +1,16 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c77	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en		ckg:c77					
+ckg:c78	P1534	'end cause'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en		ckg:c78					
+ckg:c79	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c137	ckgP1	Provenance	ckgr1	ckg:Represented By	P1480	'sourcing circumstances'@en		ckg:c79					
+ckg:c80	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en	ckg:c157	ckg:c80		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c81	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en		ckg:c81					
+ckg:c82	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c82					
+ckg:c82	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c133	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c82					
+ckg:c83	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c138	ckgP1	Provenance	ckgr1	ckg:Represented By	P1013	'criterion used'@en		ckg:c83					
+ckg:c84	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c26	ckgP1	Provenance	ckgr1	ckg:Represented By	P3680	'statement supported by'@en		ckg:c84					
+ckg:c85	P770	'cause of destruction'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c147	ckgP1	Provenance	ckgr1	ckg:Represented By	P770	'cause of destruction'@en		ckg:c85					
+ckg:c86	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en		ckg:c86					
+ckg:c87	P361	'part of'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c148	ckgL1	Location	ckgr1	ckg:Represented By	P361	'part of'@en		ckg:c87					
+ckg:c88	P1319	'earliest date'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c140	ckgT1	Temporal	ckgr1	ckg:Represented By	P1319	'earliest date'@en		ckg:c88					
+ckg:c89	P1326	'latest date'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c139	ckgT1	Temporal	ckgr1	ckg:Represented By	P1326	'latest date'@en		ckg:c89					
+ckg:c90	P4241	'refine date'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en	ckg:c141	ckgT1	Temporal	ckgr1	ckg:Represented By	P4241	'refine date'@en		ckg:c90					

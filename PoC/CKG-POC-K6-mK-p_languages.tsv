@@ -1,0 +1,16 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c118	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c6	ckgT1	Temporal	ckgr1	ckg:Represented By	P585	'point in time'@en		ckg:c118					
+ckg:c119	P580	'start time'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en		ckg:c119					
+ckg:c120	P582	'end time'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c120					
+ckg:c121	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en		ckg:c121					
+ckg:c122	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c150	ckgP1	Provenance	ckgr1	ckg:Represented By	P3831	'object has role'@en		ckg:c122					
+ckg:c123	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P2936	'language used'@en	ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en		ckg:c123					
+ckg:c124	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en		ckg:c124					
+ckg:c125	P1001	'applies to jurisdiction'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c146	ckgL1	Location	ckgr1	ckg:Represented By	P1001	'applies to jurisdiction'@en		ckg:c125					
+ckg:c126	P3005	'valid in place'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c13	ckgL1	Location	ckgr1	ckg:Represented By	P3005	'valid in place'@en		ckg:c126					
+ckg:c127	P580	'start time'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en		ckg:c127					
+ckg:c128	P582	'end time'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c128					
+ckg:c129	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en		ckg:c129					
+ckg:c130	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c150	ckgP1	Provenance	ckgr1	ckg:Represented By	P3831	'object has role'@en		ckg:c130					
+ckg:c131	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c138	ckgP1	Provenance	ckgr1	ckg:Represented By	P1013	'criterion used'@en		ckg:c131					
+ckg:c132	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en		ckg:c132					

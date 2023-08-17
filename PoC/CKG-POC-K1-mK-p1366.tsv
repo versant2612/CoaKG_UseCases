@@ -1,21 +1,12 @@
-id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en
-ckg:c29	P580	'start time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c6	ckgT1	Temporal	ckgr1	ckg:Represented By	P585	'point in time'@en
-ckg:c30	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	P576	'dissolved, abolished or demolished date'@en
-ckg:c31	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en
-ckg:c32	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	    'main regulatory text'@en
-ckg:c34	P92	    'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
-ckg:c35	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en
-ckg:c36	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en
-ckg:c37	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c24	ckgP1	Provenance	ckgr1	ckg:Represented By	P1478	'has immediate cause'@en
-ckg:c38	P1478	'has immediate cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c26	ckgP1	Provenance	ckgr1	ckg:Represented By	P3680	'statement supported by'@en
-ckg:c39	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c29	P580	'start time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en	ckg:c55	ckg:c29		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c30	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c6	ckgT1	Temporal	ckgr1	ckg:Represented By	P585	'point in time'@en	ckg:c154	ckg:c30		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c31	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	P576	'dissolved, abolished or demolished date'@en		ckg:c31					
+ckg:c32	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en		ckg:c32					
+ckg:c34	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c34					
+ckg:c34	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c133	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c34					
+ckg:c35	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en		ckg:c35					
+ckg:c36	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en	ckg:c155	ckg:c36		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c37	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en		ckg:c37					
+ckg:c38	P1478	'has immediate cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c24	ckgP1	Provenance	ckgr1	ckg:Represented By	P1478	'has immediate cause'@en		ckg:c38					
+ckg:c39	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en	ckg:c26	ckgP1	Provenance	ckgr1	ckg:Represented By	P3680	'statement supported by'@en		ckg:c39					

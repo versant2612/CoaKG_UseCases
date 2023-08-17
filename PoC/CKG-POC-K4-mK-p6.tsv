@@ -1,1 +1,7 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c97	P580	'start time'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en	ckg:c160	ckg:c97		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c98	P582	'end time'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c98					
+ckg:c99	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en	ckg:c161	ckg:c99		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c100	P1534	'end cause'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en		ckg:c100					
+ckg:c101	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c137	ckgP1	Provenance	ckgr1	ckg:Represented By	P1480	'sourcing circumstances'@en		ckg:c101					
+ckg:c102	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P6	'head of government'@en	ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en		ckg:c102					

@@ -1,1 +1,4 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c108	P580	'start time'@en	ckgr2	ckg:Contextualizes	P1313	'office held by head of government'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en		ckg:c108					
+ckg:c109	P582	'end time'@en	ckgr2	ckg:Contextualizes	P1313	'office held by head of government'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c109					
+ckg:c110	P1001	'applies to jurisdiction'@en	ckgr2	ckg:Contextualizes	P1313	'office held by head of government'@en	ckg:c146	ckgL1	Location	ckgr1	ckg:Represented By	P1001	'applies to jurisdiction'@en		ckg:c110					

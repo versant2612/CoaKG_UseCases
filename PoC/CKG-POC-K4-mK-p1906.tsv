@@ -1,1 +1,6 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c103	P580	'start time'@en	ckgr2	ckg:Contextualizes	P1906	'office held by head of state'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en		ckg:c103					
+ckg:c104	P582	'end time'@en	ckgr2	ckg:Contextualizes	P1906	'office held by head of state'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c104					
+ckg:c105	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P1906	'office held by head of state'@en	ckg:c150	ckgP1	Provenance	ckgr1	ckg:Represented By	P3831	'object has role'@en		ckg:c105					
+ckg:c106	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1906	'office held by head of state'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en		ckg:c106					
+ckg:c107	P276	'location'@en	ckgr2	ckg:Contextualizes	P1906	'office held by head of state'@en	ckg:c151	ckgL1	Location	ckgr1	ckg:Represented By	P276	'location'@en		ckg:c107					

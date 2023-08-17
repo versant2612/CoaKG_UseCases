@@ -1,1 +1,7 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c91	P580	'start time'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en	ckg:c158	ckg:c91		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c92	P582	'end time'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c92					
+ckg:c93	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en		ckg:c93					
+ckg:c94	P1534	'end cause'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en		ckg:c94					
+ckg:c95	P2868	'subject has role'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c149	ckgP1	Provenance	ckgr1	ckg:Represented By	P2868	'subject has role'@en		ckg:c95					
+ckg:c96	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P35	'head of state'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en	ckg:c159	ckg:c96		ckgp1	ckgp1	ckgl2	Mandatory

@@ -1,1 +1,21 @@
-id	node1	node1;label	label	label;label	node2	node2;label
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c58	P1326	'latest date'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c139	ckgT1	Temporal	ckgr1	ckg:Represented By	P1326	'latest date'@en		ckg:c58					
+ckg:c59	P1319	'earliest date'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c140	ckgT1	Temporal	ckgr1	ckg:Represented By	P1319	'earliest date'@en		ckg:c59					
+ckg:c60	P582	'end time'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	P582	'end time'@en		ckg:c60					
+ckg:c61	P4241	'refine date'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c141	ckgT1	Temporal	ckgr1	ckg:Represented By	P4241	'refine date'@en		ckg:c61					
+ckg:c62	P8555	'latest start date'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c142	ckgT1	Temporal	ckgr1	ckg:Represented By	P8555	'latest start date'@en		ckg:c62					
+ckg:c63	P2348	'time period'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c143	ckgT1	Temporal	ckgr1	ckg:Represented By	P2348	'time period'@en		ckg:c63					
+ckg:c64	P580	'start time'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	P580	'start time'@en		ckg:c64					
+ckg:c65	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en	ckg:c156	ckg:c65		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c66	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c137	ckgP1	Provenance	ckgr1	ckg:Represented By	P1480	'sourcing circumstances'@en		ckg:c66					
+ckg:c67	P4649	'identity of subject in context'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c144	ckgP1	Provenance	ckgr1	ckg:Represented By	P4649	'identity of subject in context'@en		ckg:c67					
+ckg:c68	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en		ckg:c68					
+ckg:c69	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c138	ckgP1	Provenance	ckgr1	ckg:Represented By	P1013	'criterion used'@en		ckg:c69					
+ckg:c70	P457	'foundational text'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c145	ckgP1	Provenance	ckgr1	ckg:Represented By	P457	'foundational text'@en		ckg:c70					
+ckg:c71	P1478	'has immediate cause'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c24	ckgP1	Provenance	ckgr1	ckg:Represented By	P1478	'has immediate cause'@en		ckg:c71					
+ckg:c72	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en		ckg:c72					
+ckg:c73	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en		ckg:c73					
+ckg:c74	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c74					
+ckg:c74	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c133	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en		ckg:c74					
+ckg:c75	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c11	ckgL1	Location	ckgr1	ckg:Represented By	P518	'applies to part'@en		ckg:c75					
+ckg:c76	P1001	'applies to jurisdiction'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en	ckg:c146	ckgL1	Location	ckgr1	ckg:Represented By	P1001	'applies to jurisdiction'@en		ckg:c76					
