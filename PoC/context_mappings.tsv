@@ -171,4 +171,32 @@ ckg:c169	ckg:c127		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c170	ckg:c132		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c171	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1313	'office held by head of government'@en
 ckg:c172	ckg:c171		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c173	ckgL1	Location	ckgr1	ckg:Represented By	P30	'continent'@en
+ckg:c174	ckgL1	Location	ckgr1	ckg:Represented By	P17	'country'@en
+ckg:c175	P30	continent	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en
+ckg:c176	P30	continent	ckgr2	ckg:Contextualizes	Q6256	'country'@en
+ckg:c177	P17	country	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en
+ckg:c178	P17	country	ckgr2	ckg:Contextualizes	Q6256	'country'@en
+ckg:c179	P298	ISO 3166-1 alpha-3 code	ckgr4	ckg:Identifies	Q3624078	'sovereign state'@en
+ckg:c180	P1566	GeoNames ID code	ckgr4	ckg:Identifies	Q3624078	'sovereign state'@en
+ckg:c181	P298	ISO 3166-1 alpha-3 code	ckgr4	ckg:Identifies	Q6256	'country'@en
+ckg:c182	P1566	GeoNames ID code	ckgr4	ckg:Identifies	Q6256	'country'@en 
+ckg:c183	ckgG1	Generic	ckgr1	ckg:Represented By	P31	'instance of'@en
+ckg:c184	ckgG1	Generic	ckgr1	ckg:Represented By	P1813	'short name'@en
+ckg:c185	ckgG1	Generic	ckgr1	ckg:Represented By	P1448	'official name'@en	 
+ckg:c186	ckgG1	Generic	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
+ckg:c187	ckgG1	Generic	ckgr1	ckg:Represented By	P1310	'statement disputed by'@en
+ckg:c188	ckgG1	Generic	ckgr1	ckg:Represented By	P7452	'reason for preferred rank'@en
+ckg:c189	ckgG1	Generic	ckgr1	ckg:Represented By	P2241	'reason for deprecated rank'@en
+ckg:c190	ckgG1	Generic	is_a	rdf:type	ckg:KnowledgeContext	
+ckg:c191	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en
+ckg:c192	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en
+ckg:c193	ckgT1	Temporal	ckgr1	ckg:Represented By	P571	'inception'@en
+ckg:c194	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en
+ckg:c195	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en
+ckg:c196	ckg:c177		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c197	ckg:c178		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c198	ckg:c183		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c199	ckg:c194		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c200	ckg:c195		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje
