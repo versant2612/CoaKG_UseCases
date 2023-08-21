@@ -1,4 +1,2 @@
-id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
-Q155-P3896-3b4c5b-c0e99cde-0	Q155	'Brazil'@en	P3896	'geoshape'@en	"Data:Brazil.map"		Q155-P3896-3b4c5b-c0e99cde-0-P580	Q155-P3896-3b4c5b-c0e99cde-0		P580	'start time'@en	unknown	
-Q155-P3896-3b4c5b-c0e99cde-0	Q155	'Brazil'@en	P3896	'geoshape'@en	"Data:Brazil.map"		Q155-P3896-3b4c5b-c0e99cde-0-P585	Q155-P3896-3b4c5b-c0e99cde-0		P585	'point in time'@en	unknown	
-Q155-P3896-3b4c5b-c0e99cde-0	Q155	'Brazil'@en	P3896	'geoshape'@en	"Data:Brazil.map"		Q155-P3896-3b4c5b-c0e99cde-0-P828	Q155-P3896-3b4c5b-c0e99cde-0		P828	'has cause'@en	unknown	
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P3896-3b4c5b-c0e99cde-0	Q155	'Brazil'@en	P3896	'geoshape'@en	"Data:Brazil.map"		Q155-P3896-3b4c5b-c0e99cde-0-P585	Q155-P3896-3b4c5b-c0e99cde-0		P585	'point in time'@en	unknown		ckg:c6-P585	Q155-P3896-3b4c5b-c0e99cde-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal

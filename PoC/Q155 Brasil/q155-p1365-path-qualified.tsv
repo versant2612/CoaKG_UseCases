@@ -1,0 +1,35 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+Q45670-P1365-Q1139807-037bc097-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q1139807	'County of Portugal'@en							
+Q903779-P1365-Q11876909-91806821-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q11876909	'State of Brazil'@en							
+Q12560-P1365-Q12536-6074dfa5-0	Q12560	'Ottoman Empire'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en							
+Q160307-P1365-Q12536-52103813-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en							
+Q1250763-P1365-Q160307-595ec7e0-0	Q1250763	'Emirate of Sicily'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q180114-P1365-Q160307-f361fbbb-0	Q180114	'Ayyubid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q189545-P1365-Q160307-7f6ab3e0-0	Q189545	'Zengid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q199688-P1365-Q160307-b1eb37ad-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q205718-P1365-Q160307-0f8cbd73-0	Q205718	'Zirid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q232806-P1365-Q160307-5bf1f061-0	Q232806	'County of Edessa'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q235030-P1365-Q160307-5c540cd9-0	Q235030	'Principality of Antioch'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q272033-P1365-Q160307-5c7434dd-0	Q272033	'County of Tripoli'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q55502-P1365-Q160307-d98c1649-0	Q55502	'Kingdom of Jerusalem'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q588672-P1365-Q160307-81a9864a-0	Q588672	'Hammadid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en							
+Q1796198-P1365-Q199688-42ec0cd3-0	Q1796198	'Kingdom of Córdoba'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en							
+Q1796239-P1365-Q199688-3390142b-0	Q1796239	'Kingdom of Seville'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en							
+Q45670-P1365-Q199688-33fd9675-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en							
+Q582861-P1365-Q199688-4bcd5af2-0	Q582861	'Marinid Dynasty'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en							
+Q75613-P1365-Q205708-537b2af0-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q205708	'Taifa of Granada'@en							
+Q160307-P1365-Q207600-f82e8f77-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q207600	'Aghlabids'@en							
+Q155-P1365-Q217230-19ed8df2-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q217230	'Empire of Brazil'@en							
+Q5947557-P1365-Q267484-fc20b913-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P1365	'replaces'@en	Q267484	'Taifa of Málaga'@en							
+Q217230-P1365-Q3932042-f47ad438-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q3932042	'Kingdom of Brazil'@en							
+Q160307-P1365-Q431575-15dafac2-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q431575	'Idrisid dynasty'@en							
+Q45-P1365-Q45670-84f93933-0	Q45	'Portugal'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en							
+Q903779-P1365-Q45670-37b2006f-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en							
+Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en							
+Q75613-P1365-Q5947557-f0fbc408-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q5947557	'Taifa of Ceuta (1061-1084)'@en							
+Q199688-P1365-Q75613-2b6891d0-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q75613	'Almoravid dynasty'@en							
+Q160307-P1365-Q828665-8c65ac0c-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q828665	'Ikhshidid dynasty'@en							
+Q217230-P1365-Q903779-bfbd464b-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en							
+Q45670-P1365-Q903779-5599931b-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en							
+Q160307-P1365-Q940123-f40012b0-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q940123	'Rustamid dynasty'@en							
+Q75613-P1365-Q965692-203baff7-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q965692	'taifa (first period)'@en							

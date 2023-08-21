@@ -1,0 +1,103 @@
+strict graph "q155-K2" {
+	label="When country_oficial_name was established?"
+	fontsize=20
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P571-9c5ecd-c64bdc96-0" [label=P571]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="'inception'@en"]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0-P805" [label=""]
+	node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+	"Q155-P571-9c5ecd-c64bdc96-0-P805unknown" [label=unknown]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0-P805" [label=P805 color=navyblue]
+	"Q155-P571-9c5ecd-c64bdc96-0-P805" -- "Q155-P571-9c5ecd-c64bdc96-0-P805unknown" [label="'statement is subject of'@en" color=navyblue]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0-P805" [label=""]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"ckg_c22-P805" [label=""]
+	node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+	ckgP1 [label=Provenance]
+	"Q155-P571-9c5ecd-c64bdc96-0-P805" -- "ckg_c22-P805" [label=ckgr9]
+	"ckg_c22-P805" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P571-9c5ecd-c64bdc96-0" [label=P571]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P571-9c5ecd-c64bdc96-0" [label=P571]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		Q217230 [label="'Empire of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q217230-19ed8df2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P1365-Q217230-19ed8df2-0" [label=P1365]
+	"Q155-P1365-Q217230-19ed8df2-0" -- Q217230 [label="'replaces'@en"]
+	node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+	Q217230 [label="'Empire of Brazil'@en"]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q217230-P576-613a9d-c8558178-0" [label=""]
+	node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+	"Q217230-P576-613a9d-c8558178-0^1889-11-15T00_00_00Z/11" [label="^1889-11-15T00:00:00Z/11"]
+	Q217230 -- "Q217230-P576-613a9d-c8558178-0" [label=P576 color=navyblue]
+	"Q217230-P576-613a9d-c8558178-0" -- "Q217230-P576-613a9d-c8558178-0^1889-11-15T00_00_00Z/11" [label="'dissolved, abolished or demolished date'@en" color=navyblue]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P571-9c5ecd-c64bdc96-0" [label=P571]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0^1822-09-07T00_00_00Z/11" [label="'inception'@en"]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0" [label=""]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0" [label=""]
+	node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+	Q217230 [label="'Empire of Brazil'@en"]
+	"Q155-P571-9c5ecd-c64bdc96-0" -- "Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0" [label=P518 color=navyblue]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0" -- Q217230 [label="'applies to part'@en" color=navyblue]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0" [label=""]
+	node [color=orange fontsize=10 shape=point style=filled]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0-P518" [label=""]
+	node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+	ckgL1 [label=Location]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0" -- "Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0-P518" [label=ckgr9]
+	"Q155-P571-9c5ecd-c64bdc96-0-P518-Q217230-0-P518" -- ckgL1 [label="ckg:Context Type"]
+}
