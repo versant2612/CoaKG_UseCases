@@ -99,7 +99,7 @@ ckg:czz-P854	Q96-P571-4c1245-c3d094e3-0-P854-ref1		ckgr9	ckg:Context Type	ckgP1	
 ckg:cxx-P7452	Q96-P571-4c1245-c3d094e3-0-P7452		ckgr9	ckg:Context Type	ckgG1	Generic
 Q96-P571-4c1245-c3d094e3-0-7452	Q96-P571-4c1245-c3d094e3-0		P7452	'reason for preferred rank'@en	unknown	
 Q96-P571-4c1245-c3d094x1-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-08-24T00:00:00Z/11	
-Q96-P571-4c1245-c3d094x1-0-P805-Q767450	Q96-P571-4c1245-c3d094x1-0	P805	'statement is subject of'@en	Q767450	'Treaty of Córdoba'@en
+Q96-P571-4c1245-c3d094x1-0-P805-Q767450	Q96-P571-4c1245-c3d094x1-0		P805	'statement is subject of'@en	Q767450	'Treaty of Córdoba'@en
 Q96-P571-4c1245-c3d094x1-0-P1013-Q60021702	Q96-P571-4c1245-c3d094x1-0		P1013	'criterion used'@en	Q60021702	'independence recognized by country from which it separated'@en
 Q96-P571-4c1245-c3d094x1-0-P807-Q29-0	Q96-P571-4c1245-c3d094x1-0		P807	'separated from'@en	Q29	'Spain'@en
 Q96-P571-4c1245-c3d094x1-0-P2241-Q60021722-0	Q96-P571-4c1245-c3d094x1-0		P2241	'reason for deprecated rank'@en	Q60021722	'treaty not ratified'@en
