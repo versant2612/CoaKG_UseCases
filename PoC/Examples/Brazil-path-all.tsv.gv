@@ -1,0 +1,4206 @@
+strict graph "Brazil-path-all.tsv" {
+	fontsize=20
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P828" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c20-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0-P828" -- "ckg_c20-P828" [label=ckgr9]
+	"ckg_c20-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P580" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c2-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0-P580" -- "ckg_c2-P580" [label=ckgr9]
+	"ckg_c2-P580" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0-P585" -- "ckg_c6-P585" [label=ckgr9]
+	"ckg_c6-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P17-Q175276-1a871042-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q175276-1a871042-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P17-Q175276-1a871042-0" -- "Q1139807-P17-Q175276-1a871042-0-P17" [label=ckgr9]
+	"Q1139807-P17-Q175276-1a871042-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		Q175276 [label="'Kingdom of León'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q175276-1a871042-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P17-Q175276-1a871042-0" [label=P17]
+	"Q1139807-P17-Q175276-1a871042-0" -- Q175276 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P17-Q175276-3efb2a16-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q175276-3efb2a16-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P17-Q175276-3efb2a16-0" -- "Q1139807-P17-Q175276-3efb2a16-0-P17" [label=ckgr9]
+	"Q1139807-P17-Q175276-3efb2a16-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		Q175276 [label="'Kingdom of León'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q175276-3efb2a16-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P17-Q175276-3efb2a16-0" [label=P17]
+	"Q1139807-P17-Q175276-3efb2a16-0" -- Q175276 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P17-Q231392-57d23ee3-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q231392-57d23ee3-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P17-Q231392-57d23ee3-0" -- "Q1139807-P17-Q231392-57d23ee3-0-P17" [label=ckgr9]
+	"Q1139807-P17-Q231392-57d23ee3-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		Q231392 [label="'Kingdom of Asturias'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q231392-57d23ee3-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P17-Q231392-57d23ee3-0" [label=P17]
+	"Q1139807-P17-Q231392-57d23ee3-0" -- Q231392 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P17-Q303421-997e016b-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q303421-997e016b-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P17-Q303421-997e016b-0" -- "Q1139807-P17-Q303421-997e016b-0-P17" [label=ckgr9]
+	"Q1139807-P17-Q303421-997e016b-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		Q303421 [label="'Kingdom of Galicia'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P17-Q303421-997e016b-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P17-Q303421-997e016b-0" [label=P17]
+	"Q1139807-P17-Q303421-997e016b-0" -- Q303421 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P31-Q3024240-e26bbdb4-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P31-Q3024240-e26bbdb4-0" [label=P31]
+	"Q1139807-P31-Q3024240-e26bbdb4-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P571-2e5157-e41a63b1-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P571-2e5157-e41a63b1-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P571-2e5157-e41a63b1-0" -- "Q1139807-P571-2e5157-e41a63b1-0-P571" [label=ckgr9]
+	"Q1139807-P571-2e5157-e41a63b1-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1139807-P571-2e5157-e41a63b1-0^0868-01-01T00_00_00Z/9" [label="^0868-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P571-2e5157-e41a63b1-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P571-2e5157-e41a63b1-0" [label=P571]
+	"Q1139807-P571-2e5157-e41a63b1-0" -- "Q1139807-P571-2e5157-e41a63b1-0^0868-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1139807-P576-e42ac7-4cf5e2bf-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P576-e42ac7-4cf5e2bf-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1139807-P576-e42ac7-4cf5e2bf-0" -- "Q1139807-P576-e42ac7-4cf5e2bf-0-P576" [label=ckgr9]
+	"Q1139807-P576-e42ac7-4cf5e2bf-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1139807 [label="'County of Portugal'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1139807-P576-e42ac7-4cf5e2bf-0^1139-01-01T00_00_00Z/9" [label="^1139-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1139807-P576-e42ac7-4cf5e2bf-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1139807 -- "Q1139807-P576-e42ac7-4cf5e2bf-0" [label=P576]
+	"Q1139807-P576-e42ac7-4cf5e2bf-0" -- "Q1139807-P576-e42ac7-4cf5e2bf-0^1139-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q11876909-P17-Q200464-ab4b958d-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P17-Q200464-ab4b958d-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q11876909-P17-Q200464-ab4b958d-0" -- "Q11876909-P17-Q200464-ab4b958d-0-P17" [label=ckgr9]
+	"Q11876909-P17-Q200464-ab4b958d-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q11876909 [label="'State of Brazil'@en"]
+		Q200464 [label="'Portuguese Empire'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P17-Q200464-ab4b958d-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q11876909 -- "Q11876909-P17-Q200464-ab4b958d-0" [label=P17]
+	"Q11876909-P17-Q200464-ab4b958d-0" -- Q200464 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q11876909 [label="'State of Brazil'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P31-Q3024240-63949960-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q11876909 -- "Q11876909-P31-Q3024240-63949960-0" [label=P31]
+	"Q11876909-P31-Q3024240-63949960-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q11876909-P571-df34ef-3f84fbde-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P571-df34ef-3f84fbde-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q11876909-P571-df34ef-3f84fbde-0" -- "Q11876909-P571-df34ef-3f84fbde-0-P571" [label=ckgr9]
+	"Q11876909-P571-df34ef-3f84fbde-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q11876909 [label="'State of Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q11876909-P571-df34ef-3f84fbde-0^1621-06-13T00_00_00Z/11" [label="^1621-06-13T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P571-df34ef-3f84fbde-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q11876909 -- "Q11876909-P571-df34ef-3f84fbde-0" [label=P571]
+	"Q11876909-P571-df34ef-3f84fbde-0" -- "Q11876909-P571-df34ef-3f84fbde-0^1621-06-13T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q11876909-P576-895cae-3256228c-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P576-895cae-3256228c-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q11876909-P576-895cae-3256228c-0" -- "Q11876909-P576-895cae-3256228c-0-P576" [label=ckgr9]
+	"Q11876909-P576-895cae-3256228c-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q11876909 [label="'State of Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q11876909-P576-895cae-3256228c-0^1815-01-01T00_00_00Z/9" [label="^1815-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q11876909-P576-895cae-3256228c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q11876909 -- "Q11876909-P576-895cae-3256228c-0" [label=P576]
+	"Q11876909-P576-895cae-3256228c-0" -- "Q11876909-P576-895cae-3256228c-0^1815-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0" -- "Q1250763-P1365-Q160307-595ec7e0-0-P580" [label=P580]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P580" -- "Q1250763-P1365-Q160307-595ec7e0-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0" -- "Q1250763-P1365-Q160307-595ec7e0-0-P585" [label=P585]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P585" -- "Q1250763-P1365-Q160307-595ec7e0-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1250763-P1365-Q160307-595ec7e0-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1250763-P1365-Q160307-595ec7e0-0" -- "Q1250763-P1365-Q160307-595ec7e0-0-P828" [label=P828]
+	"Q1250763-P1365-Q160307-595ec7e0-0-P828" -- "Q1250763-P1365-Q160307-595ec7e0-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1250763 [label="'Emirate of Sicily'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1250763-P1365-Q160307-595ec7e0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1250763 -- "Q1250763-P1365-Q160307-595ec7e0-0" [label=P1365]
+	"Q1250763-P1365-Q160307-595ec7e0-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q12536 [label="'Abbasid Caliphate'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12536-P31-Q3024240-e8c1f841-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q12536 -- "Q12536-P31-Q3024240-e8c1f841-0" [label=P31]
+	"Q12536-P31-Q3024240-e8c1f841-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12536-P571-4aa902-e0e4aab3-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12536-P571-4aa902-e0e4aab3-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12536-P571-4aa902-e0e4aab3-0" -- "Q12536-P571-4aa902-e0e4aab3-0-P571" [label=ckgr9]
+	"Q12536-P571-4aa902-e0e4aab3-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q12536 [label="'Abbasid Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q12536-P571-4aa902-e0e4aab3-0^0750-01-01T00_00_00Z/9" [label="^0750-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12536-P571-4aa902-e0e4aab3-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q12536 -- "Q12536-P571-4aa902-e0e4aab3-0" [label=P571]
+	"Q12536-P571-4aa902-e0e4aab3-0" -- "Q12536-P571-4aa902-e0e4aab3-0^0750-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12536-P576-2b441b-5e6218e0-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12536-P576-2b441b-5e6218e0-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12536-P576-2b441b-5e6218e0-0" -- "Q12536-P576-2b441b-5e6218e0-0-P576" [label=ckgr9]
+	"Q12536-P576-2b441b-5e6218e0-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q12536 [label="'Abbasid Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q12536-P576-2b441b-5e6218e0-0^1258-01-01T00_00_00Z/9" [label="^1258-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12536-P576-2b441b-5e6218e0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q12536 -- "Q12536-P576-2b441b-5e6218e0-0" [label=P576]
+	"Q12536-P576-2b441b-5e6218e0-0" -- "Q12536-P576-2b441b-5e6218e0-0^1258-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12560-P1365-Q12536-6074dfa5-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0" -- "Q12560-P1365-Q12536-6074dfa5-0-P580" [label=P580]
+	"Q12560-P1365-Q12536-6074dfa5-0-P580" -- "Q12560-P1365-Q12536-6074dfa5-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12560-P1365-Q12536-6074dfa5-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0" -- "Q12560-P1365-Q12536-6074dfa5-0-P585" [label=P585]
+	"Q12560-P1365-Q12536-6074dfa5-0-P585" -- "Q12560-P1365-Q12536-6074dfa5-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q12560-P1365-Q12536-6074dfa5-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12560-P1365-Q12536-6074dfa5-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q12560-P1365-Q12536-6074dfa5-0" -- "Q12560-P1365-Q12536-6074dfa5-0-P828" [label=P828]
+	"Q12560-P1365-Q12536-6074dfa5-0-P828" -- "Q12560-P1365-Q12536-6074dfa5-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q12560 [label="'Ottoman Empire'@en"]
+		Q12536 [label="'Abbasid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q12560-P1365-Q12536-6074dfa5-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q12560 -- "Q12560-P1365-Q12536-6074dfa5-0" [label=P1365]
+	"Q12560-P1365-Q12536-6074dfa5-0" -- Q12536 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q217230-19ed8df2-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0" -- "Q155-P1365-Q217230-19ed8df2-0-P580" [label=P580]
+	"Q155-P1365-Q217230-19ed8df2-0-P580" -- "Q155-P1365-Q217230-19ed8df2-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q217230-19ed8df2-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0" -- "Q155-P1365-Q217230-19ed8df2-0-P585" [label=P585]
+	"Q155-P1365-Q217230-19ed8df2-0-P585" -- "Q155-P1365-Q217230-19ed8df2-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q217230-19ed8df2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q217230-19ed8df2-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q217230-19ed8df2-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q217230-19ed8df2-0" -- "Q155-P1365-Q217230-19ed8df2-0-P828" [label=P828]
+	"Q155-P1365-Q217230-19ed8df2-0-P828" -- "Q155-P1365-Q217230-19ed8df2-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		Q217230 [label="'Empire of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q217230-19ed8df2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P1365-Q217230-19ed8df2-0" [label=P1365]
+	"Q155-P1365-Q217230-19ed8df2-0" -- Q217230 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q5848654-abcbe521-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0" -- "Q155-P1365-Q5848654-abcbe521-0-P580" [label=P580]
+	"Q155-P1365-Q5848654-abcbe521-0-P580" -- "Q155-P1365-Q5848654-abcbe521-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q5848654-abcbe521-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0" -- "Q155-P1365-Q5848654-abcbe521-0-P585" [label=P585]
+	"Q155-P1365-Q5848654-abcbe521-0-P585" -- "Q155-P1365-Q5848654-abcbe521-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q155-P1365-Q5848654-abcbe521-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q155-P1365-Q5848654-abcbe521-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q5848654-abcbe521-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q155-P1365-Q5848654-abcbe521-0" -- "Q155-P1365-Q5848654-abcbe521-0-P828" [label=P828]
+	"Q155-P1365-Q5848654-abcbe521-0-P828" -- "Q155-P1365-Q5848654-abcbe521-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q155 [label="'Brazil'@en"]
+		Q5848654 [label="'Republic of the United States of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q155-P1365-Q5848654-abcbe521-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q155 -- "Q155-P1365-Q5848654-abcbe521-0" [label=P1365]
+	"Q155-P1365-Q5848654-abcbe521-0" -- Q5848654 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q12536-52103813-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q12536-52103813-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0" -- "Q160307-P1365-Q12536-52103813-0-P580" [label=P580]
+	"Q160307-P1365-Q12536-52103813-0-P580" -- "Q160307-P1365-Q12536-52103813-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q12536-52103813-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q12536-52103813-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0" -- "Q160307-P1365-Q12536-52103813-0-P585" [label=P585]
+	"Q160307-P1365-Q12536-52103813-0-P585" -- "Q160307-P1365-Q12536-52103813-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q12536-52103813-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q12536-52103813-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q12536-52103813-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q12536-52103813-0" -- "Q160307-P1365-Q12536-52103813-0-P828" [label=P828]
+	"Q160307-P1365-Q12536-52103813-0-P828" -- "Q160307-P1365-Q12536-52103813-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q12536 [label="'Abbasid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q12536-52103813-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P1365-Q12536-52103813-0" [label=P1365]
+	"Q160307-P1365-Q12536-52103813-0" -- Q12536 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q207600-f82e8f77-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0" -- "Q160307-P1365-Q207600-f82e8f77-0-P580" [label=P580]
+	"Q160307-P1365-Q207600-f82e8f77-0-P580" -- "Q160307-P1365-Q207600-f82e8f77-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q207600-f82e8f77-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0" -- "Q160307-P1365-Q207600-f82e8f77-0-P585" [label=P585]
+	"Q160307-P1365-Q207600-f82e8f77-0-P585" -- "Q160307-P1365-Q207600-f82e8f77-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q207600-f82e8f77-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q207600-f82e8f77-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q207600-f82e8f77-0" -- "Q160307-P1365-Q207600-f82e8f77-0-P828" [label=P828]
+	"Q160307-P1365-Q207600-f82e8f77-0-P828" -- "Q160307-P1365-Q207600-f82e8f77-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q207600 [label="'Aghlabids'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q207600-f82e8f77-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P1365-Q207600-f82e8f77-0" [label=P1365]
+	"Q160307-P1365-Q207600-f82e8f77-0" -- Q207600 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q431575-15dafac2-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0" -- "Q160307-P1365-Q431575-15dafac2-0-P580" [label=P580]
+	"Q160307-P1365-Q431575-15dafac2-0-P580" -- "Q160307-P1365-Q431575-15dafac2-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q431575-15dafac2-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0" -- "Q160307-P1365-Q431575-15dafac2-0-P585" [label=P585]
+	"Q160307-P1365-Q431575-15dafac2-0-P585" -- "Q160307-P1365-Q431575-15dafac2-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q431575-15dafac2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q431575-15dafac2-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q431575-15dafac2-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q431575-15dafac2-0" -- "Q160307-P1365-Q431575-15dafac2-0-P828" [label=P828]
+	"Q160307-P1365-Q431575-15dafac2-0-P828" -- "Q160307-P1365-Q431575-15dafac2-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q431575 [label="'Idrisid dynasty'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q431575-15dafac2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P1365-Q431575-15dafac2-0" [label=P1365]
+	"Q160307-P1365-Q431575-15dafac2-0" -- Q431575 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0" -- "Q160307-P1365-Q828665-8c65ac0c-0-P580" [label=P580]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P580" -- "Q160307-P1365-Q828665-8c65ac0c-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0" -- "Q160307-P1365-Q828665-8c65ac0c-0-P585" [label=P585]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P585" -- "Q160307-P1365-Q828665-8c65ac0c-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q828665-8c65ac0c-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q828665-8c65ac0c-0" -- "Q160307-P1365-Q828665-8c65ac0c-0-P828" [label=P828]
+	"Q160307-P1365-Q828665-8c65ac0c-0-P828" -- "Q160307-P1365-Q828665-8c65ac0c-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q828665 [label="'Ikhshidid dynasty'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q828665-8c65ac0c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P1365-Q828665-8c65ac0c-0" [label=P1365]
+	"Q160307-P1365-Q828665-8c65ac0c-0" -- Q828665 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q940123-f40012b0-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0" -- "Q160307-P1365-Q940123-f40012b0-0-P580" [label=P580]
+	"Q160307-P1365-Q940123-f40012b0-0-P580" -- "Q160307-P1365-Q940123-f40012b0-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q940123-f40012b0-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0" -- "Q160307-P1365-Q940123-f40012b0-0-P585" [label=P585]
+	"Q160307-P1365-Q940123-f40012b0-0-P585" -- "Q160307-P1365-Q940123-f40012b0-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P1365-Q940123-f40012b0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P1365-Q940123-f40012b0-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q940123-f40012b0-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P1365-Q940123-f40012b0-0" -- "Q160307-P1365-Q940123-f40012b0-0-P828" [label=P828]
+	"Q160307-P1365-Q940123-f40012b0-0-P828" -- "Q160307-P1365-Q940123-f40012b0-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q940123 [label="'Rustamid dynasty'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P1365-Q940123-f40012b0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P1365-Q940123-f40012b0-0" [label=P1365]
+	"Q160307-P1365-Q940123-f40012b0-0" -- Q940123 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P31-Q3024240-41ba6b4a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P31-Q3024240-41ba6b4a-0" [label=P31]
+	"Q160307-P31-Q3024240-41ba6b4a-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P571-fe8b9b-c32bebca-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P571-fe8b9b-c32bebca-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P571-fe8b9b-c32bebca-0" -- "Q160307-P571-fe8b9b-c32bebca-0-P571" [label=ckgr9]
+	"Q160307-P571-fe8b9b-c32bebca-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P571-fe8b9b-c32bebca-0^0909-01-01T00_00_00Z/9" [label="^0909-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P571-fe8b9b-c32bebca-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P571-fe8b9b-c32bebca-0" [label=P571]
+	"Q160307-P571-fe8b9b-c32bebca-0" -- "Q160307-P571-fe8b9b-c32bebca-0^0909-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q160307-P576-8ccd4a-a9490280-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P576-8ccd4a-a9490280-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q160307-P576-8ccd4a-a9490280-0" -- "Q160307-P576-8ccd4a-a9490280-0-P576" [label=ckgr9]
+	"Q160307-P576-8ccd4a-a9490280-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q160307-P576-8ccd4a-a9490280-0^1171-01-01T00_00_00Z/9" [label="^1171-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q160307-P576-8ccd4a-a9490280-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q160307 -- "Q160307-P576-8ccd4a-a9490280-0" [label=P576]
+	"Q160307-P576-8ccd4a-a9490280-0" -- "Q160307-P576-8ccd4a-a9490280-0^1171-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P580" [label=P580]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P580" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P585" [label=P585]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P585" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796198-P1365-Q199688-42ec0cd3-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796198-P1365-Q199688-42ec0cd3-0" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P828" [label=P828]
+	"Q1796198-P1365-Q199688-42ec0cd3-0-P828" -- "Q1796198-P1365-Q199688-42ec0cd3-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1796198 [label="'Kingdom of Córdoba'@en"]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796198-P1365-Q199688-42ec0cd3-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1796198 -- "Q1796198-P1365-Q199688-42ec0cd3-0" [label=P1365]
+	"Q1796198-P1365-Q199688-42ec0cd3-0" -- Q199688 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796239-P1365-Q199688-3390142b-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0" -- "Q1796239-P1365-Q199688-3390142b-0-P580" [label=P580]
+	"Q1796239-P1365-Q199688-3390142b-0-P580" -- "Q1796239-P1365-Q199688-3390142b-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796239-P1365-Q199688-3390142b-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0" -- "Q1796239-P1365-Q199688-3390142b-0-P585" [label=P585]
+	"Q1796239-P1365-Q199688-3390142b-0-P585" -- "Q1796239-P1365-Q199688-3390142b-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q1796239-P1365-Q199688-3390142b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q1796239-P1365-Q199688-3390142b-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796239-P1365-Q199688-3390142b-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q1796239-P1365-Q199688-3390142b-0" -- "Q1796239-P1365-Q199688-3390142b-0-P828" [label=P828]
+	"Q1796239-P1365-Q199688-3390142b-0-P828" -- "Q1796239-P1365-Q199688-3390142b-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q1796239 [label="'Kingdom of Seville'@en"]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q1796239-P1365-Q199688-3390142b-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q1796239 -- "Q1796239-P1365-Q199688-3390142b-0" [label=P1365]
+	"Q1796239-P1365-Q199688-3390142b-0" -- Q199688 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q180114-P1365-Q160307-f361fbbb-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0" -- "Q180114-P1365-Q160307-f361fbbb-0-P580" [label=P580]
+	"Q180114-P1365-Q160307-f361fbbb-0-P580" -- "Q180114-P1365-Q160307-f361fbbb-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q180114-P1365-Q160307-f361fbbb-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0" -- "Q180114-P1365-Q160307-f361fbbb-0-P585" [label=P585]
+	"Q180114-P1365-Q160307-f361fbbb-0-P585" -- "Q180114-P1365-Q160307-f361fbbb-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q180114-P1365-Q160307-f361fbbb-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q180114-P1365-Q160307-f361fbbb-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q180114-P1365-Q160307-f361fbbb-0" -- "Q180114-P1365-Q160307-f361fbbb-0-P828" [label=P828]
+	"Q180114-P1365-Q160307-f361fbbb-0-P828" -- "Q180114-P1365-Q160307-f361fbbb-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q180114 [label="'Ayyubid dynasty'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q180114-P1365-Q160307-f361fbbb-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q180114 -- "Q180114-P1365-Q160307-f361fbbb-0" [label=P1365]
+	"Q180114-P1365-Q160307-f361fbbb-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P580" [label=P580]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P580" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P585" [label=P585]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P585" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q189545-P1365-Q160307-7f6ab3e0-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q189545-P1365-Q160307-7f6ab3e0-0" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P828" [label=P828]
+	"Q189545-P1365-Q160307-7f6ab3e0-0-P828" -- "Q189545-P1365-Q160307-7f6ab3e0-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q189545 [label="'Zengid dynasty'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q189545-P1365-Q160307-7f6ab3e0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q189545 -- "Q189545-P1365-Q160307-7f6ab3e0-0" [label=P1365]
+	"Q189545-P1365-Q160307-7f6ab3e0-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0" -- "Q199688-P1365-Q160307-b1eb37ad-0-P580" [label=P580]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P580" -- "Q199688-P1365-Q160307-b1eb37ad-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0" -- "Q199688-P1365-Q160307-b1eb37ad-0-P585" [label=P585]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P585" -- "Q199688-P1365-Q160307-b1eb37ad-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q160307-b1eb37ad-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q160307-b1eb37ad-0" -- "Q199688-P1365-Q160307-b1eb37ad-0-P828" [label=P828]
+	"Q199688-P1365-Q160307-b1eb37ad-0-P828" -- "Q199688-P1365-Q160307-b1eb37ad-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q160307-b1eb37ad-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q199688 -- "Q199688-P1365-Q160307-b1eb37ad-0" [label=P1365]
+	"Q199688-P1365-Q160307-b1eb37ad-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q75613-2b6891d0-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0" -- "Q199688-P1365-Q75613-2b6891d0-0-P580" [label=P580]
+	"Q199688-P1365-Q75613-2b6891d0-0-P580" -- "Q199688-P1365-Q75613-2b6891d0-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q75613-2b6891d0-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0" -- "Q199688-P1365-Q75613-2b6891d0-0-P585" [label=P585]
+	"Q199688-P1365-Q75613-2b6891d0-0-P585" -- "Q199688-P1365-Q75613-2b6891d0-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P1365-Q75613-2b6891d0-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q75613-2b6891d0-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P1365-Q75613-2b6891d0-0" -- "Q199688-P1365-Q75613-2b6891d0-0-P828" [label=P828]
+	"Q199688-P1365-Q75613-2b6891d0-0-P828" -- "Q199688-P1365-Q75613-2b6891d0-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P1365-Q75613-2b6891d0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q199688 -- "Q199688-P1365-Q75613-2b6891d0-0" [label=P1365]
+	"Q199688-P1365-Q75613-2b6891d0-0" -- Q75613 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P31-Q3024240-d6fa313c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q199688 -- "Q199688-P31-Q3024240-d6fa313c-0" [label=P31]
+	"Q199688-P31-Q3024240-d6fa313c-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P571-259d6e-320b40dc-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P571-259d6e-320b40dc-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P571-259d6e-320b40dc-0" -- "Q199688-P571-259d6e-320b40dc-0-P571" [label=ckgr9]
+	"Q199688-P571-259d6e-320b40dc-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P571-259d6e-320b40dc-0^1121-01-01T00_00_00Z/9" [label="^1121-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P571-259d6e-320b40dc-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q199688 -- "Q199688-P571-259d6e-320b40dc-0" [label=P571]
+	"Q199688-P571-259d6e-320b40dc-0" -- "Q199688-P571-259d6e-320b40dc-0^1121-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q199688-P576-424159-5411b8a6-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P576-424159-5411b8a6-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q199688-P576-424159-5411b8a6-0" -- "Q199688-P576-424159-5411b8a6-0-P576" [label=ckgr9]
+	"Q199688-P576-424159-5411b8a6-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q199688-P576-424159-5411b8a6-0^1269-01-01T00_00_00Z/9" [label="^1269-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q199688-P576-424159-5411b8a6-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q199688 -- "Q199688-P576-424159-5411b8a6-0" [label=P576]
+	"Q199688-P576-424159-5411b8a6-0" -- "Q199688-P576-424159-5411b8a6-0^1269-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205708-P17-Q29-90d3aec6-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P17-Q29-90d3aec6-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205708-P17-Q29-90d3aec6-0" -- "Q205708-P17-Q29-90d3aec6-0-P17" [label=ckgr9]
+	"Q205708-P17-Q29-90d3aec6-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q205708 [label="'Taifa of Granada'@en"]
+		Q29 [label="'Spain'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P17-Q29-90d3aec6-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q205708 -- "Q205708-P17-Q29-90d3aec6-0" [label=P17]
+	"Q205708-P17-Q29-90d3aec6-0" -- Q29 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q205708 [label="'Taifa of Granada'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P31-Q3024240-5d5fea3a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q205708 -- "Q205708-P31-Q3024240-5d5fea3a-0" [label=P31]
+	"Q205708-P31-Q3024240-5d5fea3a-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205708-P571-956463-da24ef23-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P571-956463-da24ef23-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205708-P571-956463-da24ef23-0" -- "Q205708-P571-956463-da24ef23-0-P571" [label=ckgr9]
+	"Q205708-P571-956463-da24ef23-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q205708 [label="'Taifa of Granada'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q205708-P571-956463-da24ef23-0^1013-01-01T00_00_00Z/9" [label="^1013-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P571-956463-da24ef23-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q205708 -- "Q205708-P571-956463-da24ef23-0" [label=P571]
+	"Q205708-P571-956463-da24ef23-0" -- "Q205708-P571-956463-da24ef23-0^1013-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205708-P576-d8d288-86ac61b1-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P576-d8d288-86ac61b1-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205708-P576-d8d288-86ac61b1-0" -- "Q205708-P576-d8d288-86ac61b1-0-P576" [label=ckgr9]
+	"Q205708-P576-d8d288-86ac61b1-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q205708 [label="'Taifa of Granada'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q205708-P576-d8d288-86ac61b1-0^1090-01-01T00_00_00Z/9" [label="^1090-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205708-P576-d8d288-86ac61b1-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q205708 -- "Q205708-P576-d8d288-86ac61b1-0" [label=P576]
+	"Q205708-P576-d8d288-86ac61b1-0" -- "Q205708-P576-d8d288-86ac61b1-0^1090-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0" -- "Q205718-P1365-Q160307-0f8cbd73-0-P580" [label=P580]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P580" -- "Q205718-P1365-Q160307-0f8cbd73-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0" -- "Q205718-P1365-Q160307-0f8cbd73-0-P585" [label=P585]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P585" -- "Q205718-P1365-Q160307-0f8cbd73-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205718-P1365-Q160307-0f8cbd73-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q205718-P1365-Q160307-0f8cbd73-0" -- "Q205718-P1365-Q160307-0f8cbd73-0-P828" [label=P828]
+	"Q205718-P1365-Q160307-0f8cbd73-0-P828" -- "Q205718-P1365-Q160307-0f8cbd73-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q205718 [label="'Zirid dynasty'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q205718-P1365-Q160307-0f8cbd73-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q205718 -- "Q205718-P1365-Q160307-0f8cbd73-0" [label=P1365]
+	"Q205718-P1365-Q160307-0f8cbd73-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q207600 [label="'Aghlabids'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q207600-P31-Q3024240-52fff96a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q207600 -- "Q207600-P31-Q3024240-52fff96a-0" [label=P31]
+	"Q207600-P31-Q3024240-52fff96a-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q207600-P571-e7cab4-fd3be35f-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q207600-P571-e7cab4-fd3be35f-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q207600-P571-e7cab4-fd3be35f-0" -- "Q207600-P571-e7cab4-fd3be35f-0-P571" [label=ckgr9]
+	"Q207600-P571-e7cab4-fd3be35f-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q207600 [label="'Aghlabids'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q207600-P571-e7cab4-fd3be35f-0^0800-01-01T00_00_00Z/9" [label="^0800-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q207600-P571-e7cab4-fd3be35f-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q207600 -- "Q207600-P571-e7cab4-fd3be35f-0" [label=P571]
+	"Q207600-P571-e7cab4-fd3be35f-0" -- "Q207600-P571-e7cab4-fd3be35f-0^0800-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q207600-P576-fe8b9b-0d7e82a8-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q207600-P576-fe8b9b-0d7e82a8-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q207600-P576-fe8b9b-0d7e82a8-0" -- "Q207600-P576-fe8b9b-0d7e82a8-0-P576" [label=ckgr9]
+	"Q207600-P576-fe8b9b-0d7e82a8-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q207600 [label="'Aghlabids'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q207600-P576-fe8b9b-0d7e82a8-0^0909-01-01T00_00_00Z/9" [label="^0909-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q207600-P576-fe8b9b-0d7e82a8-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q207600 -- "Q207600-P576-fe8b9b-0d7e82a8-0" [label=P576]
+	"Q207600-P576-fe8b9b-0d7e82a8-0" -- "Q207600-P576-fe8b9b-0d7e82a8-0^0909-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q3932042-f47ad438-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0" -- "Q217230-P1365-Q3932042-f47ad438-0-P580" [label=P580]
+	"Q217230-P1365-Q3932042-f47ad438-0-P580" -- "Q217230-P1365-Q3932042-f47ad438-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q3932042-f47ad438-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0" -- "Q217230-P1365-Q3932042-f47ad438-0-P585" [label=P585]
+	"Q217230-P1365-Q3932042-f47ad438-0-P585" -- "Q217230-P1365-Q3932042-f47ad438-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q3932042-f47ad438-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q3932042-f47ad438-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q3932042-f47ad438-0" -- "Q217230-P1365-Q3932042-f47ad438-0-P828" [label=P828]
+	"Q217230-P1365-Q3932042-f47ad438-0-P828" -- "Q217230-P1365-Q3932042-f47ad438-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q3932042 [label="'Kingdom of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q3932042-f47ad438-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P1365-Q3932042-f47ad438-0" [label=P1365]
+	"Q217230-P1365-Q3932042-f47ad438-0" -- Q3932042 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q903779-bfbd464b-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0" -- "Q217230-P1365-Q903779-bfbd464b-0-P580" [label=P580]
+	"Q217230-P1365-Q903779-bfbd464b-0-P580" -- "Q217230-P1365-Q903779-bfbd464b-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q903779-bfbd464b-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0" -- "Q217230-P1365-Q903779-bfbd464b-0-P585" [label=P585]
+	"Q217230-P1365-Q903779-bfbd464b-0-P585" -- "Q217230-P1365-Q903779-bfbd464b-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P1365-Q903779-bfbd464b-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q903779-bfbd464b-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P1365-Q903779-bfbd464b-0" -- "Q217230-P1365-Q903779-bfbd464b-0-P828" [label=P828]
+	"Q217230-P1365-Q903779-bfbd464b-0-P828" -- "Q217230-P1365-Q903779-bfbd464b-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P1365-Q903779-bfbd464b-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P1365-Q903779-bfbd464b-0" [label=P1365]
+	"Q217230-P1365-Q903779-bfbd464b-0" -- Q903779 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P17-Q217230-69e8c07c-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P17-Q217230-69e8c07c-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P17-Q217230-69e8c07c-0" -- "Q217230-P17-Q217230-69e8c07c-0-P17" [label=ckgr9]
+	"Q217230-P17-Q217230-69e8c07c-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q217230 [label="'Empire of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P17-Q217230-69e8c07c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P17-Q217230-69e8c07c-0" [label=P17]
+	"Q217230-P17-Q217230-69e8c07c-0" -- Q217230 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P30-Q18-9d189008-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P30-Q18-9d189008-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P30-Q18-9d189008-0" -- "Q217230-P30-Q18-9d189008-0-P30" [label=ckgr9]
+	"Q217230-P30-Q18-9d189008-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q18 [label="'South America'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P30-Q18-9d189008-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P30-Q18-9d189008-0" [label=P30]
+	"Q217230-P30-Q18-9d189008-0" -- Q18 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P31-Q3024240-0e78bec7-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P31-Q3024240-0e78bec7-0" [label=P31]
+	"Q217230-P31-Q3024240-0e78bec7-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		Q3624078 [label="'sovereign state'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P31-Q3624078-4b3c9905-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P31-Q3624078-4b3c9905-0" [label=P31]
+	"Q217230-P31-Q3624078-4b3c9905-0" -- Q3624078 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P571-9c5ecd-090e9117-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P571-9c5ecd-090e9117-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P571-9c5ecd-090e9117-0" -- "Q217230-P571-9c5ecd-090e9117-0-P571" [label=ckgr9]
+	"Q217230-P571-9c5ecd-090e9117-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P571-9c5ecd-090e9117-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P571-9c5ecd-090e9117-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P571-9c5ecd-090e9117-0" [label=P571]
+	"Q217230-P571-9c5ecd-090e9117-0" -- "Q217230-P571-9c5ecd-090e9117-0^1822-09-07T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q217230-P576-613a9d-c8558178-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P576-613a9d-c8558178-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q217230-P576-613a9d-c8558178-0" -- "Q217230-P576-613a9d-c8558178-0-P576" [label=ckgr9]
+	"Q217230-P576-613a9d-c8558178-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q217230 [label="'Empire of Brazil'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q217230-P576-613a9d-c8558178-0^1889-11-15T00_00_00Z/11" [label="^1889-11-15T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q217230-P576-613a9d-c8558178-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q217230 -- "Q217230-P576-613a9d-c8558178-0" [label=P576]
+	"Q217230-P576-613a9d-c8558178-0" -- "Q217230-P576-613a9d-c8558178-0^1889-11-15T00_00_00Z/11" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q232806-P1365-Q160307-5bf1f061-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0" -- "Q232806-P1365-Q160307-5bf1f061-0-P580" [label=P580]
+	"Q232806-P1365-Q160307-5bf1f061-0-P580" -- "Q232806-P1365-Q160307-5bf1f061-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q232806-P1365-Q160307-5bf1f061-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0" -- "Q232806-P1365-Q160307-5bf1f061-0-P585" [label=P585]
+	"Q232806-P1365-Q160307-5bf1f061-0-P585" -- "Q232806-P1365-Q160307-5bf1f061-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q232806-P1365-Q160307-5bf1f061-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q232806-P1365-Q160307-5bf1f061-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q232806-P1365-Q160307-5bf1f061-0" -- "Q232806-P1365-Q160307-5bf1f061-0-P828" [label=P828]
+	"Q232806-P1365-Q160307-5bf1f061-0-P828" -- "Q232806-P1365-Q160307-5bf1f061-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q232806 [label="'County of Edessa'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q232806-P1365-Q160307-5bf1f061-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q232806 -- "Q232806-P1365-Q160307-5bf1f061-0" [label=P1365]
+	"Q232806-P1365-Q160307-5bf1f061-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q235030-P1365-Q160307-5c540cd9-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0" -- "Q235030-P1365-Q160307-5c540cd9-0-P580" [label=P580]
+	"Q235030-P1365-Q160307-5c540cd9-0-P580" -- "Q235030-P1365-Q160307-5c540cd9-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q235030-P1365-Q160307-5c540cd9-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0" -- "Q235030-P1365-Q160307-5c540cd9-0-P585" [label=P585]
+	"Q235030-P1365-Q160307-5c540cd9-0-P585" -- "Q235030-P1365-Q160307-5c540cd9-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q235030-P1365-Q160307-5c540cd9-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q235030-P1365-Q160307-5c540cd9-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q235030-P1365-Q160307-5c540cd9-0" -- "Q235030-P1365-Q160307-5c540cd9-0-P828" [label=P828]
+	"Q235030-P1365-Q160307-5c540cd9-0-P828" -- "Q235030-P1365-Q160307-5c540cd9-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q235030 [label="'Principality of Antioch'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q235030-P1365-Q160307-5c540cd9-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q235030 -- "Q235030-P1365-Q160307-5c540cd9-0" [label=P1365]
+	"Q235030-P1365-Q160307-5c540cd9-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q267484-P17-Q29-8edf21ca-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P17-Q29-8edf21ca-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q267484-P17-Q29-8edf21ca-0" -- "Q267484-P17-Q29-8edf21ca-0-P17" [label=ckgr9]
+	"Q267484-P17-Q29-8edf21ca-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q267484 [label="'Taifa of Málaga'@en"]
+		Q29 [label="'Spain'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P17-Q29-8edf21ca-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q267484 -- "Q267484-P17-Q29-8edf21ca-0" [label=P17]
+	"Q267484-P17-Q29-8edf21ca-0" -- Q29 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q267484 [label="'Taifa of Málaga'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P31-Q3024240-030d8112-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q267484 -- "Q267484-P31-Q3024240-030d8112-0" [label=P31]
+	"Q267484-P31-Q3024240-030d8112-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q267484-P571-2aa7b2-fd9a076f-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P571-2aa7b2-fd9a076f-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q267484-P571-2aa7b2-fd9a076f-0" -- "Q267484-P571-2aa7b2-fd9a076f-0-P571" [label=ckgr9]
+	"Q267484-P571-2aa7b2-fd9a076f-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q267484 [label="'Taifa of Málaga'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q267484-P571-2aa7b2-fd9a076f-0^1026-01-01T00_00_00Z/9" [label="^1026-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P571-2aa7b2-fd9a076f-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q267484 -- "Q267484-P571-2aa7b2-fd9a076f-0" [label=P571]
+	"Q267484-P571-2aa7b2-fd9a076f-0" -- "Q267484-P571-2aa7b2-fd9a076f-0^1026-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q267484-P576-30cc1c-1f503dae-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P576-30cc1c-1f503dae-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q267484-P576-30cc1c-1f503dae-0" -- "Q267484-P576-30cc1c-1f503dae-0-P576" [label=ckgr9]
+	"Q267484-P576-30cc1c-1f503dae-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q267484 [label="'Taifa of Málaga'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q267484-P576-30cc1c-1f503dae-0^1239-01-01T00_00_00Z/9" [label="^1239-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q267484-P576-30cc1c-1f503dae-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q267484 -- "Q267484-P576-30cc1c-1f503dae-0" [label=P576]
+	"Q267484-P576-30cc1c-1f503dae-0" -- "Q267484-P576-30cc1c-1f503dae-0^1239-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q272033-P1365-Q160307-5c7434dd-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0" -- "Q272033-P1365-Q160307-5c7434dd-0-P580" [label=P580]
+	"Q272033-P1365-Q160307-5c7434dd-0-P580" -- "Q272033-P1365-Q160307-5c7434dd-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q272033-P1365-Q160307-5c7434dd-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0" -- "Q272033-P1365-Q160307-5c7434dd-0-P585" [label=P585]
+	"Q272033-P1365-Q160307-5c7434dd-0-P585" -- "Q272033-P1365-Q160307-5c7434dd-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q272033-P1365-Q160307-5c7434dd-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q272033-P1365-Q160307-5c7434dd-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q272033-P1365-Q160307-5c7434dd-0" -- "Q272033-P1365-Q160307-5c7434dd-0-P828" [label=P828]
+	"Q272033-P1365-Q160307-5c7434dd-0-P828" -- "Q272033-P1365-Q160307-5c7434dd-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q272033 [label="'County of Tripoli'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q272033-P1365-Q160307-5c7434dd-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q272033 -- "Q272033-P1365-Q160307-5c7434dd-0" [label=P1365]
+	"Q272033-P1365-Q160307-5c7434dd-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q431575-P17-Q1028-853f3a8c-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P17-Q1028-853f3a8c-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q431575-P17-Q1028-853f3a8c-0" -- "Q431575-P17-Q1028-853f3a8c-0-P17" [label=ckgr9]
+	"Q431575-P17-Q1028-853f3a8c-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q431575 [label="'Idrisid dynasty'@en"]
+		Q1028 [label="'Morocco'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P17-Q1028-853f3a8c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q431575 -- "Q431575-P17-Q1028-853f3a8c-0" [label=P17]
+	"Q431575-P17-Q1028-853f3a8c-0" -- Q1028 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q431575 [label="'Idrisid dynasty'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P31-Q3024240-c47f4bb1-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q431575 -- "Q431575-P31-Q3024240-c47f4bb1-0" [label=P31]
+	"Q431575-P31-Q3024240-c47f4bb1-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q431575-P571-095a81-e9e62889-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P571-095a81-e9e62889-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q431575-P571-095a81-e9e62889-0" -- "Q431575-P571-095a81-e9e62889-0-P571" [label=ckgr9]
+	"Q431575-P571-095a81-e9e62889-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q431575 [label="'Idrisid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q431575-P571-095a81-e9e62889-0^0788-01-01T00_00_00Z/9" [label="^0788-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P571-095a81-e9e62889-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q431575 -- "Q431575-P571-095a81-e9e62889-0" [label=P571]
+	"Q431575-P571-095a81-e9e62889-0" -- "Q431575-P571-095a81-e9e62889-0^0788-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q431575-P576-b1cc0d-fbe949d6-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P576-b1cc0d-fbe949d6-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q431575-P576-b1cc0d-fbe949d6-0" -- "Q431575-P576-b1cc0d-fbe949d6-0-P576" [label=ckgr9]
+	"Q431575-P576-b1cc0d-fbe949d6-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q431575 [label="'Idrisid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q431575-P576-b1cc0d-fbe949d6-0^0974-01-01T00_00_00Z/9" [label="^0974-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q431575-P576-b1cc0d-fbe949d6-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q431575 -- "Q431575-P576-b1cc0d-fbe949d6-0" [label=P576]
+	"Q431575-P576-b1cc0d-fbe949d6-0" -- "Q431575-P576-b1cc0d-fbe949d6-0^0974-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q1139807-037bc097-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q1139807-037bc097-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0" -- "Q45670-P1365-Q1139807-037bc097-0-P580" [label=P580]
+	"Q45670-P1365-Q1139807-037bc097-0-P580" -- "Q45670-P1365-Q1139807-037bc097-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q1139807-037bc097-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q1139807-037bc097-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0" -- "Q45670-P1365-Q1139807-037bc097-0-P585" [label=P585]
+	"Q45670-P1365-Q1139807-037bc097-0-P585" -- "Q45670-P1365-Q1139807-037bc097-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0" [label=""]
+		ckgP1 [label=Provenance]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0" -- "Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0-P828" [label=ckgr9]
+	"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0-P828" -- ckgP1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q1139807-037bc097-0" [label=""]
+		Q2745374 [label="'Treaty of Zamora'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q1139807-037bc097-0" -- "Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0" [label=P828]
+	"Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0" -- Q2745374 [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q1139807 [label="'County of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q1139807-037bc097-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P1365-Q1139807-037bc097-0" [label=P1365]
+	"Q45670-P1365-Q1139807-037bc097-0" -- Q1139807 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q199688-33fd9675-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0" -- "Q45670-P1365-Q199688-33fd9675-0-P580" [label=P580]
+	"Q45670-P1365-Q199688-33fd9675-0-P580" -- "Q45670-P1365-Q199688-33fd9675-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q199688-33fd9675-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0" -- "Q45670-P1365-Q199688-33fd9675-0-P585" [label=P585]
+	"Q45670-P1365-Q199688-33fd9675-0-P585" -- "Q45670-P1365-Q199688-33fd9675-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q199688-33fd9675-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q199688-33fd9675-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q199688-33fd9675-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q199688-33fd9675-0" -- "Q45670-P1365-Q199688-33fd9675-0-P828" [label=P828]
+	"Q45670-P1365-Q199688-33fd9675-0-P828" -- "Q45670-P1365-Q199688-33fd9675-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q199688-33fd9675-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P1365-Q199688-33fd9675-0" [label=P1365]
+	"Q45670-P1365-Q199688-33fd9675-0" -- Q199688 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q903779-5599931b-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0" -- "Q45670-P1365-Q903779-5599931b-0-P580" [label=P580]
+	"Q45670-P1365-Q903779-5599931b-0-P580" -- "Q45670-P1365-Q903779-5599931b-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0" -- "Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0-P585" [label=ckgr9]
+	"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0^1822-01-01T00_00_00Z/9" [label="^1822-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0" -- "Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0" [label=P585]
+	"Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0" -- "Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0^1822-01-01T00_00_00Z/9" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P1365-Q903779-5599931b-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P1365-Q903779-5599931b-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q903779-5599931b-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P1365-Q903779-5599931b-0" -- "Q45670-P1365-Q903779-5599931b-0-P828" [label=P828]
+	"Q45670-P1365-Q903779-5599931b-0-P828" -- "Q45670-P1365-Q903779-5599931b-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P1365-Q903779-5599931b-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P1365-Q903779-5599931b-0" [label=P1365]
+	"Q45670-P1365-Q903779-5599931b-0" -- Q903779 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P17-Q377350-8e1682a0-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q377350-8e1682a0-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P17-Q377350-8e1682a0-0" -- "Q45670-P17-Q377350-8e1682a0-0-P17" [label=ckgr9]
+	"Q45670-P17-Q377350-8e1682a0-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q377350 [label="'Iberian Union'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q377350-8e1682a0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P17-Q377350-8e1682a0-0" [label=P17]
+	"Q45670-P17-Q377350-8e1682a0-0" -- Q377350 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P17-Q45670-52633fb7-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-52633fb7-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P17-Q45670-52633fb7-0" -- "Q45670-P17-Q45670-52633fb7-0-P17" [label=ckgr9]
+	"Q45670-P17-Q45670-52633fb7-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-52633fb7-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P17-Q45670-52633fb7-0" [label=P17]
+	"Q45670-P17-Q45670-52633fb7-0" -- Q45670 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P17-Q45670-764707c9-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-764707c9-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P17-Q45670-764707c9-0" -- "Q45670-P17-Q45670-764707c9-0-P17" [label=ckgr9]
+	"Q45670-P17-Q45670-764707c9-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-764707c9-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P17-Q45670-764707c9-0" [label=P17]
+	"Q45670-P17-Q45670-764707c9-0" -- Q45670 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P17-Q45670-e31808ee-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-e31808ee-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P17-Q45670-e31808ee-0" -- "Q45670-P17-Q45670-e31808ee-0-P17" [label=ckgr9]
+	"Q45670-P17-Q45670-e31808ee-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q45670-e31808ee-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P17-Q45670-e31808ee-0" [label=P17]
+	"Q45670-P17-Q45670-e31808ee-0" -- Q45670 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P17-Q903779-9b8203a5-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q903779-9b8203a5-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P17-Q903779-9b8203a5-0" -- "Q45670-P17-Q903779-9b8203a5-0-P17" [label=ckgr9]
+	"Q45670-P17-Q903779-9b8203a5-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P17-Q903779-9b8203a5-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P17-Q903779-9b8203a5-0" [label=P17]
+	"Q45670-P17-Q903779-9b8203a5-0" -- Q903779 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P31-Q3024240-e7dcd8f0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P31-Q3024240-e7dcd8f0-0" [label=P31]
+	"Q45670-P31-Q3024240-e7dcd8f0-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P571-a5e4f1-40436e2a-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P571-a5e4f1-40436e2a-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P571-a5e4f1-40436e2a-0" -- "Q45670-P571-a5e4f1-40436e2a-0-P571" [label=ckgr9]
+	"Q45670-P571-a5e4f1-40436e2a-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P571-a5e4f1-40436e2a-0^1139-07-26T00_00_00Z/11" [label="^1139-07-26T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P571-a5e4f1-40436e2a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P571-a5e4f1-40436e2a-0" [label=P571]
+	"Q45670-P571-a5e4f1-40436e2a-0" -- "Q45670-P571-a5e4f1-40436e2a-0^1139-07-26T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45670-P576-6d24e9-910670d6-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P576-6d24e9-910670d6-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45670-P576-6d24e9-910670d6-0" -- "Q45670-P576-6d24e9-910670d6-0-P576" [label=ckgr9]
+	"Q45670-P576-6d24e9-910670d6-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45670-P576-6d24e9-910670d6-0^1910-10-05T00_00_00Z/11" [label="^1910-10-05T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45670-P576-6d24e9-910670d6-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45670 -- "Q45670-P576-6d24e9-910670d6-0" [label=P576]
+	"Q45670-P576-6d24e9-910670d6-0" -- "Q45670-P576-6d24e9-910670d6-0^1910-10-05T00_00_00Z/11" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45-P1365-Q45670-84f93933-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45-P1365-Q45670-84f93933-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0" -- "Q45-P1365-Q45670-84f93933-0-P580" [label=P580]
+	"Q45-P1365-Q45670-84f93933-0-P580" -- "Q45-P1365-Q45670-84f93933-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45-P1365-Q45670-84f93933-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45-P1365-Q45670-84f93933-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0" -- "Q45-P1365-Q45670-84f93933-0-P585" [label=P585]
+	"Q45-P1365-Q45670-84f93933-0-P585" -- "Q45-P1365-Q45670-84f93933-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q45-P1365-Q45670-84f93933-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q45-P1365-Q45670-84f93933-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45-P1365-Q45670-84f93933-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q45-P1365-Q45670-84f93933-0" -- "Q45-P1365-Q45670-84f93933-0-P828" [label=P828]
+	"Q45-P1365-Q45670-84f93933-0-P828" -- "Q45-P1365-Q45670-84f93933-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q45 [label="'Portugal'@en"]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q45-P1365-Q45670-84f93933-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q45 -- "Q45-P1365-Q45670-84f93933-0" [label=P1365]
+	"Q45-P1365-Q45670-84f93933-0" -- Q45670 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q55502-P1365-Q160307-d98c1649-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0" -- "Q55502-P1365-Q160307-d98c1649-0-P580" [label=P580]
+	"Q55502-P1365-Q160307-d98c1649-0-P580" -- "Q55502-P1365-Q160307-d98c1649-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q55502-P1365-Q160307-d98c1649-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0" -- "Q55502-P1365-Q160307-d98c1649-0-P585" [label=P585]
+	"Q55502-P1365-Q160307-d98c1649-0-P585" -- "Q55502-P1365-Q160307-d98c1649-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q55502-P1365-Q160307-d98c1649-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q55502-P1365-Q160307-d98c1649-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q55502-P1365-Q160307-d98c1649-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q55502-P1365-Q160307-d98c1649-0" -- "Q55502-P1365-Q160307-d98c1649-0-P828" [label=P828]
+	"Q55502-P1365-Q160307-d98c1649-0-P828" -- "Q55502-P1365-Q160307-d98c1649-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q55502 [label="'Kingdom of Jerusalem'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q55502-P1365-Q160307-d98c1649-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q55502 -- "Q55502-P1365-Q160307-d98c1649-0" [label=P1365]
+	"Q55502-P1365-Q160307-d98c1649-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0" -- "Q582861-P1365-Q199688-4bcd5af2-0-P580" [label=P580]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P580" -- "Q582861-P1365-Q199688-4bcd5af2-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0" -- "Q582861-P1365-Q199688-4bcd5af2-0-P585" [label=P585]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P585" -- "Q582861-P1365-Q199688-4bcd5af2-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q582861-P1365-Q199688-4bcd5af2-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q582861-P1365-Q199688-4bcd5af2-0" -- "Q582861-P1365-Q199688-4bcd5af2-0-P828" [label=P828]
+	"Q582861-P1365-Q199688-4bcd5af2-0-P828" -- "Q582861-P1365-Q199688-4bcd5af2-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q582861 [label="'Marinid Dynasty'@en"]
+		Q199688 [label="'Almohad Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q582861-P1365-Q199688-4bcd5af2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q582861 -- "Q582861-P1365-Q199688-4bcd5af2-0" [label=P1365]
+	"Q582861-P1365-Q199688-4bcd5af2-0" -- Q199688 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q588672-P1365-Q160307-81a9864a-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0" -- "Q588672-P1365-Q160307-81a9864a-0-P580" [label=P580]
+	"Q588672-P1365-Q160307-81a9864a-0-P580" -- "Q588672-P1365-Q160307-81a9864a-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q588672-P1365-Q160307-81a9864a-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0" -- "Q588672-P1365-Q160307-81a9864a-0-P585" [label=P585]
+	"Q588672-P1365-Q160307-81a9864a-0-P585" -- "Q588672-P1365-Q160307-81a9864a-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q588672-P1365-Q160307-81a9864a-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q588672-P1365-Q160307-81a9864a-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q588672-P1365-Q160307-81a9864a-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q588672-P1365-Q160307-81a9864a-0" -- "Q588672-P1365-Q160307-81a9864a-0-P828" [label=P828]
+	"Q588672-P1365-Q160307-81a9864a-0-P828" -- "Q588672-P1365-Q160307-81a9864a-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q588672 [label="'Hammadid dynasty'@en"]
+		Q160307 [label="'Fatimid Caliphate'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q588672-P1365-Q160307-81a9864a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q588672 -- "Q588672-P1365-Q160307-81a9864a-0" [label=P1365]
+	"Q588672-P1365-Q160307-81a9864a-0" -- Q160307 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P1365-Q267484-fc20b913-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0" -- "Q5947557-P1365-Q267484-fc20b913-0-P580" [label=P580]
+	"Q5947557-P1365-Q267484-fc20b913-0-P580" -- "Q5947557-P1365-Q267484-fc20b913-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P1365-Q267484-fc20b913-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0" -- "Q5947557-P1365-Q267484-fc20b913-0-P585" [label=P585]
+	"Q5947557-P1365-Q267484-fc20b913-0-P585" -- "Q5947557-P1365-Q267484-fc20b913-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q5947557-P1365-Q267484-fc20b913-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P1365-Q267484-fc20b913-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P1365-Q267484-fc20b913-0" -- "Q5947557-P1365-Q267484-fc20b913-0-P828" [label=P828]
+	"Q5947557-P1365-Q267484-fc20b913-0-P828" -- "Q5947557-P1365-Q267484-fc20b913-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		Q267484 [label="'Taifa of Málaga'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P1365-Q267484-fc20b913-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q5947557 -- "Q5947557-P1365-Q267484-fc20b913-0" [label=P1365]
+	"Q5947557-P1365-Q267484-fc20b913-0" -- Q267484 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P17-Q29-06d57964-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P17-Q29-06d57964-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P17-Q29-06d57964-0" -- "Q5947557-P17-Q29-06d57964-0-P17" [label=ckgr9]
+	"Q5947557-P17-Q29-06d57964-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		Q29 [label="'Spain'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P17-Q29-06d57964-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q5947557 -- "Q5947557-P17-Q29-06d57964-0" [label=P17]
+	"Q5947557-P17-Q29-06d57964-0" -- Q29 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P31-Q3024240-6609bc93-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q5947557 -- "Q5947557-P31-Q3024240-6609bc93-0" [label=P31]
+	"Q5947557-P31-Q3024240-6609bc93-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P571-2ff832-416dbac1-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P571-2ff832-416dbac1-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P571-2ff832-416dbac1-0" -- "Q5947557-P571-2ff832-416dbac1-0-P571" [label=ckgr9]
+	"Q5947557-P571-2ff832-416dbac1-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q5947557-P571-2ff832-416dbac1-0^1061-01-01T00_00_00Z/9" [label="^1061-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P571-2ff832-416dbac1-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q5947557 -- "Q5947557-P571-2ff832-416dbac1-0" [label=P571]
+	"Q5947557-P571-2ff832-416dbac1-0" -- "Q5947557-P571-2ff832-416dbac1-0^1061-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q5947557-P576-e3c63c-4ca54981-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P576-e3c63c-4ca54981-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q5947557-P576-e3c63c-4ca54981-0" -- "Q5947557-P576-e3c63c-4ca54981-0-P576" [label=ckgr9]
+	"Q5947557-P576-e3c63c-4ca54981-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q5947557-P576-e3c63c-4ca54981-0^1084-01-01T00_00_00Z/9" [label="^1084-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q5947557-P576-e3c63c-4ca54981-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q5947557 -- "Q5947557-P576-e3c63c-4ca54981-0" [label=P576]
+	"Q5947557-P576-e3c63c-4ca54981-0" -- "Q5947557-P576-e3c63c-4ca54981-0^1084-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q205708-537b2af0-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0" -- "Q75613-P1365-Q205708-537b2af0-0-P580" [label=P580]
+	"Q75613-P1365-Q205708-537b2af0-0-P580" -- "Q75613-P1365-Q205708-537b2af0-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q205708-537b2af0-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0" -- "Q75613-P1365-Q205708-537b2af0-0-P585" [label=P585]
+	"Q75613-P1365-Q205708-537b2af0-0-P585" -- "Q75613-P1365-Q205708-537b2af0-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q205708-537b2af0-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q205708-537b2af0-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q205708-537b2af0-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q205708-537b2af0-0" -- "Q75613-P1365-Q205708-537b2af0-0-P828" [label=P828]
+	"Q75613-P1365-Q205708-537b2af0-0-P828" -- "Q75613-P1365-Q205708-537b2af0-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q205708 [label="'Taifa of Granada'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q205708-537b2af0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P1365-Q205708-537b2af0-0" [label=P1365]
+	"Q75613-P1365-Q205708-537b2af0-0" -- Q205708 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0" -- "Q75613-P1365-Q5947557-f0fbc408-0-P580" [label=P580]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P580" -- "Q75613-P1365-Q5947557-f0fbc408-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0" -- "Q75613-P1365-Q5947557-f0fbc408-0-P585" [label=P585]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P585" -- "Q75613-P1365-Q5947557-f0fbc408-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q5947557-f0fbc408-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q5947557-f0fbc408-0" -- "Q75613-P1365-Q5947557-f0fbc408-0-P828" [label=P828]
+	"Q75613-P1365-Q5947557-f0fbc408-0-P828" -- "Q75613-P1365-Q5947557-f0fbc408-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q5947557 [label="'Taifa of Ceuta (1061-1084)'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q5947557-f0fbc408-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P1365-Q5947557-f0fbc408-0" [label=P1365]
+	"Q75613-P1365-Q5947557-f0fbc408-0" -- Q5947557 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q965692-203baff7-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0" -- "Q75613-P1365-Q965692-203baff7-0-P580" [label=P580]
+	"Q75613-P1365-Q965692-203baff7-0-P580" -- "Q75613-P1365-Q965692-203baff7-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q965692-203baff7-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0" -- "Q75613-P1365-Q965692-203baff7-0-P585" [label=P585]
+	"Q75613-P1365-Q965692-203baff7-0-P585" -- "Q75613-P1365-Q965692-203baff7-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P1365-Q965692-203baff7-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P1365-Q965692-203baff7-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q965692-203baff7-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P1365-Q965692-203baff7-0" -- "Q75613-P1365-Q965692-203baff7-0-P828" [label=P828]
+	"Q75613-P1365-Q965692-203baff7-0-P828" -- "Q75613-P1365-Q965692-203baff7-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q965692 [label="'taifa (first period)'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P1365-Q965692-203baff7-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P1365-Q965692-203baff7-0" [label=P1365]
+	"Q75613-P1365-Q965692-203baff7-0" -- Q965692 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P17-Q1025-3a41ae39-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q1025-3a41ae39-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P17-Q1025-3a41ae39-0" -- "Q75613-P17-Q1025-3a41ae39-0-P17" [label=ckgr9]
+	"Q75613-P17-Q1025-3a41ae39-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q1025 [label="'Mauritania'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q1025-3a41ae39-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P17-Q1025-3a41ae39-0" [label=P17]
+	"Q75613-P17-Q1025-3a41ae39-0" -- Q1025 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P17-Q1028-c4a8d09a-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q1028-c4a8d09a-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P17-Q1028-c4a8d09a-0" -- "Q75613-P17-Q1028-c4a8d09a-0-P17" [label=ckgr9]
+	"Q75613-P17-Q1028-c4a8d09a-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q1028 [label="'Morocco'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q1028-c4a8d09a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P17-Q1028-c4a8d09a-0" [label=P17]
+	"Q75613-P17-Q1028-c4a8d09a-0" -- Q1028 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P17-Q123559-0eb4ec27-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q123559-0eb4ec27-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P17-Q123559-0eb4ec27-0" -- "Q75613-P17-Q123559-0eb4ec27-0-P17" [label=ckgr9]
+	"Q75613-P17-Q123559-0eb4ec27-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q123559 [label="'al-Andalus'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q123559-0eb4ec27-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P17-Q123559-0eb4ec27-0" [label=P17]
+	"Q75613-P17-Q123559-0eb4ec27-0" -- Q123559 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P17-Q262-b657d147-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q262-b657d147-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P17-Q262-b657d147-0" -- "Q75613-P17-Q262-b657d147-0-P17" [label=ckgr9]
+	"Q75613-P17-Q262-b657d147-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q262 [label="'Algeria'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P17-Q262-b657d147-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P17-Q262-b657d147-0" [label=P17]
+	"Q75613-P17-Q262-b657d147-0" -- Q262 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P31-Q3024240-2e27517f-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P31-Q3024240-2e27517f-0" [label=P31]
+	"Q75613-P31-Q3024240-2e27517f-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P571-451126-befd441f-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P571-451126-befd441f-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P571-451126-befd441f-0" -- "Q75613-P571-451126-befd441f-0-P571" [label=ckgr9]
+	"Q75613-P571-451126-befd441f-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P571-451126-befd441f-0^1040-01-01T00_00_00Z/9" [label="^1040-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P571-451126-befd441f-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P571-451126-befd441f-0" [label=P571]
+	"Q75613-P571-451126-befd441f-0" -- "Q75613-P571-451126-befd441f-0^1040-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q75613-P576-f13ef7-5772fa03-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P576-f13ef7-5772fa03-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q75613-P576-f13ef7-5772fa03-0" -- "Q75613-P576-f13ef7-5772fa03-0-P576" [label=ckgr9]
+	"Q75613-P576-f13ef7-5772fa03-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q75613 [label="'Almoravid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q75613-P576-f13ef7-5772fa03-0^1147-01-01T00_00_00Z/9" [label="^1147-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q75613-P576-f13ef7-5772fa03-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q75613 -- "Q75613-P576-f13ef7-5772fa03-0" [label=P576]
+	"Q75613-P576-f13ef7-5772fa03-0" -- "Q75613-P576-f13ef7-5772fa03-0^1147-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q828665 [label="'Ikhshidid dynasty'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q828665-P31-Q3024240-2fbc6ef2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q828665 -- "Q828665-P31-Q3024240-2fbc6ef2-0" [label=P31]
+	"Q828665-P31-Q3024240-2fbc6ef2-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q828665-P571-c339e7-57c8dc5c-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q828665-P571-c339e7-57c8dc5c-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q828665-P571-c339e7-57c8dc5c-0" -- "Q828665-P571-c339e7-57c8dc5c-0-P571" [label=ckgr9]
+	"Q828665-P571-c339e7-57c8dc5c-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q828665 [label="'Ikhshidid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q828665-P571-c339e7-57c8dc5c-0^0935-01-01T00_00_00Z/9" [label="^0935-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q828665-P571-c339e7-57c8dc5c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q828665 -- "Q828665-P571-c339e7-57c8dc5c-0" [label=P571]
+	"Q828665-P571-c339e7-57c8dc5c-0" -- "Q828665-P571-c339e7-57c8dc5c-0^0935-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q828665-P576-149fbe-c1ef8741-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q828665-P576-149fbe-c1ef8741-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q828665-P576-149fbe-c1ef8741-0" -- "Q828665-P576-149fbe-c1ef8741-0-P576" [label=ckgr9]
+	"Q828665-P576-149fbe-c1ef8741-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q828665 [label="'Ikhshidid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q828665-P576-149fbe-c1ef8741-0^0969-01-01T00_00_00Z/9" [label="^0969-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q828665-P576-149fbe-c1ef8741-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q828665 -- "Q828665-P576-149fbe-c1ef8741-0" [label=P576]
+	"Q828665-P576-149fbe-c1ef8741-0" -- "Q828665-P576-149fbe-c1ef8741-0^0969-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q11876909-91806821-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0" -- "Q903779-P1365-Q11876909-91806821-0-P580" [label=P580]
+	"Q903779-P1365-Q11876909-91806821-0-P580" -- "Q903779-P1365-Q11876909-91806821-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q11876909-91806821-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0" -- "Q903779-P1365-Q11876909-91806821-0-P585" [label=P585]
+	"Q903779-P1365-Q11876909-91806821-0-P585" -- "Q903779-P1365-Q11876909-91806821-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q11876909-91806821-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q11876909-91806821-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q11876909-91806821-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q11876909-91806821-0" -- "Q903779-P1365-Q11876909-91806821-0-P828" [label=P828]
+	"Q903779-P1365-Q11876909-91806821-0-P828" -- "Q903779-P1365-Q11876909-91806821-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q11876909 [label="'State of Brazil'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q11876909-91806821-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P1365-Q11876909-91806821-0" [label=P1365]
+	"Q903779-P1365-Q11876909-91806821-0" -- Q11876909 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P580unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q45670-37b2006f-0-P580" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0" -- "Q903779-P1365-Q45670-37b2006f-0-P580" [label=P580]
+	"Q903779-P1365-Q45670-37b2006f-0-P580" -- "Q903779-P1365-Q45670-37b2006f-0-P580unknown" [label="'start time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0" -- "Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0-P585" [label=ckgr9]
+	"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0^1815-01-01T00_00_00Z/9" [label="^1815-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0" -- "Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0" [label=P585]
+	"Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0" -- "Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0^1815-01-01T00_00_00Z/9" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P1365-Q45670-37b2006f-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P1365-Q45670-37b2006f-0-P828unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q45670-37b2006f-0-P828" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P1365-Q45670-37b2006f-0" -- "Q903779-P1365-Q45670-37b2006f-0-P828" [label=P828]
+	"Q903779-P1365-Q45670-37b2006f-0-P828" -- "Q903779-P1365-Q45670-37b2006f-0-P828unknown" [label="'has cause'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q45670 [label="'Kingdom of Portugal'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P1365-Q45670-37b2006f-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P1365-Q45670-37b2006f-0" [label=P1365]
+	"Q903779-P1365-Q45670-37b2006f-0" -- Q45670 [label="'replaces'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P17-Q903779-ae724695-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P17-Q903779-ae724695-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P17-Q903779-ae724695-0" -- "Q903779-P17-Q903779-ae724695-0-P17" [label=ckgr9]
+	"Q903779-P17-Q903779-ae724695-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P17-Q903779-ae724695-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P17-Q903779-ae724695-0" [label=P17]
+	"Q903779-P17-Q903779-ae724695-0" -- Q903779 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P30-Q15-d25cb508-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q15-d25cb508-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P30-Q15-d25cb508-0" -- "Q903779-P30-Q15-d25cb508-0-P30" [label=ckgr9]
+	"Q903779-P30-Q15-d25cb508-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q15 [label="'Africa'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q15-d25cb508-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P30-Q15-d25cb508-0" [label=P30]
+	"Q903779-P30-Q15-d25cb508-0" -- Q15 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P30-Q18-ed1d41f5-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q18-ed1d41f5-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P30-Q18-ed1d41f5-0" -- "Q903779-P30-Q18-ed1d41f5-0-P30" [label=ckgr9]
+	"Q903779-P30-Q18-ed1d41f5-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q18 [label="'South America'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q18-ed1d41f5-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P30-Q18-ed1d41f5-0" [label=P30]
+	"Q903779-P30-Q18-ed1d41f5-0" -- Q18 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P30-Q46-dbe755be-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q46-dbe755be-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P30-Q46-dbe755be-0" -- "Q903779-P30-Q46-dbe755be-0-P30" [label=ckgr9]
+	"Q903779-P30-Q46-dbe755be-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q46 [label="'Europe'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q46-dbe755be-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P30-Q46-dbe755be-0" [label=P30]
+	"Q903779-P30-Q46-dbe755be-0" -- Q46 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P30-Q48-0bbf540d-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q48-0bbf540d-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P30-Q48-0bbf540d-0" -- "Q903779-P30-Q48-0bbf540d-0-P30" [label=ckgr9]
+	"Q903779-P30-Q48-0bbf540d-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q48 [label="'Asia'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P30-Q48-0bbf540d-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P30-Q48-0bbf540d-0" [label=P30]
+	"Q903779-P30-Q48-0bbf540d-0" -- Q48 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P31-Q3024240-c8351482-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P31-Q3024240-c8351482-0" [label=P31]
+	"Q903779-P31-Q3024240-c8351482-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		Q3624078 [label="'sovereign state'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P31-Q3624078-224d7720-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P31-Q3624078-224d7720-0" [label=P31]
+	"Q903779-P31-Q3624078-224d7720-0" -- Q3624078 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P571-70afb4-8ba6a7d2-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P571-70afb4-8ba6a7d2-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P571-70afb4-8ba6a7d2-0" -- "Q903779-P571-70afb4-8ba6a7d2-0-P571" [label=ckgr9]
+	"Q903779-P571-70afb4-8ba6a7d2-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P571-70afb4-8ba6a7d2-0^1815-12-16T00_00_00Z/11" [label="^1815-12-16T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P571-70afb4-8ba6a7d2-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P571-70afb4-8ba6a7d2-0" [label=P571]
+	"Q903779-P571-70afb4-8ba6a7d2-0" -- "Q903779-P571-70afb4-8ba6a7d2-0^1815-12-16T00_00_00Z/11" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q903779-P576-9c5ecd-7c4cf98c-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P576-9c5ecd-7c4cf98c-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q903779-P576-9c5ecd-7c4cf98c-0" -- "Q903779-P576-9c5ecd-7c4cf98c-0-P576" [label=ckgr9]
+	"Q903779-P576-9c5ecd-7c4cf98c-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q903779 [label="'United Kingdom of Portugal, Brazil and the Algarves'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q903779-P576-9c5ecd-7c4cf98c-0^1822-09-07T00_00_00Z/11" [label="^1822-09-07T00:00:00Z/11"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q903779-P576-9c5ecd-7c4cf98c-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q903779 -- "Q903779-P576-9c5ecd-7c4cf98c-0" [label=P576]
+	"Q903779-P576-9c5ecd-7c4cf98c-0" -- "Q903779-P576-9c5ecd-7c4cf98c-0^1822-09-07T00_00_00Z/11" [label="'dissolved, abolished or demolished date'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q940123 [label="'Rustamid dynasty'@en"]
+		Q3024240 [label="'historical country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q940123-P31-Q3024240-b13a150e-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q940123 -- "Q940123-P31-Q3024240-b13a150e-0" [label=P31]
+	"Q940123-P31-Q3024240-b13a150e-0" -- Q3024240 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q940123-P571-e025ff-c1f00d1e-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q940123-P571-e025ff-c1f00d1e-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q940123-P571-e025ff-c1f00d1e-0" -- "Q940123-P571-e025ff-c1f00d1e-0-P571" [label=ckgr9]
+	"Q940123-P571-e025ff-c1f00d1e-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q940123 [label="'Rustamid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q940123-P571-e025ff-c1f00d1e-0^0767-01-01T00_00_00Z/9" [label="^0767-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q940123-P571-e025ff-c1f00d1e-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q940123 -- "Q940123-P571-e025ff-c1f00d1e-0" [label=P571]
+	"Q940123-P571-e025ff-c1f00d1e-0" -- "Q940123-P571-e025ff-c1f00d1e-0^0767-01-01T00_00_00Z/9" [label="'inception'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q940123-P576-149fbe-59900b6d-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q940123-P576-149fbe-59900b6d-0-P576" [label=""]
+	}
+	edge [fontsize=10]
+	"Q940123-P576-149fbe-59900b6d-0" -- "Q940123-P576-149fbe-59900b6d-0-P576" [label=ckgr9]
+	"Q940123-P576-149fbe-59900b6d-0-P576" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q940123 [label="'Rustamid dynasty'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q940123-P576-149fbe-59900b6d-0^0969-01-01T00_00_00Z/9" [label="^0969-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q940123-P576-149fbe-59900b6d-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q940123 -- "Q940123-P576-149fbe-59900b6d-0" [label=P576]
+	"Q940123-P576-149fbe-59900b6d-0" -- "Q940123-P576-149fbe-59900b6d-0^0969-01-01T00_00_00Z/9" [label="'dissolved, abolished or demolished date'@en"]
+}

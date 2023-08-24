@@ -1,17 +1,17 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c20-P828	Q2608489-P576-1d2dab-46b6b8b6-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c20-P828	Q285658-P576-f09f24-7606e02a-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c20-P828	Q5788450-P576-09d178-15130118-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c20-P828	Q671658-P576-aced6f-051f565c-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c22-P805	Q96-P571-152919-88adc7f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c2-P580	Q2608489-P576-1d2dab-46b6b8b6-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c2-P580	Q285658-P576-f09f24-7606e02a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c2-P580	Q5788450-P576-09d178-15130118-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c2-P580	Q671658-P576-aced6f-051f565c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q2608489-P576-1d2dab-46b6b8b6-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q285658-P576-f09f24-7606e02a-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q5788450-P576-09d178-15130118-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q671658-P576-aced6f-051f565c-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c20-46b6b8b6-0-P828	Q2608489-P576-1d2dab-46b6b8b6-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c20-7606e02a-0-P828	Q285658-P576-f09f24-7606e02a-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c20-15130118-0-P828	Q5788450-P576-09d178-15130118-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c20-051f565c-0-P828	Q671658-P576-aced6f-051f565c-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c22-88adc7f1-0-P805	Q96-P571-152919-88adc7f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c2-46b6b8b6-0-P580	Q2608489-P576-1d2dab-46b6b8b6-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c2-7606e02a-0-P580	Q285658-P576-f09f24-7606e02a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c2-15130118-0-P580	Q5788450-P576-09d178-15130118-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c2-051f565c-0-P580	Q671658-P576-aced6f-051f565c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-46b6b8b6-0-P585	Q2608489-P576-1d2dab-46b6b8b6-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-7606e02a-0-P585	Q285658-P576-f09f24-7606e02a-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-7606e02a-0-P585	Q5788450-P576-09d178-15130118-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-15130118-0-P585	Q671658-P576-aced6f-051f565c-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
 Q2608489-P31-Q3024240-feb4d18c-0	Q2608489	'Aztec Empire'@en	P31	P31	Q3024240	'historical country'@en
 Q2608489-P571-8a4b9f-b92a0bb9-0-P571	Q2608489-P571-8a4b9f-b92a0bb9-0		ckgr9	ckg:Context Type	ckgT1	Temporal
 Q2608489-P571-8a4b9f-b92a0bb9-0	Q2608489	'Aztec Empire'@en	P571	'inception'@en	^1428-01-01T00:00:00Z/9	
@@ -94,7 +94,7 @@ Q96-P571-79d8e7-8df81a0f-0-P807-Q29-0	Q96-P571-79d8e7-8df81a0f-0		P807	'separate
 Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11	
 Q96-P571-152919-88adc7f1-0-P4656-ref2	Q96-P571-152919-88adc7f1-0		P4656	'Wikimedia import URL'@en	https://en.wikipedia.org/w/index.php?title=Mexico%E2%80%93United_States_relations&oldid=873630566#Early_history	
 ckg:cww-P4656	Q96-P571-152919-88adc7f1-0-P4656-ref2		ckgr9	ckg:Context Type	ckgP1	Provenance
-Q96-P571-4c1245-c3d094e3-0-P854-ref1	Q96-P571-4c1245-c3d094e3-0		P854	'reference'@en	URLhttps://books.google.lv/books?id=WdzY7YjhRroC&pg=PA83&redir_esc=y#v=onepage&q&f=false	
+Q96-P571-4c1245-c3d094e3-0-P854-ref1	Q96-P571-4c1245-c3d094e3-0		P854	'reference URL'@en	https://books.google.lv/books?id=WdzY7YjhRroC&pg=PA83&redir_esc=y#v=onepage&q&f=false	
 ckg:czz-P854	Q96-P571-4c1245-c3d094e3-0-P854-ref1		ckgr9	ckg:Context Type	ckgP1	Provenance
 ckg:cxx-P7452	Q96-P571-4c1245-c3d094e3-0-P7452		ckgr9	ckg:Context Type	ckgG1	Generic
 Q96-P571-4c1245-c3d094e3-0-7452	Q96-P571-4c1245-c3d094e3-0		P7452	'reason for preferred rank'@en	unknown	

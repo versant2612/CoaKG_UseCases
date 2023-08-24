@@ -1,0 +1,162 @@
+strict graph "Luxemburg-K0-all.tsv" {
+	fontsize=20
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P3896-91b57d-2292122e-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-2292122e-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P3896-91b57d-2292122e-0-P585" -- "ckg_c6-2292122e-0-P585" [label=ckgr9]
+	"ckg_c6-2292122e-0-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P3896-c3109c-c7e6ab55-0-P585" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"ckg_c6-c7e6ab55-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P3896-c3109c-c7e6ab55-0-P585" -- "ckg_c6-c7e6ab55-0-P585" [label=ckgr9]
+	"ckg_c6-c7e6ab55-0-P585" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P17-Q32-ba767b2a-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P17-Q32-ba767b2a-0-P17" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P17-Q32-ba767b2a-0" -- "Q32-P17-Q32-ba767b2a-0-P17" [label=ckgr9]
+	"Q32-P17-Q32-ba767b2a-0-P17" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		Q32 [label="'Luxembourg'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P17-Q32-ba767b2a-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P17-Q32-ba767b2a-0" [label=P17]
+	"Q32-P17-Q32-ba767b2a-0" -- Q32 [label="'country'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P30-Q46-ce3a5135-0" [label=""]
+		ckgL1 [label=Location]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P30-Q46-ce3a5135-0-P30" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P30-Q46-ce3a5135-0" -- "Q32-P30-Q46-ce3a5135-0-P30" [label=ckgr9]
+	"Q32-P30-Q46-ce3a5135-0-P30" -- ckgL1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		Q46 [label="'Europe'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P30-Q46-ce3a5135-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P30-Q46-ce3a5135-0" [label=P30]
+	"Q32-P30-Q46-ce3a5135-0" -- Q46 [label="'continent'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		Q3624078 [label="'sovereign state'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P31-Q3624078-3652e85b-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P31-Q3624078-3652e85b-0" [label=P31]
+	"Q32-P31-Q3624078-3652e85b-0" -- Q3624078 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		Q6256 [label="'country'@en"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P31-Q6256-f26ba82d-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P31-Q6256-f26ba82d-0" [label=P31]
+	"Q32-P31-Q6256-f26ba82d-0" -- Q6256 [label=P31]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P3896-91b57d-2292122e-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q32-P3896-91b57d-2292122e-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P3896-91b57d-2292122e-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P3896-91b57d-2292122e-0" -- "Q32-P3896-91b57d-2292122e-0-P585" [label=P585]
+	"Q32-P3896-91b57d-2292122e-0-P585" -- "Q32-P3896-91b57d-2292122e-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q32-P3896-91b57d-2292122e-0Data_Luxembourg.map" [label="Data:Luxembourg.map"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P3896-91b57d-2292122e-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P3896-91b57d-2292122e-0" [label=P3896]
+	"Q32-P3896-91b57d-2292122e-0" -- "Q32-P3896-91b57d-2292122e-0Data_Luxembourg.map" [label="'geoshape'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P3896-c3109c-c7e6ab55-0" [label=""]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q32-P3896-c3109c-c7e6ab55-0-P585unknown" [label=unknown]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P3896-c3109c-c7e6ab55-0-P585" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P3896-c3109c-c7e6ab55-0" -- "Q32-P3896-c3109c-c7e6ab55-0-P585" [label=P585]
+	"Q32-P3896-c3109c-c7e6ab55-0-P585" -- "Q32-P3896-c3109c-c7e6ab55-0-P585unknown" [label="'point in time'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q32-P3896-c3109c-c7e6ab55-0Data_LuxembourgCountry.map" [label="Data:LuxembourgCountry.map"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P3896-c3109c-c7e6ab55-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P3896-c3109c-c7e6ab55-0" [label=P3896]
+	"Q32-P3896-c3109c-c7e6ab55-0" -- "Q32-P3896-c3109c-c7e6ab55-0Data_LuxembourgCountry.map" [label="'geoshape'@en"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		"Q32-P571-895cae-e79cc2f0-0" [label=""]
+		ckgT1 [label=Temporal]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P571-895cae-e79cc2f0-0-P571" [label=""]
+	}
+	edge [fontsize=10]
+	"Q32-P571-895cae-e79cc2f0-0" -- "Q32-P571-895cae-e79cc2f0-0-P571" [label=ckgr9]
+	"Q32-P571-895cae-e79cc2f0-0-P571" -- ckgT1 [label="ckg:Context Type"]
+	{
+		rank=same
+		node [color="" fontcolor=black fontsize=10 shape=ellipse style=""]
+		Q32 [label="'Luxembourg'@en"]
+		node [color="" fontcolor=forestgreen fontsize=10 shape=plain style=""]
+		"Q32-P571-895cae-e79cc2f0-0^1815-01-01T00_00_00Z/9" [label="^1815-01-01T00:00:00Z/9"]
+		node [color=orange fontsize=10 shape=point style=filled]
+		"Q32-P571-895cae-e79cc2f0-0" [label=""]
+	}
+	edge [fontsize=10]
+	Q32 -- "Q32-P571-895cae-e79cc2f0-0" [label=P571]
+	"Q32-P571-895cae-e79cc2f0-0" -- "Q32-P571-895cae-e79cc2f0-0^1815-01-01T00_00_00Z/9" [label="'inception'@en"]
+}

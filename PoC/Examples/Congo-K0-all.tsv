@@ -1,6 +1,6 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c6-P585	Q971-P3896-9dd958-1d8ca857-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q974-P3896-98cc94-eb023aa9-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-9dd958-1d8ca857-0-P585	Q971-P3896-9dd958-1d8ca857-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-eb023aa9-0-P585	Q974-P3896-98cc94-eb023aa9-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
 Q971-P17-Q971-95dd6e89-0-P17	Q971-P17-Q971-95dd6e89-0		ckgr9	ckg:Context Type	ckgL1	Location
 Q971-P17-Q971-95dd6e89-0	Q971	'Republic of the Congo'@en	P17	'country'@en	Q971	'Republic of the Congo'@en
 Q971-P30-Q15-e29a51cd-0-P30	Q971-P30-Q15-e29a51cd-0		ckgr9	ckg:Context Type	ckgL1	Location

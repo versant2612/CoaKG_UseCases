@@ -1,6 +1,6 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c6-P585	Q32-P3896-91b57d-2292122e-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q32-P3896-c3109c-c7e6ab55-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-2292122e-0-P585	Q32-P3896-91b57d-2292122e-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-c7e6ab55-0-P585	Q32-P3896-c3109c-c7e6ab55-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
 Q32-P17-Q32-ba767b2a-0-P17	Q32-P17-Q32-ba767b2a-0		ckgr9	ckg:Context Type	ckgL1	Location
 Q32-P17-Q32-ba767b2a-0	Q32	'Luxembourg'@en	P17	'country'@en	Q32	'Luxembourg'@en
 Q32-P30-Q46-ce3a5135-0-P30	Q32-P30-Q46-ce3a5135-0		ckgr9	ckg:Context Type	ckgL1	Location

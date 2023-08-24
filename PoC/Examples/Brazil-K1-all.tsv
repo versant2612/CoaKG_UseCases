@@ -1,10 +1,10 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c20-P828	Q155-P1365-Q217230-19ed8df2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c20-P828	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c2-P580	Q155-P1365-Q217230-19ed8df2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c2-P580	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q155-P1365-Q217230-19ed8df2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-P585	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c20-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c20-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+ckg:c2-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c2-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+ckg:c6-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
 Q155-P1365-Q217230-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0		P580	'start time'@en	unknown	
 Q155-P1365-Q217230-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0		P585	'point in time'@en	unknown	
 Q155-P1365-Q217230-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0		P828	'has cause'@en	unknown	
