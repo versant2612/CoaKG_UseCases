@@ -1,0 +1,23 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en
+Q155-P1365-Q5848654-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0		P580	'start time'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P580-ckgT1	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0		P585	'point in time'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P585-ckgT1	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0		P828	'has cause'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P828-ckgP1	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P1566-73abb6-723fef72-0	Q155	'Brazil'@en	P1566	'GeoNames ID'@en	"3469034"	
+Q155-P1566-73abb6-723fef72-0-P1566	Q155-P1566-73abb6-723fef72-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q155-P298-b6eae4-99bceae2-0	Q155	'Brazil'@en	P298	'ISO 3166-1 alpha-3 code'@en	"BRA"	
+Q155-P298-b6eae4-99bceae2-0-P298	Q155-P298-b6eae4-99bceae2-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P571-9c5ecd-c64bdc96-0	Q155	'Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
+Q155-P571-9c5ecd-c64bdc96-0-P571	Q155-P571-9c5ecd-c64bdc96-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P17-Q155-d28fadb7-0	Q155	'Brazil'@en	P17	'country'@en	Q155	'Brazil'@en
+Q155-P17-Q155-d28fadb7-0-P17	Q155-P17-Q155-d28fadb7-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P17-Q200464-fda3ef12-0	Q155	'Brazil'@en	P17	'country'@en	Q200464	'Portuguese Empire'@en
+Q155-P17-Q200464-fda3ef12-0-P17	Q155-P17-Q200464-fda3ef12-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P30-Q18-96724c27-0	Q155	'Brazil'@en	P30	'continent'@en	Q18	'South America'@en
+Q155-P30-Q18-96724c27-0-P30	Q155-P30-Q18-96724c27-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q5848654-P31-Q11514315-19022046-0	Q5848654	'Republic of the United States of Brazil'@en	P31	'instance of'@en	Q11514315	'historical period'@en

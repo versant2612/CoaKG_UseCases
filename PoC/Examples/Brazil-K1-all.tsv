@@ -1,25 +1,22 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c20-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c20-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
-ckg:c2-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c2-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-Q155-P1365-Q217230-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0		P580	'start time'@en	unknown	
-Q155-P1365-Q217230-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0		P585	'point in time'@en	unknown	
-Q155-P1365-Q217230-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0		P828	'has cause'@en	unknown	
 Q155-P1365-Q217230-19ed8df2-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q217230	'Empire of Brazil'@en
-Q155-P1365-Q5848654-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0		P580	'start time'@en	unknown	
-Q155-P1365-Q5848654-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0		P585	'point in time'@en	unknown	
-Q155-P1365-Q5848654-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0		P828	'has cause'@en	unknown	
+Q155-P1365-Q217230-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0		P580	'start time'@en	unknown	
+ckg:c2-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q217230-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0		P585	'point in time'@en	unknown	
+ckg:c6-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q217230-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0		P828	'has cause'@en	unknown	
+ckg:c20-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
 Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en
-Q217230-P17-Q217230-69e8c07c-0-P17	Q217230-P17-Q217230-69e8c07c-0		ckgr9	ckg:Context Type	ckgL1	Location
-Q217230-P17-Q217230-69e8c07c-0	Q217230	'Empire of Brazil'@en	P17	'country'@en	Q217230	'Empire of Brazil'@en
-Q217230-P30-Q18-9d189008-0-P30	Q217230-P30-Q18-9d189008-0		ckgr9	ckg:Context Type	ckgL1	Location
-Q217230-P30-Q18-9d189008-0	Q217230	'Empire of Brazil'@en	P30	'continent'@en	Q18	'South America'@en
-Q217230-P31-Q3024240-0e78bec7-0	Q217230	'Empire of Brazil'@en	P31	P31	Q3024240	'historical country'@en
-Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	P31	Q3624078	'sovereign state'@en
-Q217230-P571-9c5ecd-090e9117-0-P571	Q217230-P571-9c5ecd-090e9117-0		ckgr9	ckg:Context Type	ckgT1	Temporal
-Q217230-P571-9c5ecd-090e9117-0	Q217230	'Empire of Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
-Q217230-P576-613a9d-c8558178-0-P576	Q217230-P576-613a9d-c8558178-0		ckgr9	ckg:Context Type	ckgT1	Temporal
-Q217230-P576-613a9d-c8558178-0	Q217230	'Empire of Brazil'@en	P576	'dissolved, abolished or demolished date'@en	^1889-11-15T00:00:00Z/11	
+Q155-P1365-Q5848654-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0		P585	'point in time'@en	unknown	
+ckg:c6-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0		P580	'start time'@en	unknown	
+ckg:c2-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0		P828	'has cause'@en	unknown
+ckg:c20-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+
+
+
+
+	
+
+	

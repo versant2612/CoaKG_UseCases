@@ -1,21 +1,18 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-Q974-P17-Q974-c1df9d0e-0	Q974	'Democratic Republic of the Congo'@en	P17	'country'@en	Q974	'Democratic Republic of the Congo'@en
-Q974-P30-Q15-71d5f7ad-0	Q974	'Democratic Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
-Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
-Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
 Q974-P3896-98cc94-eb023aa9-0	Q974	'Democratic Republic of the Congo'@en	P3896	'geoshape'@en	"Data:DR Congo.map"	
-Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11	
-Q974-P17-Q974-c1df9d0e-0-P17	Q974-P17-Q974-c1df9d0e-0		ckgr9	ckg:Context Type	ckgL1	Location
-Q974-P30-Q15-71d5f7ad-0-P30	Q974-P30-Q15-71d5f7ad-0		ckgr9	ckg:Context Type	ckgL1	Location
 Q974-P3896-98cc94-eb023aa9-0-P585	Q974-P3896-98cc94-eb023aa9-0		P585	'point in time'@en	unknown	
 Q974-P3896-98cc94-eb023aa9-0-P585-ckgT1	Q974-P3896-98cc94-eb023aa9-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P1566-8ec5aa-8bc02dba-0	Q974	'Democratic Republic of the Congo'@en	P1566	'GeoNames ID'@en	"203312"	
+Q974-P1566-8ec5aa-8bc02dba-0-P1566	Q974-P1566-8ec5aa-8bc02dba-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P298-7571fb-35b6152e-0	Q974	'Democratic Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COD"	
+Q974-P298-7571fb-35b6152e-0-P298	Q974-P298-7571fb-35b6152e-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P17-Q974-c1df9d0e-0	Q974	'Democratic Republic of the Congo'@en	P17	'country'@en	Q974	'Democratic Republic of the Congo'@en
+Q974-P17-Q974-c1df9d0e-0-P17	Q974-P17-Q974-c1df9d0e-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P30-Q15-71d5f7ad-0	Q974	'Democratic Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
+Q974-P30-Q15-71d5f7ad-0-P30	Q974-P30-Q15-71d5f7ad-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11
 Q974-P571-938147-2440b1f8-0-P571	Q974-P571-938147-2440b1f8-0		ckgr9	ckg:Context Type	ckgT1	Temporal
-Q974-P1566-8ec5aa-8bc02dba-0	Q974	'Democratic Republic of the Congo'@en	P1566	'GeoNames ID'@en	"203312"	
-Q974-P1566-8ec5aa-8bc02dba-0-P1566	Q974-P1566-8ec5aa-8bc02dba-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
-Q974-P1566-8ec5aa-8bc02dba-0	Q974	'Democratic Republic of the Congo'@en	P1566	'GeoNames ID'@en	"203312"	
-Q974-P1566-8ec5aa-8bc02dba-0-P1566	Q974-P1566-8ec5aa-8bc02dba-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
-Q974-P298-7571fb-35b6152e-0	Q974	'Democratic Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COD"	
-Q974-P298-7571fb-35b6152e-0-P298	Q974-P298-7571fb-35b6152e-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
-Q974-P298-7571fb-35b6152e-0	Q974	'Democratic Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COD"	
-Q974-P298-7571fb-35b6152e-0-P298	Q974-P298-7571fb-35b6152e-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+
 
