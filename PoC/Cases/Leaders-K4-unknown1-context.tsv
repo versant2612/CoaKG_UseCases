@@ -1,0 +1,1273 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q145-P35-Q269412-a0ce4083-0	Q145	'United Kingdom'@en	P35	'head of state'@en	Q269412	'George V'@en
+Q145-P35-Q269412-a0ce4083-0-P580	Q145-P35-Q269412-a0ce4083-0		P580	'start time'@en	unknown	
+Q145-P35-Q269412-a0ce4083-0-P580-ckgT1	Q145-P35-Q269412-a0ce4083-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q142-P35-Q12950-7c3d50a5-0	Q142	'France'@en	P35	'head of state'@en	Q12950	'Alain Poher'@en
+Q142-P35-Q12950-7c3d50a5-0-P805	Q142-P35-Q12950-7c3d50a5-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q12950-7c3d50a5-0-P805-ckgP1	Q142-P35-Q12950-7c3d50a5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q12950-f0c5114c-0	Q142	'France'@en	P35	'head of state'@en	Q12950	'Alain Poher'@en
+Q142-P35-Q12950-f0c5114c-0-P805	Q142-P35-Q12950-f0c5114c-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q12950-f0c5114c-0-P805-ckgP1	Q142-P35-Q12950-f0c5114c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q2042-961b77f2-0	Q142	'France'@en	P35	'head of state'@en	Q2042	'Charles de Gaulle'@en
+Q142-P35-Q2042-961b77f2-0-P805	Q142-P35-Q2042-961b77f2-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q2042-961b77f2-0-P805-ckgP1	Q142-P35-Q2042-961b77f2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q3052772-cb73d9ed-0	Q142	'France'@en	P35	'head of state'@en	Q3052772	'Emmanuel Macron'@en
+Q142-P35-Q3052772-cb73d9ed-0-P805	Q142-P35-Q3052772-cb73d9ed-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q3052772-cb73d9ed-0-P805-ckgP1	Q142-P35-Q3052772-cb73d9ed-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q157-4a1e85c2-0	Q142	'France'@en	P35	'head of state'@en	Q157	'François Hollande'@en
+Q142-P35-Q157-4a1e85c2-0-P805	Q142-P35-Q157-4a1e85c2-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q157-4a1e85c2-0-P805-ckgP1	Q142-P35-Q157-4a1e85c2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q2038-05fdabcc-0	Q142	'France'@en	P35	'head of state'@en	Q2038	'François Mitterrand'@en
+Q142-P35-Q2038-05fdabcc-0-P805	Q142-P35-Q2038-05fdabcc-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q2038-05fdabcc-0-P805-ckgP1	Q142-P35-Q2038-05fdabcc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q2185-e26577be-0	Q142	'France'@en	P35	'head of state'@en	Q2185	'Georges Pompidou'@en
+Q142-P35-Q2185-e26577be-0-P805	Q142-P35-Q2185-e26577be-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q2185-e26577be-0-P805-ckgP1	Q142-P35-Q2185-e26577be-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q2105-e65f3398-0	Q142	'France'@en	P35	'head of state'@en	Q2105	'Jacques Chirac'@en
+Q142-P35-Q2105-e65f3398-0-P805	Q142-P35-Q2105-e65f3398-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q2105-e65f3398-0-P805-ckgP1	Q142-P35-Q2105-e65f3398-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q329-a0397f0b-0	Q142	'France'@en	P35	'head of state'@en	Q329	'Nicolas Sarkozy'@en
+Q142-P35-Q329-a0397f0b-0-P805	Q142-P35-Q329-a0397f0b-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q329-a0397f0b-0-P805-ckgP1	Q142-P35-Q329-a0397f0b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q158768-621b9d2d-0	Q142	'France'@en	P35	'head of state'@en	Q158768	'René Coty'@en
+Q142-P35-Q158768-621b9d2d-0-P805	Q142-P35-Q158768-621b9d2d-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q158768-621b9d2d-0-P805-ckgP1	Q142-P35-Q158768-621b9d2d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q2124-17bf43e7-0	Q142	'France'@en	P35	'head of state'@en	Q2124	'Valéry Giscard d\'Estaing'@en
+Q142-P35-Q2124-17bf43e7-0-P805	Q142-P35-Q2124-17bf43e7-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q2124-17bf43e7-0-P805-ckgP1	Q142-P35-Q2124-17bf43e7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P35-Q158772-17b8e938-0	Q142	'France'@en	P35	'head of state'@en	Q158772	'Vincent Auriol'@en
+Q142-P35-Q158772-17b8e938-0-P805	Q142-P35-Q158772-17b8e938-0		P805	'statement is subject of'@en	unknown	
+Q142-P35-Q158772-17b8e938-0-P805-ckgP1	Q142-P35-Q158772-17b8e938-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P35-Q590227-0df684f2-0	Q145	'United Kingdom'@en	P35	'head of state'@en	Q590227	'Edward VIII'@en
+Q145-P35-Q590227-0df684f2-0-P805	Q145-P35-Q590227-0df684f2-0		P805	'statement is subject of'@en	unknown	
+Q145-P35-Q590227-0df684f2-0-P805-ckgP1	Q145-P35-Q590227-0df684f2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P35-Q9682-c97c192f-0	Q145	'United Kingdom'@en	P35	'head of state'@en	Q9682	'Elizabeth II'@en
+Q145-P35-Q9682-c97c192f-0-P805	Q145-P35-Q9682-c97c192f-0		P805	'statement is subject of'@en	unknown	
+Q145-P35-Q9682-c97c192f-0-P805-ckgP1	Q145-P35-Q9682-c97c192f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P35-Q269412-a0ce4083-0	Q145	'United Kingdom'@en	P35	'head of state'@en	Q269412	'George V'@en
+Q145-P35-Q269412-a0ce4083-0-P805	Q145-P35-Q269412-a0ce4083-0		P805	'statement is subject of'@en	unknown	
+Q145-P35-Q269412-a0ce4083-0-P805-ckgP1	Q145-P35-Q269412-a0ce4083-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P35-Q280856-860d959e-0	Q145	'United Kingdom'@en	P35	'head of state'@en	Q280856	'George VI'@en
+Q145-P35-Q280856-860d959e-0-P805	Q145-P35-Q280856-860d959e-0		P805	'statement is subject of'@en	unknown	
+Q145-P35-Q280856-860d959e-0-P805-ckgP1	Q145-P35-Q280856-860d959e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q40722-9755b85b-0	Q155	'Brazil'@en	P35	'head of state'@en	Q40722	'Dilma Rousseff'@en
+Q155-P35-Q40722-9755b85b-0-P805	Q155-P35-Q40722-9755b85b-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q40722-9755b85b-0-P805-ckgP1	Q155-P35-Q40722-9755b85b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q236503-8f926bc0-0	Q155	'Brazil'@en	P35	'head of state'@en	Q236503	'Fernando Collor de Mello'@en
+Q155-P35-Q236503-8f926bc0-0-P805	Q155-P35-Q236503-8f926bc0-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q236503-8f926bc0-0-P805-ckgP1	Q155-P35-Q236503-8f926bc0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q230578-cbb0f2ec-0	Q155	'Brazil'@en	P35	'head of state'@en	Q230578	'Fernando Henrique Cardoso'@en
+Q155-P35-Q230578-cbb0f2ec-0-P805	Q155-P35-Q230578-cbb0f2ec-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q230578-cbb0f2ec-0-P805-ckgP1	Q155-P35-Q230578-cbb0f2ec-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q485946-0e2d65bf-0	Q155	'Brazil'@en	P35	'head of state'@en	Q485946	'Itamar Franco'@en
+Q155-P35-Q485946-0e2d65bf-0-P805	Q155-P35-Q485946-0e2d65bf-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q485946-0e2d65bf-0-P805-ckgP1	Q155-P35-Q485946-0e2d65bf-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q10304982-20d3e965-0	Q155	'Brazil'@en	P35	'head of state'@en	Q10304982	'Jair Bolsonaro'@en
+Q155-P35-Q10304982-20d3e965-0-P805	Q155-P35-Q10304982-20d3e965-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q10304982-20d3e965-0-P805-ckgP1	Q155-P35-Q10304982-20d3e965-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q37181-f6e1088b-0	Q155	'Brazil'@en	P35	'head of state'@en	Q37181	'Luiz Inácio Lula da Silva'@en
+Q155-P35-Q37181-f6e1088b-0-P805	Q155-P35-Q37181-f6e1088b-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q37181-f6e1088b-0-P805-ckgP1	Q155-P35-Q37181-f6e1088b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P35-Q463533-cd253216-0	Q155	'Brazil'@en	P35	'head of state'@en	Q463533	'Michel Temer'@en
+Q155-P35-Q463533-cd253216-0-P805	Q155-P35-Q463533-cd253216-0		P805	'statement is subject of'@en	unknown	
+Q155-P35-Q463533-cd253216-0-P805-ckgP1	Q155-P35-Q463533-cd253216-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P35-Q34453-474a5fa3-0	Q159	'Russia'@en	P35	'head of state'@en	Q34453	'Boris Yeltsin'@en
+Q159-P35-Q34453-474a5fa3-0-P805	Q159-P35-Q34453-474a5fa3-0		P805	'statement is subject of'@en	unknown	
+Q159-P35-Q34453-474a5fa3-0-P805-ckgP1	Q159-P35-Q34453-474a5fa3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P35-Q23530-53f4b02e-0	Q159	'Russia'@en	P35	'head of state'@en	Q23530	'Dmitry Medvedev'@en
+Q159-P35-Q23530-53f4b02e-0-P805	Q159-P35-Q23530-53f4b02e-0		P805	'statement is subject of'@en	unknown	
+Q159-P35-Q23530-53f4b02e-0-P805-ckgP1	Q159-P35-Q23530-53f4b02e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P35-Q7747-93ce0294-0	Q159	'Russia'@en	P35	'head of state'@en	Q7747	'Vladimir Putin'@en
+Q159-P35-Q7747-93ce0294-0-P805	Q159-P35-Q7747-93ce0294-0		P805	'statement is subject of'@en	unknown	
+Q159-P35-Q7747-93ce0294-0-P805-ckgP1	Q159-P35-Q7747-93ce0294-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P35-Q7747-ef802403-0	Q159	'Russia'@en	P35	'head of state'@en	Q7747	'Vladimir Putin'@en
+Q159-P35-Q7747-ef802403-0-P805	Q159-P35-Q7747-ef802403-0		P805	'statement is subject of'@en	unknown	
+Q159-P35-Q7747-ef802403-0-P805-ckgP1	Q159-P35-Q7747-ef802403-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q20875-ee647ff7-0	Q16	'Canada'@en	P35	'head of state'@en	Q20875	'Edward VII'@en
+Q16-P35-Q20875-ee647ff7-0-P805	Q16-P35-Q20875-ee647ff7-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q20875-ee647ff7-0-P805-ckgP1	Q16-P35-Q20875-ee647ff7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q590227-a62ad842-0	Q16	'Canada'@en	P35	'head of state'@en	Q590227	'Edward VIII'@en
+Q16-P35-Q590227-a62ad842-0-P805	Q16-P35-Q590227-a62ad842-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q590227-a62ad842-0-P805-ckgP1	Q16-P35-Q590227-a62ad842-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q9682-213e563b-0	Q16	'Canada'@en	P35	'head of state'@en	Q9682	'Elizabeth II'@en
+Q16-P35-Q9682-213e563b-0-P805	Q16-P35-Q9682-213e563b-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q9682-213e563b-0-P805-ckgP1	Q16-P35-Q9682-213e563b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q269412-a96aeea9-0	Q16	'Canada'@en	P35	'head of state'@en	Q269412	'George V'@en
+Q16-P35-Q269412-a96aeea9-0-P805	Q16-P35-Q269412-a96aeea9-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q269412-a96aeea9-0-P805-ckgP1	Q16-P35-Q269412-a96aeea9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q280856-2ca68963-0	Q16	'Canada'@en	P35	'head of state'@en	Q280856	'George VI'@en
+Q16-P35-Q280856-2ca68963-0-P805	Q16-P35-Q280856-2ca68963-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q280856-2ca68963-0-P805-ckgP1	Q16-P35-Q280856-2ca68963-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P35-Q9439-41fd24f9-0	Q16	'Canada'@en	P35	'head of state'@en	Q9439	'Queen Victoria'@en
+Q16-P35-Q9439-41fd24f9-0-P805	Q16-P35-Q9439-41fd24f9-0		P805	'statement is subject of'@en	unknown	
+Q16-P35-Q9439-41fd24f9-0-P805-ckgP1	Q16-P35-Q9439-41fd24f9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2540-9ba84326-0	Q183	'Germany'@en	P35	'head of state'@en	Q2540	'Christian Wulff'@en
+Q183-P35-Q2540-9ba84326-0-P805	Q183-P35-Q2540-9ba84326-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2540-9ba84326-0-P805-ckgP1	Q183-P35-Q2540-9ba84326-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q76658-b9e1c9f2-0	Q183	'Germany'@en	P35	'head of state'@en	Q76658	'Frank-Walter Steinmeier'@en
+Q183-P35-Q76658-b9e1c9f2-0-P805	Q183-P35-Q76658-b9e1c9f2-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q76658-b9e1c9f2-0-P805-ckgP1	Q183-P35-Q76658-b9e1c9f2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2573-d2532225-0	Q183	'Germany'@en	P35	'head of state'@en	Q2573	'Gustav Heinemann'@en
+Q183-P35-Q2573-d2532225-0-P805	Q183-P35-Q2573-d2532225-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2573-d2532225-0-P805-ckgP1	Q183-P35-Q2573-d2532225-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2582-ca7b141a-0	Q183	'Germany'@en	P35	'head of state'@en	Q2582	'Heinrich Lübke'@en
+Q183-P35-Q2582-ca7b141a-0-P805	Q183-P35-Q2582-ca7b141a-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2582-ca7b141a-0-P805-ckgP1	Q183-P35-Q2582-ca7b141a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2542-569ab5cc-0	Q183	'Germany'@en	P35	'head of state'@en	Q2542	'Horst Köhler'@en
+Q183-P35-Q2542-569ab5cc-0-P805	Q183-P35-Q2542-569ab5cc-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2542-569ab5cc-0-P805-ckgP1	Q183-P35-Q2542-569ab5cc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2538-e692407b-0	Q183	'Germany'@en	P35	'head of state'@en	Q2538	'Joachim Gauck'@en
+Q183-P35-Q2538-e692407b-0-P805	Q183-P35-Q2538-e692407b-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2538-e692407b-0-P805-ckgP1	Q183-P35-Q2538-e692407b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2551-7a981581-0	Q183	'Germany'@en	P35	'head of state'@en	Q2551	'Johannes Rau'@en
+Q183-P35-Q2551-7a981581-0-P805	Q183-P35-Q2551-7a981581-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2551-7a981581-0-P805-ckgP1	Q183-P35-Q2551-7a981581-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2569-18e32418-0	Q183	'Germany'@en	P35	'head of state'@en	Q2569	'Karl Carstens'@en
+Q183-P35-Q2569-18e32418-0-P805	Q183-P35-Q2569-18e32418-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2569-18e32418-0-P805-ckgP1	Q183-P35-Q2569-18e32418-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2567-d4a75785-0	Q183	'Germany'@en	P35	'head of state'@en	Q2567	'Richard von Weizsäcker'@en
+Q183-P35-Q2567-d4a75785-0-P805	Q183-P35-Q2567-d4a75785-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2567-d4a75785-0-P805-ckgP1	Q183-P35-Q2567-d4a75785-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2563-73cd848e-0	Q183	'Germany'@en	P35	'head of state'@en	Q2563	'Roman Herzog'@en
+Q183-P35-Q2563-73cd848e-0-P805	Q183-P35-Q2563-73cd848e-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2563-73cd848e-0-P805-ckgP1	Q183-P35-Q2563-73cd848e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2594-7b53bbee-0	Q183	'Germany'@en	P35	'head of state'@en	Q2594	'Theodor Heuss'@en
+Q183-P35-Q2594-7b53bbee-0-P805	Q183-P35-Q2594-7b53bbee-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2594-7b53bbee-0-P805-ckgP1	Q183-P35-Q2594-7b53bbee-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P35-Q2571-6c29d01d-0	Q183	'Germany'@en	P35	'head of state'@en	Q2571	'Walter Scheel'@en
+Q183-P35-Q2571-6c29d01d-0-P805	Q183-P35-Q2571-6c29d01d-0		P805	'statement is subject of'@en	unknown	
+Q183-P35-Q2571-6c29d01d-0-P805-ckgP1	Q183-P35-Q2571-6c29d01d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P35-Q154927-eabc0345-0	Q20	'Norway'@en	P35	'head of state'@en	Q154927	'Haakon VII of Norway'@en
+Q20-P35-Q154927-eabc0345-0-P805	Q20-P35-Q154927-eabc0345-0		P805	'statement is subject of'@en	unknown	
+Q20-P35-Q154927-eabc0345-0-P805-ckgP1	Q20-P35-Q154927-eabc0345-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P35-Q57287-0fa6280e-0	Q20	'Norway'@en	P35	'head of state'@en	Q57287	'Harald V of Norway'@en
+Q20-P35-Q57287-0fa6280e-0-P805	Q20-P35-Q57287-0fa6280e-0		P805	'statement is subject of'@en	unknown	
+Q20-P35-Q57287-0fa6280e-0-P805-ckgP1	Q20-P35-Q57287-0fa6280e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P35-Q154912-2104ce98-0	Q20	'Norway'@en	P35	'head of state'@en	Q154912	'Olav V of Norway'@en
+Q20-P35-Q154912-2104ce98-0-P805	Q20-P35-Q154912-2104ce98-0		P805	'statement is subject of'@en	unknown	
+Q20-P35-Q154912-2104ce98-0-P805-ckgP1	Q20-P35-Q154912-2104ce98-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P35-Q1148669-1f353d73-0	Q258	'South Africa'@en	P35	'head of state'@en	Q1148669	'Matamela Cyril Ramaphosa'@en
+Q258-P35-Q1148669-1f353d73-0-P805	Q258-P35-Q1148669-1f353d73-0		P805	'statement is subject of'@en	unknown	
+Q258-P35-Q1148669-1f353d73-0-P805-ckgP1	Q258-P35-Q1148669-1f353d73-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P35-Q191045-4d3eb6c9-0	Q29	'Spain'@en	P35	'head of state'@en	Q191045	'Felipe VI of Spain'@en
+Q29-P35-Q191045-4d3eb6c9-0-P805	Q29-P35-Q191045-4d3eb6c9-0		P805	'statement is subject of'@en	unknown	
+Q29-P35-Q191045-4d3eb6c9-0-P805-ckgP1	Q29-P35-Q191045-4d3eb6c9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P35-Q19943-935eac6e-0	Q29	'Spain'@en	P35	'head of state'@en	Q19943	'Juan Carlos I of Spain'@en
+Q29-P35-Q19943-935eac6e-0-P805	Q29-P35-Q19943-935eac6e-0		P805	'statement is subject of'@en	unknown	
+Q29-P35-Q19943-935eac6e-0-P805-ckgP1	Q29-P35-Q19943-935eac6e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q55008046-725dce40-0	Q31	'Belgium'@en	P35	'head of state'@en	Q55008046	'Albert I of Belgium'@en
+Q31-P35-Q55008046-725dce40-0-P805	Q31-P35-Q55008046-725dce40-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q55008046-725dce40-0-P805-ckgP1	Q31-P35-Q55008046-725dce40-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q3911-82723059-0	Q31	'Belgium'@en	P35	'head of state'@en	Q3911	'Albert II of Belgium'@en
+Q31-P35-Q3911-82723059-0-P805	Q31-P35-Q3911-82723059-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q3911-82723059-0-P805-ckgP1	Q31-P35-Q3911-82723059-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12976-6c320f37-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12976	'Baudouin I of Belgium'@en
+Q31-P35-Q12976-6c320f37-0-P805	Q31-P35-Q12976-6c320f37-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12976-6c320f37-0-P805-ckgP1	Q31-P35-Q12976-6c320f37-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12976-6db31b25-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12976	'Baudouin I of Belgium'@en
+Q31-P35-Q12976-6db31b25-0-P805	Q31-P35-Q12976-6db31b25-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12976-6db31b25-0-P805-ckgP1	Q31-P35-Q12976-6db31b25-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12971-2088471b-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12971	'Leopold I of Belgium'@en
+Q31-P35-Q12971-2088471b-0-P805	Q31-P35-Q12971-2088471b-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12971-2088471b-0-P805-ckgP1	Q31-P35-Q12971-2088471b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12967-f2b9aaf3-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12967	'Leopold II of Belgium'@en
+Q31-P35-Q12967-f2b9aaf3-0-P805	Q31-P35-Q12967-f2b9aaf3-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12967-f2b9aaf3-0-P805-ckgP1	Q31-P35-Q12967-f2b9aaf3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12973-31c1b700-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12973	'Leopold III of Belgium'@en
+Q31-P35-Q12973-31c1b700-0-P805	Q31-P35-Q12973-31c1b700-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12973-31c1b700-0-P805-ckgP1	Q31-P35-Q12973-31c1b700-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q12973-c82ed584-0	Q31	'Belgium'@en	P35	'head of state'@en	Q12973	'Leopold III of Belgium'@en
+Q31-P35-Q12973-c82ed584-0-P805	Q31-P35-Q12973-c82ed584-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q12973-c82ed584-0-P805-ckgP1	Q31-P35-Q12973-c82ed584-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q155004-3c7ccc36-0	Q31	'Belgium'@en	P35	'head of state'@en	Q155004	'Philippe I of Belgium'@en
+Q31-P35-Q155004-3c7ccc36-0-P805	Q31-P35-Q155004-3c7ccc36-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q155004-3c7ccc36-0-P805-ckgP1	Q31-P35-Q155004-3c7ccc36-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q445553-7599749f-0	Q31	'Belgium'@en	P35	'head of state'@en	Q445553	'Prince Charles, Count of Flanders'@en
+Q31-P35-Q445553-7599749f-0-P805	Q31-P35-Q445553-7599749f-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q445553-7599749f-0-P805-ckgP1	Q31-P35-Q445553-7599749f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P35-Q1079522-619ba603-0	Q31	'Belgium'@en	P35	'head of state'@en	Q1079522	'Érasme-Louis Surlet de Chokier'@en
+Q31-P35-Q1079522-619ba603-0-P805	Q31-P35-Q1079522-619ba603-0		P805	'statement is subject of'@en	unknown	
+Q31-P35-Q1079522-619ba603-0-P805-ckgP1	Q31-P35-Q1079522-619ba603-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P35-Q29207-39add093-0	Q33	'Finland'@en	P35	'head of state'@en	Q29207	'Sauli Niinistö'@en
+Q33-P35-Q29207-39add093-0-P805	Q33-P35-Q29207-39add093-0		P805	'statement is subject of'@en	unknown	
+Q33-P35-Q29207-39add093-0-P805-ckgP1	Q33-P35-Q29207-39add093-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q45068-a9dc2b3d-0	Q34	'Sweden'@en	P35	'head of state'@en	Q45068	'Carl XVI Gustaf of Sweden'@en
+Q34-P35-Q45068-a9dc2b3d-0-P805	Q34-P35-Q45068-a9dc2b3d-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q45068-a9dc2b3d-0-P805-ckgP1	Q34-P35-Q45068-a9dc2b3d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52927-5d95bdc5-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52927	'Charles XIV John of Sweden'@en
+Q34-P35-Q52927-5d95bdc5-0-P805	Q34-P35-Q52927-5d95bdc5-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52927-5d95bdc5-0-P805-ckgP1	Q34-P35-Q52927-5d95bdc5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52925-1ec58843-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52925	'Charles XV of Sweden'@en
+Q34-P35-Q52925-1ec58843-0-P805	Q34-P35-Q52925-1ec58843-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52925-1ec58843-0-P805-ckgP1	Q34-P35-Q52925-1ec58843-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52890-45f18f3b-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52890	'Gustaf V of Sweden'@en
+Q34-P35-Q52890-45f18f3b-0-P805	Q34-P35-Q52890-45f18f3b-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52890-45f18f3b-0-P805-ckgP1	Q34-P35-Q52890-45f18f3b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52878-c7dfa205-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52878	'Gustaf VI Adolf of Sweden'@en
+Q34-P35-Q52878-c7dfa205-0-P805	Q34-P35-Q52878-c7dfa205-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52878-c7dfa205-0-P805-ckgP1	Q34-P35-Q52878-c7dfa205-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52926-c55fef48-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52926	'Oscar I of Sweden'@en
+Q34-P35-Q52926-c55fef48-0-P805	Q34-P35-Q52926-c55fef48-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52926-c55fef48-0-P805-ckgP1	Q34-P35-Q52926-c55fef48-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P35-Q52924-04661c1f-0	Q34	'Sweden'@en	P35	'head of state'@en	Q52924	'Oscar II of Sweden'@en
+Q34-P35-Q52924-04661c1f-0-P805	Q34-P35-Q52924-04661c1f-0		P805	'statement is subject of'@en	unknown	
+Q34-P35-Q52924-04661c1f-0-P805-ckgP1	Q34-P35-Q52924-04661c1f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q153940-01e70435-0	Q35	'Denmark'@en	P35	'head of state'@en	Q153940	'Christian I of Denmark'@en
+Q35-P35-Q153940-01e70435-0-P805	Q35-P35-Q153940-01e70435-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q153940-01e70435-0-P805-ckgP1	Q35-P35-Q153940-01e70435-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q154460-e6ea99fd-0	Q35	'Denmark'@en	P35	'head of state'@en	Q154460	'Christian II of Denmark'@en
+Q35-P35-Q154460-e6ea99fd-0-P805	Q35-P35-Q154460-e6ea99fd-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q154460-e6ea99fd-0-P805-ckgP1	Q35-P35-Q154460-e6ea99fd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q154998-52a0c97f-0	Q35	'Denmark'@en	P35	'head of state'@en	Q154998	'Christian III of Denmark'@en
+Q35-P35-Q154998-52a0c97f-0-P805	Q35-P35-Q154998-52a0c97f-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q154998-52a0c97f-0-P805-ckgP1	Q35-P35-Q154998-52a0c97f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q153586-4f1f0ab6-0	Q35	'Denmark'@en	P35	'head of state'@en	Q153586	'Christian IV of Denmark'@en
+Q35-P35-Q153586-4f1f0ab6-0-P805	Q35-P35-Q153586-4f1f0ab6-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q153586-4f1f0ab6-0-P805-ckgP1	Q35-P35-Q153586-4f1f0ab6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q151305-e3059794-0	Q35	'Denmark'@en	P35	'head of state'@en	Q151305	'Christian IX of Denmark'@en
+Q35-P35-Q151305-e3059794-0-P805	Q35-P35-Q151305-e3059794-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q151305-e3059794-0-P805-ckgP1	Q35-P35-Q151305-e3059794-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q157793-a3d3d705-0	Q35	'Denmark'@en	P35	'head of state'@en	Q157793	'Christian V of Denmark'@en
+Q35-P35-Q157793-a3d3d705-0-P805	Q35-P35-Q157793-a3d3d705-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q157793-a3d3d705-0-P805-ckgP1	Q35-P35-Q157793-a3d3d705-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q154993-6c035b26-0	Q35	'Denmark'@en	P35	'head of state'@en	Q154993	'Christian VI of Denmark'@en
+Q35-P35-Q154993-6c035b26-0-P805	Q35-P35-Q154993-6c035b26-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q154993-6c035b26-0-P805-ckgP1	Q35-P35-Q154993-6c035b26-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q156572-e74cc8d5-0	Q35	'Denmark'@en	P35	'head of state'@en	Q156572	'Christian VII of Denmark'@en
+Q35-P35-Q156572-e74cc8d5-0-P805	Q35-P35-Q156572-e74cc8d5-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q156572-e74cc8d5-0-P805-ckgP1	Q35-P35-Q156572-e74cc8d5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q157781-bd49ae81-0	Q35	'Denmark'@en	P35	'head of state'@en	Q157781	'Christian VIII of Denmark'@en
+Q35-P35-Q157781-bd49ae81-0-P805	Q35-P35-Q157781-bd49ae81-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q157781-bd49ae81-0-P805-ckgP1	Q35-P35-Q157781-bd49ae81-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q156617-1882bd1a-0	Q35	'Denmark'@en	P35	'head of state'@en	Q156617	'Christian X of Denmark'@en
+Q35-P35-Q156617-1882bd1a-0-P805	Q35-P35-Q156617-1882bd1a-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q156617-1882bd1a-0-P805-ckgP1	Q35-P35-Q156617-1882bd1a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q58056-e31f39cb-0	Q35	'Denmark'@en	P35	'head of state'@en	Q58056	'Christopher of Bavaria'@en
+Q35-P35-Q58056-e31f39cb-0-P805	Q35-P35-Q58056-e31f39cb-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q58056-e31f39cb-0-P805-ckgP1	Q35-P35-Q58056-e31f39cb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q161958-6acfaeb5-0	Q35	'Denmark'@en	P35	'head of state'@en	Q161958	'Eric of Pomerania'@en
+Q35-P35-Q161958-6acfaeb5-0-P805	Q35-P35-Q161958-6acfaeb5-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q161958-6acfaeb5-0-P805-ckgP1	Q35-P35-Q161958-6acfaeb5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q157789-c8561ba1-0	Q35	'Denmark'@en	P35	'head of state'@en	Q157789	'Frederick I of Denmark'@en
+Q35-P35-Q157789-c8561ba1-0-P805	Q35-P35-Q157789-c8561ba1-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q157789-c8561ba1-0-P805-ckgP1	Q35-P35-Q157789-c8561ba1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q154041-89a65480-0	Q35	'Denmark'@en	P35	'head of state'@en	Q154041	'Frederick II of Denmark'@en
+Q35-P35-Q154041-89a65480-0-P805	Q35-P35-Q154041-89a65480-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q154041-89a65480-0-P805-ckgP1	Q35-P35-Q154041-89a65480-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q157812-5534ed4d-0	Q35	'Denmark'@en	P35	'head of state'@en	Q157812	'Frederick III of Denmark'@en
+Q35-P35-Q157812-5534ed4d-0-P805	Q35-P35-Q157812-5534ed4d-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q157812-5534ed4d-0-P805-ckgP1	Q35-P35-Q157812-5534ed4d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q161059-9325c2e9-0	Q35	'Denmark'@en	P35	'head of state'@en	Q161059	'Frederick IV of Denmark'@en
+Q35-P35-Q161059-9325c2e9-0-P805	Q35-P35-Q161059-9325c2e9-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q161059-9325c2e9-0-P805-ckgP1	Q35-P35-Q161059-9325c2e9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q151312-aa34f7b1-0	Q35	'Denmark'@en	P35	'head of state'@en	Q151312	'Frederick IX of Denmark'@en
+Q35-P35-Q151312-aa34f7b1-0-P805	Q35-P35-Q151312-aa34f7b1-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q151312-aa34f7b1-0-P805-ckgP1	Q35-P35-Q151312-aa34f7b1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q156187-71367d35-0	Q35	'Denmark'@en	P35	'head of state'@en	Q156187	'Frederick V of Denmark'@en
+Q35-P35-Q156187-71367d35-0-P805	Q35-P35-Q156187-71367d35-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q156187-71367d35-0-P805-ckgP1	Q35-P35-Q156187-71367d35-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q155002-3a21380c-0	Q35	'Denmark'@en	P35	'head of state'@en	Q155002	'Frederick VI of Denmark'@en
+Q35-P35-Q155002-3a21380c-0-P805	Q35-P35-Q155002-3a21380c-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q155002-3a21380c-0-P805-ckgP1	Q35-P35-Q155002-3a21380c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q94941-2f39bfac-0	Q35	'Denmark'@en	P35	'head of state'@en	Q94941	'Frederick VII of Denmark'@en
+Q35-P35-Q94941-2f39bfac-0-P805	Q35-P35-Q94941-2f39bfac-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q94941-2f39bfac-0-P805-ckgP1	Q35-P35-Q94941-2f39bfac-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q152756-1deb06e2-0	Q35	'Denmark'@en	P35	'head of state'@en	Q152756	'Frederick VIII of Denmark'@en
+Q35-P35-Q152756-1deb06e2-0-P805	Q35-P35-Q152756-1deb06e2-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q152756-1deb06e2-0-P805-ckgP1	Q35-P35-Q152756-1deb06e2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q157776-278cc22c-0	Q35	'Denmark'@en	P35	'head of state'@en	Q157776	'John, King of Denmark'@en
+Q35-P35-Q157776-278cc22c-0-P805	Q35-P35-Q157776-278cc22c-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q157776-278cc22c-0-P805-ckgP1	Q35-P35-Q157776-278cc22c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P35-Q102139-51792d4c-0	Q35	'Denmark'@en	P35	'head of state'@en	Q102139	'Margrethe II of Denmark'@en
+Q35-P35-Q102139-51792d4c-0-P805	Q35-P35-Q102139-51792d4c-0		P805	'statement is subject of'@en	unknown	
+Q35-P35-Q102139-51792d4c-0-P805-ckgP1	Q35-P35-Q102139-51792d4c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q153832-5301415b-0	Q38	'Italy'@en	P35	'head of state'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P35-Q153832-5301415b-0-P805	Q38-P35-Q153832-5301415b-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q153832-5301415b-0-P805-ckgP1	Q38-P35-Q153832-5301415b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1240-a6fedfb4-0	Q38	'Italy'@en	P35	'head of state'@en	Q1240	'Antonio Segni'@en
+Q38-P35-Q1240-a6fedfb4-0-P805	Q38-P35-Q1240-a6fedfb4-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1240-a6fedfb4-0-P805-ckgP1	Q38-P35-Q1240-a6fedfb4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1224-a59de02f-0	Q38	'Italy'@en	P35	'head of state'@en	Q1224	'Carlo Azeglio Ciampi'@en
+Q38-P35-Q1224-a59de02f-0-P805	Q38-P35-Q1224-a59de02f-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1224-a59de02f-0-P805-ckgP1	Q38-P35-Q1224-a59de02f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1245-07aafd4e-0	Q38	'Italy'@en	P35	'head of state'@en	Q1245	'Enrico de Nicola'@en
+Q38-P35-Q1245-07aafd4e-0-P805	Q38-P35-Q1245-07aafd4e-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1245-07aafd4e-0-P805-ckgP1	Q38-P35-Q1245-07aafd4e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1230-1209128c-0	Q38	'Italy'@en	P35	'head of state'@en	Q1230	'Francesco Cossiga'@en
+Q38-P35-Q1230-1209128c-0-P805	Q38-P35-Q1230-1209128c-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1230-1209128c-0-P805-ckgP1	Q38-P35-Q1230-1209128c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1220-473e24df-0	Q38	'Italy'@en	P35	'head of state'@en	Q1220	'Giorgio Napolitano'@en
+Q38-P35-Q1220-473e24df-0-P805	Q38-P35-Q1220-473e24df-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1220-473e24df-0-P805-ckgP1	Q38-P35-Q1220-473e24df-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1241-6f683286-0	Q38	'Italy'@en	P35	'head of state'@en	Q1241	'Giovanni Gronchi'@en
+Q38-P35-Q1241-6f683286-0-P805	Q38-P35-Q1241-6f683286-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1241-6f683286-0-P805-ckgP1	Q38-P35-Q1241-6f683286-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1235-aacff9bc-0	Q38	'Italy'@en	P35	'head of state'@en	Q1235	'Giovanni Leone'@en
+Q38-P35-Q1235-aacff9bc-0-P805	Q38-P35-Q1235-aacff9bc-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1235-aacff9bc-0-P805-ckgP1	Q38-P35-Q1235-aacff9bc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1238-a4ad2501-0	Q38	'Italy'@en	P35	'head of state'@en	Q1238	'Giuseppe Saragat'@en
+Q38-P35-Q1238-a4ad2501-0-P805	Q38-P35-Q1238-a4ad2501-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1238-a4ad2501-0-P805-ckgP1	Q38-P35-Q1238-a4ad2501-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1242-e14851be-0	Q38	'Italy'@en	P35	'head of state'@en	Q1242	'Luigi Einaudi'@en
+Q38-P35-Q1242-e14851be-0-P805	Q38-P35-Q1242-e14851be-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1242-e14851be-0-P805-ckgP1	Q38-P35-Q1242-e14851be-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1228-abfee616-0	Q38	'Italy'@en	P35	'head of state'@en	Q1228	'Oscar Luigi Scalfaro'@en
+Q38-P35-Q1228-abfee616-0-P805	Q38-P35-Q1228-abfee616-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1228-abfee616-0-P805-ckgP1	Q38-P35-Q1228-abfee616-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q1233-a72deb7a-0	Q38	'Italy'@en	P35	'head of state'@en	Q1233	'Sandro Pertini'@en
+Q38-P35-Q1233-a72deb7a-0-P805	Q38-P35-Q1233-a72deb7a-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q1233-a72deb7a-0-P805-ckgP1	Q38-P35-Q1233-a72deb7a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P35-Q3956186-86b06782-0	Q38	'Italy'@en	P35	'head of state'@en	Q3956186	'Sergio Mattarella'@en
+Q38-P35-Q3956186-86b06782-0-P805	Q38-P35-Q3956186-86b06782-0		P805	'statement is subject of'@en	unknown	
+Q38-P35-Q3956186-86b06782-0-P805-ckgP1	Q38-P35-Q3956186-86b06782-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q42852-a971f582-0	Q43	'Turkey'@en	P35	'head of state'@en	Q42852	'Abdullah Gül'@en
+Q43-P35-Q42852-a971f582-0-P805	Q43-P35-Q42852-a971f582-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q42852-a971f582-0-P805-ckgP1	Q43-P35-Q42852-a971f582-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q1076524-896da90c-0	Q43	'Turkey'@en	P35	'head of state'@en	Q1076524	'Abdülhalik Renda'@en
+Q43-P35-Q1076524-896da90c-0-P805	Q43-P35-Q1076524-896da90c-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q1076524-896da90c-0-P805-ckgP1	Q43-P35-Q1076524-896da90c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q165487-dbd63a28-0	Q43	'Turkey'@en	P35	'head of state'@en	Q165487	'Ahmet Necdet Sezer'@en
+Q43-P35-Q165487-dbd63a28-0-P805	Q43-P35-Q165487-dbd63a28-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q165487-dbd63a28-0-P805-ckgP1	Q43-P35-Q165487-dbd63a28-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q151735-21bebd24-0	Q43	'Turkey'@en	P35	'head of state'@en	Q151735	'Celâl Bayar'@en
+Q43-P35-Q151735-21bebd24-0-P805	Q43-P35-Q151735-21bebd24-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q151735-21bebd24-0-P805-ckgP1	Q43-P35-Q151735-21bebd24-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q159161-89f0db05-0	Q43	'Turkey'@en	P35	'head of state'@en	Q159161	'Cemal Gürsel'@en
+Q43-P35-Q159161-89f0db05-0-P805	Q43-P35-Q159161-89f0db05-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q159161-89f0db05-0-P805-ckgP1	Q43-P35-Q159161-89f0db05-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q158500-7fa21b84-0	Q43	'Turkey'@en	P35	'head of state'@en	Q158500	'Cevdet Sunay'@en
+Q43-P35-Q158500-7fa21b84-0-P805	Q43-P35-Q158500-7fa21b84-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q158500-7fa21b84-0-P805-ckgP1	Q43-P35-Q158500-7fa21b84-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q313357-f5c5c5ca-0	Q43	'Turkey'@en	P35	'head of state'@en	Q313357	'Fahri Korutürk'@en
+Q43-P35-Q313357-f5c5c5ca-0-P805	Q43-P35-Q313357-f5c5c5ca-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q313357-f5c5c5ca-0-P805-ckgP1	Q43-P35-Q313357-f5c5c5ca-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q462737-3177c77a-0	Q43	'Turkey'@en	P35	'head of state'@en	Q462737	'Hüsamettin Cindoruk'@en
+Q43-P35-Q462737-3177c77a-0-P805	Q43-P35-Q462737-3177c77a-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q462737-3177c77a-0-P805-ckgP1	Q43-P35-Q462737-3177c77a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q216983-37f9af28-0	Q43	'Turkey'@en	P35	'head of state'@en	Q216983	'Kenan Evren'@en
+Q43-P35-Q216983-37f9af28-0-P805	Q43-P35-Q216983-37f9af28-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q216983-37f9af28-0-P805-ckgP1	Q43-P35-Q216983-37f9af28-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q5152-148f87a0-0	Q43	'Turkey'@en	P35	'head of state'@en	Q5152	'Mustafa Kemal Atatürk'@en
+Q43-P35-Q5152-148f87a0-0-P805	Q43-P35-Q5152-148f87a0-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q5152-148f87a0-0-P805-ckgP1	Q43-P35-Q5152-148f87a0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q39259-c2236bf4-0	Q43	'Turkey'@en	P35	'head of state'@en	Q39259	'Recep Tayyip Erdoğan'@en
+Q43-P35-Q39259-c2236bf4-0-P805	Q43-P35-Q39259-c2236bf4-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q39259-c2236bf4-0-P805-ckgP1	Q43-P35-Q39259-c2236bf4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q151729-69b5ec3f-0	Q43	'Turkey'@en	P35	'head of state'@en	Q151729	'Süleyman Demirel'@en
+Q43-P35-Q151729-69b5ec3f-0-P805	Q43-P35-Q151729-69b5ec3f-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q151729-69b5ec3f-0-P805-ckgP1	Q43-P35-Q151729-69b5ec3f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q4544707-52e23e60-0	Q43	'Turkey'@en	P35	'head of state'@en	Q4544707	'Tekin Arıburun'@en
+Q43-P35-Q4544707-52e23e60-0-P805	Q43-P35-Q4544707-52e23e60-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q4544707-52e23e60-0-P805-ckgP1	Q43-P35-Q4544707-52e23e60-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q180280-79a0e819-0	Q43	'Turkey'@en	P35	'head of state'@en	Q180280	'Turgut Özal'@en
+Q43-P35-Q180280-79a0e819-0-P805	Q43-P35-Q180280-79a0e819-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q180280-79a0e819-0-P805-ckgP1	Q43-P35-Q180280-79a0e819-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q12812897-fe88dbff-0	Q43	'Turkey'@en	P35	'head of state'@en	Q12812897	'İbrahim Şevki Atasagun'@en
+Q43-P35-Q12812897-fe88dbff-0-P805	Q43-P35-Q12812897-fe88dbff-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q12812897-fe88dbff-0-P805-ckgP1	Q43-P35-Q12812897-fe88dbff-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q343514-db545c46-0	Q43	'Turkey'@en	P35	'head of state'@en	Q343514	'İhsan Sabri Çağlayangil'@en
+Q43-P35-Q343514-db545c46-0-P805	Q43-P35-Q343514-db545c46-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q343514-db545c46-0-P805-ckgP1	Q43-P35-Q343514-db545c46-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P35-Q183297-4b8a2819-0	Q43	'Turkey'@en	P35	'head of state'@en	Q183297	'İsmet İnönü'@en
+Q43-P35-Q183297-4b8a2819-0-P805	Q43-P35-Q183297-4b8a2819-0		P805	'statement is subject of'@en	unknown	
+Q43-P35-Q183297-4b8a2819-0-P805-ckgP1	Q43-P35-Q183297-4b8a2819-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P35-Q57398-36435af4-0	Q45	'Portugal'@en	P35	'head of state'@en	Q57398	'Aníbal Cavaco Silva'@en
+Q45-P35-Q57398-36435af4-0-P805	Q45-P35-Q57398-36435af4-0		P805	'statement is subject of'@en	unknown	
+Q45-P35-Q57398-36435af4-0-P805-ckgP1	Q45-P35-Q57398-36435af4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P35-Q156780-067e7897-0	Q45	'Portugal'@en	P35	'head of state'@en	Q156780	'Jorge Sampaio'@en
+Q45-P35-Q156780-067e7897-0-P805	Q45-P35-Q156780-067e7897-0		P805	'statement is subject of'@en	unknown	
+Q45-P35-Q156780-067e7897-0-P805-ckgP1	Q45-P35-Q156780-067e7897-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P35-Q6756617-1c8e2647-0	Q45	'Portugal'@en	P35	'head of state'@en	Q6756617	'Marcelo Rebelo de Sousa'@en
+Q45-P35-Q6756617-1c8e2647-0-P805	Q45-P35-Q6756617-1c8e2647-0		P805	'statement is subject of'@en	unknown	
+Q45-P35-Q6756617-1c8e2647-0-P805-ckgP1	Q45-P35-Q6756617-1c8e2647-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P35-Q156781-ee047810-0	Q45	'Portugal'@en	P35	'head of state'@en	Q156781	'Mário Soares'@en
+Q45-P35-Q156781-ee047810-0-P805	Q45-P35-Q156781-ee047810-0		P805	'statement is subject of'@en	unknown	
+Q45-P35-Q156781-ee047810-0-P805-ckgP1	Q45-P35-Q156781-ee047810-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q29574-23bf4ce9-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q29574	'Beatrix of the Netherlands'@en
+Q55-P35-Q29574-23bf4ce9-0-P805	Q55-P35-Q29574-23bf4ce9-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q29574-23bf4ce9-0-P805-ckgP1	Q55-P35-Q29574-23bf4ce9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q154946-5d06ecce-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q154946	'Juliana of the Netherlands'@en
+Q55-P35-Q154946-5d06ecce-0-P805	Q55-P35-Q154946-5d06ecce-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q154946-5d06ecce-0-P805-ckgP1	Q55-P35-Q154946-5d06ecce-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q150747-3946effb-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q150747	'Wilhelmina of the Netherlands'@en
+Q55-P35-Q150747-3946effb-0-P805	Q55-P35-Q150747-3946effb-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q150747-3946effb-0-P805-ckgP1	Q55-P35-Q150747-3946effb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q154287-b2e8ce5c-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q154287	'Willem II of the Netherlands'@en
+Q55-P35-Q154287-b2e8ce5c-0-P805	Q55-P35-Q154287-b2e8ce5c-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q154287-b2e8ce5c-0-P805-ckgP1	Q55-P35-Q154287-b2e8ce5c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q125649-27fca2cb-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q125649	'Willem III of the Netherlands'@en
+Q55-P35-Q125649-27fca2cb-0-P805	Q55-P35-Q125649-27fca2cb-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q125649-27fca2cb-0-P805-ckgP1	Q55-P35-Q125649-27fca2cb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q154952-7f706115-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q154952	'Willem-Alexander of the Netherlands'@en
+Q55-P35-Q154952-7f706115-0-P805	Q55-P35-Q154952-7f706115-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q154952-7f706115-0-P805-ckgP1	Q55-P35-Q154952-7f706115-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P35-Q2079957-d31199fd-0	Q55	'Netherlands'@en	P35	'head of state'@en	Q2079957	'William I of the Netherlands'@en
+Q55-P35-Q2079957-d31199fd-0-P805	Q55-P35-Q2079957-d31199fd-0		P805	'statement is subject of'@en	unknown	
+Q55-P35-Q2079957-d31199fd-0-P805-ckgP1	Q55-P35-Q2079957-d31199fd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P35-Q16149892-096e101a-0	Q750	'Bolivia'@en	P35	'head of state'@en	Q16149892	'Luis Arce'@en
+Q750-P35-Q16149892-096e101a-0-P805	Q750-P35-Q16149892-096e101a-0		P805	'statement is subject of'@en	unknown	
+Q750-P35-Q16149892-096e101a-0-P805-ckgP1	Q750-P35-Q16149892-096e101a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q736237-f6c08bcd-0	Q801	'Israel'@en	P35	'head of state'@en	Q736237	'Avraham Burg'@en
+Q801-P35-Q736237-f6c08bcd-0-P805	Q801-P35-Q736237-f6c08bcd-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q736237-f6c08bcd-0-P805-ckgP1	Q801-P35-Q736237-f6c08bcd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q295141-ea19e0d9-0	Q801	'Israel'@en	P35	'head of state'@en	Q295141	'Chaim Herzog'@en
+Q801-P35-Q295141-ea19e0d9-0-P805	Q801-P35-Q295141-ea19e0d9-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q295141-ea19e0d9-0-P805-ckgP1	Q801-P35-Q295141-ea19e0d9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q172183-0317af7b-0	Q801	'Israel'@en	P35	'head of state'@en	Q172183	'Chaim Weizmann'@en
+Q801-P35-Q172183-0317af7b-0-P805	Q801-P35-Q172183-0317af7b-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q172183-0317af7b-0-P805-ckgP1	Q801-P35-Q172183-0317af7b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q172183-f929ea7e-0	Q801	'Israel'@en	P35	'head of state'@en	Q172183	'Chaim Weizmann'@en
+Q801-P35-Q172183-f929ea7e-0-P805	Q801-P35-Q172183-f929ea7e-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q172183-f929ea7e-0-P805-ckgP1	Q801-P35-Q172183-f929ea7e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q234190-e684cc37-0	Q801	'Israel'@en	P35	'head of state'@en	Q234190	'Dalia Itzik'@en
+Q801-P35-Q234190-e684cc37-0-P805	Q801-P35-Q234190-e684cc37-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q234190-e684cc37-0-P805-ckgP1	Q801-P35-Q234190-e684cc37-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q37610-12600f81-0	Q801	'Israel'@en	P35	'head of state'@en	Q37610	'David Ben-Gurion'@en
+Q801-P35-Q37610-12600f81-0-P805	Q801-P35-Q37610-12600f81-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q37610-12600f81-0-P805-ckgP1	Q801-P35-Q37610-12600f81-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q110330-56446b19-0	Q801	'Israel'@en	P35	'head of state'@en	Q110330	'Ephraim Katzir'@en
+Q801-P35-Q110330-56446b19-0-P805	Q801-P35-Q110330-56446b19-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q110330-56446b19-0-P805-ckgP1	Q801-P35-Q110330-56446b19-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q128911-2e5fa690-0	Q801	'Israel'@en	P35	'head of state'@en	Q128911	'Ezer Weizman'@en
+Q801-P35-Q128911-2e5fa690-0-P805	Q801-P35-Q128911-2e5fa690-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q128911-2e5fa690-0-P805-ckgP1	Q801-P35-Q128911-2e5fa690-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q983258-57bf9109-0	Q801	'Israel'@en	P35	'head of state'@en	Q983258	'Isaac Herzog'@en
+Q801-P35-Q983258-57bf9109-0-P805	Q801-P35-Q983258-57bf9109-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q983258-57bf9109-0-P805-ckgP1	Q801-P35-Q983258-57bf9109-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q1720966-21857583-0	Q801	'Israel'@en	P35	'head of state'@en	Q1720966	'Kadish Luz'@en
+Q801-P35-Q1720966-21857583-0-P805	Q801-P35-Q1720966-21857583-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q1720966-21857583-0-P805-ckgP1	Q801-P35-Q1720966-21857583-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q181832-76bce024-0	Q801	'Israel'@en	P35	'head of state'@en	Q181832	'Moshe Katsav'@en
+Q801-P35-Q181832-76bce024-0-P805	Q801-P35-Q181832-76bce024-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q181832-76bce024-0-P805-ckgP1	Q801-P35-Q181832-76bce024-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q455854-b474578d-0	Q801	'Israel'@en	P35	'head of state'@en	Q455854	'Reuven Rivlin'@en
+Q801-P35-Q455854-b474578d-0-P805	Q801-P35-Q455854-b474578d-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q455854-b474578d-0-P805-ckgP1	Q801-P35-Q455854-b474578d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q57410-72616807-0	Q801	'Israel'@en	P35	'head of state'@en	Q57410	'Shimon Peres'@en
+Q801-P35-Q57410-72616807-0-P805	Q801-P35-Q57410-72616807-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q57410-72616807-0-P805-ckgP1	Q801-P35-Q57410-72616807-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q128894-66b15521-0	Q801	'Israel'@en	P35	'head of state'@en	Q128894	'Yitzhak Ben-Zvi'@en
+Q801-P35-Q128894-66b15521-0-P805	Q801-P35-Q128894-66b15521-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q128894-66b15521-0-P805-ckgP1	Q801-P35-Q128894-66b15521-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q311583-6fd352ee-0	Q801	'Israel'@en	P35	'head of state'@en	Q311583	'Yitzhak Navon'@en
+Q801-P35-Q311583-6fd352ee-0-P805	Q801-P35-Q311583-6fd352ee-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q311583-6fd352ee-0-P805-ckgP1	Q801-P35-Q311583-6fd352ee-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q974766-7a37c6dd-0	Q801	'Israel'@en	P35	'head of state'@en	Q974766	'Yosef Sprinzak'@en
+Q801-P35-Q974766-7a37c6dd-0-P805	Q801-P35-Q974766-7a37c6dd-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q974766-7a37c6dd-0-P805-ckgP1	Q801-P35-Q974766-7a37c6dd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P35-Q299100-bf6d932a-0	Q801	'Israel'@en	P35	'head of state'@en	Q299100	'Zalman Shazar'@en
+Q801-P35-Q299100-bf6d932a-0-P805	Q801-P35-Q299100-bf6d932a-0		P805	'statement is subject of'@en	unknown	
+Q801-P35-Q299100-bf6d932a-0-P805-ckgP1	Q801-P35-Q299100-bf6d932a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q375687-2e3423de-0	Q43	'Turkey'@en	P6	'head of government'@en	Q375687	'Bülend Ulusu'@en
+Q43-P6-Q375687-2e3423de-0-P580	Q43-P6-Q375687-2e3423de-0		P580	'start time'@en	unknown	
+Q43-P6-Q375687-2e3423de-0-P580-ckgT1	Q43-P6-Q375687-2e3423de-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q1348747-1e6e9b2d-0	Q43	'Turkey'@en	P6	'head of government'@en	Q1348747	'Erdal İnönü'@en
+Q43-P6-Q1348747-1e6e9b2d-0-P580	Q43-P6-Q1348747-1e6e9b2d-0		P580	'start time'@en	unknown	
+Q43-P6-Q1348747-1e6e9b2d-0-P580-ckgT1	Q43-P6-Q1348747-1e6e9b2d-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q366692-bfdd01e6-0	Q43	'Turkey'@en	P6	'head of government'@en	Q366692	'Mesut Yılmaz'@en
+Q43-P6-Q366692-bfdd01e6-0-P580	Q43-P6-Q366692-bfdd01e6-0		P580	'start time'@en	unknown	
+Q43-P6-Q366692-bfdd01e6-0-P580-ckgT1	Q43-P6-Q366692-bfdd01e6-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q243550-31c5c15f-0	Q43	'Turkey'@en	P6	'head of government'@en	Q243550	'Necmettin Erbakan'@en
+Q43-P6-Q243550-31c5c15f-0-P580	Q43-P6-Q243550-31c5c15f-0		P580	'start time'@en	unknown	
+Q43-P6-Q243550-31c5c15f-0-P580-ckgT1	Q43-P6-Q243550-31c5c15f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q151729-4d5384ad-0	Q43	'Turkey'@en	P6	'head of government'@en	Q151729	'Süleyman Demirel'@en
+Q43-P6-Q151729-4d5384ad-0-P580	Q43-P6-Q151729-4d5384ad-0		P580	'start time'@en	unknown	
+Q43-P6-Q151729-4d5384ad-0-P580-ckgT1	Q43-P6-Q151729-4d5384ad-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q180280-19d414e1-0	Q43	'Turkey'@en	P6	'head of government'@en	Q180280	'Turgut Özal'@en
+Q43-P6-Q180280-19d414e1-0-P580	Q43-P6-Q180280-19d414e1-0		P580	'start time'@en	unknown	
+Q43-P6-Q180280-19d414e1-0-P580-ckgT1	Q43-P6-Q180280-19d414e1-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P6-Q558287-9c374bb5-0	Q43	'Turkey'@en	P6	'head of government'@en	Q558287	'Yıldırım Akbulut'@en
+Q43-P6-Q558287-9c374bb5-0-P580	Q43-P6-Q558287-9c374bb5-0		P580	'start time'@en	unknown	
+Q43-P6-Q558287-9c374bb5-0-P580-ckgT1	Q43-P6-Q558287-9c374bb5-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P6-Q16149892-af242baa-0	Q750	'Bolivia'@en	P6	'head of government'@en	Q16149892	'Luis Arce'@en
+Q750-P6-Q16149892-af242baa-0-P580	Q750-P6-Q16149892-af242baa-0		P580	'start time'@en	unknown	
+Q750-P6-Q16149892-af242baa-0-P580-ckgT1	Q750-P6-Q16149892-af242baa-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q142-P6-Q560890-68ea0680-0	Q142	'France'@en	P6	'head of government'@en	Q560890	'Bernard Cazeneuve'@en
+Q142-P6-Q560890-68ea0680-0-P805	Q142-P6-Q560890-68ea0680-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q560890-68ea0680-0-P805-ckgP1	Q142-P6-Q560890-68ea0680-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q101410-5d924d57-0	Q142	'France'@en	P6	'head of government'@en	Q101410	'François Fillon'@en
+Q142-P6-Q101410-5d924d57-0-P805	Q142-P6-Q101410-5d924d57-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q101410-5d924d57-0-P805-ckgP1	Q142-P6-Q101410-5d924d57-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q3171170-af62d6b4-0	Q142	'France'@en	P6	'head of government'@en	Q3171170	'Jean Castex'@en
+Q142-P6-Q3171170-af62d6b4-0-P805	Q142-P6-Q3171170-af62d6b4-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q3171170-af62d6b4-0-P805-ckgP1	Q142-P6-Q3171170-af62d6b4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q7711-54c13638-0	Q142	'France'@en	P6	'head of government'@en	Q7711	'Jean-Marc Ayrault'@en
+Q142-P6-Q7711-54c13638-0-P805	Q142-P6-Q7711-54c13638-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q7711-54c13638-0-P805-ckgP1	Q142-P6-Q7711-54c13638-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q10287-c45a4a00-0	Q142	'France'@en	P6	'head of government'@en	Q10287	'Manuel Valls'@en
+Q142-P6-Q10287-c45a4a00-0-P805	Q142-P6-Q10287-c45a4a00-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q10287-c45a4a00-0-P805-ckgP1	Q142-P6-Q10287-c45a4a00-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q3579995-d8b41bd5-0	Q142	'France'@en	P6	'head of government'@en	Q3579995	'Édouard Philippe'@en
+Q142-P6-Q3579995-d8b41bd5-0-P805	Q142-P6-Q3579995-d8b41bd5-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q3579995-d8b41bd5-0-P805-ckgP1	Q142-P6-Q3579995-d8b41bd5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P6-Q20020731-552fca95-0	Q142	'France'@en	P6	'head of government'@en	Q20020731	'Élisabeth Borne'@en
+Q142-P6-Q20020731-552fca95-0-P805	Q142-P6-Q20020731-552fca95-0		P805	'statement is subject of'@en	unknown	
+Q142-P6-Q20020731-552fca95-0-P805-ckgP1	Q142-P6-Q20020731-552fca95-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P6-Q180589-aaf2d227-0	Q145	'United Kingdom'@en	P6	'head of government'@en	Q180589	'Boris Johnson'@en
+Q145-P6-Q180589-aaf2d227-0-P805	Q145-P6-Q180589-aaf2d227-0		P805	'statement is subject of'@en	unknown	
+Q145-P6-Q180589-aaf2d227-0-P805-ckgP1	Q145-P6-Q180589-aaf2d227-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P6-Q192-df1aa9df-0	Q145	'United Kingdom'@en	P6	'head of government'@en	Q192	'David Cameron'@en
+Q145-P6-Q192-df1aa9df-0-P805	Q145-P6-Q192-df1aa9df-0		P805	'statement is subject of'@en	unknown	
+Q145-P6-Q192-df1aa9df-0-P805-ckgP1	Q145-P6-Q192-df1aa9df-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P6-Q264766-5f6ff48f-0	Q145	'United Kingdom'@en	P6	'head of government'@en	Q264766	'Theresa May'@en
+Q145-P6-Q264766-5f6ff48f-0-P805	Q145-P6-Q264766-5f6ff48f-0		P805	'statement is subject of'@en	unknown	
+Q145-P6-Q264766-5f6ff48f-0-P805-ckgP1	Q145-P6-Q264766-5f6ff48f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P6-Q10304982-940c8ffb-0	Q155	'Brazil'@en	P6	'head of government'@en	Q10304982	'Jair Bolsonaro'@en
+Q155-P6-Q10304982-940c8ffb-0-P805	Q155-P6-Q10304982-940c8ffb-0		P805	'statement is subject of'@en	unknown	
+Q155-P6-Q10304982-940c8ffb-0-P805-ckgP1	Q155-P6-Q10304982-940c8ffb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P6-Q463533-449831e6-0	Q155	'Brazil'@en	P6	'head of government'@en	Q463533	'Michel Temer'@en
+Q155-P6-Q463533-449831e6-0-P805	Q155-P6-Q463533-449831e6-0		P805	'statement is subject of'@en	unknown	
+Q155-P6-Q463533-449831e6-0-P805-ckgP1	Q155-P6-Q463533-449831e6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q34453-cbf91860-0	Q159	'Russia'@en	P6	'head of government'@en	Q34453	'Boris Yeltsin'@en
+Q159-P6-Q34453-cbf91860-0-P805	Q159-P6-Q34453-cbf91860-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q34453-cbf91860-0-P805-ckgP1	Q159-P6-Q34453-cbf91860-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q23530-f5465b64-0	Q159	'Russia'@en	P6	'head of government'@en	Q23530	'Dmitry Medvedev'@en
+Q159-P6-Q23530-f5465b64-0-P805	Q159-P6-Q23530-f5465b64-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q23530-f5465b64-0-P805-ckgP1	Q159-P6-Q23530-f5465b64-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q150080-8a02b1ad-0	Q159	'Russia'@en	P6	'head of government'@en	Q150080	'Mikhail Fradkov'@en
+Q159-P6-Q150080-8a02b1ad-0-P805	Q159-P6-Q150080-8a02b1ad-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q150080-8a02b1ad-0-P805-ckgP1	Q159-P6-Q150080-8a02b1ad-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q62551-14048682-0	Q159	'Russia'@en	P6	'head of government'@en	Q62551	'Mikhail Kasyanov'@en
+Q159-P6-Q62551-14048682-0-P805	Q159-P6-Q62551-14048682-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q62551-14048682-0-P805-ckgP1	Q159-P6-Q62551-14048682-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q4298520-dd831d9e-0	Q159	'Russia'@en	P6	'head of government'@en	Q4298520	'Mikhail Mishustin'@en
+Q159-P6-Q4298520-dd831d9e-0-P805	Q159-P6-Q4298520-dd831d9e-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q4298520-dd831d9e-0-P805-ckgP1	Q159-P6-Q4298520-dd831d9e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q313989-00872409-0	Q159	'Russia'@en	P6	'head of government'@en	Q313989	'Sergei Stepashin'@en
+Q159-P6-Q313989-00872409-0-P805	Q159-P6-Q313989-00872409-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q313989-00872409-0-P805-ckgP1	Q159-P6-Q313989-00872409-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q313915-2280658b-0	Q159	'Russia'@en	P6	'head of government'@en	Q313915	'Sergey Kiriyenko'@en
+Q159-P6-Q313915-2280658b-0-P805	Q159-P6-Q313915-2280658b-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q313915-2280658b-0-P805-ckgP1	Q159-P6-Q313915-2280658b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q190884-1d1d5ee0-0	Q159	'Russia'@en	P6	'head of government'@en	Q190884	'Viktor Chernomyrdin'@en
+Q159-P6-Q190884-1d1d5ee0-0-P805	Q159-P6-Q190884-1d1d5ee0-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q190884-1d1d5ee0-0-P805-ckgP1	Q159-P6-Q190884-1d1d5ee0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q190884-72ed8f0d-0	Q159	'Russia'@en	P6	'head of government'@en	Q190884	'Viktor Chernomyrdin'@en
+Q159-P6-Q190884-72ed8f0d-0-P805	Q159-P6-Q190884-72ed8f0d-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q190884-72ed8f0d-0-P805-ckgP1	Q159-P6-Q190884-72ed8f0d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q317667-1b8fd1f1-0	Q159	'Russia'@en	P6	'head of government'@en	Q317667	'Viktor Khristenko'@en
+Q159-P6-Q317667-1b8fd1f1-0-P805	Q159-P6-Q317667-1b8fd1f1-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q317667-1b8fd1f1-0-P805-ckgP1	Q159-P6-Q317667-1b8fd1f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q147425-513170bf-0	Q159	'Russia'@en	P6	'head of government'@en	Q147425	'Viktor Zubkov'@en
+Q159-P6-Q147425-513170bf-0-P805	Q159-P6-Q147425-513170bf-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q147425-513170bf-0-P805-ckgP1	Q159-P6-Q147425-513170bf-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q147425-63d1a902-0	Q159	'Russia'@en	P6	'head of government'@en	Q147425	'Viktor Zubkov'@en
+Q159-P6-Q147425-63d1a902-0-P805	Q159-P6-Q147425-63d1a902-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q147425-63d1a902-0-P805-ckgP1	Q159-P6-Q147425-63d1a902-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q7747-6ea135e0-0	Q159	'Russia'@en	P6	'head of government'@en	Q7747	'Vladimir Putin'@en
+Q159-P6-Q7747-6ea135e0-0-P805	Q159-P6-Q7747-6ea135e0-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q7747-6ea135e0-0-P805-ckgP1	Q159-P6-Q7747-6ea135e0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q7747-78d49552-0	Q159	'Russia'@en	P6	'head of government'@en	Q7747	'Vladimir Putin'@en
+Q159-P6-Q7747-78d49552-0-P805	Q159-P6-Q7747-78d49552-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q7747-78d49552-0-P805-ckgP1	Q159-P6-Q7747-78d49552-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q82695-6ef2ef91-0	Q159	'Russia'@en	P6	'head of government'@en	Q82695	'Yegor Gaidar'@en
+Q159-P6-Q82695-6ef2ef91-0-P805	Q159-P6-Q82695-6ef2ef91-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q82695-6ef2ef91-0-P805-ckgP1	Q159-P6-Q82695-6ef2ef91-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P6-Q270529-9b6a5981-0	Q159	'Russia'@en	P6	'head of government'@en	Q270529	'Yevgeny Primakov'@en
+Q159-P6-Q270529-9b6a5981-0-P805	Q159-P6-Q270529-9b6a5981-0		P805	'statement is subject of'@en	unknown	
+Q159-P6-Q270529-9b6a5981-0-P805-ckgP1	Q159-P6-Q270529-9b6a5981-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q128708-e9737048-0	Q16	'Canada'@en	P6	'head of government'@en	Q128708	'Alexander Mackenzie'@en
+Q16-P6-Q128708-e9737048-0-P805	Q16-P6-Q128708-e9737048-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q128708-e9737048-0-P805-ckgP1	Q16-P6-Q128708-e9737048-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q3099714-5d521cd7-0	Q16	'Canada'@en	P6	'head of government'@en	Q3099714	'Justin Trudeau'@en
+Q16-P6-Q3099714-5d521cd7-0-P805	Q16-P6-Q3099714-5d521cd7-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q3099714-5d521cd7-0-P805-ckgP1	Q16-P6-Q3099714-5d521cd7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q206-780016f3-0	Q16	'Canada'@en	P6	'head of government'@en	Q206	'Stephen Harper'@en
+Q16-P6-Q206-780016f3-0-P805	Q16-P6-Q206-780016f3-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q206-780016f3-0-P805-ckgP1	Q16-P6-Q206-780016f3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q128633-a930c997-0	Q16	'Canada'@en	P6	'head of government'@en	Q128633	'William Lyon Mackenzie King'@en
+Q16-P6-Q128633-a930c997-0-P805	Q16-P6-Q128633-a930c997-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q128633-a930c997-0-P805-ckgP1	Q16-P6-Q128633-a930c997-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q128633-b032db00-0	Q16	'Canada'@en	P6	'head of government'@en	Q128633	'William Lyon Mackenzie King'@en
+Q16-P6-Q128633-b032db00-0-P805	Q16-P6-Q128633-b032db00-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q128633-b032db00-0-P805-ckgP1	Q16-P6-Q128633-b032db00-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q128633-d5ba36de-0	Q16	'Canada'@en	P6	'head of government'@en	Q128633	'William Lyon Mackenzie King'@en
+Q16-P6-Q128633-d5ba36de-0-P805	Q16-P6-Q128633-d5ba36de-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q128633-d5ba36de-0-P805-ckgP1	Q16-P6-Q128633-d5ba36de-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P6-Q128702-bbab2954-0	Q16	'Canada'@en	P6	'head of government'@en	Q128702	'the man'@en
+Q16-P6-Q128702-bbab2954-0-P805	Q16-P6-Q128702-bbab2954-0		P805	'statement is subject of'@en	unknown	
+Q16-P6-Q128702-bbab2954-0-P805-ckgP1	Q16-P6-Q128702-bbab2954-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q567-87239088-0	Q183	'Germany'@en	P6	'head of government'@en	Q567	'Angela Merkel'@en
+Q183-P6-Q567-87239088-0-P805	Q183-P6-Q567-87239088-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q567-87239088-0-P805-ckgP1	Q183-P6-Q567-87239088-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2530-20704f8b-0	Q183	'Germany'@en	P6	'head of government'@en	Q2530	'Gerhard Schröder'@en
+Q183-P6-Q2530-20704f8b-0-P805	Q183-P6-Q2530-20704f8b-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2530-20704f8b-0-P805-ckgP1	Q183-P6-Q2530-20704f8b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2518-2a348144-0	Q183	'Germany'@en	P6	'head of government'@en	Q2518	'Helmut Kohl'@en
+Q183-P6-Q2518-2a348144-0-P805	Q183-P6-Q2518-2a348144-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2518-2a348144-0-P805-ckgP1	Q183-P6-Q2518-2a348144-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2516-8167333c-0	Q183	'Germany'@en	P6	'head of government'@en	Q2516	'Helmut Schmidt'@en
+Q183-P6-Q2516-8167333c-0-P805	Q183-P6-Q2516-8167333c-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2516-8167333c-0-P805-ckgP1	Q183-P6-Q2516-8167333c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2492-f4a2ee04-0	Q183	'Germany'@en	P6	'head of government'@en	Q2492	'Konrad Adenauer'@en
+Q183-P6-Q2492-f4a2ee04-0-P805	Q183-P6-Q2492-f4a2ee04-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2492-f4a2ee04-0-P805-ckgP1	Q183-P6-Q2492-f4a2ee04-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2512-7c791087-0	Q183	'Germany'@en	P6	'head of government'@en	Q2512	'Kurt Georg Kiesinger'@en
+Q183-P6-Q2512-7c791087-0-P805	Q183-P6-Q2512-7c791087-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2512-7c791087-0-P805-ckgP1	Q183-P6-Q2512-7c791087-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2496-452773a7-0	Q183	'Germany'@en	P6	'head of government'@en	Q2496	'Ludwig Erhard'@en
+Q183-P6-Q2496-452773a7-0-P805	Q183-P6-Q2496-452773a7-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2496-452773a7-0-P805-ckgP1	Q183-P6-Q2496-452773a7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q61053-a5d8b288-0	Q183	'Germany'@en	P6	'head of government'@en	Q61053	'Olaf Scholz'@en
+Q183-P6-Q61053-a5d8b288-0-P805	Q183-P6-Q61053-a5d8b288-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q61053-a5d8b288-0-P805-ckgP1	Q183-P6-Q61053-a5d8b288-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2571-b04dbb21-0	Q183	'Germany'@en	P6	'head of government'@en	Q2571	'Walter Scheel'@en
+Q183-P6-Q2571-b04dbb21-0-P805	Q183-P6-Q2571-b04dbb21-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2571-b04dbb21-0-P805-ckgP1	Q183-P6-Q2571-b04dbb21-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P6-Q2514-dfae2cc7-0	Q183	'Germany'@en	P6	'head of government'@en	Q2514	'Willy Brandt'@en
+Q183-P6-Q2514-dfae2cc7-0-P805	Q183-P6-Q2514-dfae2cc7-0		P805	'statement is subject of'@en	unknown	
+Q183-P6-Q2514-dfae2cc7-0-P805-ckgP1	Q183-P6-Q2514-dfae2cc7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q463758-b0d546ee-0	Q20	'Norway'@en	P6	'head of government'@en	Q463758	'Anne Enger'@en
+Q20-P6-Q463758-b0d546ee-0-P805	Q20-P6-Q463758-b0d546ee-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q463758-b0d546ee-0-P805-ckgP1	Q20-P6-Q463758-b0d546ee-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q164346-d8f3f106-0	Q20	'Norway'@en	P6	'head of government'@en	Q164346	'Einar Gerhardsen'@en
+Q20-P6-Q164346-d8f3f106-0-P805	Q20-P6-Q164346-d8f3f106-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q164346-d8f3f106-0-P805-ckgP1	Q20-P6-Q164346-d8f3f106-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q164346-d99c18da-0	Q20	'Norway'@en	P6	'head of government'@en	Q164346	'Einar Gerhardsen'@en
+Q20-P6-Q164346-d99c18da-0-P805	Q20-P6-Q164346-d99c18da-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q164346-d99c18da-0-P805-ckgP1	Q20-P6-Q164346-d99c18da-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q164346-ee125c89-0	Q20	'Norway'@en	P6	'head of government'@en	Q164346	'Einar Gerhardsen'@en
+Q20-P6-Q164346-ee125c89-0-P805	Q20-P6-Q164346-ee125c89-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q164346-ee125c89-0-P805-ckgP1	Q20-P6-Q164346-ee125c89-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q164346-ff70fbc2-0	Q20	'Norway'@en	P6	'head of government'@en	Q164346	'Einar Gerhardsen'@en
+Q20-P6-Q164346-ff70fbc2-0-P805	Q20-P6-Q164346-ff70fbc2-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q164346-ff70fbc2-0-P805-ckgP1	Q20-P6-Q164346-ff70fbc2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q291644-9264e69d-0	Q20	'Norway'@en	P6	'head of government'@en	Q291644	'Erna Solberg'@en
+Q20-P6-Q291644-9264e69d-0-P805	Q20-P6-Q291644-9264e69d-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q291644-9264e69d-0-P805-ckgP1	Q20-P6-Q291644-9264e69d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q133009-8d137376-0	Q20	'Norway'@en	P6	'head of government'@en	Q133009	'Gro Harlem Brundtland'@en
+Q20-P6-Q133009-8d137376-0-P805	Q20-P6-Q133009-8d137376-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q133009-8d137376-0-P805-ckgP1	Q20-P6-Q133009-8d137376-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q133009-b01234c0-0	Q20	'Norway'@en	P6	'head of government'@en	Q133009	'Gro Harlem Brundtland'@en
+Q20-P6-Q133009-b01234c0-0-P805	Q20-P6-Q133009-b01234c0-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q133009-b01234c0-0-P805-ckgP1	Q20-P6-Q133009-b01234c0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q133009-d5bd76f2-0	Q20	'Norway'@en	P6	'head of government'@en	Q133009	'Gro Harlem Brundtland'@en
+Q20-P6-Q133009-d5bd76f2-0-P805	Q20-P6-Q133009-d5bd76f2-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q133009-d5bd76f2-0-P805-ckgP1	Q20-P6-Q133009-d5bd76f2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q311421-2f8fc9ba-0	Q20	'Norway'@en	P6	'head of government'@en	Q311421	'Jan P. Syse'@en
+Q20-P6-Q311421-2f8fc9ba-0-P805	Q20-P6-Q311421-2f8fc9ba-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q311421-2f8fc9ba-0-P805-ckgP1	Q20-P6-Q311421-2f8fc9ba-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q57665-14a64a8e-0	Q20	'Norway'@en	P6	'head of government'@en	Q57665	'Jens Stoltenberg'@en
+Q20-P6-Q57665-14a64a8e-0-P805	Q20-P6-Q57665-14a64a8e-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q57665-14a64a8e-0-P805-ckgP1	Q20-P6-Q57665-14a64a8e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q57665-c4515751-0	Q20	'Norway'@en	P6	'head of government'@en	Q57665	'Jens Stoltenberg'@en
+Q20-P6-Q57665-c4515751-0-P805	Q20-P6-Q57665-c4515751-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q57665-c4515751-0-P805-ckgP1	Q20-P6-Q57665-c4515751-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q317659-099217fb-0	Q20	'Norway'@en	P6	'head of government'@en	Q317659	'Johan Nygaardsvold'@en
+Q20-P6-Q317659-099217fb-0-P805	Q20-P6-Q317659-099217fb-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q317659-099217fb-0-P805-ckgP1	Q20-P6-Q317659-099217fb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q337301-6dd79c81-0	Q20	'Norway'@en	P6	'head of government'@en	Q337301	'John Lyng'@en
+Q20-P6-Q337301-6dd79c81-0-P805	Q20-P6-Q337301-6dd79c81-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q337301-6dd79c81-0-P805-ckgP1	Q20-P6-Q337301-6dd79c81-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q467948-9c637c0a-0	Q20	'Norway'@en	P6	'head of government'@en	Q467948	'Jonas Gahr Støre'@en
+Q20-P6-Q467948-9c637c0a-0-P805	Q20-P6-Q467948-9c637c0a-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q467948-9c637c0a-0-P805-ckgP1	Q20-P6-Q467948-9c637c0a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q207655-861ca1c2-0	Q20	'Norway'@en	P6	'head of government'@en	Q207655	'Kjell Magne Bondevik'@en
+Q20-P6-Q207655-861ca1c2-0-P805	Q20-P6-Q207655-861ca1c2-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q207655-861ca1c2-0-P805-ckgP1	Q20-P6-Q207655-861ca1c2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q207655-b16a4c58-0	Q20	'Norway'@en	P6	'head of government'@en	Q207655	'Kjell Magne Bondevik'@en
+Q20-P6-Q207655-b16a4c58-0-P805	Q20-P6-Q207655-b16a4c58-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q207655-b16a4c58-0-P805-ckgP1	Q20-P6-Q207655-b16a4c58-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q317405-9e58728c-0	Q20	'Norway'@en	P6	'head of government'@en	Q317405	'Kåre Willoch'@en
+Q20-P6-Q317405-9e58728c-0-P805	Q20-P6-Q317405-9e58728c-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q317405-9e58728c-0-P805-ckgP1	Q20-P6-Q317405-9e58728c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q317412-3d40c5a2-0	Q20	'Norway'@en	P6	'head of government'@en	Q317412	'Lars Korvald'@en
+Q20-P6-Q317412-3d40c5a2-0-P805	Q20-P6-Q317412-3d40c5a2-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q317412-3d40c5a2-0-P805-ckgP1	Q20-P6-Q317412-3d40c5a2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q337295-a0b38243-0	Q20	'Norway'@en	P6	'head of government'@en	Q337295	'Odvar Nordli'@en
+Q20-P6-Q337295-a0b38243-0-P805	Q20-P6-Q337295-a0b38243-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q337295-a0b38243-0-P805-ckgP1	Q20-P6-Q337295-a0b38243-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q355258-4e7f7d1e-0	Q20	'Norway'@en	P6	'head of government'@en	Q355258	'Oscar Torp'@en
+Q20-P6-Q355258-4e7f7d1e-0-P805	Q20-P6-Q355258-4e7f7d1e-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q355258-4e7f7d1e-0-P805-ckgP1	Q20-P6-Q355258-4e7f7d1e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q380659-010d29f1-0	Q20	'Norway'@en	P6	'head of government'@en	Q380659	'Per Borten'@en
+Q20-P6-Q380659-010d29f1-0-P805	Q20-P6-Q380659-010d29f1-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q380659-010d29f1-0-P805-ckgP1	Q20-P6-Q380659-010d29f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q683650-fdb53874-0	Q20	'Norway'@en	P6	'head of government'@en	Q683650	'Svenn Stray'@en
+Q20-P6-Q683650-fdb53874-0-P805	Q20-P6-Q683650-fdb53874-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q683650-fdb53874-0-P805-ckgP1	Q20-P6-Q683650-fdb53874-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q209611-73ec22a1-0	Q20	'Norway'@en	P6	'head of government'@en	Q209611	'Thorbjørn Jagland'@en
+Q20-P6-Q209611-73ec22a1-0-P805	Q20-P6-Q209611-73ec22a1-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q209611-73ec22a1-0-P805-ckgP1	Q20-P6-Q209611-73ec22a1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q326587-555d1895-0	Q20	'Norway'@en	P6	'head of government'@en	Q326587	'Trygve Bratteli'@en
+Q20-P6-Q326587-555d1895-0-P805	Q20-P6-Q326587-555d1895-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q326587-555d1895-0-P805-ckgP1	Q20-P6-Q326587-555d1895-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P6-Q326587-c7ae08ed-0	Q20	'Norway'@en	P6	'head of government'@en	Q326587	'Trygve Bratteli'@en
+Q20-P6-Q326587-c7ae08ed-0-P805	Q20-P6-Q326587-c7ae08ed-0		P805	'statement is subject of'@en	unknown	
+Q20-P6-Q326587-c7ae08ed-0-P805-ckgP1	Q20-P6-Q326587-c7ae08ed-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P6-Q57282-bb7d7a78-0	Q258	'South Africa'@en	P6	'head of government'@en	Q57282	'Jacob Zuma'@en
+Q258-P6-Q57282-bb7d7a78-0-P805	Q258-P6-Q57282-bb7d7a78-0		P805	'statement is subject of'@en	unknown	
+Q258-P6-Q57282-bb7d7a78-0-P805-ckgP1	Q258-P6-Q57282-bb7d7a78-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P6-Q1148669-88f38795-0	Q258	'South Africa'@en	P6	'head of government'@en	Q1148669	'Matamela Cyril Ramaphosa'@en
+Q258-P6-Q1148669-88f38795-0-P805	Q258-P6-Q1148669-88f38795-0		P805	'statement is subject of'@en	unknown	
+Q258-P6-Q1148669-88f38795-0-P805-ckgP1	Q258-P6-Q1148669-88f38795-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q214367-6142cb9e-0	Q29	'Spain'@en	P6	'head of government'@en	Q214367	'Adolfo Suárez'@en
+Q29-P6-Q214367-6142cb9e-0-P805	Q29-P6-Q214367-6142cb9e-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q214367-6142cb9e-0-P805-ckgP1	Q29-P6-Q214367-6142cb9e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q156799-a655ceef-0	Q29	'Spain'@en	P6	'head of government'@en	Q156799	'Felipe González'@en
+Q29-P6-Q156799-a655ceef-0-P805	Q29-P6-Q156799-a655ceef-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q156799-a655ceef-0-P805-ckgP1	Q29-P6-Q156799-a655ceef-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q41395-213f4242-0	Q29	'Spain'@en	P6	'head of government'@en	Q41395	'José Luis Rodríguez Zapatero'@en
+Q29-P6-Q41395-213f4242-0-P805	Q29-P6-Q41395-213f4242-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q41395-213f4242-0-P805-ckgP1	Q29-P6-Q41395-213f4242-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q55637-f60d46c0-0	Q29	'Spain'@en	P6	'head of government'@en	Q55637	'José María Aznar'@en
+Q29-P6-Q55637-f60d46c0-0-P805	Q29-P6-Q55637-f60d46c0-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q55637-f60d46c0-0-P805-ckgP1	Q29-P6-Q55637-f60d46c0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q273129-e5eb741c-0	Q29	'Spain'@en	P6	'head of government'@en	Q273129	'Leopoldo Calvo-Sotelo'@en
+Q29-P6-Q273129-e5eb741c-0-P805	Q29-P6-Q273129-e5eb741c-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q273129-e5eb741c-0-P805-ckgP1	Q29-P6-Q273129-e5eb741c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q10819-fc9d0a3e-0	Q29	'Spain'@en	P6	'head of government'@en	Q10819	'Mariano Rajoy'@en
+Q29-P6-Q10819-fc9d0a3e-0-P805	Q29-P6-Q10819-fc9d0a3e-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q10819-fc9d0a3e-0-P805-ckgP1	Q29-P6-Q10819-fc9d0a3e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P6-Q6070218-614eb5c6-0	Q29	'Spain'@en	P6	'head of government'@en	Q6070218	'Pedro Sánchez'@en
+Q29-P6-Q6070218-614eb5c6-0-P805	Q29-P6-Q6070218-614eb5c6-0		P805	'statement is subject of'@en	unknown	
+Q29-P6-Q6070218-614eb5c6-0-P805-ckgP1	Q29-P6-Q6070218-614eb5c6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P6-Q476596-b227d7a6-0	Q31	'Belgium'@en	P6	'head of government'@en	Q476596	'Alexander De Croo'@en
+Q31-P6-Q476596-b227d7a6-0-P805	Q31-P6-Q476596-b227d7a6-0		P805	'statement is subject of'@en	unknown	
+Q31-P6-Q476596-b227d7a6-0-P805-ckgP1	Q31-P6-Q476596-b227d7a6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P6-Q950958-3a4c13cd-0	Q31	'Belgium'@en	P6	'head of government'@en	Q950958	'Charles Michel'@en
+Q31-P6-Q950958-3a4c13cd-0-P805	Q31-P6-Q950958-3a4c13cd-0		P805	'statement is subject of'@en	unknown	
+Q31-P6-Q950958-3a4c13cd-0-P805-ckgP1	Q31-P6-Q950958-3a4c13cd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P6-Q18434995-ea4b3566-0	Q31	'Belgium'@en	P6	'head of government'@en	Q18434995	'Sophie Wilmès'@en
+Q31-P6-Q18434995-ea4b3566-0-P805	Q31-P6-Q18434995-ea4b3566-0		P805	'statement is subject of'@en	unknown	
+Q31-P6-Q18434995-ea4b3566-0-P805-ckgP1	Q31-P6-Q18434995-ea4b3566-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P6-Q503143-3f01d040-0	Q33	'Finland'@en	P6	'head of government'@en	Q503143	'Alexander Stubb'@en
+Q33-P6-Q503143-3f01d040-0-P805	Q33-P6-Q503143-3f01d040-0		P805	'statement is subject of'@en	unknown	
+Q33-P6-Q503143-3f01d040-0-P805-ckgP1	Q33-P6-Q503143-3f01d040-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P6-Q11852228-33514358-0	Q33	'Finland'@en	P6	'head of government'@en	Q11852228	'Antti Rinne'@en
+Q33-P6-Q11852228-33514358-0-P805	Q33-P6-Q11852228-33514358-0		P805	'statement is subject of'@en	unknown	
+Q33-P6-Q11852228-33514358-0-P805-ckgP1	Q33-P6-Q11852228-33514358-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P6-Q1711532-30a641ec-0	Q33	'Finland'@en	P6	'head of government'@en	Q1711532	'Juha Sipilä'@en
+Q33-P6-Q1711532-30a641ec-0-P805	Q33-P6-Q1711532-30a641ec-0		P805	'statement is subject of'@en	unknown	
+Q33-P6-Q1711532-30a641ec-0-P805-ckgP1	Q33-P6-Q1711532-30a641ec-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P6-Q16986436-34df4591-0	Q33	'Finland'@en	P6	'head of government'@en	Q16986436	'Sanna Marin'@en
+Q33-P6-Q16986436-34df4591-0-P805	Q33-P6-Q16986436-34df4591-0		P805	'statement is subject of'@en	unknown	
+Q33-P6-Q16986436-34df4591-0-P805-ckgP1	Q33-P6-Q16986436-34df4591-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q351178-4d1a3fe3-0	Q35	'Denmark'@en	P6	'head of government'@en	Q351178	'Adam Wilhelm Moltke'@en
+Q35-P6-Q351178-4d1a3fe3-0-P805	Q35-P6-Q351178-4d1a3fe3-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q351178-4d1a3fe3-0-P805-ckgP1	Q35-P6-Q351178-4d1a3fe3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q46052-d0b56c11-0	Q35	'Denmark'@en	P6	'head of government'@en	Q46052	'Anders Fogh Rasmussen'@en
+Q35-P6-Q46052-d0b56c11-0-P805	Q35-P6-Q46052-d0b56c11-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q46052-d0b56c11-0-P805-ckgP1	Q35-P6-Q46052-d0b56c11-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q491280-69253ff9-0	Q35	'Denmark'@en	P6	'head of government'@en	Q491280	'Anders Sandøe Ørsted'@en
+Q35-P6-Q491280-69253ff9-0-P805	Q35-P6-Q491280-69253ff9-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q491280-69253ff9-0-P805-ckgP1	Q35-P6-Q491280-69253ff9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q312881-1a2d8201-0	Q35	'Denmark'@en	P6	'head of government'@en	Q312881	'Anker Jørgensen'@en
+Q35-P6-Q312881-1a2d8201-0-P805	Q35-P6-Q312881-1a2d8201-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q312881-1a2d8201-0-P805-ckgP1	Q35-P6-Q312881-1a2d8201-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q312881-f8297555-0	Q35	'Denmark'@en	P6	'head of government'@en	Q312881	'Anker Jørgensen'@en
+Q35-P6-Q312881-f8297555-0-P805	Q35-P6-Q312881-f8297555-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q312881-f8297555-0-P805-ckgP1	Q35-P6-Q312881-f8297555-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q725118-208fa140-0	Q35	'Denmark'@en	P6	'head of government'@en	Q725118	'Carl Christian Hall'@en
+Q35-P6-Q725118-208fa140-0-P805	Q35-P6-Q725118-208fa140-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q725118-208fa140-0-P805-ckgP1	Q35-P6-Q725118-208fa140-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q725118-75c8cd81-0	Q35	'Denmark'@en	P6	'head of government'@en	Q725118	'Carl Christian Hall'@en
+Q35-P6-Q725118-75c8cd81-0-P805	Q35-P6-Q725118-75c8cd81-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q725118-75c8cd81-0-P805-ckgP1	Q35-P6-Q725118-75c8cd81-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q947789-14cfcec4-0	Q35	'Denmark'@en	P6	'head of government'@en	Q947789	'Carl Christoffer Georg Andræ'@en
+Q35-P6-Q947789-14cfcec4-0-P805	Q35-P6-Q947789-14cfcec4-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q947789-14cfcec4-0-P805-ckgP1	Q35-P6-Q947789-14cfcec4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1037599-c814a7e6-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1037599	'Carl Edvard Rotwitt'@en
+Q35-P6-Q1037599-c814a7e6-0-P805	Q35-P6-Q1037599-c814a7e6-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1037599-c814a7e6-0-P805-ckgP1	Q35-P6-Q1037599-c814a7e6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1040851-40ed38bd-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1040851	'Carl Theodor Zahle'@en
+Q35-P6-Q1040851-40ed38bd-0-P805	Q35-P6-Q1040851-40ed38bd-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1040851-40ed38bd-0-P805-ckgP1	Q35-P6-Q1040851-40ed38bd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1040851-4438968d-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1040851	'Carl Theodor Zahle'@en
+Q35-P6-Q1040851-4438968d-0-P805	Q35-P6-Q1040851-4438968d-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1040851-4438968d-0-P805-ckgP1	Q35-P6-Q1040851-4438968d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q966436-4112a01d-0	Q35	'Denmark'@en	P6	'head of government'@en	Q966436	'Christen Andreas Fonnesbech'@en
+Q35-P6-Q966436-4112a01d-0-P805	Q35-P6-Q966436-4112a01d-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q966436-4112a01d-0-P805-ckgP1	Q35-P6-Q966436-4112a01d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q947911-0a5f8f0a-0	Q35	'Denmark'@en	P6	'head of government'@en	Q947911	'Christian Albrecht Bluhme'@en
+Q35-P6-Q947911-0a5f8f0a-0-P805	Q35-P6-Q947911-0a5f8f0a-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q947911-0a5f8f0a-0-P805-ckgP1	Q35-P6-Q947911-0a5f8f0a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q947911-8d3d4c24-0	Q35	'Denmark'@en	P6	'head of government'@en	Q947911	'Christian Albrecht Bluhme'@en
+Q35-P6-Q947911-8d3d4c24-0-P805	Q35-P6-Q947911-8d3d4c24-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q947911-8d3d4c24-0-P805-ckgP1	Q35-P6-Q947911-8d3d4c24-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q782403-c76ec40f-0	Q35	'Denmark'@en	P6	'head of government'@en	Q782403	'Christian Emil Krag-Juel-Vind-Frijs'@en
+Q35-P6-Q782403-c76ec40f-0-P805	Q35-P6-Q782403-c76ec40f-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q782403-c76ec40f-0-P805-ckgP1	Q35-P6-Q782403-c76ec40f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q694093-243d642c-0	Q35	'Denmark'@en	P6	'head of government'@en	Q694093	'Ditlev Gothard Monrad'@en
+Q35-P6-Q694093-243d642c-0-P805	Q35-P6-Q694093-243d642c-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q694093-243d642c-0-P805-ckgP1	Q35-P6-Q694093-243d642c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q710950-b556fd83-0	Q35	'Denmark'@en	P6	'head of government'@en	Q710950	'Erik Eriksen'@en
+Q35-P6-Q710950-b556fd83-0-P805	Q35-P6-Q710950-b556fd83-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q710950-b556fd83-0-P805-ckgP1	Q35-P6-Q710950-b556fd83-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q731504-7b304be0-0	Q35	'Denmark'@en	P6	'head of government'@en	Q731504	'Erik Scavenius'@en
+Q35-P6-Q731504-7b304be0-0-P805	Q35-P6-Q731504-7b304be0-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q731504-7b304be0-0-P805-ckgP1	Q35-P6-Q731504-7b304be0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q721358-c6ff92c1-0	Q35	'Denmark'@en	P6	'head of government'@en	Q721358	'H. C. Hansen'@en
+Q35-P6-Q721358-c6ff92c1-0-P805	Q35-P6-Q721358-c6ff92c1-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q721358-c6ff92c1-0-P805-ckgP1	Q35-P6-Q721358-c6ff92c1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1576188-3b365633-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1576188	'Hannibal Sehested'@en
+Q35-P6-Q1576188-3b365633-0-P805	Q35-P6-Q1576188-3b365633-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1576188-3b365633-0-P805-ckgP1	Q35-P6-Q1576188-3b365633-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q503087-3893315d-0	Q35	'Denmark'@en	P6	'head of government'@en	Q503087	'Hans Hedtoft'@en
+Q35-P6-Q503087-3893315d-0-P805	Q35-P6-Q503087-3893315d-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q503087-3893315d-0-P805-ckgP1	Q35-P6-Q503087-3893315d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q503087-61552d77-0	Q35	'Denmark'@en	P6	'head of government'@en	Q503087	'Hans Hedtoft'@en
+Q35-P6-Q503087-61552d77-0-P805	Q35-P6-Q503087-61552d77-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q503087-61552d77-0-P805-ckgP1	Q35-P6-Q503087-61552d77-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q57652-a146d331-0	Q35	'Denmark'@en	P6	'head of government'@en	Q57652	'Helle Thorning-Schmidt'@en
+Q35-P6-Q57652-a146d331-0-P805	Q35-P6-Q57652-a146d331-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q57652-a146d331-0-P805-ckgP1	Q35-P6-Q57652-a146d331-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q727237-8414989d-0	Q35	'Denmark'@en	P6	'head of government'@en	Q727237	'Hilmar Baunsgaard'@en
+Q35-P6-Q727237-8414989d-0-P805	Q35-P6-Q727237-8414989d-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q727237-8414989d-0-P805-ckgP1	Q35-P6-Q727237-8414989d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1634992-6e1e6a18-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1634992	'Hugo Egmont Hørring'@en
+Q35-P6-Q1634992-6e1e6a18-0-P805	Q35-P6-Q1634992-6e1e6a18-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1634992-6e1e6a18-0-P805-ckgP1	Q35-P6-Q1634992-6e1e6a18-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1343877-da507de0-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1343877	'Jacob Brønnum Scavenius Estrup'@en
+Q35-P6-Q1343877-da507de0-0-P805	Q35-P6-Q1343877-da507de0-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1343877-da507de0-0-P805-ckgP1	Q35-P6-Q1343877-da507de0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1274220-68cdd374-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1274220	'Jens Christian Christensen'@en
+Q35-P6-Q1274220-68cdd374-0-P805	Q35-P6-Q1274220-68cdd374-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1274220-68cdd374-0-P805-ckgP1	Q35-P6-Q1274220-68cdd374-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q441330-3a55ddd3-0	Q35	'Denmark'@en	P6	'head of government'@en	Q441330	'Jens Otto Krag'@en
+Q35-P6-Q441330-3a55ddd3-0-P805	Q35-P6-Q441330-3a55ddd3-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q441330-3a55ddd3-0-P805-ckgP1	Q35-P6-Q441330-3a55ddd3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q441330-6b20fd41-0	Q35	'Denmark'@en	P6	'head of government'@en	Q441330	'Jens Otto Krag'@en
+Q35-P6-Q441330-6b20fd41-0-P805	Q35-P6-Q441330-6b20fd41-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q441330-6b20fd41-0-P805-ckgP1	Q35-P6-Q441330-6b20fd41-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q572189-b87f6746-0	Q35	'Denmark'@en	P6	'head of government'@en	Q572189	'Johan Henrik Deuntzer'@en
+Q35-P6-Q572189-b87f6746-0-P805	Q35-P6-Q572189-b87f6746-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q572189-b87f6746-0-P805-ckgP1	Q35-P6-Q572189-b87f6746-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q264340-d7ba1867-0	Q35	'Denmark'@en	P6	'head of government'@en	Q264340	'Klaus Berntsen'@en
+Q35-P6-Q264340-d7ba1867-0-P805	Q35-P6-Q264340-d7ba1867-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q264340-d7ba1867-0-P805-ckgP1	Q35-P6-Q264340-d7ba1867-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1335084-e9c8cc80-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1335084	'Knud Kristensen'@en
+Q35-P6-Q1335084-e9c8cc80-0-P805	Q35-P6-Q1335084-e9c8cc80-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1335084-e9c8cc80-0-P805-ckgP1	Q35-P6-Q1335084-e9c8cc80-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q182397-3dd14475-0	Q35	'Denmark'@en	P6	'head of government'@en	Q182397	'Lars Løkke Rasmussen'@en
+Q35-P6-Q182397-3dd14475-0-P805	Q35-P6-Q182397-3dd14475-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q182397-3dd14475-0-P805-ckgP1	Q35-P6-Q182397-3dd14475-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q182397-a425b420-0	Q35	'Denmark'@en	P6	'head of government'@en	Q182397	'Lars Løkke Rasmussen'@en
+Q35-P6-Q182397-a425b420-0-P805	Q35-P6-Q182397-a425b420-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q182397-a425b420-0-P805-ckgP1	Q35-P6-Q182397-a425b420-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1343866-bc1f60dc-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1343866	'Ludvig Holstein-Holsteinborg'@en
+Q35-P6-Q1343866-bc1f60dc-0-P805	Q35-P6-Q1343866-bc1f60dc-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1343866-bc1f60dc-0-P805-ckgP1	Q35-P6-Q1343866-bc1f60dc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1874069-1a6d54f1-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1874069	'Ludvig Holstein-Ledreborg'@en
+Q35-P6-Q1874069-1a6d54f1-0-P805	Q35-P6-Q1874069-1a6d54f1-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1874069-1a6d54f1-0-P805-ckgP1	Q35-P6-Q1874069-1a6d54f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q5015-5f2f18d3-0	Q35	'Denmark'@en	P6	'head of government'@en	Q5015	'Mette Frederiksen'@en
+Q35-P6-Q5015-5f2f18d3-0-P805	Q35-P6-Q5015-5f2f18d3-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q5015-5f2f18d3-0-P805-ckgP1	Q35-P6-Q5015-5f2f18d3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1375737-8719be0c-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1375737	'Michael Pedersen Friis'@en
+Q35-P6-Q1375737-8719be0c-0-P805	Q35-P6-Q1375737-8719be0c-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1375737-8719be0c-0-P805-ckgP1	Q35-P6-Q1375737-8719be0c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1375094-2df59524-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1375094	'Niels Neergaard'@en
+Q35-P6-Q1375094-2df59524-0-P805	Q35-P6-Q1375094-2df59524-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1375094-2df59524-0-P805-ckgP1	Q35-P6-Q1375094-2df59524-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1375094-3c06d38e-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1375094	'Niels Neergaard'@en
+Q35-P6-Q1375094-3c06d38e-0-P805	Q35-P6-Q1375094-3c06d38e-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1375094-3c06d38e-0-P805-ckgP1	Q35-P6-Q1375094-3c06d38e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1744787-7ae175a7-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1744787	'Otto Liebe'@en
+Q35-P6-Q1744787-7ae175a7-0-P805	Q35-P6-Q1744787-7ae175a7-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1744787-7ae175a7-0-P805-ckgP1	Q35-P6-Q1744787-7ae175a7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q591189-902cf167-0	Q35	'Denmark'@en	P6	'head of government'@en	Q591189	'Peter Georg Bang'@en
+Q35-P6-Q591189-902cf167-0-P805	Q35-P6-Q591189-902cf167-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q591189-902cf167-0-P805-ckgP1	Q35-P6-Q591189-902cf167-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q348901-4e6b778e-0	Q35	'Denmark'@en	P6	'head of government'@en	Q348901	'Poul Hartling'@en
+Q35-P6-Q348901-4e6b778e-0-P805	Q35-P6-Q348901-4e6b778e-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q348901-4e6b778e-0-P805-ckgP1	Q35-P6-Q348901-4e6b778e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q311063-dc0bedfc-0	Q35	'Denmark'@en	P6	'head of government'@en	Q311063	'Poul Nyrup Rasmussen'@en
+Q35-P6-Q311063-dc0bedfc-0-P805	Q35-P6-Q311063-dc0bedfc-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q311063-dc0bedfc-0-P805-ckgP1	Q35-P6-Q311063-dc0bedfc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q327190-9f27bc7d-0	Q35	'Denmark'@en	P6	'head of government'@en	Q327190	'Poul Schlüter'@en
+Q35-P6-Q327190-9f27bc7d-0-P805	Q35-P6-Q327190-9f27bc7d-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q327190-9f27bc7d-0-P805-ckgP1	Q35-P6-Q327190-9f27bc7d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q1375050-4211fbf2-0	Q35	'Denmark'@en	P6	'head of government'@en	Q1375050	'Tage Reedtz-Thott'@en
+Q35-P6-Q1375050-4211fbf2-0-P805	Q35-P6-Q1375050-4211fbf2-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q1375050-4211fbf2-0-P805-ckgP1	Q35-P6-Q1375050-4211fbf2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q982328-c8dc2339-0	Q35	'Denmark'@en	P6	'head of government'@en	Q982328	'Thomas Madsen-Mygdal'@en
+Q35-P6-Q982328-c8dc2339-0-P805	Q35-P6-Q982328-c8dc2339-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q982328-c8dc2339-0-P805-ckgP1	Q35-P6-Q982328-c8dc2339-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q367557-1db3dd92-0	Q35	'Denmark'@en	P6	'head of government'@en	Q367557	'Thorvald Stauning'@en
+Q35-P6-Q367557-1db3dd92-0-P805	Q35-P6-Q367557-1db3dd92-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q367557-1db3dd92-0-P805-ckgP1	Q35-P6-Q367557-1db3dd92-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q367557-dc3c335b-0	Q35	'Denmark'@en	P6	'head of government'@en	Q367557	'Thorvald Stauning'@en
+Q35-P6-Q367557-dc3c335b-0-P805	Q35-P6-Q367557-dc3c335b-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q367557-dc3c335b-0-P805-ckgP1	Q35-P6-Q367557-dc3c335b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q918287-645e435c-0	Q35	'Denmark'@en	P6	'head of government'@en	Q918287	'Viggo Kampmann'@en
+Q35-P6-Q918287-645e435c-0-P805	Q35-P6-Q918287-645e435c-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q918287-645e435c-0-P805-ckgP1	Q35-P6-Q918287-645e435c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q664052-16b75f68-0	Q35	'Denmark'@en	P6	'head of government'@en	Q664052	'Vilhelm Buhl'@en
+Q35-P6-Q664052-16b75f68-0-P805	Q35-P6-Q664052-16b75f68-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q664052-16b75f68-0-P805-ckgP1	Q35-P6-Q664052-16b75f68-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P6-Q664052-a659c839-0	Q35	'Denmark'@en	P6	'head of government'@en	Q664052	'Vilhelm Buhl'@en
+Q35-P6-Q664052-a659c839-0-P805	Q35-P6-Q664052-a659c839-0		P805	'statement is subject of'@en	unknown	
+Q35-P6-Q664052-a659c839-0-P805-ckgP1	Q35-P6-Q664052-a659c839-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q366104-c1403dfe-0	Q38	'Italy'@en	P6	'head of government'@en	Q366104	'Adone Zoli'@en
+Q38-P6-Q366104-c1403dfe-0-P805	Q38-P6-Q366104-c1403dfe-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q366104-c1403dfe-0-P805-ckgP1	Q38-P6-Q366104-c1403dfe-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-094a07c1-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-094a07c1-0-P805	Q38-P6-Q153832-094a07c1-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-094a07c1-0-P805-ckgP1	Q38-P6-Q153832-094a07c1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-19a5ff6a-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-19a5ff6a-0-P805	Q38-P6-Q153832-19a5ff6a-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-19a5ff6a-0-P805-ckgP1	Q38-P6-Q153832-19a5ff6a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-25db99c6-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-25db99c6-0-P805	Q38-P6-Q153832-25db99c6-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-25db99c6-0-P805-ckgP1	Q38-P6-Q153832-25db99c6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-343a7f04-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-343a7f04-0-P805	Q38-P6-Q153832-343a7f04-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-343a7f04-0-P805-ckgP1	Q38-P6-Q153832-343a7f04-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-9d400593-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-9d400593-0-P805	Q38-P6-Q153832-9d400593-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-9d400593-0-P805-ckgP1	Q38-P6-Q153832-9d400593-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-a1102c2b-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-a1102c2b-0-P805	Q38-P6-Q153832-a1102c2b-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-a1102c2b-0-P805-ckgP1	Q38-P6-Q153832-a1102c2b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q153832-fe12706a-0	Q38	'Italy'@en	P6	'head of government'@en	Q153832	'Alcide De Gasperi'@en
+Q38-P6-Q153832-fe12706a-0-P805	Q38-P6-Q153832-fe12706a-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q153832-fe12706a-0-P805-ckgP1	Q38-P6-Q153832-fe12706a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q171834-1fdd70fd-0	Q38	'Italy'@en	P6	'head of government'@en	Q171834	'Aldo Moro'@en
+Q38-P6-Q171834-1fdd70fd-0-P805	Q38-P6-Q171834-1fdd70fd-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q171834-1fdd70fd-0-P805-ckgP1	Q38-P6-Q171834-1fdd70fd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q171834-217ac6e1-0	Q38	'Italy'@en	P6	'head of government'@en	Q171834	'Aldo Moro'@en
+Q38-P6-Q171834-217ac6e1-0-P805	Q38-P6-Q171834-217ac6e1-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q171834-217ac6e1-0-P805-ckgP1	Q38-P6-Q171834-217ac6e1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q171834-5aef2a5b-0	Q38	'Italy'@en	P6	'head of government'@en	Q171834	'Aldo Moro'@en
+Q38-P6-Q171834-5aef2a5b-0-P805	Q38-P6-Q171834-5aef2a5b-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q171834-5aef2a5b-0-P805-ckgP1	Q38-P6-Q171834-5aef2a5b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q171834-958f2915-0	Q38	'Italy'@en	P6	'head of government'@en	Q171834	'Aldo Moro'@en
+Q38-P6-Q171834-958f2915-0-P805	Q38-P6-Q171834-958f2915-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q171834-958f2915-0-P805-ckgP1	Q38-P6-Q171834-958f2915-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q171834-b0e97a08-0	Q38	'Italy'@en	P6	'head of government'@en	Q171834	'Aldo Moro'@en
+Q38-P6-Q171834-b0e97a08-0-P805	Q38-P6-Q171834-b0e97a08-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q171834-b0e97a08-0-P805-ckgP1	Q38-P6-Q171834-b0e97a08-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-12fb07f3-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-12fb07f3-0-P805	Q38-P6-Q273228-12fb07f3-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-12fb07f3-0-P805-ckgP1	Q38-P6-Q273228-12fb07f3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-5032fef7-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-5032fef7-0-P805	Q38-P6-Q273228-5032fef7-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-5032fef7-0-P805-ckgP1	Q38-P6-Q273228-5032fef7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-a587d3a9-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-a587d3a9-0-P805	Q38-P6-Q273228-a587d3a9-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-a587d3a9-0-P805-ckgP1	Q38-P6-Q273228-a587d3a9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-edefa0b8-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-edefa0b8-0-P805	Q38-P6-Q273228-edefa0b8-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-edefa0b8-0-P805-ckgP1	Q38-P6-Q273228-edefa0b8-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-f4414273-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-f4414273-0-P805	Q38-P6-Q273228-f4414273-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-f4414273-0-P805-ckgP1	Q38-P6-Q273228-f4414273-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q273228-ff055200-0	Q38	'Italy'@en	P6	'head of government'@en	Q273228	'Amintore Fanfani'@en
+Q38-P6-Q273228-ff055200-0-P805	Q38-P6-Q273228-ff055200-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q273228-ff055200-0-P805-ckgP1	Q38-P6-Q273228-ff055200-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1240-7d9f4677-0	Q38	'Italy'@en	P6	'head of government'@en	Q1240	'Antonio Segni'@en
+Q38-P6-Q1240-7d9f4677-0-P805	Q38-P6-Q1240-7d9f4677-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1240-7d9f4677-0-P805-ckgP1	Q38-P6-Q1240-7d9f4677-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1240-fcd8996d-0	Q38	'Italy'@en	P6	'head of government'@en	Q1240	'Antonio Segni'@en
+Q38-P6-Q1240-fcd8996d-0-P805	Q38-P6-Q1240-fcd8996d-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1240-fcd8996d-0-P805-ckgP1	Q38-P6-Q1240-fcd8996d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q434786-5804abc9-0	Q38	'Italy'@en	P6	'head of government'@en	Q434786	'Arnaldo Forlani'@en
+Q38-P6-Q434786-5804abc9-0-P805	Q38-P6-Q434786-5804abc9-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q434786-5804abc9-0-P805-ckgP1	Q38-P6-Q434786-5804abc9-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q192818-562a776d-0	Q38	'Italy'@en	P6	'head of government'@en	Q192818	'Bettino Craxi'@en
+Q38-P6-Q192818-562a776d-0-P805	Q38-P6-Q192818-562a776d-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q192818-562a776d-0-P805-ckgP1	Q38-P6-Q192818-562a776d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q192818-9117a162-0	Q38	'Italy'@en	P6	'head of government'@en	Q192818	'Bettino Craxi'@en
+Q38-P6-Q192818-9117a162-0-P805	Q38-P6-Q192818-9117a162-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q192818-9117a162-0-P805-ckgP1	Q38-P6-Q192818-9117a162-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1224-98c16533-0	Q38	'Italy'@en	P6	'head of government'@en	Q1224	'Carlo Azeglio Ciampi'@en
+Q38-P6-Q1224-98c16533-0-P805	Q38-P6-Q1224-98c16533-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1224-98c16533-0-P805-ckgP1	Q38-P6-Q1224-98c16533-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316226-34695c6e-0	Q38	'Italy'@en	P6	'head of government'@en	Q316226	'Ciriaco De Mita'@en
+Q38-P6-Q316226-34695c6e-0-P805	Q38-P6-Q316226-34695c6e-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316226-34695c6e-0-P805-ckgP1	Q38-P6-Q316226-34695c6e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q312058-3bdc7ab7-0	Q38	'Italy'@en	P6	'head of government'@en	Q312058	'Emilio Colombo'@en
+Q38-P6-Q312058-3bdc7ab7-0-P805	Q38-P6-Q312058-3bdc7ab7-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q312058-3bdc7ab7-0-P805-ckgP1	Q38-P6-Q312058-3bdc7ab7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q674957-0de51b2c-0	Q38	'Italy'@en	P6	'head of government'@en	Q674957	'Enrico Letta'@en
+Q38-P6-Q674957-0de51b2c-0-P805	Q38-P6-Q674957-0de51b2c-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q674957-0de51b2c-0-P805-ckgP1	Q38-P6-Q674957-0de51b2c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q314004-fd70e4ba-0	Q38	'Italy'@en	P6	'head of government'@en	Q314004	'Fernando Tambroni'@en
+Q38-P6-Q314004-fd70e4ba-0-P805	Q38-P6-Q314004-fd70e4ba-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q314004-fd70e4ba-0-P805-ckgP1	Q38-P6-Q314004-fd70e4ba-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1230-e1e59acc-0	Q38	'Italy'@en	P6	'head of government'@en	Q1230	'Francesco Cossiga'@en
+Q38-P6-Q1230-e1e59acc-0-P805	Q38-P6-Q1230-e1e59acc-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1230-e1e59acc-0-P805-ckgP1	Q38-P6-Q1230-e1e59acc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1230-fc3209a3-0	Q38	'Italy'@en	P6	'head of government'@en	Q1230	'Francesco Cossiga'@en
+Q38-P6-Q1230-fc3209a3-0-P805	Q38-P6-Q1230-fc3209a3-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1230-fc3209a3-0-P805-ckgP1	Q38-P6-Q1230-fc3209a3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q336259-1358e5d7-0	Q38	'Italy'@en	P6	'head of government'@en	Q336259	'Giovanni Goria'@en
+Q38-P6-Q336259-1358e5d7-0-P805	Q38-P6-Q336259-1358e5d7-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q336259-1358e5d7-0-P805-ckgP1	Q38-P6-Q336259-1358e5d7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1235-6c4148c1-0	Q38	'Italy'@en	P6	'head of government'@en	Q1235	'Giovanni Leone'@en
+Q38-P6-Q1235-6c4148c1-0-P805	Q38-P6-Q1235-6c4148c1-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1235-6c4148c1-0-P805-ckgP1	Q38-P6-Q1235-6c4148c1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1235-7cdc05e3-0	Q38	'Italy'@en	P6	'head of government'@en	Q1235	'Giovanni Leone'@en
+Q38-P6-Q1235-7cdc05e3-0-P805	Q38-P6-Q1235-7cdc05e3-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1235-7cdc05e3-0-P805-ckgP1	Q38-P6-Q1235-7cdc05e3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q332709-b69d6ef1-0	Q38	'Italy'@en	P6	'head of government'@en	Q332709	'Giovanni Spadolini'@en
+Q38-P6-Q332709-b69d6ef1-0-P805	Q38-P6-Q332709-b69d6ef1-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q332709-b69d6ef1-0-P805-ckgP1	Q38-P6-Q332709-b69d6ef1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q332709-d3f084e5-0	Q38	'Italy'@en	P6	'head of government'@en	Q332709	'Giovanni Spadolini'@en
+Q38-P6-Q332709-d3f084e5-0-P805	Q38-P6-Q332709-d3f084e5-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q332709-d3f084e5-0-P805-ckgP1	Q38-P6-Q332709-d3f084e5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q202209-1111cc34-0	Q38	'Italy'@en	P6	'head of government'@en	Q202209	'Giuliano Amato'@en
+Q38-P6-Q202209-1111cc34-0-P805	Q38-P6-Q202209-1111cc34-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q202209-1111cc34-0-P805-ckgP1	Q38-P6-Q202209-1111cc34-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q202209-c883822b-0	Q38	'Italy'@en	P6	'head of government'@en	Q202209	'Giuliano Amato'@en
+Q38-P6-Q202209-c883822b-0-P805	Q38-P6-Q202209-c883822b-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q202209-c883822b-0-P805-ckgP1	Q38-P6-Q202209-c883822b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-22509571-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-22509571-0-P805	Q38-P6-Q50005-22509571-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-22509571-0-P805-ckgP1	Q38-P6-Q50005-22509571-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-355a187d-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-355a187d-0-P805	Q38-P6-Q50005-355a187d-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-355a187d-0-P805-ckgP1	Q38-P6-Q50005-355a187d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-4e698c91-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-4e698c91-0-P805	Q38-P6-Q50005-4e698c91-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-4e698c91-0-P805-ckgP1	Q38-P6-Q50005-4e698c91-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-6ca9dab6-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-6ca9dab6-0-P805	Q38-P6-Q50005-6ca9dab6-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-6ca9dab6-0-P805-ckgP1	Q38-P6-Q50005-6ca9dab6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-b6701299-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-b6701299-0-P805	Q38-P6-Q50005-b6701299-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-b6701299-0-P805-ckgP1	Q38-P6-Q50005-b6701299-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-cbed743b-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-cbed743b-0-P805	Q38-P6-Q50005-cbed743b-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-cbed743b-0-P805-ckgP1	Q38-P6-Q50005-cbed743b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q50005-db814820-0	Q38	'Italy'@en	P6	'head of government'@en	Q50005	'Giulio Andreotti'@en
+Q38-P6-Q50005-db814820-0-P805	Q38-P6-Q50005-db814820-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q50005-db814820-0-P805-ckgP1	Q38-P6-Q50005-db814820-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q53844829-2fa4caf2-0	Q38	'Italy'@en	P6	'head of government'@en	Q53844829	'Giuseppe Conte'@en
+Q38-P6-Q53844829-2fa4caf2-0-P805	Q38-P6-Q53844829-2fa4caf2-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q53844829-2fa4caf2-0-P805-ckgP1	Q38-P6-Q53844829-2fa4caf2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q320963-561194ba-0	Q38	'Italy'@en	P6	'head of government'@en	Q320963	'Giuseppe Pella'@en
+Q38-P6-Q320963-561194ba-0-P805	Q38-P6-Q320963-561194ba-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q320963-561194ba-0-P805-ckgP1	Q38-P6-Q320963-561194ba-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q208100-dba53b38-0	Q38	'Italy'@en	P6	'head of government'@en	Q208100	'Lamberto Dini'@en
+Q38-P6-Q208100-dba53b38-0-P805	Q38-P6-Q208100-dba53b38-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q208100-dba53b38-0-P805-ckgP1	Q38-P6-Q208100-dba53b38-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316288-3ab6a24e-0	Q38	'Italy'@en	P6	'head of government'@en	Q316288	'Mariano Rumor'@en
+Q38-P6-Q316288-3ab6a24e-0-P805	Q38-P6-Q316288-3ab6a24e-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316288-3ab6a24e-0-P805-ckgP1	Q38-P6-Q316288-3ab6a24e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316288-52835e03-0	Q38	'Italy'@en	P6	'head of government'@en	Q316288	'Mariano Rumor'@en
+Q38-P6-Q316288-52835e03-0-P805	Q38-P6-Q316288-52835e03-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316288-52835e03-0-P805-ckgP1	Q38-P6-Q316288-52835e03-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316288-78508484-0	Q38	'Italy'@en	P6	'head of government'@en	Q316288	'Mariano Rumor'@en
+Q38-P6-Q316288-78508484-0-P805	Q38-P6-Q316288-78508484-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316288-78508484-0-P805-ckgP1	Q38-P6-Q316288-78508484-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316288-c5b382e6-0	Q38	'Italy'@en	P6	'head of government'@en	Q316288	'Mariano Rumor'@en
+Q38-P6-Q316288-c5b382e6-0-P805	Q38-P6-Q316288-c5b382e6-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316288-c5b382e6-0-P805-ckgP1	Q38-P6-Q316288-c5b382e6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q316288-f70472d7-0	Q38	'Italy'@en	P6	'head of government'@en	Q316288	'Mariano Rumor'@en
+Q38-P6-Q316288-f70472d7-0-P805	Q38-P6-Q316288-f70472d7-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q316288-f70472d7-0-P805-ckgP1	Q38-P6-Q316288-f70472d7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q294460-808fcd42-0	Q38	'Italy'@en	P6	'head of government'@en	Q294460	'Mario Draghi'@en
+Q38-P6-Q294460-808fcd42-0-P805	Q38-P6-Q294460-808fcd42-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q294460-808fcd42-0-P805-ckgP1	Q38-P6-Q294460-808fcd42-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q47904-a94cb1f2-0	Q38	'Italy'@en	P6	'head of government'@en	Q47904	'Mario Monti'@en
+Q38-P6-Q47904-a94cb1f2-0-P805	Q38-P6-Q47904-a94cb1f2-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q47904-a94cb1f2-0-P805-ckgP1	Q38-P6-Q47904-a94cb1f2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q367342-bcb207c6-0	Q38	'Italy'@en	P6	'head of government'@en	Q367342	'Mario Scelba'@en
+Q38-P6-Q367342-bcb207c6-0-P805	Q38-P6-Q367342-bcb207c6-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q367342-bcb207c6-0-P805-ckgP1	Q38-P6-Q367342-bcb207c6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q47602-86f2c13e-0	Q38	'Italy'@en	P6	'head of government'@en	Q47602	'Massimo D\'Alema'@en
+Q38-P6-Q47602-86f2c13e-0-P805	Q38-P6-Q47602-86f2c13e-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q47602-86f2c13e-0-P805-ckgP1	Q38-P6-Q47602-86f2c13e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q47602-d6072749-0	Q38	'Italy'@en	P6	'head of government'@en	Q47602	'Massimo D\'Alema'@en
+Q38-P6-Q47602-d6072749-0-P805	Q38-P6-Q47602-d6072749-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q47602-d6072749-0-P805-ckgP1	Q38-P6-Q47602-d6072749-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q47563-12059ead-0	Q38	'Italy'@en	P6	'head of government'@en	Q47563	'Matteo Renzi'@en
+Q38-P6-Q47563-12059ead-0-P805	Q38-P6-Q47563-12059ead-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q47563-12059ead-0-P805-ckgP1	Q38-P6-Q47563-12059ead-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q1071031-429b8921-0	Q38	'Italy'@en	P6	'head of government'@en	Q1071031	'Paolo Gentiloni'@en
+Q38-P6-Q1071031-429b8921-0-P805	Q38-P6-Q1071031-429b8921-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q1071031-429b8921-0-P805-ckgP1	Q38-P6-Q1071031-429b8921-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q38484-a5b12764-0	Q38	'Italy'@en	P6	'head of government'@en	Q38484	'Romano Prodi'@en
+Q38-P6-Q38484-a5b12764-0-P805	Q38-P6-Q38484-a5b12764-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q38484-a5b12764-0-P805-ckgP1	Q38-P6-Q38484-a5b12764-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q38484-e032d8d6-0	Q38	'Italy'@en	P6	'head of government'@en	Q38484	'Romano Prodi'@en
+Q38-P6-Q38484-e032d8d6-0-P805	Q38-P6-Q38484-e032d8d6-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q38484-e032d8d6-0-P805-ckgP1	Q38-P6-Q38484-e032d8d6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q11860-0841dd6b-0	Q38	'Italy'@en	P6	'head of government'@en	Q11860	'Silvio Berlusconi'@en
+Q38-P6-Q11860-0841dd6b-0-P805	Q38-P6-Q11860-0841dd6b-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q11860-0841dd6b-0-P805-ckgP1	Q38-P6-Q11860-0841dd6b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q11860-3da7d403-0	Q38	'Italy'@en	P6	'head of government'@en	Q11860	'Silvio Berlusconi'@en
+Q38-P6-Q11860-3da7d403-0-P805	Q38-P6-Q11860-3da7d403-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q11860-3da7d403-0-P805-ckgP1	Q38-P6-Q11860-3da7d403-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q11860-7e02b2ee-0	Q38	'Italy'@en	P6	'head of government'@en	Q11860	'Silvio Berlusconi'@en
+Q38-P6-Q11860-7e02b2ee-0-P805	Q38-P6-Q11860-7e02b2ee-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q11860-7e02b2ee-0-P805-ckgP1	Q38-P6-Q11860-7e02b2ee-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P6-Q11860-e150c5df-0	Q38	'Italy'@en	P6	'head of government'@en	Q11860	'Silvio Berlusconi'@en
+Q38-P6-Q11860-e150c5df-0-P805	Q38-P6-Q11860-e150c5df-0		P805	'statement is subject of'@en	unknown	
+Q38-P6-Q11860-e150c5df-0-P805-ckgP1	Q38-P6-Q11860-e150c5df-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q42852-60e790ec-0	Q43	'Turkey'@en	P6	'head of government'@en	Q42852	'Abdullah Gül'@en
+Q43-P6-Q42852-60e790ec-0-P805	Q43-P6-Q42852-60e790ec-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q42852-60e790ec-0-P805-ckgP1	Q43-P6-Q42852-60e790ec-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q58198-a10f9804-0	Q43	'Turkey'@en	P6	'head of government'@en	Q58198	'Ahmet Davutoğlu'@en
+Q43-P6-Q58198-a10f9804-0-P805	Q43-P6-Q58198-a10f9804-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q58198-a10f9804-0-P805-ckgP1	Q43-P6-Q58198-a10f9804-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q863496-84318481-0	Q43	'Turkey'@en	P6	'head of government'@en	Q863496	'Binali Yıldırım'@en
+Q43-P6-Q863496-84318481-0-P805	Q43-P6-Q863496-84318481-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q863496-84318481-0-P805-ckgP1	Q43-P6-Q863496-84318481-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q375687-2e3423de-0	Q43	'Turkey'@en	P6	'head of government'@en	Q375687	'Bülend Ulusu'@en
+Q43-P6-Q375687-2e3423de-0-P805	Q43-P6-Q375687-2e3423de-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q375687-2e3423de-0-P805-ckgP1	Q43-P6-Q375687-2e3423de-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q192634-2c6817fe-0	Q43	'Turkey'@en	P6	'head of government'@en	Q192634	'Bülent Ecevit'@en
+Q43-P6-Q192634-2c6817fe-0-P805	Q43-P6-Q192634-2c6817fe-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q192634-2c6817fe-0-P805-ckgP1	Q43-P6-Q192634-2c6817fe-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q1348747-1e6e9b2d-0	Q43	'Turkey'@en	P6	'head of government'@en	Q1348747	'Erdal İnönü'@en
+Q43-P6-Q1348747-1e6e9b2d-0-P805	Q43-P6-Q1348747-1e6e9b2d-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q1348747-1e6e9b2d-0-P805-ckgP1	Q43-P6-Q1348747-1e6e9b2d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q366692-bfdd01e6-0	Q43	'Turkey'@en	P6	'head of government'@en	Q366692	'Mesut Yılmaz'@en
+Q43-P6-Q366692-bfdd01e6-0-P805	Q43-P6-Q366692-bfdd01e6-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q366692-bfdd01e6-0-P805-ckgP1	Q43-P6-Q366692-bfdd01e6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q243550-31c5c15f-0	Q43	'Turkey'@en	P6	'head of government'@en	Q243550	'Necmettin Erbakan'@en
+Q43-P6-Q243550-31c5c15f-0-P805	Q43-P6-Q243550-31c5c15f-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q243550-31c5c15f-0-P805-ckgP1	Q43-P6-Q243550-31c5c15f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q39259-9b18d3eb-0	Q43	'Turkey'@en	P6	'head of government'@en	Q39259	'Recep Tayyip Erdoğan'@en
+Q43-P6-Q39259-9b18d3eb-0-P805	Q43-P6-Q39259-9b18d3eb-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q39259-9b18d3eb-0-P805-ckgP1	Q43-P6-Q39259-9b18d3eb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q39259-b5fb5982-0	Q43	'Turkey'@en	P6	'head of government'@en	Q39259	'Recep Tayyip Erdoğan'@en
+Q43-P6-Q39259-b5fb5982-0-P805	Q43-P6-Q39259-b5fb5982-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q39259-b5fb5982-0-P805-ckgP1	Q43-P6-Q39259-b5fb5982-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q151729-4d5384ad-0	Q43	'Turkey'@en	P6	'head of government'@en	Q151729	'Süleyman Demirel'@en
+Q43-P6-Q151729-4d5384ad-0-P805	Q43-P6-Q151729-4d5384ad-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q151729-4d5384ad-0-P805-ckgP1	Q43-P6-Q151729-4d5384ad-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q208377-ea7ff28b-0	Q43	'Turkey'@en	P6	'head of government'@en	Q208377	'Tansu Çiller'@en
+Q43-P6-Q208377-ea7ff28b-0-P805	Q43-P6-Q208377-ea7ff28b-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q208377-ea7ff28b-0-P805-ckgP1	Q43-P6-Q208377-ea7ff28b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q180280-19d414e1-0	Q43	'Turkey'@en	P6	'head of government'@en	Q180280	'Turgut Özal'@en
+Q43-P6-Q180280-19d414e1-0-P805	Q43-P6-Q180280-19d414e1-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q180280-19d414e1-0-P805-ckgP1	Q43-P6-Q180280-19d414e1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P6-Q558287-9c374bb5-0	Q43	'Turkey'@en	P6	'head of government'@en	Q558287	'Yıldırım Akbulut'@en
+Q43-P6-Q558287-9c374bb5-0-P805	Q43-P6-Q558287-9c374bb5-0		P805	'statement is subject of'@en	unknown	
+Q43-P6-Q558287-9c374bb5-0-P805-ckgP1	Q43-P6-Q558287-9c374bb5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P6-Q610788-7aacc6e3-0	Q45	'Portugal'@en	P6	'head of government'@en	Q610788	'António Costa'@en
+Q45-P6-Q610788-7aacc6e3-0-P805	Q45-P6-Q610788-7aacc6e3-0		P805	'statement is subject of'@en	unknown	
+Q45-P6-Q610788-7aacc6e3-0-P805-ckgP1	Q45-P6-Q610788-7aacc6e3-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P6-Q57615-d4ccd6e7-0	Q45	'Portugal'@en	P6	'head of government'@en	Q57615	'Pedro Passos Coelho'@en
+Q45-P6-Q57615-d4ccd6e7-0-P805	Q45-P6-Q57615-d4ccd6e7-0		P805	'statement is subject of'@en	unknown	
+Q45-P6-Q57615-d4ccd6e7-0-P805-ckgP1	Q45-P6-Q57615-d4ccd6e7-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q471204-eab62322-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q471204	'Barend Biesheuvel'@en
+Q55-P6-Q471204-eab62322-0-P805	Q55-P6-Q471204-eab62322-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q471204-eab62322-0-P805-ckgP1	Q55-P6-Q471204-eab62322-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q983186-1b71b5be-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q983186	'Charles Ruijs de Beerenbrouck'@en
+Q55-P6-Q983186-1b71b5be-0-P805	Q55-P6-Q983186-1b71b5be-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q983186-1b71b5be-0-P805-ckgP1	Q55-P6-Q983186-1b71b5be-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q983186-c61d6a35-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q983186	'Charles Ruijs de Beerenbrouck'@en
+Q55-P6-Q983186-c61d6a35-0-P805	Q55-P6-Q983186-c61d6a35-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q983186-c61d6a35-0-P805-ckgP1	Q55-P6-Q983186-c61d6a35-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q693053-5f14e983-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q693053	'Dirk Jan de Geer'@en
+Q55-P6-Q693053-5f14e983-0-P805	Q55-P6-Q693053-5f14e983-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q693053-5f14e983-0-P805-ckgP1	Q55-P6-Q693053-5f14e983-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q693053-68872933-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q693053	'Dirk Jan de Geer'@en
+Q55-P6-Q693053-68872933-0-P805	Q55-P6-Q693053-68872933-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q693053-68872933-0-P805-ckgP1	Q55-P6-Q693053-68872933-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q318334-07346952-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q318334	'Dries van Agt'@en
+Q55-P6-Q318334-07346952-0-P805	Q55-P6-Q318334-07346952-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q318334-07346952-0-P805-ckgP1	Q55-P6-Q318334-07346952-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q686476-40974f7c-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q686476	'Hendrikus Colijn'@en
+Q55-P6-Q686476-40974f7c-0-P805	Q55-P6-Q686476-40974f7c-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q686476-40974f7c-0-P805-ckgP1	Q55-P6-Q686476-40974f7c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q686476-c46e8a73-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q686476	'Hendrikus Colijn'@en
+Q55-P6-Q686476-c46e8a73-0-P805	Q55-P6-Q686476-c46e8a73-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q686476-c46e8a73-0-P805-ckgP1	Q55-P6-Q686476-c46e8a73-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q133386-89e69b13-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q133386	'Jan Peter Balkenende'@en
+Q55-P6-Q133386-89e69b13-0-P805	Q55-P6-Q133386-89e69b13-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q133386-89e69b13-0-P805-ckgP1	Q55-P6-Q133386-89e69b13-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q781813-4d69db43-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q781813	'Jan de Quay'@en
+Q55-P6-Q781813-4d69db43-0-P805	Q55-P6-Q781813-4d69db43-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q781813-4d69db43-0-P805-ckgP1	Q55-P6-Q781813-4d69db43-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q380970-7ff3f728-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q380970	'Jelle Zijlstra'@en
+Q55-P6-Q380970-7ff3f728-0-P805	Q55-P6-Q380970-7ff3f728-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q380970-7ff3f728-0-P805-ckgP1	Q55-P6-Q380970-7ff3f728-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q736026-5b6ad081-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q736026	'Jo Cals'@en
+Q55-P6-Q736026-5b6ad081-0-P805	Q55-P6-Q736026-5b6ad081-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q736026-5b6ad081-0-P805-ckgP1	Q55-P6-Q736026-5b6ad081-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q318320-730a105d-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q318320	'Joop den Uyl'@en
+Q55-P6-Q318320-730a105d-0-P805	Q55-P6-Q318320-730a105d-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q318320-730a105d-0-P805-ckgP1	Q55-P6-Q318320-730a105d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q735519-02972cfb-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q735519	'Louis Beel'@en
+Q55-P6-Q735519-02972cfb-0-P805	Q55-P6-Q735519-02972cfb-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q735519-02972cfb-0-P805-ckgP1	Q55-P6-Q735519-02972cfb-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q735519-4690c8e4-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q735519	'Louis Beel'@en
+Q55-P6-Q735519-4690c8e4-0-P805	Q55-P6-Q735519-4690c8e4-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q735519-4690c8e4-0-P805-ckgP1	Q55-P6-Q735519-4690c8e4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q57792-c081bdbc-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q57792	'Mark Rutte'@en
+Q55-P6-Q57792-c081bdbc-0-P805	Q55-P6-Q57792-c081bdbc-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q57792-c081bdbc-0-P805-ckgP1	Q55-P6-Q57792-c081bdbc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q345481-65a4a55f-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q345481	'Piet de Jong'@en
+Q55-P6-Q345481-65a4a55f-0-P805	Q55-P6-Q345481-65a4a55f-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q345481-65a4a55f-0-P805-ckgP1	Q55-P6-Q345481-65a4a55f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q951705-dcadad46-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q951705	'Pieter Sjoerds Gerbrandy'@en
+Q55-P6-Q951705-dcadad46-0-P805	Q55-P6-Q951705-dcadad46-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q951705-dcadad46-0-P805-ckgP1	Q55-P6-Q951705-dcadad46-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q159840-ee506fbf-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q159840	'Ruud Lubbers'@en
+Q55-P6-Q159840-ee506fbf-0-P805	Q55-P6-Q159840-ee506fbf-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q159840-ee506fbf-0-P805-ckgP1	Q55-P6-Q159840-ee506fbf-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q719701-424ef049-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q719701	'Victor Marijnen'@en
+Q55-P6-Q719701-424ef049-0-P805	Q55-P6-Q719701-424ef049-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q719701-424ef049-0-P805-ckgP1	Q55-P6-Q719701-424ef049-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q12769-709cca64-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q12769	'Willem Drees'@en
+Q55-P6-Q12769-709cca64-0-P805	Q55-P6-Q12769-709cca64-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q12769-709cca64-0-P805-ckgP1	Q55-P6-Q12769-709cca64-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q221411-165a2d82-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q221411	'Wim Kok'@en
+Q55-P6-Q221411-165a2d82-0-P805	Q55-P6-Q221411-165a2d82-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q221411-165a2d82-0-P805-ckgP1	Q55-P6-Q221411-165a2d82-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P6-Q634025-26610d65-0	Q55	'Netherlands'@en	P6	'head of government'@en	Q634025	'Wim Schermerhorn'@en
+Q55-P6-Q634025-26610d65-0-P805	Q55-P6-Q634025-26610d65-0		P805	'statement is subject of'@en	unknown	
+Q55-P6-Q634025-26610d65-0-P805-ckgP1	Q55-P6-Q634025-26610d65-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P6-Q16149892-af242baa-0	Q750	'Bolivia'@en	P6	'head of government'@en	Q16149892	'Luis Arce'@en
+Q750-P6-Q16149892-af242baa-0-P805	Q750-P6-Q16149892-af242baa-0		P805	'statement is subject of'@en	unknown	
+Q750-P6-Q16149892-af242baa-0-P805-ckgP1	Q750-P6-Q16149892-af242baa-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q60206-5637fe48-0	Q801	'Israel'@en	P6	'head of government'@en	Q60206	'Ariel Sharon'@en
+Q801-P6-Q60206-5637fe48-0-P805	Q801-P6-Q60206-5637fe48-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q60206-5637fe48-0-P805-ckgP1	Q801-P6-Q60206-5637fe48-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q43723-9524c239-0	Q801	'Israel'@en	P6	'head of government'@en	Q43723	'Benjamin Netanyahu'@en
+Q801-P6-Q43723-9524c239-0-P805	Q801-P6-Q43723-9524c239-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q43723-9524c239-0-P805-ckgP1	Q801-P6-Q43723-9524c239-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q43723-f14a5fb2-0	Q801	'Israel'@en	P6	'head of government'@en	Q43723	'Benjamin Netanyahu'@en
+Q801-P6-Q43723-f14a5fb2-0-P805	Q801-P6-Q43723-f14a5fb2-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q43723-f14a5fb2-0-P805-ckgP1	Q801-P6-Q43723-f14a5fb2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q37610-0feb0ef6-0	Q801	'Israel'@en	P6	'head of government'@en	Q37610	'David Ben-Gurion'@en
+Q801-P6-Q37610-0feb0ef6-0-P805	Q801-P6-Q37610-0feb0ef6-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q37610-0feb0ef6-0-P805-ckgP1	Q801-P6-Q37610-0feb0ef6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q37610-92fbea7e-0	Q801	'Israel'@en	P6	'head of government'@en	Q37610	'David Ben-Gurion'@en
+Q801-P6-Q37610-92fbea7e-0-P805	Q801-P6-Q37610-92fbea7e-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q37610-92fbea7e-0-P805-ckgP1	Q801-P6-Q37610-92fbea7e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q125731-c659a8b6-0	Q801	'Israel'@en	P6	'head of government'@en	Q125731	'Ehud Barak'@en
+Q801-P6-Q125731-c659a8b6-0-P805	Q801-P6-Q125731-c659a8b6-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q125731-c659a8b6-0-P805-ckgP1	Q801-P6-Q125731-c659a8b6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q93181-203f09c2-0	Q801	'Israel'@en	P6	'head of government'@en	Q93181	'Ehud Olmert'@en
+Q801-P6-Q93181-203f09c2-0-P805	Q801-P6-Q93181-203f09c2-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q93181-203f09c2-0-P805-ckgP1	Q801-P6-Q93181-203f09c2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q42992-6f27d3cf-0	Q801	'Israel'@en	P6	'head of government'@en	Q42992	'Golda Meir'@en
+Q801-P6-Q42992-6f27d3cf-0-P805	Q801-P6-Q42992-6f27d3cf-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q42992-6f27d3cf-0-P805-ckgP1	Q801-P6-Q42992-6f27d3cf-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q191123-7f7e206e-0	Q801	'Israel'@en	P6	'head of government'@en	Q191123	'Levi Eshkol'@en
+Q801-P6-Q191123-7f7e206e-0-P805	Q801-P6-Q191123-7f7e206e-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q191123-7f7e206e-0-P805-ckgP1	Q801-P6-Q191123-7f7e206e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q130873-aa9ea1c2-0	Q801	'Israel'@en	P6	'head of government'@en	Q130873	'Menachem Begin'@en
+Q801-P6-Q130873-aa9ea1c2-0-P805	Q801-P6-Q130873-aa9ea1c2-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q130873-aa9ea1c2-0-P805-ckgP1	Q801-P6-Q130873-aa9ea1c2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q208477-a9e6e0ad-0	Q801	'Israel'@en	P6	'head of government'@en	Q208477	'Moshe Sharett'@en
+Q801-P6-Q208477-a9e6e0ad-0-P805	Q801-P6-Q208477-a9e6e0ad-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q208477-a9e6e0ad-0-P805-ckgP1	Q801-P6-Q208477-a9e6e0ad-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q39318-bb084493-0	Q801	'Israel'@en	P6	'head of government'@en	Q39318	'Naftali Bennett'@en
+Q801-P6-Q39318-bb084493-0-P805	Q801-P6-Q39318-bb084493-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q39318-bb084493-0-P805-ckgP1	Q801-P6-Q39318-bb084493-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q57410-1d223148-0	Q801	'Israel'@en	P6	'head of government'@en	Q57410	'Shimon Peres'@en
+Q801-P6-Q57410-1d223148-0-P805	Q801-P6-Q57410-1d223148-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q57410-1d223148-0-P805-ckgP1	Q801-P6-Q57410-1d223148-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q57410-61a74e91-0	Q801	'Israel'@en	P6	'head of government'@en	Q57410	'Shimon Peres'@en
+Q801-P6-Q57410-61a74e91-0-P805	Q801-P6-Q57410-61a74e91-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q57410-61a74e91-0-P805-ckgP1	Q801-P6-Q57410-61a74e91-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q184351-26cdaa95-0	Q801	'Israel'@en	P6	'head of government'@en	Q184351	'Yitzhak Shamir'@en
+Q801-P6-Q184351-26cdaa95-0-P805	Q801-P6-Q184351-26cdaa95-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q184351-26cdaa95-0-P805-ckgP1	Q801-P6-Q184351-26cdaa95-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q184351-dc45627c-0	Q801	'Israel'@en	P6	'head of government'@en	Q184351	'Yitzhak Shamir'@en
+Q801-P6-Q184351-dc45627c-0-P805	Q801-P6-Q184351-dc45627c-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q184351-dc45627c-0-P805-ckgP1	Q801-P6-Q184351-dc45627c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q34060-142d66dc-0	Q801	'Israel'@en	P6	'head of government'@en	Q34060	'Yizhak Rabin'@en
+Q801-P6-Q34060-142d66dc-0-P805	Q801-P6-Q34060-142d66dc-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q34060-142d66dc-0-P805-ckgP1	Q801-P6-Q34060-142d66dc-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P6-Q34060-dd5cb6a2-0	Q801	'Israel'@en	P6	'head of government'@en	Q34060	'Yizhak Rabin'@en
+Q801-P6-Q34060-dd5cb6a2-0-P805	Q801-P6-Q34060-dd5cb6a2-0		P805	'statement is subject of'@en	unknown	
+Q801-P6-Q34060-dd5cb6a2-0-P805-ckgP1	Q801-P6-Q34060-dd5cb6a2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance

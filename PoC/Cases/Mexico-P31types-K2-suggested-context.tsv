@@ -1,0 +1,7 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P30-Q49-879f16af-0	Q96	'Mexico'@en	P30	'continent'@en	Q49	'North America'@en
+Q96-P30-Q49-879f16af-0-P30	Q96-P30-Q49-879f16af-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P30-Q49-879f16af-0	Q96	'Mexico'@en	P30	'continent'@en	Q49	'North America'@en
+Q96-P30-Q49-879f16af-0-P30	Q96-P30-Q49-879f16af-0		ckgr9	ckg:Context Type	ckgL1	Location

@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8	
+Q96-P571-152919-88adc7f1-0-P805	Q96-P571-152919-88adc7f1-0		P805	'statement is subject of'@en	unknown	
+Q96-P571-152919-88adc7f1-0-P805-ckgP1	Q96-P571-152919-88adc7f1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance

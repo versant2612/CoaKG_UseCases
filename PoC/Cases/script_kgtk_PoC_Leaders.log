@@ -1,0 +1,273 @@
+Starting 'query' on pid 686766.
+[2023-08-30 00:40:34 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     WHERE graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND (graph_17_c1."label" IN (?, ?, ?, ?)))
+     ORDER BY graph_17_c1."node1" ASC
+  PARAS: ['France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+Elapsed time: 1.52 seconds
+Starting 'query' on pid 686775.
+[2023-08-30 00:40:36 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND (graph_17_c1."label" IN (?, ?, ?, ?)))
+     ORDER BY graph_17_c1."node1" ASC
+  PARAS: ['', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+Elapsed time: 1.71 seconds
+K4 Starting 'query' on pid 686784.
+[2023-08-30 00:40:38 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_17_c2."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c2."label" "_aLias.label", graph_17_c2."label;label" "_aLias.label;label", graph_17_c2."node2" "_aLias.node2", graph_17_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_17 AS graph_17_c2
+     ON graph_17_c1."node1" = graph_17_c2."node1"
+        AND graph_17_c1."node1;label" = graph_17_c2."node1;label"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_17_c2."label;label" = graph_17_c2."label;label"
+        AND graph_17_c2."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c2."node2;label" = graph_17_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND (((graph_17_c1."label" = ?) AND (graph_17_c2."label" = ?)) OR ((graph_17_c1."label" = ?) AND (graph_17_c2."label" = ?))))
+  PARAS: ['France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+Elapsed time: 2.26 seconds
+Starting 'query' on pid 686793.
+[2023-08-30 00:40:40 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c3."node2" "_aLias.label", graph_28_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_28_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c3."node1" "_aLias.node2", graph_28_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2, graph_28 AS graph_28_c3, graph_28 AS graph_28_c4
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_28_c3."node2" = graph_28_c4."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND graph_28_c3."node1;label" = graph_28_c3."node1;label"
+        AND graph_28_c3."node2;label" = graph_28_c3."node2;label"
+        AND graph_28_c4."label" = ?
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_18_c2."label" = graph_28_c3."node2") AND ((graph_17_c1."label" IN (?, ?)) AND (graph_28_c4."node2" = graph_17_c1."label"))))
+  PARAS: ['', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'ckgr2', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P6']
+---------------------------------------------
+Elapsed time: 1.53 seconds
+Starting 'query' on pid 686802.
+[2023-08-30 00:40:41 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c3."node2" "_aLias.label", graph_28_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_28_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c3."node1" "_aLias.node2", graph_28_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2, graph_28 AS graph_28_c3, graph_28 AS graph_28_c4
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_28_c3."node2" = graph_28_c4."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND graph_28_c3."node1;label" = graph_28_c3."node1;label"
+        AND graph_28_c3."node2;label" = graph_28_c3."node2;label"
+        AND graph_28_c4."label" = ?
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_18_c2."label" = graph_28_c3."node2") AND ((graph_17_c1."label" IN (?, ?)) AND (graph_28_c4."node2" = graph_17_c1."label"))))
+  PARAS: ['', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'ckgr2', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P1906', 'P1313']
+---------------------------------------------
+Elapsed time: 1.50 seconds
+Starting 'query' on pid 686811.
+[2023-08-30 00:40:43 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c3."node2" "_aLias.label", graph_28_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_28_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c3."node1" "_aLias.node2", graph_28_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_28 AS graph_28_c3
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND graph_28_c3."node1;label" = graph_28_c3."node1;label"
+        AND graph_28_c3."node2;label" = graph_28_c3."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_18_c2."label" = graph_28_c3."node2") AND ((graph_17_c1."label" IN (?, ?)) AND ((graph_28_c3."node1;label" = ?) AND (NOT EXISTS (SELECT 1 FROM graph_28 AS graph_28_c7 WHERE graph_28_c3."node2" = graph_28_c7."node1" AND graph_28_c7."label" = ?
+        AND (graph_28_c7."node2" = graph_17_c1."label")))))))
+  PARAS: ['', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P6', 'Generic', 'ckgr2']
+---------------------------------------------
+Elapsed time: 1.66 seconds
+Starting 'query' on pid 686820.
+[2023-08-30 00:40:45 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c3."node2" "_aLias.label", graph_28_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_28_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c3."node1" "_aLias.node2", graph_28_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_28 AS graph_28_c3
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND graph_28_c3."node1;label" = graph_28_c3."node1;label"
+        AND graph_28_c3."node2;label" = graph_28_c3."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_18_c2."label" = graph_28_c3."node2") AND ((graph_17_c1."label" IN (?, ?)) AND ((graph_28_c3."node1;label" = ?) AND (NOT EXISTS (SELECT 1 FROM graph_28 AS graph_28_c7 WHERE graph_28_c3."node2" = graph_28_c7."node1" AND graph_28_c7."label" = ?
+        AND (graph_28_c7."node2" = graph_17_c1."label")))))))
+  PARAS: ['', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P1906', 'P1313', 'Generic', 'ckgr2']
+---------------------------------------------
+Elapsed time: 1.98 seconds
+Starting 'query' on pid 686829.
+[2023-08-30 00:40:46 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((NOT EXISTS (SELECT 1 FROM graph_28 AS graph_28_c5 WHERE graph_28_c5."label" = ?
+        AND graph_28_c5."node1;label" = graph_28_c5."node1;label"
+        AND (graph_18_c2."label" = graph_28_c5."node2"))) AND (graph_17_c1."label" IN (?, ?))))
+  PARAS: ['', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'ckgr1', 'P35', 'P6']
+---------------------------------------------
+Elapsed time: 1.44 seconds
+Starting 'query' on pid 686838.
+[2023-08-30 00:40:48 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((NOT EXISTS (SELECT 1 FROM graph_28 AS graph_28_c5 WHERE graph_28_c5."label" = ?
+        AND graph_28_c5."node1;label" = graph_28_c5."node1;label"
+        AND (graph_18_c2."label" = graph_28_c5."node2"))) AND (graph_17_c1."label" IN (?, ?))))
+  PARAS: ['', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'ckgr1', 'P1906', 'P1313']
+---------------------------------------------
+Elapsed time: 1.75 seconds
+Starting 'query' on pid 686847.
+[2023-08-30 00:40:50 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", (graph_17_c1."id" || ? || graph_28_c2."node2") "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c2."node2" "_aLias.label", graph_28_c2."node2;label" "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label", (graph_17_c1."id" || ? || graph_28_c2."node2" || ? || graph_28_c2."node1") "_aLias.id", (graph_17_c1."id" || ? || graph_28_c2."node2") "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c2."node1" "_aLias.node2", graph_28_c2."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_28 AS graph_28_c2, graph_28 AS graph_28_c3
+     ON graph_28_c2."node2" = graph_28_c3."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_28_c2."label" = ?
+        AND graph_28_c2."node1;label" = graph_28_c2."node1;label"
+        AND graph_28_c2."node2;label" = graph_28_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_17_c1."label" IN (?, ?)) AND ((graph_28_c3."node2" = graph_17_c1."label") AND (EXISTS (SELECT 1 FROM graph_28 AS graph_28_c6 WHERE graph_28_c3."id" = graph_28_c6."node1" AND graph_28_c6."label" = ?) AND (NOT EXISTS (SELECT 1 FROM graph_18 AS graph_18_c7 WHERE graph_17_c1."id" = graph_18_c7."node1" AND (graph_18_c7."label" = graph_28_c2."node2")))))))
+  PARAS: ['-', '', 'unknown', '', '-', '-', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'ckgr2', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P6', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.63 seconds
+Starting 'query' on pid 686856.
+[2023-08-30 00:40:52 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", (graph_17_c1."id" || ? || graph_28_c2."node2") "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c2."node2" "_aLias.label", graph_28_c2."node2;label" "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label", (graph_17_c1."id" || ? || graph_28_c2."node2" || ? || graph_28_c2."node1") "_aLias.id", (graph_17_c1."id" || ? || graph_28_c2."node2") "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_28_c2."node1" "_aLias.node2", graph_28_c2."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_28 AS graph_28_c2, graph_28 AS graph_28_c3
+     ON graph_28_c2."node2" = graph_28_c3."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_28_c2."label" = ?
+        AND graph_28_c2."node1;label" = graph_28_c2."node1;label"
+        AND graph_28_c2."node2;label" = graph_28_c2."node2;label"
+        AND graph_28_c3."label" = ?
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_17_c1."label" IN (?, ?)) AND ((graph_28_c3."node2" = graph_17_c1."label") AND (EXISTS (SELECT 1 FROM graph_28 AS graph_28_c6 WHERE graph_28_c3."id" = graph_28_c6."node1" AND graph_28_c6."label" = ?) AND (NOT EXISTS (SELECT 1 FROM graph_18 AS graph_18_c7 WHERE graph_17_c1."id" = graph_18_c7."node1" AND (graph_18_c7."label" = graph_28_c2."node2")))))))
+  PARAS: ['-', '', 'unknown', '', '-', '-', '-', '', 'ckgr9', 'ckg:Context Type', 'ckgr1', 'ckgr2', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P1906', 'P1313', 'ckgp1']
+---------------------------------------------
+Elapsed time: 2.07 seconds
+Starting 'query' on pid 686865.
+[2023-08-30 00:40:53 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_18_c2."label" = ?
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND (graph_17_c1."label" IN (?, ?, ?, ?)))
+  PARAS: ['', 'P580', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+Elapsed time: 1.43 seconds
+Starting 'query' on pid 686874.
+[2023-08-30 00:40:55 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_18_c2."label" = ?
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND (graph_17_c1."label" IN (?, ?, ?, ?)))
+  PARAS: ['', 'P582', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+Elapsed time: 1.74 seconds
+Starting 'query' on pid 686883.
+[2023-08-30 00:40:57 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT (graph_17_c1."id" || ? || graph_28_c2."node1") "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_28_c2."node1" "_aLias.label", graph_28_c2."node1;label" "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_28 AS graph_28_c2
+     WHERE graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_28_c2."label" = ?
+        AND graph_28_c2."node1;label" = graph_28_c2."node1;label"
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((graph_17_c1."label" IN (?, ?, ?, ?)) AND ((graph_28_c2."node1" = ?) AND ((NOT EXISTS (SELECT 1 FROM graph_18 AS graph_18_c5 WHERE graph_17_c1."id" = graph_18_c5."node1" AND graph_18_c5."label" = ?)) AND EXISTS (SELECT 1 FROM graph_18 AS graph_18_c7 WHERE graph_17_c1."id" = graph_18_c7."node1" AND graph_18_c7."label" = ?)))))
+  PARAS: ['-', '', '^3000-01-01T00:00:00Z/11', '', 'ckgr2', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313', 'P582', 'P582', 'P580']
+---------------------------------------------
+Elapsed time: 1.81 seconds
+rm: cannot remove '/app/kgtk/data/WD_PoC/Leaders-interval.tsv': No such file or directory
+Elapsed time: 1.34 seconds
+Starting 'query' on pid 686911.
+[2023-08-30 00:41:00 sqlstore]: IMPORT graph directly into table graph_29 from /app/kgtk/data/WD_PoC/Leaders-interval.tsv ...
+[2023-08-30 00:41:00 sqlstore]: DROP graph data table graph_27
+[2023-08-30 00:41:00 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT (graph_17_c1."id" || ? || graph_17_c2."id") "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_17_c2."id" "_aLias.node2", ? "_aLias.node2;label", (graph_17_c1."id" || ? || graph_17_c2."id" || ?) "_aLias.id", (graph_17_c1."id" || ? || graph_17_c2."id") "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_17 AS graph_17_c2, graph_29 AS graph_29_c3, graph_29 AS graph_29_c4, graph_29 AS graph_29_c5, graph_29 AS graph_29_c6
+     ON graph_17_c1."id" = graph_29_c3."node1"
+        AND graph_17_c1."id" = graph_29_c4."node1"
+        AND graph_17_c1."node1" = graph_17_c2."node1"
+        AND graph_17_c2."id" = graph_29_c5."node1"
+        AND graph_17_c2."id" = graph_29_c6."node1"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_29_c3."label" = ?
+        AND graph_29_c4."label" = ?
+        AND graph_29_c5."label" = ?
+        AND graph_29_c6."label" = ?
+        AND ((kgtk_lqstring_text(graph_17_c1."node1;label") IN (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)) AND ((((graph_17_c1."label" = ?) AND (graph_17_c2."label" = ?)) OR ((graph_17_c1."label" = ?) AND (graph_17_c2."label" = ?))) AND ((graph_29_c3."node2" <= graph_29_c6."node2") AND (graph_29_c4."node2" >= graph_29_c5."node2"))))
+  PARAS: ['-', '', 'ckgt1', 'Temporal Overlaps', '', '-', '-ckgT1', '-', '', 'ckgr3', 'ckg:Inferred Context', 'ckgT1', 'Temporal', 'P580', 'P582', 'P580', 'P582', 'France', 'United Kingdom', 'Italy', 'Spain', 'Netherlands', 'Portugal', 'Belgium', 'Germany', 'Denmark', 'Sweden', 'Norway', 'Finland', 'Russia', 'Israel', 'South Africa', 'Turkey', 'Brazil', 'Bolivia', 'Canada', 'P35', 'P1906', 'P6', 'P1313']
+---------------------------------------------
+[2023-08-30 00:41:00 sqlstore]: CREATE INDEX "graph_29_label_idx" ON "graph_29" ("label")
+[2023-08-30 00:41:00 sqlstore]: ANALYZE "graph_29_label_idx"
+[2023-08-30 00:41:00 sqlstore]: CREATE INDEX "graph_29_node1_idx" ON "graph_29" ("node1")
+[2023-08-30 00:41:00 sqlstore]: ANALYZE "graph_29_node1_idx"
+Elapsed time: 2.23 seconds
+Elapsed time: 2.79 seconds

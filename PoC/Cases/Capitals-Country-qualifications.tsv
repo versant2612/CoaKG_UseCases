@@ -1,0 +1,151 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q142-P36-Q3561-7b8a6c6f-0-P1264-Q565213-0	Q142-P36-Q3561-7b8a6c6f-0		P1264	'valid in period'@en	Q565213	'French Committee of National Liberation'@en
+Q142-P36-Q3561-7b8a6c6f-0-P5102-Q712144-0	Q142-P36-Q3561-7b8a6c6f-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q3561-7b8a6c6f-0-P580-4b3475-0	Q142-P36-Q3561-7b8a6c6f-0		P580	'start time'@en	^1942-01-01T00:00:00Z/9	
+Q142-P36-Q3561-7b8a6c6f-0-P582-94dfcf-0	Q142-P36-Q3561-7b8a6c6f-0		P582	'end time'@en	^1944-01-01T00:00:00Z/9	
+Q142-P36-Q183910-874f990b-0-P1264-Q783684-0	Q142-P36-Q183910-874f990b-0		P1264	'valid in period'@en	Q783684	'Provisional Government of the French Republic'@en
+Q142-P36-Q183910-874f990b-0-P1534-Q696835-0	Q142-P36-Q183910-874f990b-0		P1534	'end cause'@en	Q696835	'Liberation of Paris'@en
+Q142-P36-Q183910-874f990b-0-P5102-Q712144-0	Q142-P36-Q183910-874f990b-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q183910-874f990b-0-P580-b79979-0	Q142-P36-Q183910-874f990b-0		P580	'start time'@en	^1944-06-01T00:00:00Z/10	
+Q142-P36-Q183910-874f990b-0-P582-f50aae-0	Q142-P36-Q183910-874f990b-0		P582	'end time'@en	^1944-09-01T00:00:00Z/10	
+Q142-P36-Q183910-874f990b-0-P828-Q16470-0	Q142-P36-Q183910-874f990b-0		P828	'has cause'@en	Q16470	'Normandy landings'@en
+Q142-P36-Q1479-32f9f15c-0-P1534-Q170360-0	Q142-P36-Q1479-32f9f15c-0		P1534	'end cause'@en	Q170360	'Second Armistice at Compiègne'@en
+Q142-P36-Q1479-32f9f15c-0-P5102-Q712144-0	Q142-P36-Q1479-32f9f15c-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q1479-32f9f15c-0-P580-9002eb-0	Q142-P36-Q1479-32f9f15c-0		P580	'start time'@en	^1940-06-14T00:00:00Z/11	
+Q142-P36-Q1479-32f9f15c-0-P582-978c24-0	Q142-P36-Q1479-32f9f15c-0		P582	'end time'@en	^1940-06-28T00:00:00Z/11	
+Q142-P36-Q1479-32f9f15c-0-P828-Q151340-0	Q142-P36-Q1479-32f9f15c-0		P828	'has cause'@en	Q151340	'Battle of France'@en
+Q142-P36-Q3844-ddc9b259-0-P1264-Q2367720-0	Q142-P36-Q3844-ddc9b259-0		P1264	'valid in period'@en	Q2367720	'French Civil and Military High Command'@en
+Q142-P36-Q3844-ddc9b259-0-P1534-Q565213-0	Q142-P36-Q3844-ddc9b259-0		P1534	'end cause'@en	Q565213	'French Committee of National Liberation'@en
+Q142-P36-Q3844-ddc9b259-0-P5102-Q712144-0	Q142-P36-Q3844-ddc9b259-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q3844-ddc9b259-0-P580-8c8999-0	Q142-P36-Q3844-ddc9b259-0		P580	'start time'@en	^1940-01-01T00:00:00Z/9	
+Q142-P36-Q3844-ddc9b259-0-P582-4b3475-0	Q142-P36-Q3844-ddc9b259-0		P582	'end time'@en	^1942-01-01T00:00:00Z/9	
+Q142-P36-Q84-6a1902ec-0-P1264-Q2985550-0	Q142-P36-Q84-6a1902ec-0		P1264	'valid in period'@en	Q2985550	'French National Committee'@en
+Q142-P36-Q84-6a1902ec-0-P1534-Q565213-0	Q142-P36-Q84-6a1902ec-0		P1534	'end cause'@en	Q565213	'French Committee of National Liberation'@en
+Q142-P36-Q84-6a1902ec-0-P5102-Q712144-0	Q142-P36-Q84-6a1902ec-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q84-6a1902ec-0-P580-0b6bfd-0	Q142-P36-Q84-6a1902ec-0		P580	'start time'@en	^1940-06-01T00:00:00Z/10	
+Q142-P36-Q84-6a1902ec-0-P582-4b3475-0	Q142-P36-Q84-6a1902ec-0		P582	'end time'@en	^1942-01-01T00:00:00Z/9	
+Q142-P36-Q84-6a1902ec-0-P828-Q2078515-0	Q142-P36-Q84-6a1902ec-0		P828	'has cause'@en	Q2078515	'Appeal of 18 June'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q71084-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q71084	'First French Empire'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q2367720-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q2367720	'French Civil and Military High Command'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q565213-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q565213	'French Committee of National Liberation'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q200686-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q200686	'French Fifth Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q58296-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q58296	'French First Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q69829-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q69829	'French Fourth Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q2985550-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q2985550	'French National Committee'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q58326-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q58326	'French Second Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q70802-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q70802	'French Third Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q58202-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q58202	'July Monarchy'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q783684-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q783684	'Provisional Government of the French Republic'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q71092-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q71092	'Second French Empire'@en
+Q142-P36-Q90-5141a3e9-0-P1264-Q69808-0	Q142-P36-Q90-5141a3e9-0		P1264	'valid in period'@en	Q69808	'Vichy France'@en
+Q142-P36-Q90-5141a3e9-0-P5102-Q29509043-0	Q142-P36-Q90-5141a3e9-0		P5102	'nature of statement'@en	Q29509043	'official'@en
+Q142-P36-Q90-5141a3e9-0-P580-4825c1-0	Q142-P36-Q90-5141a3e9-0		P580	'start time'@en	^1789-10-05T00:00:00Z/11	
+Q142-P36-Q90-5141a3e9-0-P828-Q1151917-0	Q142-P36-Q90-5141a3e9-0		P828	'has cause'@en	Q1151917	'Women\'s March on Versailles'@en
+Q142-P36-Q288-0974b8db-0-P1534-Q151340-0	Q142-P36-Q288-0974b8db-0		P1534	'end cause'@en	Q151340	'Battle of France'@en
+Q142-P36-Q288-0974b8db-0-P5102-Q712144-0	Q142-P36-Q288-0974b8db-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q288-0974b8db-0-P580-a51804-0	Q142-P36-Q288-0974b8db-0		P580	'start time'@en	^1940-06-10T00:00:00Z/11	
+Q142-P36-Q288-0974b8db-0-P582-2b3763-0	Q142-P36-Q288-0974b8db-0		P582	'end time'@en	^1940-06-13T00:00:00Z/11	
+Q142-P36-Q288-0974b8db-0-P828-Q151340-0	Q142-P36-Q288-0974b8db-0		P828	'has cause'@en	Q151340	'Battle of France'@en
+Q142-P36-Q621-a9b4324f-0-P1264-Q70802-0	Q142-P36-Q621-a9b4324f-0		P1264	'valid in period'@en	Q70802	'French Third Republic'@en
+Q142-P36-Q621-a9b4324f-0-P5102-Q712144-0	Q142-P36-Q621-a9b4324f-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q621-a9b4324f-0-P580-7c78cc-0	Q142-P36-Q621-a9b4324f-0		P580	'start time'@en	^1871-01-01T00:00:00Z/9	
+Q142-P36-Q621-a9b4324f-0-P582-e4dbfa-0	Q142-P36-Q621-a9b4324f-0		P582	'end time'@en	^1879-01-01T00:00:00Z/9	
+Q142-P36-Q621-a9b4324f-0-P828-Q133132-0	Q142-P36-Q621-a9b4324f-0		P828	'has cause'@en	Q133132	'Paris Commune'@en
+Q142-P36-Q621-b1a60ea2-0-P1264-Q7742-0	Q142-P36-Q621-b1a60ea2-0		P1264	'valid in period'@en	Q7742	'Louis XIV of France'@en
+Q142-P36-Q621-b1a60ea2-0-P1264-Q7738-0	Q142-P36-Q621-b1a60ea2-0		P1264	'valid in period'@en	Q7738	'Louis XV of France'@en
+Q142-P36-Q621-b1a60ea2-0-P1264-Q7732-0	Q142-P36-Q621-b1a60ea2-0		P1264	'valid in period'@en	Q7732	'Louis XVI of France'@en
+Q142-P36-Q621-b1a60ea2-0-P1534-Q1151917-0	Q142-P36-Q621-b1a60ea2-0		P1534	'end cause'@en	Q1151917	'Women\'s March on Versailles'@en
+Q142-P36-Q621-b1a60ea2-0-P5102-Q29509043-0	Q142-P36-Q621-b1a60ea2-0		P5102	'nature of statement'@en	Q29509043	'official'@en
+Q142-P36-Q621-b1a60ea2-0-P580-63eb20-0	Q142-P36-Q621-b1a60ea2-0		P580	'start time'@en	^1682-01-01T00:00:00Z/9	
+Q142-P36-Q621-b1a60ea2-0-P582-4825c1-0	Q142-P36-Q621-b1a60ea2-0		P582	'end time'@en	^1789-10-05T00:00:00Z/11	
+Q142-P36-Q621-b1a60ea2-0-P828-Q7742-0	Q142-P36-Q621-b1a60ea2-0		P828	'has cause'@en	Q7742	'Louis XIV of France'@en
+Q142-P36-Q621-b1a60ea2-0-P828-Q2946-0	Q142-P36-Q621-b1a60ea2-0		P828	'has cause'@en	Q2946	'Palace of Versailles'@en
+Q142-P36-Q93351-043d596f-0-P1264-Q69808-0	Q142-P36-Q93351-043d596f-0		P1264	'valid in period'@en	Q69808	'Vichy France'@en
+Q142-P36-Q93351-043d596f-0-P1534-Q697829-0	Q142-P36-Q93351-043d596f-0		P1534	'end cause'@en	Q697829	'Liberation of France'@en
+Q142-P36-Q93351-043d596f-0-P5102-Q712144-0	Q142-P36-Q93351-043d596f-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q93351-043d596f-0-P580-ed079d-0	Q142-P36-Q93351-043d596f-0		P580	'start time'@en	^1940-07-01T00:00:00Z/10	
+Q142-P36-Q93351-043d596f-0-P582-389c9f-0	Q142-P36-Q93351-043d596f-0		P582	'end time'@en	^1944-08-20T00:00:00Z/11	
+Q142-P36-Q93351-043d596f-0-P828-Q170360-0	Q142-P36-Q93351-043d596f-0		P828	'has cause'@en	Q170360	'Second Armistice at Compiègne'@en
+Q155-P36-Q2844-dc7767a2-0-P580-a40689-0	Q155-P36-Q2844-dc7767a2-0		P580	'start time'@en	^1960-04-22T00:00:00Z/11	
+Q155-P36-Q8678-f61fa840-0-P582-a40689-0	Q155-P36-Q8678-f61fa840-0		P582	'end time'@en	^1960-04-22T00:00:00Z/11	
+Q159-P36-Q649-fd4ccdb3-0-P580-1603e5-0	Q159-P36-Q649-fd4ccdb3-0		P580	'start time'@en	^1918-03-11T00:00:00Z/11	
+Q159-P36-Q656-6aef298d-0-P582-1603e5-0	Q159-P36-Q656-6aef298d-0		P582	'end time'@en	^1918-03-11T00:00:00Z/11	
+Q183-P36-Q64-18e5392d-0-P580-6180e6-0	Q183-P36-Q64-18e5392d-0		P580	'start time'@en	^1990-10-03T00:00:00Z/11	
+Q183-P36-Q64-18e5392d-0-P580-f5f936-0	Q183-P36-Q64-18e5392d-0		P580	'start time'@en	^1994-05-07T00:00:00Z/11	
+Q183-P36-Q586-cbfd3c8c-0-P580-5f2d8c-0	Q183-P36-Q586-cbfd3c8c-0		P580	'start time'@en	^1949-11-29T00:00:00Z/11	
+Q183-P36-Q586-cbfd3c8c-0-P582-ecf75b-0	Q183-P36-Q586-cbfd3c8c-0		P582	'end time'@en	^1990-10-02T00:00:00Z/11	
+Q183-P36-Q586-cbfd3c8c-0-P805-Q1589634-0	Q183-P36-Q586-cbfd3c8c-0		P805	'statement is subject of'@en	Q1589634	'West German capital debate'@en
+Q258-P36-Q37701-738a02d9-0-P3831-Q105985-0	Q258-P36-Q37701-738a02d9-0		P3831	'object has role'@en	Q105985	'judiciary'@en
+Q258-P36-Q5465-0120ff57-0-P3831-Q11204-0	Q258-P36-Q5465-0120ff57-0		P3831	'object has role'@en	Q11204	'legislature'@en
+Q258-P36-Q3926-c1f34160-0-P3831-Q35798-0	Q258-P36-Q3926-c1f34160-0		P3831	'object has role'@en	Q35798	'executive branch'@en
+Q33-P36-Q1757-ee38c31d-0-P580-228dfa-0	Q33-P36-Q1757-ee38c31d-0		P580	'start time'@en	^1812-01-01T00:00:00Z/9	
+Q38-P36-Q2044-b7916b86-0-P580-073a10-0	Q38-P36-Q2044-b7916b86-0		P580	'start time'@en	^1865-01-01T00:00:00Z/9	
+Q38-P36-Q2044-b7916b86-0-P582-7c78cc-0	Q38-P36-Q2044-b7916b86-0		P582	'end time'@en	^1871-01-01T00:00:00Z/9	
+Q38-P36-Q220-e324c297-0-P580-a6a6c3-0	Q38-P36-Q220-e324c297-0		P580	'start time'@en	^1946-06-02T00:00:00Z/11	
+Q38-P36-Q495-5240e75d-0-P580-a5b0fa-0	Q38-P36-Q495-5240e75d-0		P580	'start time'@en	^1861-01-01T00:00:00Z/9	
+Q38-P36-Q495-5240e75d-0-P582-073a10-0	Q38-P36-Q495-5240e75d-0		P582	'end time'@en	^1865-01-01T00:00:00Z/9	
+Q43-P36-Q3640-25dfd373-0-P580-5f130b-0	Q43-P36-Q3640-25dfd373-0		P580	'start time'@en	^1923-10-29T00:00:00Z/11	
+Q45-P36-Q45412-f1e1c76d-0-P580-0f85ac-0	Q45-P36-Q45412-f1e1c76d-0		P580	'start time'@en	^1129-01-01T00:00:00Z/9	
+Q45-P36-Q45412-f1e1c76d-0-P582-94d7e2-0	Q45-P36-Q45412-f1e1c76d-0		P582	'end time'@en	^1255-01-01T00:00:00Z/9	
+Q45-P36-Q597-d1cfbdbf-0-P1013-Q712144-0	Q45-P36-Q597-d1cfbdbf-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q45-P36-Q597-d1cfbdbf-0-P580-8c0165-0	Q45-P36-Q597-d1cfbdbf-0		P580	'start time'@en	^1385-01-01T00:00:00Z/9	
+Q55-P36-Q727-ad66a50a-0-P5102-Q132555-0	Q55-P36-Q727-ad66a50a-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q55-P36-Q36600-7c306f5e-0-P3831-Q1901835-0	Q55-P36-Q36600-7c306f5e-0		P3831	'object has role'@en	Q1901835	'seat of government'@en
+Q750-P36-Q1491-349c7a24-0-P459-Q712144-0	Q750-P36-Q1491-349c7a24-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q750-P36-Q1491-349c7a24-0-P580-e87cf9-0	Q750-P36-Q1491-349c7a24-0		P580	'start time'@en	^1899-01-01T00:00:00Z/9	
+Q750-P36-Q2907-6fa08a5f-0-P459-Q132555-0	Q750-P36-Q2907-6fa08a5f-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0	Q801-P36-Q1218-7c37b2d8-0		P1310	'statement disputed by'@en	Q574386	'United Nations Security Council Resolution 478'@en
+Q801-P36-Q1218-7c37b2d8-0-P580-3c1b91-0	Q801-P36-Q1218-7c37b2d8-0		P580	'start time'@en	^1949-01-01T00:00:00Z/9	
+Q750-P36-Q1491-349c7a24-0-P3831-Q35798-0	Q750-P36-Q1491-349c7a24-0		P3831	'object has role'@en	Q35798	'executive branch'@en
+Q750-P36-Q2907-6fa08a5f-0-P3831-Q11204-0	Q750-P36-Q2907-6fa08a5f-0		P3831	'object has role'@en	Q11204	'legislature'@en
+Q750-P36-Q2907-6fa08a5f-0-P3831-Q105985-0	Q750-P36-Q2907-6fa08a5f-0		P3831	'object has role'@en	Q105985	'judiciary'@en
+Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0	Q142-P36-Q90-5141a3e9-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q90-5141a3e9-0-P92-no_value-0	Q142-P36-Q90-5141a3e9-0		P92	'main regulatory text'@en	no value
+Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0-P854	Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q145-P36-Q84-f7211115-0-P5102-Q712144-0	Q145-P36-Q84-f7211115-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q145-P36-Q84-f7211115-0-P92-no_value-0	Q145-P36-Q84-f7211115-0		P92	'main regulatory text'@en	no value
+Q145-P36-Q84-f7211115-0-P5102-Q712144-0-P854	Q145-P36-Q84-f7211115-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0	Q155-P36-Q2844-dc7767a2-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0	Q155-P36-Q2844-dc7767a2-0		P92	'main regulatory text'@en	Q2386422	'Constitution of Brazil'@en
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854	Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0		P854	'reference URL'@en	http://www.planalto.gov.br/ccivil_03/Constituicao/ConstituicaoCompilado.htm	
+Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0	Q159-P36-Q649-fd4ccdb3-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q159-P36-Q649-fd4ccdb3-0-0-P92-Q7755-0	Q159-P36-Q649-fd4ccdb3-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0-P854	Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q183-P36-Q64-18e5392d-0-P5102-Q712144-0	Q183-P36-Q64-18e5392d-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q183-P36-Q64-18e5392d-0-0-P92-Q7755-0	Q183-P36-Q64-18e5392d-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q183-P36-Q64-18e5392d-0-P5102-Q712144-0-P854	Q183-P36-Q64-18e5392d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q38-P36-Q220-e324c297-0-P5102-Q712144-0	Q38-P36-Q220-e324c297-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q38-P36-Q220-e324c297-0-0-P92-Q7755-0	Q38-P36-Q220-e324c297-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q38-P36-Q220-e324c297-0-P5102-Q712144-0-P854	Q38-P36-Q220-e324c297-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0	Q29-P36-Q2807-8982ea2d-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q29-P36-Q2807-8982ea2d-0-0-P92-Q7755-0	Q29-P36-Q2807-8982ea2d-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0-P854	Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0	Q55-P36-Q727-ad66a50a-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q55-P36-Q727-ad66a50a-0-P5102-Q712144-0-P854	Q55-P36-Q727-ad66a50a-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0	Q31-P36-Q239-74e71cdb-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q31-P36-Q239-74e71cdb-0-0-P92-Q7755-0	Q31-P36-Q239-74e71cdb-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0-P854	Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0	Q43-P36-Q3640-25dfd373-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q43-P36-Q3640-25dfd373-0-0-P92-Q7755-0	Q43-P36-Q3640-25dfd373-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0-P854	Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0	Q20-P36-Q585-67ea8c51-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q20-P36-Q585-67ea8c51-0-0-P92-Q7755-0	Q20-P36-Q585-67ea8c51-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0-P854	Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0	Q34-P36-Q1754-9f0d0374-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0-P854	Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0	Q33-P36-Q1757-ee38c31d-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q33-P36-Q1757-ee38c31d-0-P92-no_value-0	Q33-P36-Q1757-ee38c31d-0		P92	'main regulatory text'@en	no value
+Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0-P854	Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0	Q35-P36-Q1748-f8cf5998-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q35-P36-Q1748-f8cf5998-0-P92-no_value-0	Q35-P36-Q1748-f8cf5998-0		P92	'main regulatory text'@en	no value
+Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0-P854	Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0	Q45-P36-Q597-d1cfbdbf-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q45-P36-Q597-d1cfbdbf-0-P92-no_value-0	Q45-P36-Q597-d1cfbdbf-0		P92	'main regulatory text'@en	no value
+Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0-P854	Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q750-P36-Q1491-349c7a24-0-P854	Q750-P36-Q1491-349c7a24-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/bolivia.htm	
+Q750-P36-Q2907-6fa08a5f-0-P854	Q750-P36-Q2907-6fa08a5f-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/bolivia.htm	
+Q801-P36-Q1218-7c37b2d8-0-P854	Q801-P36-Q1218-7c37b2d8-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/israel.htm	
+Q258-P36-Q37701-738a02d9-0-P854	Q258-P36-Q37701-738a02d9-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/south_africa.htm	
+Q258-P36-Q5465-0120ff57-0-P854	Q258-P36-Q5465-0120ff57-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/south_africa.htm	
+Q258-P36-Q3926-c1f34160-0-P854	Q258-P36-Q3926-c1f34160-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/south_africa.htm	
+Q55-P36-Q36600-7c306f5e-0-P854	Q55-P36-Q36600-7c306f5e-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/netherlands.htm

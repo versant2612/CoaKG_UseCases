@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q801-P36-Q1218-7c37b2d8-0	Q801	'Israel'@en	P36	'capital'@en	Q1218	'Jerusalem'@en
+Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0	Q801-P36-Q1218-7c37b2d8-0		P1310	'statement disputed by'@en	Q574386	'United Nations Security Council Resolution 478'@en
+Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0-P1310	Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0		ckgr9	ckg:Context Type	ckgG1	Generic

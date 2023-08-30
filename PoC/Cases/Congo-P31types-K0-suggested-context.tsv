@@ -1,0 +1,13 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q971-P31-Q3624078-331eeb2e-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q971-P30-Q15-e29a51cd-0	Q971	'Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
+Q971-P30-Q15-e29a51cd-0-P30	Q971-P30-Q15-e29a51cd-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q971-P31-Q6256-a01f8795-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q971-P30-Q15-e29a51cd-0	Q971	'Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
+Q971-P30-Q15-e29a51cd-0-P30	Q971-P30-Q15-e29a51cd-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P30-Q15-71d5f7ad-0	Q974	'Democratic Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
+Q974-P30-Q15-71d5f7ad-0-P30	Q974-P30-Q15-71d5f7ad-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P30-Q15-71d5f7ad-0	Q974	'Democratic Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
+Q974-P30-Q15-71d5f7ad-0-P30	Q974-P30-Q15-71d5f7ad-0		ckgr9	ckg:Context Type	ckgL1	Location

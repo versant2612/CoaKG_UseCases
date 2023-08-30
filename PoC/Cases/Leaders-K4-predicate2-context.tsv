@@ -1,0 +1,58 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q142-P1313-Q3409212-6ccce57f-0	Q142	'France'@en	P1313	'office held by head of government'@en	Q3409212	'President of the Council'@en
+Q142-P1313-Q3409212-6ccce57f-0-P582-c38677-0	Q142-P1313-Q3409212-6ccce57f-0		P582	'end time'@en	^1947-01-22T00:00:00Z/11	
+Q142-P1313-Q3409212-6ccce57f-0-P582-c38677-0-P582	Q142-P1313-Q3409212-6ccce57f-0-P582-c38677-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q142-P1313-Q1587677-c01905ab-0	Q142	'France'@en	P1313	'office held by head of government'@en	Q1587677	'Prime Minister of France'@en
+Q142-P1313-Q1587677-c01905ab-0-P580-2714bb-0	Q142-P1313-Q1587677-c01905ab-0		P580	'start time'@en	^1959-01-08T00:00:00Z/11	
+Q142-P1313-Q1587677-c01905ab-0-P580-2714bb-0-P580	Q142-P1313-Q1587677-c01905ab-0-P580-2714bb-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q159-P1313-Q842386-354ee074-0	Q159	'Russia'@en	P1313	'office held by head of government'@en	Q842386	'Prime Minister of Russia'@en
+Q159-P1313-Q842386-354ee074-0-P580-0df00a-0	Q159-P1313-Q842386-354ee074-0		P580	'start time'@en	^1992-01-01T00:00:00Z/9	
+Q159-P1313-Q842386-354ee074-0-P580-0df00a-0-P580	Q159-P1313-Q842386-354ee074-0-P580-0df00a-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1313-Q273884-fbc65a65-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q273884	'President of South Africa'@en
+Q258-P1313-Q273884-fbc65a65-0-P580-2f4711-0	Q258-P1313-Q273884-fbc65a65-0		P580	'start time'@en	^1994-05-10T00:00:00Z/11	
+Q258-P1313-Q273884-fbc65a65-0-P580-2f4711-0-P580	Q258-P1313-Q273884-fbc65a65-0-P580-2f4711-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1313-Q1511951-dd787167-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q1511951	'Prime Minister of South Africa'@en
+Q258-P1313-Q1511951-dd787167-0-P580-f030d8-0	Q258-P1313-Q1511951-dd787167-0		P580	'start time'@en	^1910-05-31T00:00:00Z/11	
+Q258-P1313-Q1511951-dd787167-0-P580-f030d8-0-P580	Q258-P1313-Q1511951-dd787167-0-P580-f030d8-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1313-Q1511951-dd787167-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q1511951	'Prime Minister of South Africa'@en
+Q258-P1313-Q1511951-dd787167-0-P582-893c6c-0	Q258-P1313-Q1511951-dd787167-0		P582	'end time'@en	^1984-09-14T00:00:00Z/11	
+Q258-P1313-Q1511951-dd787167-0-P582-893c6c-0-P582	Q258-P1313-Q1511951-dd787167-0-P582-893c6c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1313-Q890030-a47fc206-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q890030	'State President of South Africa'@en
+Q258-P1313-Q890030-a47fc206-0-P580-893c6c-0	Q258-P1313-Q890030-a47fc206-0		P580	'start time'@en	^1984-09-14T00:00:00Z/11	
+Q258-P1313-Q890030-a47fc206-0-P580-893c6c-0-P580	Q258-P1313-Q890030-a47fc206-0-P580-893c6c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1313-Q890030-a47fc206-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q890030	'State President of South Africa'@en
+Q258-P1313-Q890030-a47fc206-0-P582-2f4711-0	Q258-P1313-Q890030-a47fc206-0		P582	'end time'@en	^1994-05-10T00:00:00Z/11	
+Q258-P1313-Q890030-a47fc206-0-P582-2f4711-0-P582	Q258-P1313-Q890030-a47fc206-0-P582-2f4711-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P1313-Q1922067-1325b9ff-0	Q43	'Turkey'@en	P1313	'office held by head of government'@en	Q1922067	'President of Turkey'@en
+Q43-P1313-Q1922067-1325b9ff-0-P580-364baf-0	Q43-P1313-Q1922067-1325b9ff-0		P580	'start time'@en	^2018-01-01T00:00:00Z/9	
+Q43-P1313-Q1922067-1325b9ff-0-P580-364baf-0-P580	Q43-P1313-Q1922067-1325b9ff-0-P580-364baf-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P1313-Q2430415-8779b9c5-0	Q43	'Turkey'@en	P1313	'office held by head of government'@en	Q2430415	'Prime Minister of Turkey'@en
+Q43-P1313-Q2430415-8779b9c5-0-P582-364baf-0	Q43-P1313-Q2430415-8779b9c5-0		P582	'end time'@en	^2018-01-01T00:00:00Z/9	
+Q43-P1313-Q2430415-8779b9c5-0-P582-364baf-0-P582	Q43-P1313-Q2430415-8779b9c5-0-P582-364baf-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P1313-Q6088449-a1729bba-0	Q750	'Bolivia'@en	P1313	'office held by head of government'@en	Q6088449	'Supreme Protector of the Peru–Bolivian Confederation'@en
+Q750-P1313-Q6088449-a1729bba-0-P580-e12e74-0	Q750-P1313-Q6088449-a1729bba-0		P580	'start time'@en	^1836-10-28T00:00:00Z/11	
+Q750-P1313-Q6088449-a1729bba-0-P580-e12e74-0-P580	Q750-P1313-Q6088449-a1729bba-0-P580-e12e74-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P1313-Q6088449-a1729bba-0	Q750	'Bolivia'@en	P1313	'office held by head of government'@en	Q6088449	'Supreme Protector of the Peru–Bolivian Confederation'@en
+Q750-P1313-Q6088449-a1729bba-0-P582-cc3336-0	Q750-P1313-Q6088449-a1729bba-0		P582	'end time'@en	^1839-02-20T00:00:00Z/11	
+Q750-P1313-Q6088449-a1729bba-0-P582-cc3336-0-P582	Q750-P1313-Q6088449-a1729bba-0-P582-cc3336-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q159-P1906-Q218295-929891cd-0	Q159	'Russia'@en	P1906	'office held by head of state'@en	Q218295	'President of Russia'@en
+Q159-P1906-Q218295-929891cd-0-P580-6c3b96-0	Q159-P1906-Q218295-929891cd-0		P580	'start time'@en	^1991-04-24T00:00:00Z/11	
+Q159-P1906-Q218295-929891cd-0-P580-6c3b96-0-P580	Q159-P1906-Q218295-929891cd-0-P580-6c3b96-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q16-P1906-Q14931511-c3c85b99-0	Q16	'Canada'@en	P1906	'office held by head of state'@en	Q14931511	'monarch of Canada'@en
+Q16-P1906-Q14931511-c3c85b99-0-P580-b98811-0	Q16-P1906-Q14931511-c3c85b99-0		P580	'start time'@en	^1931-01-01T00:00:00Z/9	
+Q16-P1906-Q14931511-c3c85b99-0-P580-b98811-0-P580	Q16-P1906-Q14931511-c3c85b99-0-P580-b98811-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q16-P1906-Q9134365-c91d1868-0	Q16	'Canada'@en	P1906	'office held by head of state'@en	Q9134365	'monarch of the United Kingdom'@en
+Q16-P1906-Q9134365-c91d1868-0-P580-e2a556-0	Q16-P1906-Q9134365-c91d1868-0		P580	'start time'@en	^1867-07-01T00:00:00Z/11	
+Q16-P1906-Q9134365-c91d1868-0-P580-e2a556-0-P580	Q16-P1906-Q9134365-c91d1868-0-P580-e2a556-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q16-P1906-Q9134365-c91d1868-0	Q16	'Canada'@en	P1906	'office held by head of state'@en	Q9134365	'monarch of the United Kingdom'@en
+Q16-P1906-Q9134365-c91d1868-0-P582-b98811-0	Q16-P1906-Q9134365-c91d1868-0		P582	'end time'@en	^1931-01-01T00:00:00Z/9	
+Q16-P1906-Q9134365-c91d1868-0-P582-b98811-0-P582	Q16-P1906-Q9134365-c91d1868-0-P582-b98811-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q801-P1906-Q327948-99889ee0-0	Q801	'Israel'@en	P1906	'office held by head of state'@en	Q327948	'President of Israel'@en
+Q801-P1906-Q327948-99889ee0-0-P580-9d56b2-0	Q801-P1906-Q327948-99889ee0-0		P580	'start time'@en	^1949-02-17T00:00:00Z/11	
+Q801-P1906-Q327948-99889ee0-0-P580-9d56b2-0-P580	Q801-P1906-Q327948-99889ee0-0-P580-9d56b2-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q801-P1906-Q62119441-b59fc8a4-0	Q801	'Israel'@en	P1906	'office held by head of state'@en	Q62119441	'President of the Provisional State Council'@en
+Q801-P1906-Q62119441-b59fc8a4-0-P580-627e5c-0	Q801-P1906-Q62119441-b59fc8a4-0		P580	'start time'@en	^1948-05-14T00:00:00Z/11	
+Q801-P1906-Q62119441-b59fc8a4-0-P580-627e5c-0-P580	Q801-P1906-Q62119441-b59fc8a4-0-P580-627e5c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q801-P1906-Q62119441-b59fc8a4-0	Q801	'Israel'@en	P1906	'office held by head of state'@en	Q62119441	'President of the Provisional State Council'@en
+Q801-P1906-Q62119441-b59fc8a4-0-P582-3affe4-0	Q801-P1906-Q62119441-b59fc8a4-0		P582	'end time'@en	^1949-02-16T00:00:00Z/11	
+Q801-P1906-Q62119441-b59fc8a4-0-P582-3affe4-0-P582	Q801-P1906-Q62119441-b59fc8a4-0-P582-3affe4-0		ckgr9	ckg:Context Type	ckgT1	Temporal

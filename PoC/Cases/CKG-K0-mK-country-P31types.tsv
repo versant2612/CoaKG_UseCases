@@ -1,0 +1,12 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c191	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en	ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	P576	'dissolved, abolished or demolished date'@en		ckg:c191					
+ckg:c192	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en	ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	P576	'dissolved, abolished or demolished date'@en		ckg:c192					
+ckg:c203	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en	ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	P576	'dissolved, abolished or demolished date'@en	ckg:c207	ckg:c203		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c175	P30	'continent'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en	ckg:c173	ckgL1	Location	ckgr1	ckg:Represented By	P30	'continent'@en		ckg:c175					
+ckg:c176	P30	'continent'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en	ckg:c173	ckgL1	Location	ckgr1	ckg:Represented By	P30	'continent'@en		ckg:c176					
+ckg:c177	P17	'country'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en	ckg:c174	ckgL1	Location	ckgr1	ckg:Represented By	P17	'country'@en	ckg:c196	ckg:c177		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c178	P17	'country'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en	ckg:c174	ckgL1	Location	ckgr1	ckg:Represented By	P17	'country'@en	ckg:c197	ckg:c178		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c202	P17	'country'@en	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en	ckg:c174	ckgL1	Location	ckgr1	ckg:Represented By	P17	'country'@en	ckg:c206	ckg:c202		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c194	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en	ckg:c193	ckgT1	Temporal	ckgr1	ckg:Represented By	P571	'inception'@en	ckg:c199	ckg:c194		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c195	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en	ckg:c193	ckgT1	Temporal	ckgr1	ckg:Represented By	P571	'inception'@en	ckg:c200	ckg:c195		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c204	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en	ckg:c193	ckgT1	Temporal	ckgr1	ckg:Represented By	P571	'inception'@en	ckg:c208	ckg:c204		ckgp1	ckgp1	ckgl2	Mandatory

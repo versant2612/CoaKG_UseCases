@@ -1,0 +1,249 @@
+Starting 'query' on pid 673455.
+[2023-08-25 15:27:16 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     WHERE graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND (graph_17_c1."node1" = ?)
+  PARAS: ['Q96']
+---------------------------------------------
+Elapsed time: 1.30 seconds
+Starting 'query' on pid 673464.
+[2023-08-25 15:27:17 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND (graph_17_c1."node1" = ?)
+  PARAS: ['', 'Q96']
+---------------------------------------------
+Elapsed time: 1.31 seconds
+K2Starting 'query' on pid 673473.
+[2023-08-25 15:27:19 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     WHERE graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+  PARAS: ['Q96', 'P571', 'Q96']
+---------------------------------------------
+Elapsed time: 1.42 seconds
+usage: kgtk [options] command [ / command]*
+kgtk: error: unrecognized arguments: --muliti 3
+Command exited with non-zero status 2
+Elapsed time: 1.07 seconds
+Starting 'query' on pid 673491.
+[2023-08-25 15:27:22 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_17_c1."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_17_c2."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c2."label" "_aLias.label", graph_17_c2."label;label" "_aLias.label;label", graph_17_c2."node2" "_aLias.node2", graph_17_c2."node2;label" "_aLias.node2;label", (graph_17_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_17_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_17 AS graph_17_c2, graph_24 AS graph_24_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."node1" = graph_17_c2."node1"
+        AND graph_17_c1."node2" = graph_24_c4."node2"
+        AND graph_24_c3."node2" = graph_24_c4."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_17_c2."label;label" = graph_17_c2."label;label"
+        AND graph_17_c2."node2;label" = graph_17_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND ((graph_17_c2."label" = graph_24_c3."node2") AND (graph_17_c1."node1" = ?))
+  PARAS: ['-', '', 'ckgr9', 'ckg:Context Type', 'P31', 'ckgr1', 'ckgr2', 'Q96']
+---------------------------------------------
+Elapsed time: 1.70 seconds
+Starting 'query' on pid 673500.
+[2023-08-25 15:27:23 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_17_c2."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c2."label" "_aLias.label", graph_17_c2."label;label" "_aLias.label;label", graph_17_c2."node2" "_aLias.node2", graph_17_c2."node2;label" "_aLias.node2;label", graph_17_c3."id" "_aLias.id", graph_17_c1."node1" "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c3."label" "_aLias.label", graph_17_c3."label;label" "_aLias.label;label", graph_17_c3."node2" "_aLias.node2", graph_17_c3."node2;label" "_aLias.node2;label", (graph_17_c3."id" || ? || graph_24_c4."node1") "_aLias.id", graph_17_c3."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_17 AS graph_17_c2, graph_17 AS graph_17_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."node1" = graph_17_c2."node1"
+        AND graph_17_c1."node1" = graph_17_c3."node1"
+        AND graph_17_c1."node1;label" = graph_17_c2."node1;label"
+        AND graph_17_c2."node2" = graph_24_c4."node2"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c2."label" = ?
+        AND graph_17_c2."label;label" = graph_17_c2."label;label"
+        AND graph_17_c2."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c2."node2;label" = graph_17_c2."node2;label"
+        AND graph_17_c3."label;label" = graph_17_c3."label;label"
+        AND graph_17_c3."node2;label" = graph_17_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND graph_24_c4."node1;label" = graph_24_c4."node1;label"
+        AND ((graph_17_c3."label" = graph_24_c4."node1") AND (graph_17_c1."node1" = ?))
+  PARAS: ['-', '', 'ckgr8', 'ckg:Determines', 'ckgId', 'Entity Identifier', 'P1365', 'P31', 'ckgr4', 'Q96']
+---------------------------------------------
+Elapsed time: 1.65 seconds
+Starting 'query' on pid 673509.
+[2023-08-25 15:27:25 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_17_c2."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c2."label" "_aLias.label", graph_17_c2."label;label" "_aLias.label;label", graph_17_c2."node2" "_aLias.node2", graph_17_c2."node2;label" "_aLias.node2;label", (graph_17_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_17_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_17 AS graph_17_c2
+     INNER JOIN graph_24 AS graph_24_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."node2" = graph_24_c4."node2"
+        AND graph_24_c3."node2" = graph_24_c4."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_17_c2."label;label" = graph_17_c2."label;label"
+        AND graph_17_c2."node1" = ?
+        AND graph_17_c2."node2;label" = graph_17_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND ((graph_17_c2."label" = graph_24_c3."node2") AND EXISTS (SELECT 1 FROM graph_24 AS graph_24_c7 WHERE graph_24_c4."id" = graph_24_c7."node1" AND graph_24_c7."label" = ?))
+  PARAS: ['Q96', 'Q96', '-', '', 'ckgr9', 'ckg:Context Type', 'P31', 'Q96', 'Q96', 'ckgr1', 'ckgr2', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.45 seconds
+Starting 'query' on pid 673518.
+[2023-08-25 15:27:26 query]: SQL Translation:
+---------------------------------------------
+  SELECT DISTINCT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_17_c2."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c2."label" "_aLias.label", graph_17_c2."label;label" "_aLias.label;label", graph_17_c2."node2" "_aLias.node2", graph_17_c2."node2;label" "_aLias.node2;label", (graph_17_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_17_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_17 AS graph_17_c2
+     INNER JOIN graph_24 AS graph_24_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."node2" = graph_24_c4."node2"
+        AND graph_24_c3."node2" = graph_24_c4."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_17_c2."label;label" = graph_17_c2."label;label"
+        AND graph_17_c2."node1" = ?
+        AND graph_17_c2."node2;label" = graph_17_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND ((graph_17_c2."label" = graph_24_c3."node2") AND (NOT EXISTS (SELECT 1 FROM graph_24 AS graph_24_c7 WHERE graph_24_c4."id" = graph_24_c7."node1" AND graph_24_c7."label" = ?)))
+  PARAS: ['Q96', 'Q96', '-', '', 'ckgr9', 'ckg:Context Type', 'P31', 'Q96', 'Q96', 'ckgr1', 'ckgr2', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.39 seconds
+Starting 'query' on pid 673527.
+[2023-08-25 15:27:28 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_24_c3."node2" "_aLias.label", graph_24_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2, graph_24 AS graph_24_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_24_c3."node2" = graph_24_c4."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND graph_24_c4."node2" = ?
+        AND ((graph_18_c2."label" = graph_24_c3."node2") AND EXISTS (SELECT 1 FROM graph_24 AS graph_24_c8 WHERE graph_24_c4."id" = graph_24_c8."node1" AND graph_24_c8."label" = ?))
+  PARAS: ['Q96', '', '-', '', 'ckgr9', 'ckg:Context Type', 'P571', 'Q96', 'ckgr1', 'ckgr2', 'P571', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.63 seconds
+Starting 'query' on pid 673536.
+[2023-08-25 15:27:29 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_24_c3."node2" "_aLias.label", graph_24_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2, graph_24 AS graph_24_c3, graph_24 AS graph_24_c4
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_24_c3."node2" = graph_24_c4."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND graph_24_c4."label" = ?
+        AND graph_24_c4."node2" = ?
+        AND ((graph_18_c2."label" = graph_24_c3."node2") AND (NOT EXISTS (SELECT 1 FROM graph_24 AS graph_24_c8 WHERE graph_24_c4."id" = graph_24_c8."node1" AND graph_24_c8."label" = ?)))
+  PARAS: ['Q96', '', '-', '', 'ckgr9', 'ckg:Context Type', 'P571', 'Q96', 'ckgr1', 'ckgr2', 'P571', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.64 seconds
+Starting 'query' on pid 673545.
+[2023-08-25 15:27:31 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", iif((graph_18_c2."id" IS NOT NULL), graph_17_c1."id", ?) "_aLias.node1", ? "_aLias.node1;label", graph_18_c2."label" "_aLias.label", graph_18_c2."label;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."label;label" = graph_18_c2."label;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND (NOT EXISTS (SELECT 1 FROM graph_24 AS graph_24_c5, graph_24 AS graph_24_c6 WHERE graph_24_c5."node2" = graph_24_c6."node1"
+        AND graph_24_c5."label" = ?
+        AND graph_24_c6."label" = ?
+        AND graph_24_c6."node2" = ?
+        AND (graph_18_c2."label" = graph_24_c5."node2")))
+  PARAS: ['Q96', '', '', 'P571', 'Q96', 'ckgr1', 'ckgr2', 'P571']
+---------------------------------------------
+Elapsed time: 1.52 seconds
+Starting 'query' on pid 673554.
+[2023-08-25 15:27:32 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", (graph_17_c1."id" || ? || graph_24_c2."node2") "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_24_c2."node2" "_aLias.label", graph_24_c2."node2;label" "_aLias.label;label", ? "_aLias.node2", ? "_aLias.node2;label", (graph_17_c1."id" || ? || graph_24_c2."node2" || ? || graph_24_c2."node1") "_aLias.id", (graph_17_c1."id" || ? || graph_24_c2."node2") "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c2."node1" "_aLias.node2", graph_24_c2."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1
+     INNER JOIN graph_24 AS graph_24_c2, graph_24 AS graph_24_c3
+     ON graph_24_c2."node2" = graph_24_c3."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_24_c2."label" = ?
+        AND graph_24_c2."node1;label" = graph_24_c2."node1;label"
+        AND graph_24_c2."node2;label" = graph_24_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node2" = ?
+        AND (EXISTS (SELECT 1 FROM graph_24 AS graph_24_c6 WHERE graph_24_c3."id" = graph_24_c6."node1" AND graph_24_c6."label" = ?) AND (NOT EXISTS (SELECT 1 FROM graph_18 AS graph_18_c7 WHERE graph_17_c1."id" = graph_18_c7."node1" AND (graph_18_c7."label" = graph_24_c2."node2"))))
+  PARAS: ['Q96', '-', '', 'unknown', '', '-', '-', '-', '', 'ckgr9', 'ckg:Context Type', 'P571', 'Q96', 'ckgr1', 'ckgr2', 'P571', 'ckgp1']
+---------------------------------------------
+Elapsed time: 1.49 seconds
+Starting 'query' on pid 673563.
+[2023-08-25 15:27:34 query]: SQL Translation:
+---------------------------------------------
+  SELECT graph_17_c1."id" "_aLias.id", ? "_aLias.node1", graph_17_c1."node1;label" "_aLias.node1;label", graph_17_c1."label" "_aLias.label", graph_17_c1."label;label" "_aLias.label;label", graph_17_c1."node2" "_aLias.node2", graph_17_c1."node2;label" "_aLias.node2;label", graph_18_c2."id" "_aLias.id", graph_17_c1."id" "_aLias.node1", ? "_aLias.node1;label", graph_24_c3."node2" "_aLias.label", graph_24_c3."node2;label" "_aLias.label;label", graph_18_c2."node2" "_aLias.node2", graph_18_c2."node2;label" "_aLias.node2;label", (graph_18_c2."id" || ? || graph_24_c3."node2") "_aLias.id", graph_18_c2."id" "_aLias.node1", ? "_aLias.node1;label", ? "_aLias.label", ? "_aLias.label;label", graph_24_c3."node1" "_aLias.node2", graph_24_c3."node1;label" "_aLias.node2;label"
+     FROM graph_17 AS graph_17_c1, graph_24 AS graph_24_c3
+     INNER JOIN graph_18 AS graph_18_c2
+     ON graph_17_c1."id" = graph_18_c2."node1"
+        AND graph_17_c1."label" = ?
+        AND graph_17_c1."label;label" = graph_17_c1."label;label"
+        AND graph_17_c1."node1" = ?
+        AND graph_17_c1."node1;label" = graph_17_c1."node1;label"
+        AND graph_17_c1."node2;label" = graph_17_c1."node2;label"
+        AND graph_18_c2."node2;label" = graph_18_c2."node2;label"
+        AND graph_24_c3."label" = ?
+        AND graph_24_c3."node1;label" = graph_24_c3."node1;label"
+        AND graph_24_c3."node2;label" = graph_24_c3."node2;label"
+        AND ((graph_18_c2."label" = graph_24_c3."node2") AND (graph_24_c3."node1;label" = ?))
+  PARAS: ['Q96', '', '-', '', 'ckgr9', 'ckg:Context Type', 'P571', 'Q96', 'ckgr1', 'Generic']
+---------------------------------------------
+Elapsed time: 1.61 seconds

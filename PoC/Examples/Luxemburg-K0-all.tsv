@@ -1,15 +1,22 @@
 id	node1	node1;label	label	label;label	node2	node2;label
-ckg:c6-2292122e-0-P585	Q32-P3896-91b57d-2292122e-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-ckg:c6-c7e6ab55-0-P585	Q32-P3896-c3109c-c7e6ab55-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
-Q32-P17-Q32-ba767b2a-0-P17	Q32-P17-Q32-ba767b2a-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P1566-0c4dc1-f2799667-0	Q32	'Luxembourg'@en	P1566	'GeoNames ID'@en	"2960313"	
+Q32-P1566-0c4dc1-f2799667-0-P1566	Q32-P1566-0c4dc1-f2799667-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P298-76d87b-5f794d54-0	Q32	'Luxembourg'@en	P298	'ISO 3166-1 alpha-3 code'@en	"LUX"	
+Q32-P298-76d87b-5f794d54-0-P298	Q32-P298-76d87b-5f794d54-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
 Q32-P17-Q32-ba767b2a-0	Q32	'Luxembourg'@en	P17	'country'@en	Q32	'Luxembourg'@en
-Q32-P30-Q46-ce3a5135-0-P30	Q32-P30-Q46-ce3a5135-0		ckgr9	ckg:Context Type	ckgL1	Location
-Q32-P30-Q46-ce3a5135-0	Q32	'Luxembourg'@en	P30	'continent'@en	Q46	'Europe'@en
-Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	P31	Q3624078	'sovereign state'@en
-Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	P31	Q6256	'country'@en
-Q32-P3896-91b57d-2292122e-0-P585	Q32-P3896-91b57d-2292122e-0		P585	'point in time'@en	unknown	
-Q32-P3896-91b57d-2292122e-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:Luxembourg.map"	
-Q32-P3896-c3109c-c7e6ab55-0-P585	Q32-P3896-c3109c-c7e6ab55-0		P585	'point in time'@en	unknown	
-Q32-P3896-c3109c-c7e6ab55-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:LuxembourgCountry.map"	
-Q32-P571-895cae-e79cc2f0-0-P571	Q32-P571-895cae-e79cc2f0-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q32-P17-Q32-ba767b2a-0-P17	Q32-P17-Q32-ba767b2a-0		ckgr9	ckg:Context Type	ckgL1	Location
 Q32-P571-895cae-e79cc2f0-0	Q32	'Luxembourg'@en	P571	'inception'@en	^1815-01-01T00:00:00Z/9	
+Q32-P571-895cae-e79cc2f0-0-P571	Q32-P571-895cae-e79cc2f0-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q32-P30-Q46-ce3a5135-0	Q32	'Luxembourg'@en	P30	'continent'@en	Q46	'Europe'@en
+Q32-P30-Q46-ce3a5135-0-P30	Q32-P30-Q46-ce3a5135-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q32-P3896-91b57d-2292122e-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:Luxembourg.map"	
+Q32-P3896-91b57d-2292122e-0-P585	Q32-P3896-91b57d-2292122e-0		P585	'point in time'@en	^2018-05-22T00:00:00Z/9	
+Q32-P3896-91b57d-2292122e-0-P585-ckgT1	Q32-P3896-91b57d-2292122e-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q32-P3896-c3109c-c7e6ab55-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:LuxembourgCountry.map"	
+Q32-P3896-c3109c-c7e6ab55-0-P585	Q32-P3896-c3109c-c7e6ab55-0		P585	'point in time'@en	^2020-02-14T00:00:00Z/9	
+Q32-P3896-c3109c-c7e6ab55-0-P585-ckgT1	Q32-P3896-c3109c-c7e6ab55-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q32-P3896-c3109c-c7e6ab55-0-P585-ckgl1	Q32-P3896-c3109c-c7e6ab55-0-P585-ckgT1	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje
+Q32-P3896-c3109c-c7e6ab55-0-P7452	Q32-P3896-c3109c-c7e6ab55-0		P7452	'reason for preferred rank'@en	unknown	
+Q32-P3896-c3109c-c7e6ab55-0-P7452-ckgG1	Q32-P3896-c3109c-c7e6ab55-0-P7452		ckgr9	ckg:Context Type	ckgG1	Generic

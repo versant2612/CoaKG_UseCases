@@ -1,0 +1,31 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P17-Q96-6482db39-0	Q96	'Mexico'@en	P17	'country'@en	Q96	'Mexico'@en
+Q96-P17-Q96-6482db39-0-P17	Q96-P17-Q96-6482db39-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P17-Q96-6482db39-0	Q96	'Mexico'@en	P17	'country'@en	Q96	'Mexico'@en
+Q96-P17-Q96-6482db39-0-P17	Q96-P17-Q96-6482db39-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8	
+Q96-P571-152919-88adc7f1-0-P571	Q96-P571-152919-88adc7f1-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P571-152919-88adc7f1-0	Q96	'Mexico'@en	P571	'inception'@en	^1820-01-01T00:00:00Z/8	
+Q96-P571-152919-88adc7f1-0-P571	Q96-P571-152919-88adc7f1-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11	
+Q96-P571-4c1245-c3d094e3-0-P571	Q96-P571-4c1245-c3d094e3-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P571-4c1245-c3d094e3-0	Q96	'Mexico'@en	P571	'inception'@en	^1810-09-16T00:00:00Z/11	
+Q96-P571-4c1245-c3d094e3-0-P571	Q96-P571-4c1245-c3d094e3-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P571-532906-27747016-0	Q96	'Mexico'@en	P571	'inception'@en	^1836-12-01T00:00:00Z/10	
+Q96-P571-532906-27747016-0-P571	Q96-P571-532906-27747016-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P571-532906-27747016-0	Q96	'Mexico'@en	P571	'inception'@en	^1836-12-01T00:00:00Z/10	
+Q96-P571-532906-27747016-0-P571	Q96-P571-532906-27747016-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11	
+Q96-P571-79d8e7-8df81a0f-0-P571	Q96-P571-79d8e7-8df81a0f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11	
+Q96-P571-79d8e7-8df81a0f-0-P571	Q96-P571-79d8e7-8df81a0f-0		ckgr9	ckg:Context Type	ckgT1	Temporal

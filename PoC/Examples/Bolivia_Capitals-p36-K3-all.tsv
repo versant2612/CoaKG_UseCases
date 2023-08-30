@@ -1,0 +1,22 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q750-P36-Q1491-349c7a24-0	Q750	'Bolivia'@en	P36	'capital'@en	Q1491	'La Paz'@en
+Q750-P36-Q2907-6fa08a5f-0	Q750	'Bolivia'@en	P36	'capital'@en	Q2907	'Sucre'@en
+Q750-P36-Q1491-349c7a24-0-P3831-Q35798-0	Q750-P36-Q1491-349c7a24-0		P3831	'object has role'@en	Q35798	'executive branch'@en
+Q750-P36-Q1491-349c7a24-0-P459-Q712144-0	Q750-P36-Q1491-349c7a24-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q750-P36-Q1491-349c7a24-0-P580-e87cf9-0	Q750-P36-Q1491-349c7a24-0		P580	'start time'@en	^1899-01-01T00:00:00Z/9	
+Q750-P36-Q1491-349c7a24-0-P854	Q750-P36-Q1491-349c7a24-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/bolivia.htm	
+Q750-P36-Q1491-349c7a24-0-ckgr3	Q750-P36-Q1491-349c7a24-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
+Q750-P36-Q1491-349c7a24-0-P459-Q712144-0-P5102	Q750-P36-Q1491-349c7a24-0-P459-Q712144-0		ckgr9	ckg:Context Type	ckgG1	Generic
+Q750-P36-Q1491-349c7a24-0-P580-e87cf9-0-P580	Q750-P36-Q1491-349c7a24-0-P580-e87cf9-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P36-Q1491-349c7a24-0-P854-P854	Q750-P36-Q1491-349c7a24-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P36-Q1491-349c7a24-0-ckgr3-ckgT1	Q750-P36-Q1491-349c7a24-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P36-Q2907-6fa08a5f-0-P3831-Q105985-0	Q750-P36-Q2907-6fa08a5f-0		P3831	'object has role'@en	Q105985	'judiciary'@en
+Q750-P36-Q2907-6fa08a5f-0-P3831-Q11204-0	Q750-P36-Q2907-6fa08a5f-0		P3831	'object has role'@en	Q11204	'legislature'@en
+Q750-P36-Q2907-6fa08a5f-0-P459-Q132555-0	Q750-P36-Q2907-6fa08a5f-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q750-P36-Q2907-6fa08a5f-0-P580	Q750-P36-Q2907-6fa08a5f-0		P580	'start time'@en	unknown	
+Q750-P36-Q2907-6fa08a5f-0-P854	Q750-P36-Q2907-6fa08a5f-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/bolivia.htm	
+Q750-P36-Q2907-6fa08a5f-0-ckgr3	Q750-P36-Q2907-6fa08a5f-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
+Q750-P36-Q2907-6fa08a5f-0-P459-Q132555-0-P5102	Q750-P36-Q2907-6fa08a5f-0-P459-Q132555-0		ckgr9	ckg:Context Type	ckgG1	Generic
+Q750-P36-Q2907-6fa08a5f-0-P580-ckgT1	Q750-P36-Q2907-6fa08a5f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P36-Q2907-6fa08a5f-0-P854-P854	Q750-P36-Q2907-6fa08a5f-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P36-Q2907-6fa08a5f-0-ckgr3-ckgT1	Q750-P36-Q2907-6fa08a5f-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal

@@ -1,0 +1,12 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q801-P36-Q1218-7c37b2d8-0	Q801	'Israel'@en	P36	'capital'@en	Q1218	'Jerusalem'@en
+Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0	Q801-P36-Q1218-7c37b2d8-0		P1310	'statement disputed by'@en	Q574386	'United Nations Security Council Resolution 478'@en
+Q801-P36-Q1218-7c37b2d8-0-P5102	Q801-P36-Q1218-7c37b2d8-0		P5102	'nature of statement'@en	unknown	
+Q801-P36-Q1218-7c37b2d8-0-P580-3c1b91-0	Q801-P36-Q1218-7c37b2d8-0		P580	'start time'@en	^1949-01-01T00:00:00Z/9	
+Q801-P36-Q1218-7c37b2d8-0-P854	Q801-P36-Q1218-7c37b2d8-0		P854	'reference URL'@en	https://www.nationsonline.org/oneworld/israel.htm	
+Q801-P36-Q1218-7c37b2d8-0-ckgr3	Q801-P36-Q1218-7c37b2d8-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
+Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0-P1310	Q801-P36-Q1218-7c37b2d8-0-P1310-Q574386-0		ckgr9	ckg:Context Type	ckgG1	Generic
+Q801-P36-Q1218-7c37b2d8-0-P5102-ckgG1	Q801-P36-Q1218-7c37b2d8-0-P5102		ckgr9	ckg:Context Type	ckgG1	Generic
+Q801-P36-Q1218-7c37b2d8-0-P580-3c1b91-0-P580	Q801-P36-Q1218-7c37b2d8-0-P580-3c1b91-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q801-P36-Q1218-7c37b2d8-0-P854-P854	Q801-P36-Q1218-7c37b2d8-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P36-Q1218-7c37b2d8-0-ckgr3-ckgT1	Q801-P36-Q1218-7c37b2d8-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal

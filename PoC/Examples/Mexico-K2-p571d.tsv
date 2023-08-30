@@ -1,0 +1,18 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P1566-9481f0-20fdb19a-0	Q96	'Mexico'@en	P1566	'GeoNames ID'@en	"3996063"	
+Q96-P1566-9481f0-20fdb19a-0-P1566	Q96-P1566-9481f0-20fdb19a-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q96-P17-Q96-6482db39-0	Q96	'Mexico'@en	P17	'country'@en	Q96	'Mexico'@en
+Q96-P17-Q96-6482db39-0-P17	Q96-P17-Q96-6482db39-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q96-P298-96fe5e-51e3acdf-0	Q96	'Mexico'@en	P298	'ISO 3166-1 alpha-3 code'@en	"MEX"	
+Q96-P298-96fe5e-51e3acdf-0-P298	Q96-P298-96fe5e-51e3acdf-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q96-P30-Q49-879f16af-0	Q96	'Mexico'@en	P30	'continent'@en	Q49	'North America'@en
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P571-79d8e7-8df81a0f-0	Q96	'Mexico'@en	P571	'inception'@en	^1821-09-28T00:00:00Z/11	
+Q96-P30-Q49-879f16af-0-P30	Q96-P30-Q49-879f16af-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q96-P571-79d8e7-8df81a0f-0-P1013-Q1464916-0	Q96-P571-79d8e7-8df81a0f-0		P1013	'criterion used'@en	Q1464916	'declaration of independence'@en
+Q96-P571-79d8e7-8df81a0f-0-P571	Q96-P571-79d8e7-8df81a0f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q96-P571-79d8e7-8df81a0f-0-P805-Q1131780-0	Q96-P571-79d8e7-8df81a0f-0		P805	'statement is subject of'@en	Q1131780	'Declaration of Independence of the Mexican Empire'@en
+Q96-P571-79d8e7-8df81a0f-0-P807-Q29-0	Q96-P571-79d8e7-8df81a0f-0		P807	'separated from'@en	Q29	'Spain'@en
+Q96-P571-79d8e7-8df81a0f-0-P1013-Q1464916-0-P1013	Q96-P571-79d8e7-8df81a0f-0-P1013-Q1464916-0		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q96-P571-79d8e7-8df81a0f-0-P805-Q1131780-0-P805	Q96-P571-79d8e7-8df81a0f-0-P805-Q1131780-0		ckgr9	ckg:Context Type	ckgP1	Provenance

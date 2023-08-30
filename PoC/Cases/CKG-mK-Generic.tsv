@@ -1,0 +1,8 @@
+id	node1	node1;label	label	label;label	node2	node2;label	id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c183	ckgG1	Generic	ckgr1	ckg:Represented By	P31	'instance of'@en	ckg:c198	ckg:c183		ckgp1	ckgp1	ckgl2	Mandatory
+ckg:c184	ckgG1	Generic	ckgr1	ckg:Represented By	P1813	'short name'@en		ckg:c184					
+ckg:c185	ckgG1	Generic	ckgr1	ckg:Represented By	P1448	'official name'@en		ckg:c185					
+ckg:c186	ckgG1	Generic	ckgr1	ckg:Represented By	P5102	'nature of statement'@en		ckg:c186					
+ckg:c187	ckgG1	Generic	ckgr1	ckg:Represented By	P1310	'statement disputed by'@en		ckg:c187					
+ckg:c188	ckgG1	Generic	ckgr1	ckg:Represented By	P7452	'reason for preferred rank'@en		ckg:c188					
+ckg:c189	ckgG1	Generic	ckgr1	ckg:Represented By	P2241	'reason for deprecated rank'@en		ckg:c189					

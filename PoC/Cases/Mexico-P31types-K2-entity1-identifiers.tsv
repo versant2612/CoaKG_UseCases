@@ -1,0 +1,13 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P1566-9481f0-20fdb19a-0	Q96	'Mexico'@en	P1566	'GeoNames ID'@en	"3996063"	
+Q96-P1566-9481f0-20fdb19a-0-P1566	Q96-P1566-9481f0-20fdb19a-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P1566-9481f0-20fdb19a-0	Q96	'Mexico'@en	P1566	'GeoNames ID'@en	"3996063"	
+Q96-P1566-9481f0-20fdb19a-0-P1566	Q96-P1566-9481f0-20fdb19a-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q96-P31-Q3624078-c6e4f0ed-0	Q96	'Mexico'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q96-P298-96fe5e-51e3acdf-0	Q96	'Mexico'@en	P298	'ISO 3166-1 alpha-3 code'@en	"MEX"	
+Q96-P298-96fe5e-51e3acdf-0-P298	Q96-P298-96fe5e-51e3acdf-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q96-P31-Q6256-5baff2db-0	Q96	'Mexico'@en	P31	'instance of'@en	Q6256	'country'@en
+Q96-P298-96fe5e-51e3acdf-0	Q96	'Mexico'@en	P298	'ISO 3166-1 alpha-3 code'@en	"MEX"	
+Q96-P298-96fe5e-51e3acdf-0-P298	Q96-P298-96fe5e-51e3acdf-0		ckgr8	ckg:Determines	ckgId	Entity Identifier

@@ -1,0 +1,7 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P30-Q46-ce3a5135-0	Q32	'Luxembourg'@en	P30	'continent'@en	Q46	'Europe'@en
+Q32-P30-Q46-ce3a5135-0-P30	Q32-P30-Q46-ce3a5135-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P30-Q46-ce3a5135-0	Q32	'Luxembourg'@en	P30	'continent'@en	Q46	'Europe'@en
+Q32-P30-Q46-ce3a5135-0-P30	Q32-P30-Q46-ce3a5135-0		ckgr9	ckg:Context Type	ckgL1	Location

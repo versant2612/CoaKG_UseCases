@@ -16,8 +16,6 @@ ckg:c14	P3005	'valid in place'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c15	ckgP1	Provenance	is_a	rdf:type	ckg:KnowledgeContext	
 ckg:c16	ckgP1	Provenance	ckgr1	ckg:Represented By	P92	'main regulatory text'@en
 ckg:c17	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
-ckg:c18	ckgP1	Provenance	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
-ckg:c19	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c20	ckgP1	Provenance	ckgr1	ckg:Represented By	P828	'has cause'@en
 ckg:c21	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P1365	'replaces'@en
 ckg:c22	ckgP1	Provenance	ckgr1	ckg:Represented By	P805	'statement is subject of'@en
@@ -33,7 +31,6 @@ ckg:c31	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualiz
 ckg:c32	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c33	P3005	'valid in place'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c34	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
-ckg:c35	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c36	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c37	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
 ckg:c38	P1478	'has immediate cause'@en	ckgr2	ckg:Contextualizes	P1366	'replaced by'@en
@@ -43,13 +40,13 @@ ckg:c41	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c42	P582	'end time'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c43	P1264	'valid in period'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c44	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
-ckg:c45	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c46	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c47	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c48	P1534	'end cause'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c49	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c50	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c51	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c18	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:c52	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P3896	'geoshape'@en
 ckg:c53	ckg:c3		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c54	ckg:c52		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
@@ -70,7 +67,6 @@ ckg:c68	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c69	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c70	P457	'foundational text'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c71	P1478	'has immediate cause'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
-ckg:c72	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c73	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c74	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
 ckg:c75	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P571	'inception'@en
@@ -79,7 +75,6 @@ ckg:c77	P828	'has cause'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished 
 ckg:c78	P1534	'end cause'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
 ckg:c79	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
 ckg:c80	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
-ckg:c81	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
 ckg:c82	P92	'main regulatory text'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
 ckg:c83	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
 ckg:c84	P3680	'statement supported by'@en	ckgr2	ckg:Contextualizes	P576	'dissolved, abolished or demolished date'@en
@@ -112,7 +107,6 @@ ckg:c110	P1001	'applies to jurisdiction'@en	ckgr2	ckg:Contextualizes	P1313	'offi
 ckg:c111	P580	'start time'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
 ckg:c112	P582	'end time'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
 ckg:c113	P585	'point in time'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
-ckg:c114	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
 ckg:c115	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
 ckg:c116	P518	'applies to part'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
 ckg:c117	P1480	'sourcing circumstances'@en	ckgr2	ckg:Contextualizes	P122	'basic form of government'@en
@@ -131,7 +125,6 @@ ckg:c129	P459	'determination method'@en	ckgr2	ckg:Contextualizes	P37	'official l
 ckg:c130	P3831	'object has role'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c131	P1013	'criterion used'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
 ckg:c132	P805	'statement is subject of'@en	ckgr2	ckg:Contextualizes	P37	'official language'@en
-ckg:c133	ckg:c47		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c134	ckgT1	Temporal	ckgr1	ckg:Represented By	P1264	'valid in period'@en
 ckg:c135	ckgP1	Provenance	ckgr1	ckg:Represented By	P459	'determination method'@en
 ckg:c136	ckgP1	Provenance	ckgr1	ckg:Represented By	P1534	'end cause'@en
@@ -199,4 +192,17 @@ ckg:c197	ckg:c178		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c198	ckg:c183		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c199	ckg:c194		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
 ckg:c200	ckg:c195		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c201	P30	continent	ckgr2	ckg:Contextualizes	 Q3024240	'historical country'@en
+ckg:c202	P17	country	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en
+ckg:c203	P576	'dissolved, abolished or demolished date'@en	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en
+ckg:c204	P571	'inception'@en	ckgr2	ckg:Contextualizes	Q3024240	'historical country'@en
+ckg:c205	ckg:c201		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c206	ckg:c202		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c207	ckg:c203		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c208	ckg:c204		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c209	P5102	'nature of statement'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
+ckg:c210	ckg:c209		ckgp1	ckg:Qualifier Status	ckgl2	Mandatory
+ckg:c211	ckgP1	Provenance	ckgr1	ckg:Represented By	P854	'reference URL'@en
+ckg:c212	P854	'reference URL'@en	ckgr2	ckg:Contextualizes	P5102	'nature of statement'@en
+ckg:c213	P854	'reference URL'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje

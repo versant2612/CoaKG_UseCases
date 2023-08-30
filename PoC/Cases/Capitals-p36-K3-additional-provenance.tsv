@@ -1,0 +1,43 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0	Q142-P36-Q90-5141a3e9-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0-P854	Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0-P854-ckgP1	Q142-P36-Q90-5141a3e9-0-P5102-Q132555-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P36-Q84-f7211115-0-P5102-Q712144-0	Q145-P36-Q84-f7211115-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q145-P36-Q84-f7211115-0-P5102-Q712144-0-P854	Q145-P36-Q84-f7211115-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q145-P36-Q84-f7211115-0-P5102-Q712144-0-P854-ckgP1	Q145-P36-Q84-f7211115-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0	Q155-P36-Q2844-dc7767a2-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854	Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0		P854	'reference URL'@en	http://www.planalto.gov.br/ccivil_03/Constituicao/ConstituicaoCompilado.htm	
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854-ckgP1	Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0	Q159-P36-Q649-fd4ccdb3-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0-P854	Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0-P854-ckgP1	Q159-P36-Q649-fd4ccdb3-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P36-Q64-18e5392d-0-P5102-Q712144-0	Q183-P36-Q64-18e5392d-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q183-P36-Q64-18e5392d-0-P5102-Q712144-0-P854	Q183-P36-Q64-18e5392d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q183-P36-Q64-18e5392d-0-P5102-Q712144-0-P854-ckgP1	Q183-P36-Q64-18e5392d-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P36-Q220-e324c297-0-P5102-Q712144-0	Q38-P36-Q220-e324c297-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q38-P36-Q220-e324c297-0-P5102-Q712144-0-P854	Q38-P36-Q220-e324c297-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q38-P36-Q220-e324c297-0-P5102-Q712144-0-P854-ckgP1	Q38-P36-Q220-e324c297-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0	Q29-P36-Q2807-8982ea2d-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0-P854	Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0-P854-ckgP1	Q29-P36-Q2807-8982ea2d-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0	Q31-P36-Q239-74e71cdb-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0-P854	Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0-P854-ckgP1	Q31-P36-Q239-74e71cdb-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0	Q43-P36-Q3640-25dfd373-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0-P854	Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0-P854-ckgP1	Q43-P36-Q3640-25dfd373-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0	Q20-P36-Q585-67ea8c51-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0-P854	Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0-P854-ckgP1	Q20-P36-Q585-67ea8c51-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0	Q34-P36-Q1754-9f0d0374-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0-P854	Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0-P854-ckgP1	Q34-P36-Q1754-9f0d0374-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0	Q33-P36-Q1757-ee38c31d-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0-P854	Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0-P854-ckgP1	Q33-P36-Q1757-ee38c31d-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0	Q35-P36-Q1748-f8cf5998-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0-P854	Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0-P854-ckgP1	Q35-P36-Q1748-f8cf5998-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0	Q45-P36-Q597-d1cfbdbf-0		P5102	'nature of statement'@en	Q712144	'de facto'@en
+Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0-P854	Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0		P854	'reference URL'@en	https://rm.coe.int/status-of-capital-cities/16807199af	
+Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0-P854-ckgP1	Q45-P36-Q597-d1cfbdbf-0-P5102-Q712144-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance

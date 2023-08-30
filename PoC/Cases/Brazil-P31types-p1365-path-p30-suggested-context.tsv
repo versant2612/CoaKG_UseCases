@@ -1,0 +1,22 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q217230-P30-Q18-9d189008-0	Q217230	'Empire of Brazil'@en	P30	'continent'@en	Q18	'South America'@en
+Q217230-P30-Q18-9d189008-0-P30	Q217230-P30-Q18-9d189008-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q217230-P576-613a9d-c8558178-0	Q217230	'Empire of Brazil'@en	P576	'dissolved, abolished or demolished date'@en	^1889-11-15T00:00:00Z/11	
+Q217230-P576-613a9d-c8558178-0-P576	Q217230-P576-613a9d-c8558178-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q15-d25cb508-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q15	'Africa'@en
+Q903779-P30-Q15-d25cb508-0-P30	Q903779-P30-Q15-d25cb508-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q48-0bbf540d-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q48	'Asia'@en
+Q903779-P30-Q48-0bbf540d-0-P30	Q903779-P30-Q48-0bbf540d-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q46-dbe755be-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q46	'Europe'@en
+Q903779-P30-Q46-dbe755be-0-P30	Q903779-P30-Q46-dbe755be-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q18-ed1d41f5-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q18	'South America'@en
+Q903779-P30-Q18-ed1d41f5-0-P30	Q903779-P30-Q18-ed1d41f5-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P576-9c5ecd-7c4cf98c-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P576	'dissolved, abolished or demolished date'@en	^1822-09-07T00:00:00Z/11	
+Q903779-P576-9c5ecd-7c4cf98c-0-P576	Q903779-P576-9c5ecd-7c4cf98c-0		ckgr9	ckg:Context Type	ckgT1	Temporal

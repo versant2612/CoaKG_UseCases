@@ -1,0 +1,25 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q971-P31-Q3624078-331eeb2e-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q971-P17-Q971-95dd6e89-0	Q971	'Republic of the Congo'@en	P17	'country'@en	Q971	'Republic of the Congo'@en
+Q971-P17-Q971-95dd6e89-0-P17	Q971-P17-Q971-95dd6e89-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q971-P31-Q6256-a01f8795-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q971-P17-Q971-95dd6e89-0	Q971	'Republic of the Congo'@en	P17	'country'@en	Q971	'Republic of the Congo'@en
+Q971-P17-Q971-95dd6e89-0-P17	Q971-P17-Q971-95dd6e89-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q971-P31-Q3624078-331eeb2e-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q971-P571-3520e1-a08a137f-0	Q971	'Republic of the Congo'@en	P571	'inception'@en	^1960-01-01T00:00:00Z/9	
+Q971-P571-3520e1-a08a137f-0-P571	Q971-P571-3520e1-a08a137f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q971-P31-Q6256-a01f8795-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q971-P571-3520e1-a08a137f-0	Q971	'Republic of the Congo'@en	P571	'inception'@en	^1960-01-01T00:00:00Z/9	
+Q971-P571-3520e1-a08a137f-0-P571	Q971-P571-3520e1-a08a137f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P17-Q974-c1df9d0e-0	Q974	'Democratic Republic of the Congo'@en	P17	'country'@en	Q974	'Democratic Republic of the Congo'@en
+Q974-P17-Q974-c1df9d0e-0-P17	Q974-P17-Q974-c1df9d0e-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P17-Q974-c1df9d0e-0	Q974	'Democratic Republic of the Congo'@en	P17	'country'@en	Q974	'Democratic Republic of the Congo'@en
+Q974-P17-Q974-c1df9d0e-0-P17	Q974-P17-Q974-c1df9d0e-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11	
+Q974-P571-938147-2440b1f8-0-P571	Q974-P571-938147-2440b1f8-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11	
+Q974-P571-938147-2440b1f8-0-P571	Q974-P571-938147-2440b1f8-0		ckgr9	ckg:Context Type	ckgT1	Temporal

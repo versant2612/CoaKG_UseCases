@@ -1,0 +1,235 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q142-P1313-Q3409212-6ccce57f-0	Q142	'France'@en	P1313	'office held by head of government'@en	Q3409212	'President of the Council'@en
+Q142-P1313-Q3409212-6ccce57f-0-P580	Q142-P1313-Q3409212-6ccce57f-0		P580	'start time'@en	unknown	
+Q142-P1313-Q3409212-6ccce57f-0-P580-ckgT1	Q142-P1313-Q3409212-6ccce57f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q145-P1313-Q14211-c8b7a771-0	Q145	'United Kingdom'@en	P1313	'office held by head of government'@en	Q14211	'Prime Minister of the United Kingdom'@en
+Q145-P1313-Q14211-c8b7a771-0-P580	Q145-P1313-Q14211-c8b7a771-0		P580	'start time'@en	unknown	
+Q145-P1313-Q14211-c8b7a771-0-P580-ckgT1	Q145-P1313-Q14211-c8b7a771-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1313-Q5176750-85c807f6-0	Q155	'Brazil'@en	P1313	'office held by head of government'@en	Q5176750	'President of Brazil'@en
+Q155-P1313-Q5176750-85c807f6-0-P580	Q155-P1313-Q5176750-85c807f6-0		P580	'start time'@en	unknown	
+Q155-P1313-Q5176750-85c807f6-0-P580-ckgT1	Q155-P1313-Q5176750-85c807f6-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q16-P1313-Q839078-ca6f606e-0	Q16	'Canada'@en	P1313	'office held by head of government'@en	Q839078	'Prime Minister of Canada'@en
+Q16-P1313-Q839078-ca6f606e-0-P580	Q16-P1313-Q839078-ca6f606e-0		P580	'start time'@en	unknown	
+Q16-P1313-Q839078-ca6f606e-0-P580-ckgT1	Q16-P1313-Q839078-ca6f606e-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q183-P1313-Q4970706-767e3f1a-0	Q183	'Germany'@en	P1313	'office held by head of government'@en	Q4970706	'Federal Chancellor of Germany'@en
+Q183-P1313-Q4970706-767e3f1a-0-P580	Q183-P1313-Q4970706-767e3f1a-0		P580	'start time'@en	unknown	
+Q183-P1313-Q4970706-767e3f1a-0-P580-ckgT1	Q183-P1313-Q4970706-767e3f1a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q20-P1313-Q2334076-09247974-0	Q20	'Norway'@en	P1313	'office held by head of government'@en	Q2334076	'Prime Minister of Norway'@en
+Q20-P1313-Q2334076-09247974-0-P580	Q20-P1313-Q2334076-09247974-0		P580	'start time'@en	unknown	
+Q20-P1313-Q2334076-09247974-0-P580-ckgT1	Q20-P1313-Q2334076-09247974-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q29-P1313-Q844587-e5b1871f-0	Q29	'Spain'@en	P1313	'office held by head of government'@en	Q844587	'Prime Minister of Spain'@en
+Q29-P1313-Q844587-e5b1871f-0-P580	Q29-P1313-Q844587-e5b1871f-0		P580	'start time'@en	unknown	
+Q29-P1313-Q844587-e5b1871f-0-P580-ckgT1	Q29-P1313-Q844587-e5b1871f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q31-P1313-Q213107-05633a2c-0	Q31	'Belgium'@en	P1313	'office held by head of government'@en	Q213107	'Prime Minister of Belgium'@en
+Q31-P1313-Q213107-05633a2c-0-P580	Q31-P1313-Q213107-05633a2c-0		P580	'start time'@en	unknown	
+Q31-P1313-Q213107-05633a2c-0-P580-ckgT1	Q31-P1313-Q213107-05633a2c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q33-P1313-Q738695-ecd05e6c-0	Q33	'Finland'@en	P1313	'office held by head of government'@en	Q738695	'Prime Minister of Finland'@en
+Q33-P1313-Q738695-ecd05e6c-0-P580	Q33-P1313-Q738695-ecd05e6c-0		P580	'start time'@en	unknown	
+Q33-P1313-Q738695-ecd05e6c-0-P580-ckgT1	Q33-P1313-Q738695-ecd05e6c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q34-P1313-Q687075-da305c75-0	Q34	'Sweden'@en	P1313	'office held by head of government'@en	Q687075	'Prime Minister of Sweden'@en
+Q34-P1313-Q687075-da305c75-0-P580	Q34-P1313-Q687075-da305c75-0		P580	'start time'@en	unknown	
+Q34-P1313-Q687075-da305c75-0-P580-ckgT1	Q34-P1313-Q687075-da305c75-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q35-P1313-Q795477-3d9c6c13-0	Q35	'Denmark'@en	P1313	'office held by head of government'@en	Q795477	'Prime Minister of Denmark'@en
+Q35-P1313-Q795477-3d9c6c13-0-P580	Q35-P1313-Q795477-3d9c6c13-0		P580	'start time'@en	unknown	
+Q35-P1313-Q795477-3d9c6c13-0-P580-ckgT1	Q35-P1313-Q795477-3d9c6c13-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q38-P1313-Q796897-c70461ed-0	Q38	'Italy'@en	P1313	'office held by head of government'@en	Q796897	'Prime Minister of Italy'@en
+Q38-P1313-Q796897-c70461ed-0-P580	Q38-P1313-Q796897-c70461ed-0		P580	'start time'@en	unknown	
+Q38-P1313-Q796897-c70461ed-0-P580-ckgT1	Q38-P1313-Q796897-c70461ed-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P1313-Q2430415-8779b9c5-0	Q43	'Turkey'@en	P1313	'office held by head of government'@en	Q2430415	'Prime Minister of Turkey'@en
+Q43-P1313-Q2430415-8779b9c5-0-P580	Q43-P1313-Q2430415-8779b9c5-0		P580	'start time'@en	unknown	
+Q43-P1313-Q2430415-8779b9c5-0-P580-ckgT1	Q43-P1313-Q2430415-8779b9c5-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45-P1313-Q1723031-3505eb8d-0	Q45	'Portugal'@en	P1313	'office held by head of government'@en	Q1723031	'Prime Minister of Portugal'@en
+Q45-P1313-Q1723031-3505eb8d-0-P580	Q45-P1313-Q1723031-3505eb8d-0		P580	'start time'@en	unknown	
+Q45-P1313-Q1723031-3505eb8d-0-P580-ckgT1	Q45-P1313-Q1723031-3505eb8d-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55-P1313-Q3058109-8b579db5-0	Q55	'Netherlands'@en	P1313	'office held by head of government'@en	Q3058109	'Prime Minister of the Netherlands'@en
+Q55-P1313-Q3058109-8b579db5-0-P580	Q55-P1313-Q3058109-8b579db5-0		P580	'start time'@en	unknown	
+Q55-P1313-Q3058109-8b579db5-0-P580-ckgT1	Q55-P1313-Q3058109-8b579db5-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P1313-Q373548-7fca9c08-0	Q750	'Bolivia'@en	P1313	'office held by head of government'@en	Q373548	'president of Bolivia'@en
+Q750-P1313-Q373548-7fca9c08-0-P580	Q750-P1313-Q373548-7fca9c08-0		P580	'start time'@en	unknown	
+Q750-P1313-Q373548-7fca9c08-0-P580-ckgT1	Q750-P1313-Q373548-7fca9c08-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q801-P1313-Q208487-41c66407-0	Q801	'Israel'@en	P1313	'office held by head of government'@en	Q208487	'Prime Minister of Israel'@en
+Q801-P1313-Q208487-41c66407-0-P580	Q801-P1313-Q208487-41c66407-0		P580	'start time'@en	unknown	
+Q801-P1313-Q208487-41c66407-0-P580-ckgT1	Q801-P1313-Q208487-41c66407-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q142-P1313-Q3409212-6ccce57f-0	Q142	'France'@en	P1313	'office held by head of government'@en	Q3409212	'President of the Council'@en
+Q142-P1313-Q3409212-6ccce57f-0-P805	Q142-P1313-Q3409212-6ccce57f-0		P805	'statement is subject of'@en	unknown	
+Q142-P1313-Q3409212-6ccce57f-0-P805-ckgP1	Q142-P1313-Q3409212-6ccce57f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P1313-Q1587677-c01905ab-0	Q142	'France'@en	P1313	'office held by head of government'@en	Q1587677	'Prime Minister of France'@en
+Q142-P1313-Q1587677-c01905ab-0-P805	Q142-P1313-Q1587677-c01905ab-0		P805	'statement is subject of'@en	unknown	
+Q142-P1313-Q1587677-c01905ab-0-P805-ckgP1	Q142-P1313-Q1587677-c01905ab-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P1313-Q14211-c8b7a771-0	Q145	'United Kingdom'@en	P1313	'office held by head of government'@en	Q14211	'Prime Minister of the United Kingdom'@en
+Q145-P1313-Q14211-c8b7a771-0-P805	Q145-P1313-Q14211-c8b7a771-0		P805	'statement is subject of'@en	unknown	
+Q145-P1313-Q14211-c8b7a771-0-P805-ckgP1	Q145-P1313-Q14211-c8b7a771-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P1313-Q5176750-85c807f6-0	Q155	'Brazil'@en	P1313	'office held by head of government'@en	Q5176750	'President of Brazil'@en
+Q155-P1313-Q5176750-85c807f6-0-P805	Q155-P1313-Q5176750-85c807f6-0		P805	'statement is subject of'@en	unknown	
+Q155-P1313-Q5176750-85c807f6-0-P805-ckgP1	Q155-P1313-Q5176750-85c807f6-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P1313-Q842386-354ee074-0	Q159	'Russia'@en	P1313	'office held by head of government'@en	Q842386	'Prime Minister of Russia'@en
+Q159-P1313-Q842386-354ee074-0-P805	Q159-P1313-Q842386-354ee074-0		P805	'statement is subject of'@en	unknown	
+Q159-P1313-Q842386-354ee074-0-P805-ckgP1	Q159-P1313-Q842386-354ee074-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P1313-Q839078-ca6f606e-0	Q16	'Canada'@en	P1313	'office held by head of government'@en	Q839078	'Prime Minister of Canada'@en
+Q16-P1313-Q839078-ca6f606e-0-P805	Q16-P1313-Q839078-ca6f606e-0		P805	'statement is subject of'@en	unknown	
+Q16-P1313-Q839078-ca6f606e-0-P805-ckgP1	Q16-P1313-Q839078-ca6f606e-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P1313-Q4970706-767e3f1a-0	Q183	'Germany'@en	P1313	'office held by head of government'@en	Q4970706	'Federal Chancellor of Germany'@en
+Q183-P1313-Q4970706-767e3f1a-0-P805	Q183-P1313-Q4970706-767e3f1a-0		P805	'statement is subject of'@en	unknown	
+Q183-P1313-Q4970706-767e3f1a-0-P805-ckgP1	Q183-P1313-Q4970706-767e3f1a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P1313-Q2334076-09247974-0	Q20	'Norway'@en	P1313	'office held by head of government'@en	Q2334076	'Prime Minister of Norway'@en
+Q20-P1313-Q2334076-09247974-0-P805	Q20-P1313-Q2334076-09247974-0		P805	'statement is subject of'@en	unknown	
+Q20-P1313-Q2334076-09247974-0-P805-ckgP1	Q20-P1313-Q2334076-09247974-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P1313-Q273884-fbc65a65-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q273884	'President of South Africa'@en
+Q258-P1313-Q273884-fbc65a65-0-P805	Q258-P1313-Q273884-fbc65a65-0		P805	'statement is subject of'@en	unknown	
+Q258-P1313-Q273884-fbc65a65-0-P805-ckgP1	Q258-P1313-Q273884-fbc65a65-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P1313-Q1511951-dd787167-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q1511951	'Prime Minister of South Africa'@en
+Q258-P1313-Q1511951-dd787167-0-P805	Q258-P1313-Q1511951-dd787167-0		P805	'statement is subject of'@en	unknown	
+Q258-P1313-Q1511951-dd787167-0-P805-ckgP1	Q258-P1313-Q1511951-dd787167-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P1313-Q890030-a47fc206-0	Q258	'South Africa'@en	P1313	'office held by head of government'@en	Q890030	'State President of South Africa'@en
+Q258-P1313-Q890030-a47fc206-0-P805	Q258-P1313-Q890030-a47fc206-0		P805	'statement is subject of'@en	unknown	
+Q258-P1313-Q890030-a47fc206-0-P805-ckgP1	Q258-P1313-Q890030-a47fc206-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P1313-Q844587-e5b1871f-0	Q29	'Spain'@en	P1313	'office held by head of government'@en	Q844587	'Prime Minister of Spain'@en
+Q29-P1313-Q844587-e5b1871f-0-P805	Q29-P1313-Q844587-e5b1871f-0		P805	'statement is subject of'@en	unknown	
+Q29-P1313-Q844587-e5b1871f-0-P805-ckgP1	Q29-P1313-Q844587-e5b1871f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P1313-Q213107-05633a2c-0	Q31	'Belgium'@en	P1313	'office held by head of government'@en	Q213107	'Prime Minister of Belgium'@en
+Q31-P1313-Q213107-05633a2c-0-P805	Q31-P1313-Q213107-05633a2c-0		P805	'statement is subject of'@en	unknown	
+Q31-P1313-Q213107-05633a2c-0-P805-ckgP1	Q31-P1313-Q213107-05633a2c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P1313-Q738695-ecd05e6c-0	Q33	'Finland'@en	P1313	'office held by head of government'@en	Q738695	'Prime Minister of Finland'@en
+Q33-P1313-Q738695-ecd05e6c-0-P805	Q33-P1313-Q738695-ecd05e6c-0		P805	'statement is subject of'@en	unknown	
+Q33-P1313-Q738695-ecd05e6c-0-P805-ckgP1	Q33-P1313-Q738695-ecd05e6c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P1313-Q687075-da305c75-0	Q34	'Sweden'@en	P1313	'office held by head of government'@en	Q687075	'Prime Minister of Sweden'@en
+Q34-P1313-Q687075-da305c75-0-P805	Q34-P1313-Q687075-da305c75-0		P805	'statement is subject of'@en	unknown	
+Q34-P1313-Q687075-da305c75-0-P805-ckgP1	Q34-P1313-Q687075-da305c75-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P1313-Q795477-3d9c6c13-0	Q35	'Denmark'@en	P1313	'office held by head of government'@en	Q795477	'Prime Minister of Denmark'@en
+Q35-P1313-Q795477-3d9c6c13-0-P805	Q35-P1313-Q795477-3d9c6c13-0		P805	'statement is subject of'@en	unknown	
+Q35-P1313-Q795477-3d9c6c13-0-P805-ckgP1	Q35-P1313-Q795477-3d9c6c13-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P1313-Q796897-c70461ed-0	Q38	'Italy'@en	P1313	'office held by head of government'@en	Q796897	'Prime Minister of Italy'@en
+Q38-P1313-Q796897-c70461ed-0-P805	Q38-P1313-Q796897-c70461ed-0		P805	'statement is subject of'@en	unknown	
+Q38-P1313-Q796897-c70461ed-0-P805-ckgP1	Q38-P1313-Q796897-c70461ed-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P1313-Q1922067-1325b9ff-0	Q43	'Turkey'@en	P1313	'office held by head of government'@en	Q1922067	'President of Turkey'@en
+Q43-P1313-Q1922067-1325b9ff-0-P805	Q43-P1313-Q1922067-1325b9ff-0		P805	'statement is subject of'@en	unknown	
+Q43-P1313-Q1922067-1325b9ff-0-P805-ckgP1	Q43-P1313-Q1922067-1325b9ff-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P1313-Q2430415-8779b9c5-0	Q43	'Turkey'@en	P1313	'office held by head of government'@en	Q2430415	'Prime Minister of Turkey'@en
+Q43-P1313-Q2430415-8779b9c5-0-P805	Q43-P1313-Q2430415-8779b9c5-0		P805	'statement is subject of'@en	unknown	
+Q43-P1313-Q2430415-8779b9c5-0-P805-ckgP1	Q43-P1313-Q2430415-8779b9c5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P1313-Q1723031-3505eb8d-0	Q45	'Portugal'@en	P1313	'office held by head of government'@en	Q1723031	'Prime Minister of Portugal'@en
+Q45-P1313-Q1723031-3505eb8d-0-P805	Q45-P1313-Q1723031-3505eb8d-0		P805	'statement is subject of'@en	unknown	
+Q45-P1313-Q1723031-3505eb8d-0-P805-ckgP1	Q45-P1313-Q1723031-3505eb8d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P1313-Q3058109-8b579db5-0	Q55	'Netherlands'@en	P1313	'office held by head of government'@en	Q3058109	'Prime Minister of the Netherlands'@en
+Q55-P1313-Q3058109-8b579db5-0-P805	Q55-P1313-Q3058109-8b579db5-0		P805	'statement is subject of'@en	unknown	
+Q55-P1313-Q3058109-8b579db5-0-P805-ckgP1	Q55-P1313-Q3058109-8b579db5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P1313-Q6088449-a1729bba-0	Q750	'Bolivia'@en	P1313	'office held by head of government'@en	Q6088449	'Supreme Protector of the Peru–Bolivian Confederation'@en
+Q750-P1313-Q6088449-a1729bba-0-P805	Q750-P1313-Q6088449-a1729bba-0		P805	'statement is subject of'@en	unknown	
+Q750-P1313-Q6088449-a1729bba-0-P805-ckgP1	Q750-P1313-Q6088449-a1729bba-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P1313-Q373548-7fca9c08-0	Q750	'Bolivia'@en	P1313	'office held by head of government'@en	Q373548	'president of Bolivia'@en
+Q750-P1313-Q373548-7fca9c08-0-P805	Q750-P1313-Q373548-7fca9c08-0		P805	'statement is subject of'@en	unknown	
+Q750-P1313-Q373548-7fca9c08-0-P805-ckgP1	Q750-P1313-Q373548-7fca9c08-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P1313-Q208487-41c66407-0	Q801	'Israel'@en	P1313	'office held by head of government'@en	Q208487	'Prime Minister of Israel'@en
+Q801-P1313-Q208487-41c66407-0-P805	Q801-P1313-Q208487-41c66407-0		P805	'statement is subject of'@en	unknown	
+Q801-P1313-Q208487-41c66407-0-P805-ckgP1	Q801-P1313-Q208487-41c66407-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q142-P1906-Q191954-6aef5329-0	Q142	'France'@en	P1906	'office held by head of state'@en	Q191954	'President of the French Republic'@en
+Q142-P1906-Q191954-6aef5329-0-P580	Q142-P1906-Q191954-6aef5329-0		P580	'start time'@en	unknown	
+Q142-P1906-Q191954-6aef5329-0-P580-ckgT1	Q142-P1906-Q191954-6aef5329-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q145-P1906-Q9134365-98d6b0b5-0	Q145	'United Kingdom'@en	P1906	'office held by head of state'@en	Q9134365	'monarch of the United Kingdom'@en
+Q145-P1906-Q9134365-98d6b0b5-0-P580	Q145-P1906-Q9134365-98d6b0b5-0		P580	'start time'@en	unknown	
+Q145-P1906-Q9134365-98d6b0b5-0-P580-ckgT1	Q145-P1906-Q9134365-98d6b0b5-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1906-Q5176750-487a82b1-0	Q155	'Brazil'@en	P1906	'office held by head of state'@en	Q5176750	'President of Brazil'@en
+Q155-P1906-Q5176750-487a82b1-0-P580	Q155-P1906-Q5176750-487a82b1-0		P580	'start time'@en	unknown	
+Q155-P1906-Q5176750-487a82b1-0-P580-ckgT1	Q155-P1906-Q5176750-487a82b1-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q183-P1906-Q25223-41a85125-0	Q183	'Germany'@en	P1906	'office held by head of state'@en	Q25223	'president of Germany'@en
+Q183-P1906-Q25223-41a85125-0-P580	Q183-P1906-Q25223-41a85125-0		P580	'start time'@en	unknown	
+Q183-P1906-Q25223-41a85125-0-P580-ckgT1	Q183-P1906-Q25223-41a85125-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q20-P1906-Q1294765-09eb1994-0	Q20	'Norway'@en	P1906	'office held by head of state'@en	Q1294765	'Monarch of Norway'@en
+Q20-P1906-Q1294765-09eb1994-0-P580	Q20-P1906-Q1294765-09eb1994-0		P580	'start time'@en	unknown	
+Q20-P1906-Q1294765-09eb1994-0-P580-ckgT1	Q20-P1906-Q1294765-09eb1994-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q258-P1906-Q273884-e1d9a361-0	Q258	'South Africa'@en	P1906	'office held by head of state'@en	Q273884	'President of South Africa'@en
+Q258-P1906-Q273884-e1d9a361-0-P580	Q258-P1906-Q273884-e1d9a361-0		P580	'start time'@en	unknown	
+Q258-P1906-Q273884-e1d9a361-0-P580-ckgT1	Q258-P1906-Q273884-e1d9a361-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q29-P1906-Q3847454-74a5b44f-0	Q29	'Spain'@en	P1906	'office held by head of state'@en	Q3847454	'monarch of Spain'@en
+Q29-P1906-Q3847454-74a5b44f-0-P580	Q29-P1906-Q3847454-74a5b44f-0		P580	'start time'@en	unknown	
+Q29-P1906-Q3847454-74a5b44f-0-P580-ckgT1	Q29-P1906-Q3847454-74a5b44f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q31-P1906-Q13592862-9de48f6d-0	Q31	'Belgium'@en	P1906	'office held by head of state'@en	Q13592862	'Monarch of the Belgians'@en
+Q31-P1906-Q13592862-9de48f6d-0-P580	Q31-P1906-Q13592862-9de48f6d-0		P580	'start time'@en	unknown	
+Q31-P1906-Q13592862-9de48f6d-0-P580-ckgT1	Q31-P1906-Q13592862-9de48f6d-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q33-P1906-Q29558-53d8274b-0	Q33	'Finland'@en	P1906	'office held by head of state'@en	Q29558	'President of Finland'@en
+Q33-P1906-Q29558-53d8274b-0-P580	Q33-P1906-Q29558-53d8274b-0		P580	'start time'@en	unknown	
+Q33-P1906-Q29558-53d8274b-0-P580-ckgT1	Q33-P1906-Q29558-53d8274b-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q34-P1906-Q1268572-cc9c943a-0	Q34	'Sweden'@en	P1906	'office held by head of state'@en	Q1268572	'Monarch of Sweden'@en
+Q34-P1906-Q1268572-cc9c943a-0-P580	Q34-P1906-Q1268572-cc9c943a-0		P580	'start time'@en	unknown	
+Q34-P1906-Q1268572-cc9c943a-0-P580-ckgT1	Q34-P1906-Q1268572-cc9c943a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q35-P1906-Q18341329-f480d3b2-0	Q35	'Denmark'@en	P1906	'office held by head of state'@en	Q18341329	'monarch of Denmark'@en
+Q35-P1906-Q18341329-f480d3b2-0-P580	Q35-P1906-Q18341329-f480d3b2-0		P580	'start time'@en	unknown	
+Q35-P1906-Q18341329-f480d3b2-0-P580-ckgT1	Q35-P1906-Q18341329-f480d3b2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q38-P1906-Q332711-3cd71082-0	Q38	'Italy'@en	P1906	'office held by head of state'@en	Q332711	'President of Italy'@en
+Q38-P1906-Q332711-3cd71082-0-P580	Q38-P1906-Q332711-3cd71082-0		P580	'start time'@en	unknown	
+Q38-P1906-Q332711-3cd71082-0-P580-ckgT1	Q38-P1906-Q332711-3cd71082-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q43-P1906-Q1922067-f09d3b17-0	Q43	'Turkey'@en	P1906	'office held by head of state'@en	Q1922067	'President of Turkey'@en
+Q43-P1906-Q1922067-f09d3b17-0-P580	Q43-P1906-Q1922067-f09d3b17-0		P580	'start time'@en	unknown	
+Q43-P1906-Q1922067-f09d3b17-0-P580-ckgT1	Q43-P1906-Q1922067-f09d3b17-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45-P1906-Q322459-8e804cfe-0	Q45	'Portugal'@en	P1906	'office held by head of state'@en	Q322459	'President of Portugal'@en
+Q45-P1906-Q322459-8e804cfe-0-P580	Q45-P1906-Q322459-8e804cfe-0		P580	'start time'@en	unknown	
+Q45-P1906-Q322459-8e804cfe-0-P580-ckgT1	Q45-P1906-Q322459-8e804cfe-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55-P1906-Q2045066-cc3ad48c-0	Q55	'Netherlands'@en	P1906	'office held by head of state'@en	Q2045066	'King of the Netherlands'@en
+Q55-P1906-Q2045066-cc3ad48c-0-P580	Q55-P1906-Q2045066-cc3ad48c-0		P580	'start time'@en	unknown	
+Q55-P1906-Q2045066-cc3ad48c-0-P580-ckgT1	Q55-P1906-Q2045066-cc3ad48c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q750-P1906-Q373548-66c69c6f-0	Q750	'Bolivia'@en	P1906	'office held by head of state'@en	Q373548	'president of Bolivia'@en
+Q750-P1906-Q373548-66c69c6f-0-P580	Q750-P1906-Q373548-66c69c6f-0		P580	'start time'@en	unknown	
+Q750-P1906-Q373548-66c69c6f-0-P580-ckgT1	Q750-P1906-Q373548-66c69c6f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q142-P1906-Q191954-6aef5329-0	Q142	'France'@en	P1906	'office held by head of state'@en	Q191954	'President of the French Republic'@en
+Q142-P1906-Q191954-6aef5329-0-P805	Q142-P1906-Q191954-6aef5329-0		P805	'statement is subject of'@en	unknown	
+Q142-P1906-Q191954-6aef5329-0-P805-ckgP1	Q142-P1906-Q191954-6aef5329-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q145-P1906-Q9134365-98d6b0b5-0	Q145	'United Kingdom'@en	P1906	'office held by head of state'@en	Q9134365	'monarch of the United Kingdom'@en
+Q145-P1906-Q9134365-98d6b0b5-0-P805	Q145-P1906-Q9134365-98d6b0b5-0		P805	'statement is subject of'@en	unknown	
+Q145-P1906-Q9134365-98d6b0b5-0-P805-ckgP1	Q145-P1906-Q9134365-98d6b0b5-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P1906-Q5176750-487a82b1-0	Q155	'Brazil'@en	P1906	'office held by head of state'@en	Q5176750	'President of Brazil'@en
+Q155-P1906-Q5176750-487a82b1-0-P805	Q155-P1906-Q5176750-487a82b1-0		P805	'statement is subject of'@en	unknown	
+Q155-P1906-Q5176750-487a82b1-0-P805-ckgP1	Q155-P1906-Q5176750-487a82b1-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q159-P1906-Q218295-929891cd-0	Q159	'Russia'@en	P1906	'office held by head of state'@en	Q218295	'President of Russia'@en
+Q159-P1906-Q218295-929891cd-0-P805	Q159-P1906-Q218295-929891cd-0		P805	'statement is subject of'@en	unknown	
+Q159-P1906-Q218295-929891cd-0-P805-ckgP1	Q159-P1906-Q218295-929891cd-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P1906-Q14931511-c3c85b99-0	Q16	'Canada'@en	P1906	'office held by head of state'@en	Q14931511	'monarch of Canada'@en
+Q16-P1906-Q14931511-c3c85b99-0-P805	Q16-P1906-Q14931511-c3c85b99-0		P805	'statement is subject of'@en	unknown	
+Q16-P1906-Q14931511-c3c85b99-0-P805-ckgP1	Q16-P1906-Q14931511-c3c85b99-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q16-P1906-Q9134365-c91d1868-0	Q16	'Canada'@en	P1906	'office held by head of state'@en	Q9134365	'monarch of the United Kingdom'@en
+Q16-P1906-Q9134365-c91d1868-0-P805	Q16-P1906-Q9134365-c91d1868-0		P805	'statement is subject of'@en	unknown	
+Q16-P1906-Q9134365-c91d1868-0-P805-ckgP1	Q16-P1906-Q9134365-c91d1868-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q183-P1906-Q25223-41a85125-0	Q183	'Germany'@en	P1906	'office held by head of state'@en	Q25223	'president of Germany'@en
+Q183-P1906-Q25223-41a85125-0-P805	Q183-P1906-Q25223-41a85125-0		P805	'statement is subject of'@en	unknown	
+Q183-P1906-Q25223-41a85125-0-P805-ckgP1	Q183-P1906-Q25223-41a85125-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q20-P1906-Q1294765-09eb1994-0	Q20	'Norway'@en	P1906	'office held by head of state'@en	Q1294765	'Monarch of Norway'@en
+Q20-P1906-Q1294765-09eb1994-0-P805	Q20-P1906-Q1294765-09eb1994-0		P805	'statement is subject of'@en	unknown	
+Q20-P1906-Q1294765-09eb1994-0-P805-ckgP1	Q20-P1906-Q1294765-09eb1994-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q258-P1906-Q273884-e1d9a361-0	Q258	'South Africa'@en	P1906	'office held by head of state'@en	Q273884	'President of South Africa'@en
+Q258-P1906-Q273884-e1d9a361-0-P805	Q258-P1906-Q273884-e1d9a361-0		P805	'statement is subject of'@en	unknown	
+Q258-P1906-Q273884-e1d9a361-0-P805-ckgP1	Q258-P1906-Q273884-e1d9a361-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q29-P1906-Q3847454-74a5b44f-0	Q29	'Spain'@en	P1906	'office held by head of state'@en	Q3847454	'monarch of Spain'@en
+Q29-P1906-Q3847454-74a5b44f-0-P805	Q29-P1906-Q3847454-74a5b44f-0		P805	'statement is subject of'@en	unknown	
+Q29-P1906-Q3847454-74a5b44f-0-P805-ckgP1	Q29-P1906-Q3847454-74a5b44f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q31-P1906-Q13592862-9de48f6d-0	Q31	'Belgium'@en	P1906	'office held by head of state'@en	Q13592862	'Monarch of the Belgians'@en
+Q31-P1906-Q13592862-9de48f6d-0-P805	Q31-P1906-Q13592862-9de48f6d-0		P805	'statement is subject of'@en	unknown	
+Q31-P1906-Q13592862-9de48f6d-0-P805-ckgP1	Q31-P1906-Q13592862-9de48f6d-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q33-P1906-Q29558-53d8274b-0	Q33	'Finland'@en	P1906	'office held by head of state'@en	Q29558	'President of Finland'@en
+Q33-P1906-Q29558-53d8274b-0-P805	Q33-P1906-Q29558-53d8274b-0		P805	'statement is subject of'@en	unknown	
+Q33-P1906-Q29558-53d8274b-0-P805-ckgP1	Q33-P1906-Q29558-53d8274b-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q34-P1906-Q1268572-cc9c943a-0	Q34	'Sweden'@en	P1906	'office held by head of state'@en	Q1268572	'Monarch of Sweden'@en
+Q34-P1906-Q1268572-cc9c943a-0-P805	Q34-P1906-Q1268572-cc9c943a-0		P805	'statement is subject of'@en	unknown	
+Q34-P1906-Q1268572-cc9c943a-0-P805-ckgP1	Q34-P1906-Q1268572-cc9c943a-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q35-P1906-Q18341329-f480d3b2-0	Q35	'Denmark'@en	P1906	'office held by head of state'@en	Q18341329	'monarch of Denmark'@en
+Q35-P1906-Q18341329-f480d3b2-0-P805	Q35-P1906-Q18341329-f480d3b2-0		P805	'statement is subject of'@en	unknown	
+Q35-P1906-Q18341329-f480d3b2-0-P805-ckgP1	Q35-P1906-Q18341329-f480d3b2-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q38-P1906-Q332711-3cd71082-0	Q38	'Italy'@en	P1906	'office held by head of state'@en	Q332711	'President of Italy'@en
+Q38-P1906-Q332711-3cd71082-0-P805	Q38-P1906-Q332711-3cd71082-0		P805	'statement is subject of'@en	unknown	
+Q38-P1906-Q332711-3cd71082-0-P805-ckgP1	Q38-P1906-Q332711-3cd71082-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q43-P1906-Q1922067-f09d3b17-0	Q43	'Turkey'@en	P1906	'office held by head of state'@en	Q1922067	'President of Turkey'@en
+Q43-P1906-Q1922067-f09d3b17-0-P805	Q43-P1906-Q1922067-f09d3b17-0		P805	'statement is subject of'@en	unknown	
+Q43-P1906-Q1922067-f09d3b17-0-P805-ckgP1	Q43-P1906-Q1922067-f09d3b17-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P1906-Q322459-8e804cfe-0	Q45	'Portugal'@en	P1906	'office held by head of state'@en	Q322459	'President of Portugal'@en
+Q45-P1906-Q322459-8e804cfe-0-P805	Q45-P1906-Q322459-8e804cfe-0		P805	'statement is subject of'@en	unknown	
+Q45-P1906-Q322459-8e804cfe-0-P805-ckgP1	Q45-P1906-Q322459-8e804cfe-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P1906-Q2045066-cc3ad48c-0	Q55	'Netherlands'@en	P1906	'office held by head of state'@en	Q2045066	'King of the Netherlands'@en
+Q55-P1906-Q2045066-cc3ad48c-0-P805	Q55-P1906-Q2045066-cc3ad48c-0		P805	'statement is subject of'@en	unknown	
+Q55-P1906-Q2045066-cc3ad48c-0-P805-ckgP1	Q55-P1906-Q2045066-cc3ad48c-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q750-P1906-Q373548-66c69c6f-0	Q750	'Bolivia'@en	P1906	'office held by head of state'@en	Q373548	'president of Bolivia'@en
+Q750-P1906-Q373548-66c69c6f-0-P805	Q750-P1906-Q373548-66c69c6f-0		P805	'statement is subject of'@en	unknown	
+Q750-P1906-Q373548-66c69c6f-0-P805-ckgP1	Q750-P1906-Q373548-66c69c6f-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P1906-Q327948-99889ee0-0	Q801	'Israel'@en	P1906	'office held by head of state'@en	Q327948	'President of Israel'@en
+Q801-P1906-Q327948-99889ee0-0-P805	Q801-P1906-Q327948-99889ee0-0		P805	'statement is subject of'@en	unknown	
+Q801-P1906-Q327948-99889ee0-0-P805-ckgP1	Q801-P1906-Q327948-99889ee0-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q801-P1906-Q62119441-b59fc8a4-0	Q801	'Israel'@en	P1906	'office held by head of state'@en	Q62119441	'President of the Provisional State Council'@en
+Q801-P1906-Q62119441-b59fc8a4-0-P805	Q801-P1906-Q62119441-b59fc8a4-0		P805	'statement is subject of'@en	unknown	
+Q801-P1906-Q62119441-b59fc8a4-0-P805-ckgP1	Q801-P1906-Q62119441-b59fc8a4-0-P805		ckgr9	ckg:Context Type	ckgP1	Provenance

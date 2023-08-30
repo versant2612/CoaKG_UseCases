@@ -1,0 +1,23 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q142-P36-Q90-5141a3e9-0	Q142	'France'@en	P36	'capital'@en	Q90	'Paris'@en
+Q145-P36-Q84-f7211115-0	Q145	'United Kingdom'@en	P36	'capital'@en	Q84	'London'@en
+Q155-P36-Q2844-dc7767a2-0	Q155	'Brazil'@en	P36	'capital'@en	Q2844	'Brasília'@en
+Q159-P36-Q649-fd4ccdb3-0	Q159	'Russia'@en	P36	'capital'@en	Q649	'Moscow'@en
+Q183-P36-Q64-18e5392d-0	Q183	'Germany'@en	P36	'capital'@en	Q64	'Berlin'@en
+Q20-P36-Q585-67ea8c51-0	Q20	'Norway'@en	P36	'capital'@en	Q585	'Oslo'@en
+Q258-P36-Q37701-738a02d9-0	Q258	'South Africa'@en	P36	'capital'@en	Q37701	'Bloemfontein'@en
+Q258-P36-Q5465-0120ff57-0	Q258	'South Africa'@en	P36	'capital'@en	Q5465	'Cape Town'@en
+Q258-P36-Q3926-c1f34160-0	Q258	'South Africa'@en	P36	'capital'@en	Q3926	'Pretoria'@en
+Q29-P36-Q2807-8982ea2d-0	Q29	'Spain'@en	P36	'capital'@en	Q2807	'Madrid'@en
+Q31-P36-Q239-74e71cdb-0	Q31	'Belgium'@en	P36	'capital'@en	Q239	'City of Brussels'@en
+Q33-P36-Q1757-ee38c31d-0	Q33	'Finland'@en	P36	'capital'@en	Q1757	'Helsinki'@en
+Q34-P36-Q1754-9f0d0374-0	Q34	'Sweden'@en	P36	'capital'@en	Q1754	'Stockholm'@en
+Q35-P36-Q1748-f8cf5998-0	Q35	'Denmark'@en	P36	'capital'@en	Q1748	'Copenhagen'@en
+Q38-P36-Q220-e324c297-0	Q38	'Italy'@en	P36	'capital'@en	Q220	'Rome'@en
+Q43-P36-Q3640-25dfd373-0	Q43	'Turkey'@en	P36	'capital'@en	Q3640	'Ankara'@en
+Q45-P36-Q597-d1cfbdbf-0	Q45	'Portugal'@en	P36	'capital'@en	Q597	'Lisbon'@en
+Q55-P36-Q727-ad66a50a-0	Q55	'Netherlands'@en	P36	'capital'@en	Q727	'Amsterdam'@en
+Q55-P36-Q36600-7c306f5e-0	Q55	'Netherlands'@en	P36	'capital'@en	Q36600	'The Hague'@en
+Q750-P36-Q1491-349c7a24-0	Q750	'Bolivia'@en	P36	'capital'@en	Q1491	'La Paz'@en
+Q750-P36-Q2907-6fa08a5f-0	Q750	'Bolivia'@en	P36	'capital'@en	Q2907	'Sucre'@en
+Q801-P36-Q1218-7c37b2d8-0	Q801	'Israel'@en	P36	'capital'@en	Q1218	'Jerusalem'@en

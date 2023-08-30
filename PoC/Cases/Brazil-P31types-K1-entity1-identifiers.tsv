@@ -1,0 +1,13 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P1566-73abb6-723fef72-0	Q155	'Brazil'@en	P1566	'GeoNames ID'@en	"3469034"	
+Q155-P1566-73abb6-723fef72-0-P1566	Q155-P1566-73abb6-723fef72-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P1566-73abb6-723fef72-0	Q155	'Brazil'@en	P1566	'GeoNames ID'@en	"3469034"	
+Q155-P1566-73abb6-723fef72-0-P1566	Q155-P1566-73abb6-723fef72-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P298-b6eae4-99bceae2-0	Q155	'Brazil'@en	P298	'ISO 3166-1 alpha-3 code'@en	"BRA"	
+Q155-P298-b6eae4-99bceae2-0-P298	Q155-P298-b6eae4-99bceae2-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P298-b6eae4-99bceae2-0	Q155	'Brazil'@en	P298	'ISO 3166-1 alpha-3 code'@en	"BRA"	
+Q155-P298-b6eae4-99bceae2-0-P298	Q155-P298-b6eae4-99bceae2-0		ckgr8	ckg:Determines	ckgId	Entity Identifier

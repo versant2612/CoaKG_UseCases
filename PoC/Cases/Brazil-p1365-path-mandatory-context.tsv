@@ -1,0 +1,10 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q45670-P1365-Q1139807-037bc097-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q1139807	'County of Portugal'@en
+Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0	Q45670-P1365-Q1139807-037bc097-0		P828	'has cause'@en	Q2745374	'Treaty of Zamora'@en
+Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0-P828	Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q903779-P1365-Q45670-37b2006f-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0	Q903779-P1365-Q45670-37b2006f-0		P585	'point in time'@en	^1815-01-01T00:00:00Z/9	
+Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0-P585	Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q903779-5599931b-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0	Q45670-P1365-Q903779-5599931b-0		P585	'point in time'@en	^1822-01-01T00:00:00Z/9	
+Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0-P585	Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0		ckgr9	ckg:Context Type	ckgT1	Temporal

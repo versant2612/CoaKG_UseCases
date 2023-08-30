@@ -1,0 +1,4 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q29-P6-Q6070218-614eb5c6-0	Q29	'Spain'@en	P6	'head of government'@en	Q6070218	'Pedro Sánchez'@en
+Q29-P6-Q6070218-614eb5c6-0-P7452-Q71533355-0	Q29-P6-Q6070218-614eb5c6-0		P7452	'reason for preferred rank'@en	Q71533355	'most recent value'@en
+Q29-P6-Q6070218-614eb5c6-0-P7452-Q71533355-0-P7452	Q29-P6-Q6070218-614eb5c6-0-P7452-Q71533355-0		ckgr9	ckg:Context Type	ckgG1	Generic

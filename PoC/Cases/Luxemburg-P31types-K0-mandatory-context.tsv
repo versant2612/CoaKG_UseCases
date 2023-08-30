@@ -1,0 +1,13 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P17-Q32-ba767b2a-0	Q32	'Luxembourg'@en	P17	'country'@en	Q32	'Luxembourg'@en
+Q32-P17-Q32-ba767b2a-0-P17	Q32-P17-Q32-ba767b2a-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P17-Q32-ba767b2a-0	Q32	'Luxembourg'@en	P17	'country'@en	Q32	'Luxembourg'@en
+Q32-P17-Q32-ba767b2a-0-P17	Q32-P17-Q32-ba767b2a-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P571-895cae-e79cc2f0-0	Q32	'Luxembourg'@en	P571	'inception'@en	^1815-01-01T00:00:00Z/9	
+Q32-P571-895cae-e79cc2f0-0-P571	Q32-P571-895cae-e79cc2f0-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P571-895cae-e79cc2f0-0	Q32	'Luxembourg'@en	P571	'inception'@en	^1815-01-01T00:00:00Z/9	
+Q32-P571-895cae-e79cc2f0-0-P571	Q32-P571-895cae-e79cc2f0-0		ckgr9	ckg:Context Type	ckgT1	Temporal

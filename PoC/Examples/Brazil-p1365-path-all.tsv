@@ -1,0 +1,499 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q45670-P1365-Q1139807-037bc097-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q1139807	'County of Portugal'@en
+Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0	Q45670-P1365-Q1139807-037bc097-0		P828	'has cause'@en	Q2745374	'Treaty of Zamora'@en
+Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0-P828	Q45670-P1365-Q1139807-037bc097-0-P828-Q2745374-0		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q903779-P1365-Q45670-37b2006f-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0	Q903779-P1365-Q45670-37b2006f-0		P585	'point in time'@en	^1815-01-01T00:00:00Z/9	
+Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0-P585	Q903779-P1365-Q45670-37b2006f-0-P585-7f0101-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q903779-5599931b-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0	Q45670-P1365-Q903779-5599931b-0		P585	'point in time'@en	^1822-01-01T00:00:00Z/9	
+Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0-P585	Q45670-P1365-Q903779-5599931b-0-P585-44ea39-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+id	node1	node1;label	label	label;label	node2	node2;label
+Q45670-P1365-Q1139807-037bc097-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q1139807	'County of Portugal'@en
+Q45670-P1365-Q1139807-037bc097-0-P580	Q45670-P1365-Q1139807-037bc097-0		P580	'start time'@en	unknown	
+Q45670-P1365-Q1139807-037bc097-0-P580-ckgT1	Q45670-P1365-Q1139807-037bc097-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q1139807-037bc097-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q1139807	'County of Portugal'@en
+Q45670-P1365-Q1139807-037bc097-0-P585	Q45670-P1365-Q1139807-037bc097-0		P585	'point in time'@en	unknown	
+Q45670-P1365-Q1139807-037bc097-0-P585-ckgT1	Q45670-P1365-Q1139807-037bc097-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P1365-Q11876909-91806821-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q11876909	'State of Brazil'@en
+Q903779-P1365-Q11876909-91806821-0-P580	Q903779-P1365-Q11876909-91806821-0		P580	'start time'@en	unknown	
+Q903779-P1365-Q11876909-91806821-0-P580-ckgT1	Q903779-P1365-Q11876909-91806821-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P1365-Q11876909-91806821-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q11876909	'State of Brazil'@en
+Q903779-P1365-Q11876909-91806821-0-P585	Q903779-P1365-Q11876909-91806821-0		P585	'point in time'@en	unknown	
+Q903779-P1365-Q11876909-91806821-0-P585-ckgT1	Q903779-P1365-Q11876909-91806821-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P1365-Q11876909-91806821-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q11876909	'State of Brazil'@en
+Q903779-P1365-Q11876909-91806821-0-P828	Q903779-P1365-Q11876909-91806821-0		P828	'has cause'@en	unknown	
+Q903779-P1365-Q11876909-91806821-0-P828-ckgP1	Q903779-P1365-Q11876909-91806821-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q12560-P1365-Q12536-6074dfa5-0	Q12560	'Ottoman Empire'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q12560-P1365-Q12536-6074dfa5-0-P580	Q12560-P1365-Q12536-6074dfa5-0		P580	'start time'@en	unknown	
+Q12560-P1365-Q12536-6074dfa5-0-P580-ckgT1	Q12560-P1365-Q12536-6074dfa5-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q12560-P1365-Q12536-6074dfa5-0	Q12560	'Ottoman Empire'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q12560-P1365-Q12536-6074dfa5-0-P585	Q12560-P1365-Q12536-6074dfa5-0		P585	'point in time'@en	unknown	
+Q12560-P1365-Q12536-6074dfa5-0-P585-ckgT1	Q12560-P1365-Q12536-6074dfa5-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q12560-P1365-Q12536-6074dfa5-0	Q12560	'Ottoman Empire'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q12560-P1365-Q12536-6074dfa5-0-P828	Q12560-P1365-Q12536-6074dfa5-0		P828	'has cause'@en	unknown	
+Q12560-P1365-Q12536-6074dfa5-0-P828-ckgP1	Q12560-P1365-Q12536-6074dfa5-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q160307-P1365-Q12536-52103813-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q160307-P1365-Q12536-52103813-0-P580	Q160307-P1365-Q12536-52103813-0		P580	'start time'@en	unknown	
+Q160307-P1365-Q12536-52103813-0-P580-ckgT1	Q160307-P1365-Q12536-52103813-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q12536-52103813-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q160307-P1365-Q12536-52103813-0-P585	Q160307-P1365-Q12536-52103813-0		P585	'point in time'@en	unknown	
+Q160307-P1365-Q12536-52103813-0-P585-ckgT1	Q160307-P1365-Q12536-52103813-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q12536-52103813-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q12536	'Abbasid Caliphate'@en
+Q160307-P1365-Q12536-52103813-0-P828	Q160307-P1365-Q12536-52103813-0		P828	'has cause'@en	unknown	
+Q160307-P1365-Q12536-52103813-0-P828-ckgP1	Q160307-P1365-Q12536-52103813-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q1250763-P1365-Q160307-595ec7e0-0	Q1250763	'Emirate of Sicily'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q1250763-P1365-Q160307-595ec7e0-0-P580	Q1250763-P1365-Q160307-595ec7e0-0		P580	'start time'@en	unknown	
+Q1250763-P1365-Q160307-595ec7e0-0-P580-ckgT1	Q1250763-P1365-Q160307-595ec7e0-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1250763-P1365-Q160307-595ec7e0-0	Q1250763	'Emirate of Sicily'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q1250763-P1365-Q160307-595ec7e0-0-P585	Q1250763-P1365-Q160307-595ec7e0-0		P585	'point in time'@en	unknown	
+Q1250763-P1365-Q160307-595ec7e0-0-P585-ckgT1	Q1250763-P1365-Q160307-595ec7e0-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1250763-P1365-Q160307-595ec7e0-0	Q1250763	'Emirate of Sicily'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q1250763-P1365-Q160307-595ec7e0-0-P828	Q1250763-P1365-Q160307-595ec7e0-0		P828	'has cause'@en	unknown	
+Q1250763-P1365-Q160307-595ec7e0-0-P828-ckgP1	Q1250763-P1365-Q160307-595ec7e0-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q180114-P1365-Q160307-f361fbbb-0	Q180114	'Ayyubid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q180114-P1365-Q160307-f361fbbb-0-P580	Q180114-P1365-Q160307-f361fbbb-0		P580	'start time'@en	unknown	
+Q180114-P1365-Q160307-f361fbbb-0-P580-ckgT1	Q180114-P1365-Q160307-f361fbbb-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q180114-P1365-Q160307-f361fbbb-0	Q180114	'Ayyubid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q180114-P1365-Q160307-f361fbbb-0-P585	Q180114-P1365-Q160307-f361fbbb-0		P585	'point in time'@en	unknown	
+Q180114-P1365-Q160307-f361fbbb-0-P585-ckgT1	Q180114-P1365-Q160307-f361fbbb-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q180114-P1365-Q160307-f361fbbb-0	Q180114	'Ayyubid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q180114-P1365-Q160307-f361fbbb-0-P828	Q180114-P1365-Q160307-f361fbbb-0		P828	'has cause'@en	unknown	
+Q180114-P1365-Q160307-f361fbbb-0-P828-ckgP1	Q180114-P1365-Q160307-f361fbbb-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q189545-P1365-Q160307-7f6ab3e0-0	Q189545	'Zengid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q189545-P1365-Q160307-7f6ab3e0-0-P580	Q189545-P1365-Q160307-7f6ab3e0-0		P580	'start time'@en	unknown	
+Q189545-P1365-Q160307-7f6ab3e0-0-P580-ckgT1	Q189545-P1365-Q160307-7f6ab3e0-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q189545-P1365-Q160307-7f6ab3e0-0	Q189545	'Zengid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q189545-P1365-Q160307-7f6ab3e0-0-P585	Q189545-P1365-Q160307-7f6ab3e0-0		P585	'point in time'@en	unknown	
+Q189545-P1365-Q160307-7f6ab3e0-0-P585-ckgT1	Q189545-P1365-Q160307-7f6ab3e0-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q189545-P1365-Q160307-7f6ab3e0-0	Q189545	'Zengid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q189545-P1365-Q160307-7f6ab3e0-0-P828	Q189545-P1365-Q160307-7f6ab3e0-0		P828	'has cause'@en	unknown	
+Q189545-P1365-Q160307-7f6ab3e0-0-P828-ckgP1	Q189545-P1365-Q160307-7f6ab3e0-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q199688-P1365-Q160307-b1eb37ad-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q199688-P1365-Q160307-b1eb37ad-0-P580	Q199688-P1365-Q160307-b1eb37ad-0		P580	'start time'@en	unknown	
+Q199688-P1365-Q160307-b1eb37ad-0-P580-ckgT1	Q199688-P1365-Q160307-b1eb37ad-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P1365-Q160307-b1eb37ad-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q199688-P1365-Q160307-b1eb37ad-0-P585	Q199688-P1365-Q160307-b1eb37ad-0		P585	'point in time'@en	unknown	
+Q199688-P1365-Q160307-b1eb37ad-0-P585-ckgT1	Q199688-P1365-Q160307-b1eb37ad-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P1365-Q160307-b1eb37ad-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q199688-P1365-Q160307-b1eb37ad-0-P828	Q199688-P1365-Q160307-b1eb37ad-0		P828	'has cause'@en	unknown	
+Q199688-P1365-Q160307-b1eb37ad-0-P828-ckgP1	Q199688-P1365-Q160307-b1eb37ad-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q205718-P1365-Q160307-0f8cbd73-0	Q205718	'Zirid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q205718-P1365-Q160307-0f8cbd73-0-P580	Q205718-P1365-Q160307-0f8cbd73-0		P580	'start time'@en	unknown	
+Q205718-P1365-Q160307-0f8cbd73-0-P580-ckgT1	Q205718-P1365-Q160307-0f8cbd73-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q205718-P1365-Q160307-0f8cbd73-0	Q205718	'Zirid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q205718-P1365-Q160307-0f8cbd73-0-P585	Q205718-P1365-Q160307-0f8cbd73-0		P585	'point in time'@en	unknown	
+Q205718-P1365-Q160307-0f8cbd73-0-P585-ckgT1	Q205718-P1365-Q160307-0f8cbd73-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q205718-P1365-Q160307-0f8cbd73-0	Q205718	'Zirid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q205718-P1365-Q160307-0f8cbd73-0-P828	Q205718-P1365-Q160307-0f8cbd73-0		P828	'has cause'@en	unknown	
+Q205718-P1365-Q160307-0f8cbd73-0-P828-ckgP1	Q205718-P1365-Q160307-0f8cbd73-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q232806-P1365-Q160307-5bf1f061-0	Q232806	'County of Edessa'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q232806-P1365-Q160307-5bf1f061-0-P580	Q232806-P1365-Q160307-5bf1f061-0		P580	'start time'@en	unknown	
+Q232806-P1365-Q160307-5bf1f061-0-P580-ckgT1	Q232806-P1365-Q160307-5bf1f061-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q232806-P1365-Q160307-5bf1f061-0	Q232806	'County of Edessa'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q232806-P1365-Q160307-5bf1f061-0-P585	Q232806-P1365-Q160307-5bf1f061-0		P585	'point in time'@en	unknown	
+Q232806-P1365-Q160307-5bf1f061-0-P585-ckgT1	Q232806-P1365-Q160307-5bf1f061-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q232806-P1365-Q160307-5bf1f061-0	Q232806	'County of Edessa'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q232806-P1365-Q160307-5bf1f061-0-P828	Q232806-P1365-Q160307-5bf1f061-0		P828	'has cause'@en	unknown	
+Q232806-P1365-Q160307-5bf1f061-0-P828-ckgP1	Q232806-P1365-Q160307-5bf1f061-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q235030-P1365-Q160307-5c540cd9-0	Q235030	'Principality of Antioch'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q235030-P1365-Q160307-5c540cd9-0-P580	Q235030-P1365-Q160307-5c540cd9-0		P580	'start time'@en	unknown	
+Q235030-P1365-Q160307-5c540cd9-0-P580-ckgT1	Q235030-P1365-Q160307-5c540cd9-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q235030-P1365-Q160307-5c540cd9-0	Q235030	'Principality of Antioch'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q235030-P1365-Q160307-5c540cd9-0-P585	Q235030-P1365-Q160307-5c540cd9-0		P585	'point in time'@en	unknown	
+Q235030-P1365-Q160307-5c540cd9-0-P585-ckgT1	Q235030-P1365-Q160307-5c540cd9-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q235030-P1365-Q160307-5c540cd9-0	Q235030	'Principality of Antioch'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q235030-P1365-Q160307-5c540cd9-0-P828	Q235030-P1365-Q160307-5c540cd9-0		P828	'has cause'@en	unknown	
+Q235030-P1365-Q160307-5c540cd9-0-P828-ckgP1	Q235030-P1365-Q160307-5c540cd9-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q272033-P1365-Q160307-5c7434dd-0	Q272033	'County of Tripoli'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q272033-P1365-Q160307-5c7434dd-0-P580	Q272033-P1365-Q160307-5c7434dd-0		P580	'start time'@en	unknown	
+Q272033-P1365-Q160307-5c7434dd-0-P580-ckgT1	Q272033-P1365-Q160307-5c7434dd-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q272033-P1365-Q160307-5c7434dd-0	Q272033	'County of Tripoli'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q272033-P1365-Q160307-5c7434dd-0-P585	Q272033-P1365-Q160307-5c7434dd-0		P585	'point in time'@en	unknown	
+Q272033-P1365-Q160307-5c7434dd-0-P585-ckgT1	Q272033-P1365-Q160307-5c7434dd-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q272033-P1365-Q160307-5c7434dd-0	Q272033	'County of Tripoli'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q272033-P1365-Q160307-5c7434dd-0-P828	Q272033-P1365-Q160307-5c7434dd-0		P828	'has cause'@en	unknown	
+Q272033-P1365-Q160307-5c7434dd-0-P828-ckgP1	Q272033-P1365-Q160307-5c7434dd-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55502-P1365-Q160307-d98c1649-0	Q55502	'Kingdom of Jerusalem'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q55502-P1365-Q160307-d98c1649-0-P580	Q55502-P1365-Q160307-d98c1649-0		P580	'start time'@en	unknown	
+Q55502-P1365-Q160307-d98c1649-0-P580-ckgT1	Q55502-P1365-Q160307-d98c1649-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55502-P1365-Q160307-d98c1649-0	Q55502	'Kingdom of Jerusalem'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q55502-P1365-Q160307-d98c1649-0-P585	Q55502-P1365-Q160307-d98c1649-0		P585	'point in time'@en	unknown	
+Q55502-P1365-Q160307-d98c1649-0-P585-ckgT1	Q55502-P1365-Q160307-d98c1649-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55502-P1365-Q160307-d98c1649-0	Q55502	'Kingdom of Jerusalem'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q55502-P1365-Q160307-d98c1649-0-P828	Q55502-P1365-Q160307-d98c1649-0		P828	'has cause'@en	unknown	
+Q55502-P1365-Q160307-d98c1649-0-P828-ckgP1	Q55502-P1365-Q160307-d98c1649-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q588672-P1365-Q160307-81a9864a-0	Q588672	'Hammadid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q588672-P1365-Q160307-81a9864a-0-P580	Q588672-P1365-Q160307-81a9864a-0		P580	'start time'@en	unknown	
+Q588672-P1365-Q160307-81a9864a-0-P580-ckgT1	Q588672-P1365-Q160307-81a9864a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q588672-P1365-Q160307-81a9864a-0	Q588672	'Hammadid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q588672-P1365-Q160307-81a9864a-0-P585	Q588672-P1365-Q160307-81a9864a-0		P585	'point in time'@en	unknown	
+Q588672-P1365-Q160307-81a9864a-0-P585-ckgT1	Q588672-P1365-Q160307-81a9864a-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q588672-P1365-Q160307-81a9864a-0	Q588672	'Hammadid dynasty'@en	P1365	'replaces'@en	Q160307	'Fatimid Caliphate'@en
+Q588672-P1365-Q160307-81a9864a-0-P828	Q588672-P1365-Q160307-81a9864a-0		P828	'has cause'@en	unknown	
+Q588672-P1365-Q160307-81a9864a-0-P828-ckgP1	Q588672-P1365-Q160307-81a9864a-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q1796198-P1365-Q199688-42ec0cd3-0	Q1796198	'Kingdom of Córdoba'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796198-P1365-Q199688-42ec0cd3-0-P580	Q1796198-P1365-Q199688-42ec0cd3-0		P580	'start time'@en	unknown	
+Q1796198-P1365-Q199688-42ec0cd3-0-P580-ckgT1	Q1796198-P1365-Q199688-42ec0cd3-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1796198-P1365-Q199688-42ec0cd3-0	Q1796198	'Kingdom of Córdoba'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796198-P1365-Q199688-42ec0cd3-0-P585	Q1796198-P1365-Q199688-42ec0cd3-0		P585	'point in time'@en	unknown	
+Q1796198-P1365-Q199688-42ec0cd3-0-P585-ckgT1	Q1796198-P1365-Q199688-42ec0cd3-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1796198-P1365-Q199688-42ec0cd3-0	Q1796198	'Kingdom of Córdoba'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796198-P1365-Q199688-42ec0cd3-0-P828	Q1796198-P1365-Q199688-42ec0cd3-0		P828	'has cause'@en	unknown	
+Q1796198-P1365-Q199688-42ec0cd3-0-P828-ckgP1	Q1796198-P1365-Q199688-42ec0cd3-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q1796239-P1365-Q199688-3390142b-0	Q1796239	'Kingdom of Seville'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796239-P1365-Q199688-3390142b-0-P580	Q1796239-P1365-Q199688-3390142b-0		P580	'start time'@en	unknown	
+Q1796239-P1365-Q199688-3390142b-0-P580-ckgT1	Q1796239-P1365-Q199688-3390142b-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1796239-P1365-Q199688-3390142b-0	Q1796239	'Kingdom of Seville'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796239-P1365-Q199688-3390142b-0-P585	Q1796239-P1365-Q199688-3390142b-0		P585	'point in time'@en	unknown	
+Q1796239-P1365-Q199688-3390142b-0-P585-ckgT1	Q1796239-P1365-Q199688-3390142b-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1796239-P1365-Q199688-3390142b-0	Q1796239	'Kingdom of Seville'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q1796239-P1365-Q199688-3390142b-0-P828	Q1796239-P1365-Q199688-3390142b-0		P828	'has cause'@en	unknown	
+Q1796239-P1365-Q199688-3390142b-0-P828-ckgP1	Q1796239-P1365-Q199688-3390142b-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45670-P1365-Q199688-33fd9675-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q45670-P1365-Q199688-33fd9675-0-P580	Q45670-P1365-Q199688-33fd9675-0		P580	'start time'@en	unknown	
+Q45670-P1365-Q199688-33fd9675-0-P580-ckgT1	Q45670-P1365-Q199688-33fd9675-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q199688-33fd9675-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q45670-P1365-Q199688-33fd9675-0-P585	Q45670-P1365-Q199688-33fd9675-0		P585	'point in time'@en	unknown	
+Q45670-P1365-Q199688-33fd9675-0-P585-ckgT1	Q45670-P1365-Q199688-33fd9675-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q199688-33fd9675-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q45670-P1365-Q199688-33fd9675-0-P828	Q45670-P1365-Q199688-33fd9675-0		P828	'has cause'@en	unknown	
+Q45670-P1365-Q199688-33fd9675-0-P828-ckgP1	Q45670-P1365-Q199688-33fd9675-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q582861-P1365-Q199688-4bcd5af2-0	Q582861	'Marinid Dynasty'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q582861-P1365-Q199688-4bcd5af2-0-P580	Q582861-P1365-Q199688-4bcd5af2-0		P580	'start time'@en	unknown	
+Q582861-P1365-Q199688-4bcd5af2-0-P580-ckgT1	Q582861-P1365-Q199688-4bcd5af2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q582861-P1365-Q199688-4bcd5af2-0	Q582861	'Marinid Dynasty'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q582861-P1365-Q199688-4bcd5af2-0-P585	Q582861-P1365-Q199688-4bcd5af2-0		P585	'point in time'@en	unknown	
+Q582861-P1365-Q199688-4bcd5af2-0-P585-ckgT1	Q582861-P1365-Q199688-4bcd5af2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q582861-P1365-Q199688-4bcd5af2-0	Q582861	'Marinid Dynasty'@en	P1365	'replaces'@en	Q199688	'Almohad Caliphate'@en
+Q582861-P1365-Q199688-4bcd5af2-0-P828	Q582861-P1365-Q199688-4bcd5af2-0		P828	'has cause'@en	unknown	
+Q582861-P1365-Q199688-4bcd5af2-0-P828-ckgP1	Q582861-P1365-Q199688-4bcd5af2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q75613-P1365-Q205708-537b2af0-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q205708	'Taifa of Granada'@en
+Q75613-P1365-Q205708-537b2af0-0-P580	Q75613-P1365-Q205708-537b2af0-0		P580	'start time'@en	unknown	
+Q75613-P1365-Q205708-537b2af0-0-P580-ckgT1	Q75613-P1365-Q205708-537b2af0-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q205708-537b2af0-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q205708	'Taifa of Granada'@en
+Q75613-P1365-Q205708-537b2af0-0-P585	Q75613-P1365-Q205708-537b2af0-0		P585	'point in time'@en	unknown	
+Q75613-P1365-Q205708-537b2af0-0-P585-ckgT1	Q75613-P1365-Q205708-537b2af0-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q205708-537b2af0-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q205708	'Taifa of Granada'@en
+Q75613-P1365-Q205708-537b2af0-0-P828	Q75613-P1365-Q205708-537b2af0-0		P828	'has cause'@en	unknown	
+Q75613-P1365-Q205708-537b2af0-0-P828-ckgP1	Q75613-P1365-Q205708-537b2af0-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q160307-P1365-Q207600-f82e8f77-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q207600	'Aghlabids'@en
+Q160307-P1365-Q207600-f82e8f77-0-P580	Q160307-P1365-Q207600-f82e8f77-0		P580	'start time'@en	unknown	
+Q160307-P1365-Q207600-f82e8f77-0-P580-ckgT1	Q160307-P1365-Q207600-f82e8f77-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q207600-f82e8f77-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q207600	'Aghlabids'@en
+Q160307-P1365-Q207600-f82e8f77-0-P585	Q160307-P1365-Q207600-f82e8f77-0		P585	'point in time'@en	unknown	
+Q160307-P1365-Q207600-f82e8f77-0-P585-ckgT1	Q160307-P1365-Q207600-f82e8f77-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q207600-f82e8f77-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q207600	'Aghlabids'@en
+Q160307-P1365-Q207600-f82e8f77-0-P828	Q160307-P1365-Q207600-f82e8f77-0		P828	'has cause'@en	unknown	
+Q160307-P1365-Q207600-f82e8f77-0-P828-ckgP1	Q160307-P1365-Q207600-f82e8f77-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P1365-Q217230-19ed8df2-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q217230	'Empire of Brazil'@en
+Q155-P1365-Q217230-19ed8df2-0-P580	Q155-P1365-Q217230-19ed8df2-0		P580	'start time'@en	unknown	
+Q155-P1365-Q217230-19ed8df2-0-P580-ckgT1	Q155-P1365-Q217230-19ed8df2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q217230-19ed8df2-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q217230	'Empire of Brazil'@en
+Q155-P1365-Q217230-19ed8df2-0-P585	Q155-P1365-Q217230-19ed8df2-0		P585	'point in time'@en	unknown	
+Q155-P1365-Q217230-19ed8df2-0-P585-ckgT1	Q155-P1365-Q217230-19ed8df2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q217230-19ed8df2-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q217230	'Empire of Brazil'@en
+Q155-P1365-Q217230-19ed8df2-0-P828	Q155-P1365-Q217230-19ed8df2-0		P828	'has cause'@en	unknown	
+Q155-P1365-Q217230-19ed8df2-0-P828-ckgP1	Q155-P1365-Q217230-19ed8df2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q5947557-P1365-Q267484-fc20b913-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P1365	'replaces'@en	Q267484	'Taifa of Málaga'@en
+Q5947557-P1365-Q267484-fc20b913-0-P580	Q5947557-P1365-Q267484-fc20b913-0		P580	'start time'@en	unknown	
+Q5947557-P1365-Q267484-fc20b913-0-P580-ckgT1	Q5947557-P1365-Q267484-fc20b913-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q5947557-P1365-Q267484-fc20b913-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P1365	'replaces'@en	Q267484	'Taifa of Málaga'@en
+Q5947557-P1365-Q267484-fc20b913-0-P585	Q5947557-P1365-Q267484-fc20b913-0		P585	'point in time'@en	unknown	
+Q5947557-P1365-Q267484-fc20b913-0-P585-ckgT1	Q5947557-P1365-Q267484-fc20b913-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q5947557-P1365-Q267484-fc20b913-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P1365	'replaces'@en	Q267484	'Taifa of Málaga'@en
+Q5947557-P1365-Q267484-fc20b913-0-P828	Q5947557-P1365-Q267484-fc20b913-0		P828	'has cause'@en	unknown	
+Q5947557-P1365-Q267484-fc20b913-0-P828-ckgP1	Q5947557-P1365-Q267484-fc20b913-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q217230-P1365-Q3932042-f47ad438-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q3932042	'Kingdom of Brazil'@en
+Q217230-P1365-Q3932042-f47ad438-0-P580	Q217230-P1365-Q3932042-f47ad438-0		P580	'start time'@en	unknown	
+Q217230-P1365-Q3932042-f47ad438-0-P580-ckgT1	Q217230-P1365-Q3932042-f47ad438-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P1365-Q3932042-f47ad438-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q3932042	'Kingdom of Brazil'@en
+Q217230-P1365-Q3932042-f47ad438-0-P585	Q217230-P1365-Q3932042-f47ad438-0		P585	'point in time'@en	unknown	
+Q217230-P1365-Q3932042-f47ad438-0-P585-ckgT1	Q217230-P1365-Q3932042-f47ad438-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P1365-Q3932042-f47ad438-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q3932042	'Kingdom of Brazil'@en
+Q217230-P1365-Q3932042-f47ad438-0-P828	Q217230-P1365-Q3932042-f47ad438-0		P828	'has cause'@en	unknown	
+Q217230-P1365-Q3932042-f47ad438-0-P828-ckgP1	Q217230-P1365-Q3932042-f47ad438-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q160307-P1365-Q431575-15dafac2-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q431575	'Idrisid dynasty'@en
+Q160307-P1365-Q431575-15dafac2-0-P580	Q160307-P1365-Q431575-15dafac2-0		P580	'start time'@en	unknown	
+Q160307-P1365-Q431575-15dafac2-0-P580-ckgT1	Q160307-P1365-Q431575-15dafac2-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q431575-15dafac2-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q431575	'Idrisid dynasty'@en
+Q160307-P1365-Q431575-15dafac2-0-P585	Q160307-P1365-Q431575-15dafac2-0		P585	'point in time'@en	unknown	
+Q160307-P1365-Q431575-15dafac2-0-P585-ckgT1	Q160307-P1365-Q431575-15dafac2-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q431575-15dafac2-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q431575	'Idrisid dynasty'@en
+Q160307-P1365-Q431575-15dafac2-0-P828	Q160307-P1365-Q431575-15dafac2-0		P828	'has cause'@en	unknown	
+Q160307-P1365-Q431575-15dafac2-0-P828-ckgP1	Q160307-P1365-Q431575-15dafac2-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45-P1365-Q45670-84f93933-0	Q45	'Portugal'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q45-P1365-Q45670-84f93933-0-P580	Q45-P1365-Q45670-84f93933-0		P580	'start time'@en	unknown	
+Q45-P1365-Q45670-84f93933-0-P580-ckgT1	Q45-P1365-Q45670-84f93933-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45-P1365-Q45670-84f93933-0	Q45	'Portugal'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q45-P1365-Q45670-84f93933-0-P585	Q45-P1365-Q45670-84f93933-0		P585	'point in time'@en	unknown	
+Q45-P1365-Q45670-84f93933-0-P585-ckgT1	Q45-P1365-Q45670-84f93933-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45-P1365-Q45670-84f93933-0	Q45	'Portugal'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q45-P1365-Q45670-84f93933-0-P828	Q45-P1365-Q45670-84f93933-0		P828	'has cause'@en	unknown	
+Q45-P1365-Q45670-84f93933-0-P828-ckgP1	Q45-P1365-Q45670-84f93933-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q903779-P1365-Q45670-37b2006f-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q903779-P1365-Q45670-37b2006f-0-P580	Q903779-P1365-Q45670-37b2006f-0		P580	'start time'@en	unknown	
+Q903779-P1365-Q45670-37b2006f-0-P580-ckgT1	Q903779-P1365-Q45670-37b2006f-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P1365-Q45670-37b2006f-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P1365	'replaces'@en	Q45670	'Kingdom of Portugal'@en
+Q903779-P1365-Q45670-37b2006f-0-P828	Q903779-P1365-Q45670-37b2006f-0		P828	'has cause'@en	unknown	
+Q903779-P1365-Q45670-37b2006f-0-P828-ckgP1	Q903779-P1365-Q45670-37b2006f-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en
+Q155-P1365-Q5848654-abcbe521-0-P580	Q155-P1365-Q5848654-abcbe521-0		P580	'start time'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P580-ckgT1	Q155-P1365-Q5848654-abcbe521-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en
+Q155-P1365-Q5848654-abcbe521-0-P585	Q155-P1365-Q5848654-abcbe521-0		P585	'point in time'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P585-ckgT1	Q155-P1365-Q5848654-abcbe521-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P1365-Q5848654-abcbe521-0	Q155	'Brazil'@en	P1365	'replaces'@en	Q5848654	'Republic of the United States of Brazil'@en
+Q155-P1365-Q5848654-abcbe521-0-P828	Q155-P1365-Q5848654-abcbe521-0		P828	'has cause'@en	unknown	
+Q155-P1365-Q5848654-abcbe521-0-P828-ckgP1	Q155-P1365-Q5848654-abcbe521-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q75613-P1365-Q5947557-f0fbc408-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q5947557	'Taifa of Ceuta (1061-1084)'@en
+Q75613-P1365-Q5947557-f0fbc408-0-P580	Q75613-P1365-Q5947557-f0fbc408-0		P580	'start time'@en	unknown	
+Q75613-P1365-Q5947557-f0fbc408-0-P580-ckgT1	Q75613-P1365-Q5947557-f0fbc408-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q5947557-f0fbc408-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q5947557	'Taifa of Ceuta (1061-1084)'@en
+Q75613-P1365-Q5947557-f0fbc408-0-P585	Q75613-P1365-Q5947557-f0fbc408-0		P585	'point in time'@en	unknown	
+Q75613-P1365-Q5947557-f0fbc408-0-P585-ckgT1	Q75613-P1365-Q5947557-f0fbc408-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q5947557-f0fbc408-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q5947557	'Taifa of Ceuta (1061-1084)'@en
+Q75613-P1365-Q5947557-f0fbc408-0-P828	Q75613-P1365-Q5947557-f0fbc408-0		P828	'has cause'@en	unknown	
+Q75613-P1365-Q5947557-f0fbc408-0-P828-ckgP1	Q75613-P1365-Q5947557-f0fbc408-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q199688-P1365-Q75613-2b6891d0-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q75613	'Almoravid dynasty'@en
+Q199688-P1365-Q75613-2b6891d0-0-P580	Q199688-P1365-Q75613-2b6891d0-0		P580	'start time'@en	unknown	
+Q199688-P1365-Q75613-2b6891d0-0-P580-ckgT1	Q199688-P1365-Q75613-2b6891d0-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P1365-Q75613-2b6891d0-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q75613	'Almoravid dynasty'@en
+Q199688-P1365-Q75613-2b6891d0-0-P585	Q199688-P1365-Q75613-2b6891d0-0		P585	'point in time'@en	unknown	
+Q199688-P1365-Q75613-2b6891d0-0-P585-ckgT1	Q199688-P1365-Q75613-2b6891d0-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P1365-Q75613-2b6891d0-0	Q199688	'Almohad Caliphate'@en	P1365	'replaces'@en	Q75613	'Almoravid dynasty'@en
+Q199688-P1365-Q75613-2b6891d0-0-P828	Q199688-P1365-Q75613-2b6891d0-0		P828	'has cause'@en	unknown	
+Q199688-P1365-Q75613-2b6891d0-0-P828-ckgP1	Q199688-P1365-Q75613-2b6891d0-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q160307-P1365-Q828665-8c65ac0c-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q828665	'Ikhshidid dynasty'@en
+Q160307-P1365-Q828665-8c65ac0c-0-P580	Q160307-P1365-Q828665-8c65ac0c-0		P580	'start time'@en	unknown	
+Q160307-P1365-Q828665-8c65ac0c-0-P580-ckgT1	Q160307-P1365-Q828665-8c65ac0c-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q828665-8c65ac0c-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q828665	'Ikhshidid dynasty'@en
+Q160307-P1365-Q828665-8c65ac0c-0-P585	Q160307-P1365-Q828665-8c65ac0c-0		P585	'point in time'@en	unknown	
+Q160307-P1365-Q828665-8c65ac0c-0-P585-ckgT1	Q160307-P1365-Q828665-8c65ac0c-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q828665-8c65ac0c-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q828665	'Ikhshidid dynasty'@en
+Q160307-P1365-Q828665-8c65ac0c-0-P828	Q160307-P1365-Q828665-8c65ac0c-0		P828	'has cause'@en	unknown	
+Q160307-P1365-Q828665-8c65ac0c-0-P828-ckgP1	Q160307-P1365-Q828665-8c65ac0c-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q217230-P1365-Q903779-bfbd464b-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q217230-P1365-Q903779-bfbd464b-0-P580	Q217230-P1365-Q903779-bfbd464b-0		P580	'start time'@en	unknown	
+Q217230-P1365-Q903779-bfbd464b-0-P580-ckgT1	Q217230-P1365-Q903779-bfbd464b-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P1365-Q903779-bfbd464b-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q217230-P1365-Q903779-bfbd464b-0-P585	Q217230-P1365-Q903779-bfbd464b-0		P585	'point in time'@en	unknown	
+Q217230-P1365-Q903779-bfbd464b-0-P585-ckgT1	Q217230-P1365-Q903779-bfbd464b-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P1365-Q903779-bfbd464b-0	Q217230	'Empire of Brazil'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q217230-P1365-Q903779-bfbd464b-0-P828	Q217230-P1365-Q903779-bfbd464b-0		P828	'has cause'@en	unknown	
+Q217230-P1365-Q903779-bfbd464b-0-P828-ckgP1	Q217230-P1365-Q903779-bfbd464b-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q45670-P1365-Q903779-5599931b-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q45670-P1365-Q903779-5599931b-0-P580	Q45670-P1365-Q903779-5599931b-0		P580	'start time'@en	unknown	
+Q45670-P1365-Q903779-5599931b-0-P580-ckgT1	Q45670-P1365-Q903779-5599931b-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P1365-Q903779-5599931b-0	Q45670	'Kingdom of Portugal'@en	P1365	'replaces'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q45670-P1365-Q903779-5599931b-0-P828	Q45670-P1365-Q903779-5599931b-0		P828	'has cause'@en	unknown	
+Q45670-P1365-Q903779-5599931b-0-P828-ckgP1	Q45670-P1365-Q903779-5599931b-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q160307-P1365-Q940123-f40012b0-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q940123	'Rustamid dynasty'@en
+Q160307-P1365-Q940123-f40012b0-0-P580	Q160307-P1365-Q940123-f40012b0-0		P580	'start time'@en	unknown	
+Q160307-P1365-Q940123-f40012b0-0-P580-ckgT1	Q160307-P1365-Q940123-f40012b0-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q940123-f40012b0-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q940123	'Rustamid dynasty'@en
+Q160307-P1365-Q940123-f40012b0-0-P585	Q160307-P1365-Q940123-f40012b0-0		P585	'point in time'@en	unknown	
+Q160307-P1365-Q940123-f40012b0-0-P585-ckgT1	Q160307-P1365-Q940123-f40012b0-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P1365-Q940123-f40012b0-0	Q160307	'Fatimid Caliphate'@en	P1365	'replaces'@en	Q940123	'Rustamid dynasty'@en
+Q160307-P1365-Q940123-f40012b0-0-P828	Q160307-P1365-Q940123-f40012b0-0		P828	'has cause'@en	unknown	
+Q160307-P1365-Q940123-f40012b0-0-P828-ckgP1	Q160307-P1365-Q940123-f40012b0-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q75613-P1365-Q965692-203baff7-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q965692	'taifa (first period)'@en
+Q75613-P1365-Q965692-203baff7-0-P580	Q75613-P1365-Q965692-203baff7-0		P580	'start time'@en	unknown	
+Q75613-P1365-Q965692-203baff7-0-P580-ckgT1	Q75613-P1365-Q965692-203baff7-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q965692-203baff7-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q965692	'taifa (first period)'@en
+Q75613-P1365-Q965692-203baff7-0-P585	Q75613-P1365-Q965692-203baff7-0		P585	'point in time'@en	unknown	
+Q75613-P1365-Q965692-203baff7-0-P585-ckgT1	Q75613-P1365-Q965692-203baff7-0-P585		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P1365-Q965692-203baff7-0	Q75613	'Almoravid dynasty'@en	P1365	'replaces'@en	Q965692	'taifa (first period)'@en
+Q75613-P1365-Q965692-203baff7-0-P828	Q75613-P1365-Q965692-203baff7-0		P828	'has cause'@en	unknown	
+Q75613-P1365-Q965692-203baff7-0-P828-ckgP1	Q75613-P1365-Q965692-203baff7-0-P828		ckgr9	ckg:Context Type	ckgP1	Provenance
+id	node1	node1;label	label	label;label	node2	node2;label
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	P31	Q3624078	'sovereign state'@en
+Q217230-P576-613a9d-c8558178-0	Q217230	'Empire of Brazil'@en	P576	'dissolved, abolished or demolished date'@en	^1889-11-15T00:00:00Z/11	
+Q217230-P576-613a9d-c8558178-0-P576	Q217230-P576-613a9d-c8558178-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	P31	Q3624078	'sovereign state'@en
+Q903779-P576-9c5ecd-7c4cf98c-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P576	'dissolved, abolished or demolished date'@en	^1822-09-07T00:00:00Z/11	
+Q903779-P576-9c5ecd-7c4cf98c-0-P576	Q903779-P576-9c5ecd-7c4cf98c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	P31	Q3024240	'historical country'@en
+Q1139807-P576-e42ac7-4cf5e2bf-0	Q1139807	'County of Portugal'@en	P576	'dissolved, abolished or demolished date'@en	^1139-01-01T00:00:00Z/9	
+Q1139807-P576-e42ac7-4cf5e2bf-0-P576	Q1139807-P576-e42ac7-4cf5e2bf-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q11876909-P31-Q3024240-63949960-0	Q11876909	'State of Brazil'@en	P31	P31	Q3024240	'historical country'@en
+Q11876909-P576-895cae-3256228c-0	Q11876909	'State of Brazil'@en	P576	'dissolved, abolished or demolished date'@en	^1815-01-01T00:00:00Z/9	
+Q11876909-P576-895cae-3256228c-0-P576	Q11876909-P576-895cae-3256228c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q12536-P31-Q3024240-e8c1f841-0	Q12536	'Abbasid Caliphate'@en	P31	P31	Q3024240	'historical country'@en
+Q12536-P576-2b441b-5e6218e0-0	Q12536	'Abbasid Caliphate'@en	P576	'dissolved, abolished or demolished date'@en	^1258-01-01T00:00:00Z/9	
+Q12536-P576-2b441b-5e6218e0-0-P576	Q12536-P576-2b441b-5e6218e0-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P31-Q3024240-41ba6b4a-0	Q160307	'Fatimid Caliphate'@en	P31	P31	Q3024240	'historical country'@en
+Q160307-P576-8ccd4a-a9490280-0	Q160307	'Fatimid Caliphate'@en	P576	'dissolved, abolished or demolished date'@en	^1171-01-01T00:00:00Z/9	
+Q160307-P576-8ccd4a-a9490280-0-P576	Q160307-P576-8ccd4a-a9490280-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P31-Q3024240-d6fa313c-0	Q199688	'Almohad Caliphate'@en	P31	P31	Q3024240	'historical country'@en
+Q199688-P576-424159-5411b8a6-0	Q199688	'Almohad Caliphate'@en	P576	'dissolved, abolished or demolished date'@en	^1269-01-01T00:00:00Z/9	
+Q199688-P576-424159-5411b8a6-0-P576	Q199688-P576-424159-5411b8a6-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q205708-P31-Q3024240-5d5fea3a-0	Q205708	'Taifa of Granada'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q205708-P576-d8d288-86ac61b1-0	Q205708	'Taifa of Granada'@en	P576	'dissolved, abolished or demolished date'@en	^1090-01-01T00:00:00Z/9	
+Q205708-P576-d8d288-86ac61b1-0-P576	Q205708-P576-d8d288-86ac61b1-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q207600-P31-Q3024240-52fff96a-0	Q207600	'Aghlabids'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q207600-P576-fe8b9b-0d7e82a8-0	Q207600	'Aghlabids'@en	P576	'dissolved, abolished or demolished date'@en	^0909-01-01T00:00:00Z/9	
+Q207600-P576-fe8b9b-0d7e82a8-0-P576	Q207600-P576-fe8b9b-0d7e82a8-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P31-Q3024240-0e78bec7-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q217230-P576-613a9d-c8558178-0	Q217230	'Empire of Brazil'@en	P576	'dissolved, abolished or demolished date'@en	^1889-11-15T00:00:00Z/11	
+Q217230-P576-613a9d-c8558178-0-P576	Q217230-P576-613a9d-c8558178-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q267484-P31-Q3024240-030d8112-0	Q267484	'Taifa of Málaga'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q267484-P576-30cc1c-1f503dae-0	Q267484	'Taifa of Málaga'@en	P576	'dissolved, abolished or demolished date'@en	^1239-01-01T00:00:00Z/9	
+Q267484-P576-30cc1c-1f503dae-0-P576	Q267484-P576-30cc1c-1f503dae-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q431575-P31-Q3024240-c47f4bb1-0	Q431575	'Idrisid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q431575-P576-b1cc0d-fbe949d6-0	Q431575	'Idrisid dynasty'@en	P576	'dissolved, abolished or demolished date'@en	^0974-01-01T00:00:00Z/9	
+Q431575-P576-b1cc0d-fbe949d6-0-P576	Q431575-P576-b1cc0d-fbe949d6-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P576-6d24e9-910670d6-0	Q45670	'Kingdom of Portugal'@en	P576	'dissolved, abolished or demolished date'@en	^1910-10-05T00:00:00Z/11	
+Q45670-P576-6d24e9-910670d6-0-P576	Q45670-P576-6d24e9-910670d6-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q5947557-P31-Q3024240-6609bc93-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q5947557-P576-e3c63c-4ca54981-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P576	'dissolved, abolished or demolished date'@en	^1084-01-01T00:00:00Z/9	
+Q5947557-P576-e3c63c-4ca54981-0-P576	Q5947557-P576-e3c63c-4ca54981-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P576-f13ef7-5772fa03-0	Q75613	'Almoravid dynasty'@en	P576	'dissolved, abolished or demolished date'@en	^1147-01-01T00:00:00Z/9	
+Q75613-P576-f13ef7-5772fa03-0-P576	Q75613-P576-f13ef7-5772fa03-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q828665-P31-Q3024240-2fbc6ef2-0	Q828665	'Ikhshidid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q828665-P576-149fbe-c1ef8741-0	Q828665	'Ikhshidid dynasty'@en	P576	'dissolved, abolished or demolished date'@en	^0969-01-01T00:00:00Z/9	
+Q828665-P576-149fbe-c1ef8741-0-P576	Q828665-P576-149fbe-c1ef8741-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P31-Q3024240-c8351482-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q903779-P576-9c5ecd-7c4cf98c-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P576	'dissolved, abolished or demolished date'@en	^1822-09-07T00:00:00Z/11	
+Q903779-P576-9c5ecd-7c4cf98c-0-P576	Q903779-P576-9c5ecd-7c4cf98c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q940123-P31-Q3024240-b13a150e-0	Q940123	'Rustamid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q940123-P576-149fbe-59900b6d-0	Q940123	'Rustamid dynasty'@en	P576	'dissolved, abolished or demolished date'@en	^0969-01-01T00:00:00Z/9	
+Q940123-P576-149fbe-59900b6d-0-P576	Q940123-P576-149fbe-59900b6d-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q217230-P30-Q18-9d189008-0	Q217230	'Empire of Brazil'@en	P30	'continent'@en	Q18	'South America'@en
+Q217230-P30-Q18-9d189008-0-P30	Q217230-P30-Q18-9d189008-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q15-d25cb508-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q15	'Africa'@en
+Q903779-P30-Q15-d25cb508-0-P30	Q903779-P30-Q15-d25cb508-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q48-0bbf540d-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q48	'Asia'@en
+Q903779-P30-Q48-0bbf540d-0-P30	Q903779-P30-Q48-0bbf540d-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q46-dbe755be-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q46	'Europe'@en
+Q903779-P30-Q46-dbe755be-0-P30	Q903779-P30-Q46-dbe755be-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P30-Q18-ed1d41f5-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P30	'continent'@en	Q18	'South America'@en
+Q903779-P30-Q18-ed1d41f5-0-P30	Q903779-P30-Q18-ed1d41f5-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q217230-P17-Q217230-69e8c07c-0	Q217230	'Empire of Brazil'@en	P17	'country'@en	Q217230	'Empire of Brazil'@en
+Q217230-P17-Q217230-69e8c07c-0-P17	Q217230-P17-Q217230-69e8c07c-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P17-Q903779-ae724695-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P17	'country'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q903779-P17-Q903779-ae724695-0-P17	Q903779-P17-Q903779-ae724695-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q1139807-P17-Q231392-57d23ee3-0	Q1139807	'County of Portugal'@en	P17	'country'@en	Q231392	'Kingdom of Asturias'@en
+Q1139807-P17-Q231392-57d23ee3-0-P17	Q1139807-P17-Q231392-57d23ee3-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q1139807-P17-Q303421-997e016b-0	Q1139807	'County of Portugal'@en	P17	'country'@en	Q303421	'Kingdom of Galicia'@en
+Q1139807-P17-Q303421-997e016b-0-P17	Q1139807-P17-Q303421-997e016b-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q1139807-P17-Q175276-1a871042-0	Q1139807	'County of Portugal'@en	P17	'country'@en	Q175276	'Kingdom of León'@en
+Q1139807-P17-Q175276-1a871042-0-P17	Q1139807-P17-Q175276-1a871042-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q1139807-P17-Q175276-3efb2a16-0	Q1139807	'County of Portugal'@en	P17	'country'@en	Q175276	'Kingdom of León'@en
+Q1139807-P17-Q175276-3efb2a16-0-P17	Q1139807-P17-Q175276-3efb2a16-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q11876909-P31-Q3024240-63949960-0	Q11876909	'State of Brazil'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q11876909-P17-Q200464-ab4b958d-0	Q11876909	'State of Brazil'@en	P17	'country'@en	Q200464	'Portuguese Empire'@en
+Q11876909-P17-Q200464-ab4b958d-0-P17	Q11876909-P17-Q200464-ab4b958d-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q205708-P31-Q3024240-5d5fea3a-0	Q205708	'Taifa of Granada'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q205708-P17-Q29-90d3aec6-0	Q205708	'Taifa of Granada'@en	P17	'country'@en	Q29	'Spain'@en
+Q205708-P17-Q29-90d3aec6-0-P17	Q205708-P17-Q29-90d3aec6-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q217230-P31-Q3024240-0e78bec7-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q217230-P17-Q217230-69e8c07c-0	Q217230	'Empire of Brazil'@en	P17	'country'@en	Q217230	'Empire of Brazil'@en
+Q217230-P17-Q217230-69e8c07c-0-P17	Q217230-P17-Q217230-69e8c07c-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q267484-P31-Q3024240-030d8112-0	Q267484	'Taifa of Málaga'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q267484-P17-Q29-8edf21ca-0	Q267484	'Taifa of Málaga'@en	P17	'country'@en	Q29	'Spain'@en
+Q267484-P17-Q29-8edf21ca-0-P17	Q267484-P17-Q29-8edf21ca-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q431575-P31-Q3024240-c47f4bb1-0	Q431575	'Idrisid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q431575-P17-Q1028-853f3a8c-0	Q431575	'Idrisid dynasty'@en	P17	'country'@en	Q1028	'Morocco'@en
+Q431575-P17-Q1028-853f3a8c-0-P17	Q431575-P17-Q1028-853f3a8c-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P17-Q377350-8e1682a0-0	Q45670	'Kingdom of Portugal'@en	P17	'country'@en	Q377350	'Iberian Union'@en
+Q45670-P17-Q377350-8e1682a0-0-P17	Q45670-P17-Q377350-8e1682a0-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P17-Q45670-52633fb7-0	Q45670	'Kingdom of Portugal'@en	P17	'country'@en	Q45670	'Kingdom of Portugal'@en
+Q45670-P17-Q45670-52633fb7-0-P17	Q45670-P17-Q45670-52633fb7-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P17-Q45670-764707c9-0	Q45670	'Kingdom of Portugal'@en	P17	'country'@en	Q45670	'Kingdom of Portugal'@en
+Q45670-P17-Q45670-764707c9-0-P17	Q45670-P17-Q45670-764707c9-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P17-Q45670-e31808ee-0	Q45670	'Kingdom of Portugal'@en	P17	'country'@en	Q45670	'Kingdom of Portugal'@en
+Q45670-P17-Q45670-e31808ee-0-P17	Q45670-P17-Q45670-e31808ee-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P17-Q903779-9b8203a5-0	Q45670	'Kingdom of Portugal'@en	P17	'country'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q45670-P17-Q903779-9b8203a5-0-P17	Q45670-P17-Q903779-9b8203a5-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q5947557-P31-Q3024240-6609bc93-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q5947557-P17-Q29-06d57964-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P17	'country'@en	Q29	'Spain'@en
+Q5947557-P17-Q29-06d57964-0-P17	Q5947557-P17-Q29-06d57964-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P17-Q262-b657d147-0	Q75613	'Almoravid dynasty'@en	P17	'country'@en	Q262	'Algeria'@en
+Q75613-P17-Q262-b657d147-0-P17	Q75613-P17-Q262-b657d147-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P17-Q1025-3a41ae39-0	Q75613	'Almoravid dynasty'@en	P17	'country'@en	Q1025	'Mauritania'@en
+Q75613-P17-Q1025-3a41ae39-0-P17	Q75613-P17-Q1025-3a41ae39-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P17-Q1028-c4a8d09a-0	Q75613	'Almoravid dynasty'@en	P17	'country'@en	Q1028	'Morocco'@en
+Q75613-P17-Q1028-c4a8d09a-0-P17	Q75613-P17-Q1028-c4a8d09a-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P17-Q123559-0eb4ec27-0	Q75613	'Almoravid dynasty'@en	P17	'country'@en	Q123559	'al-Andalus'@en
+Q75613-P17-Q123559-0eb4ec27-0-P17	Q75613-P17-Q123559-0eb4ec27-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q903779-P31-Q3024240-c8351482-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q903779-P17-Q903779-ae724695-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P17	'country'@en	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en
+Q903779-P17-Q903779-ae724695-0-P17	Q903779-P17-Q903779-ae724695-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q217230-P31-Q3624078-4b3c9905-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q217230-P571-9c5ecd-090e9117-0	Q217230	'Empire of Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
+Q217230-P571-9c5ecd-090e9117-0-P571	Q217230-P571-9c5ecd-090e9117-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P31-Q3624078-224d7720-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q903779-P571-70afb4-8ba6a7d2-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P571	'inception'@en	^1815-12-16T00:00:00Z/11	
+Q903779-P571-70afb4-8ba6a7d2-0-P571	Q903779-P571-70afb4-8ba6a7d2-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q1139807-P31-Q3024240-e26bbdb4-0	Q1139807	'County of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q1139807-P571-2e5157-e41a63b1-0	Q1139807	'County of Portugal'@en	P571	'inception'@en	^0868-01-01T00:00:00Z/9	
+Q1139807-P571-2e5157-e41a63b1-0-P571	Q1139807-P571-2e5157-e41a63b1-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q11876909-P31-Q3024240-63949960-0	Q11876909	'State of Brazil'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q11876909-P571-df34ef-3f84fbde-0	Q11876909	'State of Brazil'@en	P571	'inception'@en	^1621-06-13T00:00:00Z/11	
+Q11876909-P571-df34ef-3f84fbde-0-P571	Q11876909-P571-df34ef-3f84fbde-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q12536-P31-Q3024240-e8c1f841-0	Q12536	'Abbasid Caliphate'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q12536-P571-4aa902-e0e4aab3-0	Q12536	'Abbasid Caliphate'@en	P571	'inception'@en	^0750-01-01T00:00:00Z/9	
+Q12536-P571-4aa902-e0e4aab3-0-P571	Q12536-P571-4aa902-e0e4aab3-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q160307-P31-Q3024240-41ba6b4a-0	Q160307	'Fatimid Caliphate'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q160307-P571-fe8b9b-c32bebca-0	Q160307	'Fatimid Caliphate'@en	P571	'inception'@en	^0909-01-01T00:00:00Z/9	
+Q160307-P571-fe8b9b-c32bebca-0-P571	Q160307-P571-fe8b9b-c32bebca-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q199688-P31-Q3024240-d6fa313c-0	Q199688	'Almohad Caliphate'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q199688-P571-259d6e-320b40dc-0	Q199688	'Almohad Caliphate'@en	P571	'inception'@en	^1121-01-01T00:00:00Z/9	
+Q199688-P571-259d6e-320b40dc-0-P571	Q199688-P571-259d6e-320b40dc-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q205708-P31-Q3024240-5d5fea3a-0	Q205708	'Taifa of Granada'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q205708-P571-956463-da24ef23-0	Q205708	'Taifa of Granada'@en	P571	'inception'@en	^1013-01-01T00:00:00Z/9	
+Q205708-P571-956463-da24ef23-0-P571	Q205708-P571-956463-da24ef23-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q207600-P31-Q3024240-52fff96a-0	Q207600	'Aghlabids'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q207600-P571-e7cab4-fd3be35f-0	Q207600	'Aghlabids'@en	P571	'inception'@en	^0800-01-01T00:00:00Z/9	
+Q207600-P571-e7cab4-fd3be35f-0-P571	Q207600-P571-e7cab4-fd3be35f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q217230-P31-Q3024240-0e78bec7-0	Q217230	'Empire of Brazil'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q217230-P571-9c5ecd-090e9117-0	Q217230	'Empire of Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
+Q217230-P571-9c5ecd-090e9117-0-P571	Q217230-P571-9c5ecd-090e9117-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q267484-P31-Q3024240-030d8112-0	Q267484	'Taifa of Málaga'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q267484-P571-2aa7b2-fd9a076f-0	Q267484	'Taifa of Málaga'@en	P571	'inception'@en	^1026-01-01T00:00:00Z/9	
+Q267484-P571-2aa7b2-fd9a076f-0-P571	Q267484-P571-2aa7b2-fd9a076f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q431575-P31-Q3024240-c47f4bb1-0	Q431575	'Idrisid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q431575-P571-095a81-e9e62889-0	Q431575	'Idrisid dynasty'@en	P571	'inception'@en	^0788-01-01T00:00:00Z/9	
+Q431575-P571-095a81-e9e62889-0-P571	Q431575-P571-095a81-e9e62889-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q45670-P31-Q3024240-e7dcd8f0-0	Q45670	'Kingdom of Portugal'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q45670-P571-a5e4f1-40436e2a-0	Q45670	'Kingdom of Portugal'@en	P571	'inception'@en	^1139-07-26T00:00:00Z/11	
+Q45670-P571-a5e4f1-40436e2a-0-P571	Q45670-P571-a5e4f1-40436e2a-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q5947557-P31-Q3024240-6609bc93-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q5947557-P571-2ff832-416dbac1-0	Q5947557	'Taifa of Ceuta (1061-1084)'@en	P571	'inception'@en	^1061-01-01T00:00:00Z/9	
+Q5947557-P571-2ff832-416dbac1-0-P571	Q5947557-P571-2ff832-416dbac1-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q75613-P31-Q3024240-2e27517f-0	Q75613	'Almoravid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q75613-P571-451126-befd441f-0	Q75613	'Almoravid dynasty'@en	P571	'inception'@en	^1040-01-01T00:00:00Z/9	
+Q75613-P571-451126-befd441f-0-P571	Q75613-P571-451126-befd441f-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q828665-P31-Q3024240-2fbc6ef2-0	Q828665	'Ikhshidid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q828665-P571-c339e7-57c8dc5c-0	Q828665	'Ikhshidid dynasty'@en	P571	'inception'@en	^0935-01-01T00:00:00Z/9	
+Q828665-P571-c339e7-57c8dc5c-0-P571	Q828665-P571-c339e7-57c8dc5c-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q903779-P31-Q3024240-c8351482-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q903779-P571-70afb4-8ba6a7d2-0	Q903779	'United Kingdom of Portugal, Brazil and the Algarves'@en	P571	'inception'@en	^1815-12-16T00:00:00Z/11	
+Q903779-P571-70afb4-8ba6a7d2-0-P571	Q903779-P571-70afb4-8ba6a7d2-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q940123-P31-Q3024240-b13a150e-0	Q940123	'Rustamid dynasty'@en	P31	'instance of'@en	Q3024240	'historical country'@en
+Q940123-P571-e025ff-c1f00d1e-0	Q940123	'Rustamid dynasty'@en	P571	'inception'@en	^0767-01-01T00:00:00Z/9	
+Q940123-P571-e025ff-c1f00d1e-0-P571	Q940123-P571-e025ff-c1f00d1e-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+

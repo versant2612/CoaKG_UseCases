@@ -1,0 +1,12 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P36-Q2844-dc7767a2-0	Q155	'Brazil'@en	P36	'capital'@en	Q2844	'Brasília'@en
+Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0	Q155-P36-Q2844-dc7767a2-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
+Q155-P36-Q2844-dc7767a2-0-P580-a40689-0	Q155-P36-Q2844-dc7767a2-0		P580	'start time'@en	^1960-04-22T00:00:00Z/11	
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0	Q155-P36-Q2844-dc7767a2-0		P92	'main regulatory text'@en	Q2386422	'Constitution of Brazil'@en
+Q155-P36-Q2844-dc7767a2-0-ckgr3	Q155-P36-Q2844-dc7767a2-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854	Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0		P854	'reference URL'@en	http://www.planalto.gov.br/ccivil_03/Constituicao/ConstituicaoCompilado.htm	
+Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0-P5102	Q155-P36-Q2844-dc7767a2-0-P5102-Q132555-0		ckgr9	ckg:Context Type	ckgG1	Generic
+Q155-P36-Q2844-dc7767a2-0-P580-a40689-0-P580	Q155-P36-Q2844-dc7767a2-0-P580-a40689-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P92	Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854-ckgP1	Q155-P36-Q2844-dc7767a2-0-P92-Q2386422-0-P854		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q155-P36-Q2844-dc7767a2-0-ckgr3-ckgT1	Q155-P36-Q2844-dc7767a2-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal

@@ -1,0 +1,25 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q971-P31-Q3624078-331eeb2e-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q971-P1566-43780f-1fcf4e11-0	Q971	'Republic of the Congo'@en	P1566	'GeoNames ID'@en	"2260494"	
+Q971-P1566-43780f-1fcf4e11-0-P1566	Q971-P1566-43780f-1fcf4e11-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q971-P31-Q6256-a01f8795-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q971-P1566-43780f-1fcf4e11-0	Q971	'Republic of the Congo'@en	P1566	'GeoNames ID'@en	"2260494"	
+Q971-P1566-43780f-1fcf4e11-0-P1566	Q971-P1566-43780f-1fcf4e11-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q971-P31-Q3624078-331eeb2e-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q971-P298-d93931-d19e4946-0	Q971	'Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COG"	
+Q971-P298-d93931-d19e4946-0-P298	Q971-P298-d93931-d19e4946-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q971-P31-Q6256-a01f8795-0	Q971	'Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q971-P298-d93931-d19e4946-0	Q971	'Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COG"	
+Q971-P298-d93931-d19e4946-0-P298	Q971-P298-d93931-d19e4946-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P1566-8ec5aa-8bc02dba-0	Q974	'Democratic Republic of the Congo'@en	P1566	'GeoNames ID'@en	"203312"	
+Q974-P1566-8ec5aa-8bc02dba-0-P1566	Q974-P1566-8ec5aa-8bc02dba-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P1566-8ec5aa-8bc02dba-0	Q974	'Democratic Republic of the Congo'@en	P1566	'GeoNames ID'@en	"203312"	
+Q974-P1566-8ec5aa-8bc02dba-0-P1566	Q974-P1566-8ec5aa-8bc02dba-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P31-Q3624078-07f99e15-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q974-P298-7571fb-35b6152e-0	Q974	'Democratic Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COD"	
+Q974-P298-7571fb-35b6152e-0-P298	Q974-P298-7571fb-35b6152e-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q974-P31-Q6256-63e9d026-0	Q974	'Democratic Republic of the Congo'@en	P31	'instance of'@en	Q6256	'country'@en
+Q974-P298-7571fb-35b6152e-0	Q974	'Democratic Republic of the Congo'@en	P298	'ISO 3166-1 alpha-3 code'@en	"COD"	
+Q974-P298-7571fb-35b6152e-0-P298	Q974-P298-7571fb-35b6152e-0		ckgr8	ckg:Determines	ckgId	Entity Identifier

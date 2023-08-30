@@ -1,0 +1,543 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q32-P10234-82b60b-70212c0c-0	Q32	'Luxembourg'@en	P10234	'Der Spiegel topic ID'@en	"luxembourg_en"	
+Q32-P10234-9eb1c9-ae521f0c-0	Q32	'Luxembourg'@en	P10234	'Der Spiegel topic ID'@en	"luxemburg"	
+Q32-P10291-619115-b39e73fe-0	Q32	'Luxembourg'@en	P10291	'Wikisimpsons ID'@en	"136225"	
+Q32-P10297-4944cc-facdf3b6-0	Q32	'Luxembourg'@en	P10297	'Google Arts & Culture entity ID'@en	"m04g61"	
+Q32-P1036-6209e5-10bf9075-0	Q32	'Luxembourg'@en	P1036	'Dewey Decimal Classification'@en	"2--4935"	
+Q32-P10456-3a1ed3-37ba22bd-0	Q32	'Luxembourg'@en	P10456	'Urban Electric Transit country ID'@en	"81"	
+Q32-P10730-e0f52e-186105b5-0	Q32	'Luxembourg'@en	P10730	'Data Commons ID'@en	"country/LUX"	
+Q32-P1081-068470-ef412544-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.889	
+Q32-P1081-0937d9-56e3c009-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.861	
+Q32-P1081-14e14f-fec4c438-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.863	
+Q32-P1081-175742-16131cde-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.888	
+Q32-P1081-175742-37fe8257-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.888	
+Q32-P1081-175742-aa65a9b6-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.888	
+Q32-P1081-1c5ca0-eb8db451-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.881	
+Q32-P1081-200681-58f83310-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.886	
+Q32-P1081-2036d8-03dfd5ec-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.795	
+Q32-P1081-22f8dc-42384237-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.805	
+Q32-P1081-238633-f97775b8-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.752	
+Q32-P1081-2a0c83-1f7a5fac-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.849	
+Q32-P1081-434944-67f93532-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.779	
+Q32-P1081-436528-7d52a293-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.892	
+Q32-P1081-436528-c1f75c66-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.892	
+Q32-P1081-436528-ceaa07c0-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.892	
+Q32-P1081-436528-fb801919-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.892	
+Q32-P1081-52e316-e7841307-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.782	
+Q32-P1081-556185-2ec1c850-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.890	
+Q32-P1081-556185-cd776ec0-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.890	
+Q32-P1081-5a875a-5d883931-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.899	
+Q32-P1081-5acd80-aa78bc66-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.799	
+Q32-P1081-5f9a60-5652c04b-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.826	
+Q32-P1081-6615c5-18fe6e12-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.880	
+Q32-P1081-9580f1-06de9e6e-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.808	
+Q32-P1081-aa188f-345e87ec-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.855	
+Q32-P1081-ab4a9c-70ab912e-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.719	
+Q32-P1081-ab56ba-a08ded10-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.872	
+Q32-P1081-b3b0f8-1d59433a-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.895	
+Q32-P1081-c0abb6-ae807c67-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.851	
+Q32-P1081-c0c2d1-a707dccf-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.883	
+Q32-P1081-c11529-f96f3d25-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.834	
+Q32-P1081-cf133d-c3c53ed1-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.878	
+Q32-P1081-d3e37b-ba400678-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.790	
+Q32-P1081-e01a99-e3f15d6b-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.904	
+Q32-P1081-e01a99-eb8f321b-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.904	
+Q32-P1081-e36c61-77869f47-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.803	
+Q32-P1081-ebae44-ac346d24-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.817	
+Q32-P1081-f3bce1-7a5d9618-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.864	
+Q32-P1081-f85dc0-0d104a46-0	Q32	'Luxembourg'@en	P1081	'Human Development Index'@en	+0.916	
+Q32-P1082-0321e9-73becd10-0	Q32	'Luxembourg'@en	P1082	'population'@en	+381850	
+Q32-P1082-0868ea-b889d554-0	Q32	'Luxembourg'@en	P1082	'population'@en	+613900	
+Q32-P1082-0a65cd-97ad74a8-0	Q32	'Luxembourg'@en	P1082	'population'@en	+436300	
+Q32-P1082-0d3541-11ee927c-0	Q32	'Luxembourg'@en	P1082	'population'@en	+392175	
+Q32-P1082-0d5859-2a0a888a-0	Q32	'Luxembourg'@en	P1082	'population'@en	+626108	
+Q32-P1082-0e0dac-dcc4cd34-0	Q32	'Luxembourg'@en	P1082	'population'@en	+335850	
+Q32-P1082-0e1b6d-819f3048-0	Q32	'Luxembourg'@en	P1082	'population'@en	+419450	
+Q32-P1082-129508-5815f684-0	Q32	'Luxembourg'@en	P1082	'population'@en	+602000	
+Q32-P1082-135e19-a52902bd-0	Q32	'Luxembourg'@en	P1082	'population'@en	+316845	
+Q32-P1082-1c85a0-5532cb01-0	Q32	'Luxembourg'@en	P1082	'population'@en	+368355	
+Q32-P1082-2722ee-ea1a99f2-0	Q32	'Luxembourg'@en	P1082	'population'@en	+414225	
+Q32-P1082-28a0d9-c31721f5-0	Q32	'Luxembourg'@en	P1082	'population'@en	+350450	
+Q32-P1082-2d150b-d85f7721-0	Q32	'Luxembourg'@en	P1082	'population'@en	+472637	
+Q32-P1082-379335-9e5a9bfd-0	Q32	'Luxembourg'@en	P1082	'population'@en	+441525	
+Q32-P1082-3d8394-d146cc95-0	Q32	'Luxembourg'@en	P1082	'population'@en	+408625	
+Q32-P1082-41671e-7d56a115-0	Q32	'Luxembourg'@en	P1082	'population'@en	+387000	
+Q32-P1082-41db6e-93385eda-0	Q32	'Luxembourg'@en	P1082	'population'@en	+543360	
+Q32-P1082-427aa1-29a35ab2-0	Q32	'Luxembourg'@en	P1082	'population'@en	+506953	
+Q32-P1082-455e82-ce8aaff4-0	Q32	'Luxembourg'@en	P1082	'population'@en	+479993	
+Q32-P1082-4d433f-9dced69f-0	Q32	'Luxembourg'@en	P1082	'population'@en	+320750	
+Q32-P1082-51d8bb-c8af062a-0	Q32	'Luxembourg'@en	P1082	'population'@en	+373450	
+Q32-P1082-54d97a-a9f18c58-0	Q32	'Luxembourg'@en	P1082	'population'@en	+518347	
+Q32-P1082-593d03-e81d2cf2-0	Q32	'Luxembourg'@en	P1082	'population'@en	+342421	
+Q32-P1082-5c6083-0ebbbc76-0	Q32	'Luxembourg'@en	P1082	'population'@en	+430475	
+Q32-P1082-5e43f6-5cd946e5-0	Q32	'Luxembourg'@en	P1082	'population'@en	+339171	
+Q32-P1082-63a4eb-dbeaa662-0	Q32	'Luxembourg'@en	P1082	'population'@en	+331500	
+Q32-P1082-66bb82-5eec8fa5-0	Q32	'Luxembourg'@en	P1082	'population'@en	+364150	
+Q32-P1082-6a4efe-7b99e3c4-0	Q32	'Luxembourg'@en	P1082	'population'@en	+337500	
+Q32-P1082-6e41d9-e8187301-0	Q32	'Luxembourg'@en	P1082	'population'@en	+346600	
+Q32-P1082-793227-a36886a0-0	Q32	'Luxembourg'@en	P1082	'population'@en	+358950	
+Q32-P1082-7be28d-42d77da8-0	Q32	'Luxembourg'@en	P1082	'population'@en	+362856	
+Q32-P1082-82198c-a8bbfbb2-0	Q32	'Luxembourg'@en	P1082	'population'@en	+313970	
+Q32-P1082-856de8-cdcf1a7d-0	Q32	'Luxembourg'@en	P1082	'population'@en	+366706	
+Q32-P1082-86c64c-fe55727e-0	Q32	'Luxembourg'@en	P1082	'population'@en	+424700	
+Q32-P1082-89c784-6b56c562-0	Q32	'Luxembourg'@en	P1082	'population'@en	+497783	
+Q32-P1082-8bbb6a-5119b2e4-0	Q32	'Luxembourg'@en	P1082	'population'@en	+365225	
+Q32-P1082-925729-992fdcf6-0	Q32	'Luxembourg'@en	P1082	'population'@en	+446175	
+Q32-P1082-9a0805-b9a0f30b-0	Q32	'Luxembourg'@en	P1082	'population'@en	+365998	
+Q32-P1082-9a2e73-23146ddd-0	Q32	'Luxembourg'@en	P1082	'population'@en	+458095	
+Q32-P1082-ab97de-8e27f496-0	Q32	'Luxembourg'@en	P1082	'population'@en	+334995	
+Q32-P1082-ad7c44-b6e89209-0	Q32	'Luxembourg'@en	P1082	'population'@en	+634730	
+Q32-P1082-af0256-15496fb0-0	Q32	'Luxembourg'@en	P1082	'population'@en	+324100	
+Q32-P1082-b0b6d5-790b559d-0	Q32	'Luxembourg'@en	P1082	'population'@en	+360731	
+Q32-P1082-b6f700-b08770c2-0	Q32	'Luxembourg'@en	P1082	'population'@en	+333895	
+Q32-P1082-bf5b70-6a8f7284-0	Q32	'Luxembourg'@en	P1082	'population'@en	+488650	
+Q32-P1082-c1c81c-80a61ebc-0	Q32	'Luxembourg'@en	P1082	'population'@en	+599449	
+Q32-P1082-c759e3-d42aac3b-0	Q32	'Luxembourg'@en	P1082	'population'@en	+327750	
+Q32-P1082-cffc86-2d143523-0	Q32	'Luxembourg'@en	P1082	'population'@en	+530946	
+Q32-P1082-e34628-143dde3e-0	Q32	'Luxembourg'@en	P1082	'population'@en	+362007	
+Q32-P1082-e51634-bc2b0e20-0	Q32	'Luxembourg'@en	P1082	'population'@en	+365525	
+Q32-P1082-e5db80-fe63efcc-0	Q32	'Luxembourg'@en	P1082	'population'@en	+355050	
+Q32-P1082-e8a667-ad7a85c4-0	Q32	'Luxembourg'@en	P1082	'population'@en	+402925	
+Q32-P1082-edb1b9-95ab22c6-0	Q32	'Luxembourg'@en	P1082	'population'@en	+397475	
+Q32-P1082-eef7aa-88a9a9f1-0	Q32	'Luxembourg'@en	P1082	'population'@en	+645397	
+Q32-P1082-f03c1d-0f2cfa32-0	Q32	'Luxembourg'@en	P1082	'population'@en	+465158	
+Q32-P1082-f35972-a50d5488-0	Q32	'Luxembourg'@en	P1082	'population'@en	+370750	
+Q32-P1082-f5d555-003cb8cf-0	Q32	'Luxembourg'@en	P1082	'population'@en	+377100	
+Q32-P1082-f8f4e4-61a67b62-0	Q32	'Luxembourg'@en	P1082	'population'@en	+451630	
+Q32-P1082-f90acb-1697174b-0	Q32	'Luxembourg'@en	P1082	'population'@en	+365622	
+Q32-P1082-fe7d91-62ddf45e-0	Q32	'Luxembourg'@en	P1082	'population'@en	+361358	
+Q32-P1125-23e628-5aadcb42-0	Q32	'Luxembourg'@en	P1125	'Gini coefficient'@en	+26	
+Q32-P1125-7e3fc5-354107ed-0	Q32	'Luxembourg'@en	P1125	'Gini coefficient'@en	+34.9	
+Q32-P1151-Q3247294-e0546a7a-0	Q32	'Luxembourg'@en	P1151	'topic\'s main Wikimedia portal'@en	Q3247294	'Portal:Luxembourg'@en
+Q32-P1198-14e741-a68fa4a3-0	Q32	'Luxembourg'@en	P1198	'unemployment rate'@en	+6.3Q11229	
+Q32-P1198-f82a7d-5aab1dc3-0	Q32	'Luxembourg'@en	P1198	'unemployment rate'@en	+6[+5,+7]Q11229	
+Q32-P122-Q41614-e5515765-0	Q32	'Luxembourg'@en	P122	'basic form of government'@en	Q41614	'constitutional monarchy'@en
+Q32-P1225-48c29f-b5309d7b-0	Q32	'Luxembourg'@en	P1225	'U.S. National Archives Identifier'@en	"10044938"	
+Q32-P1245-8d789b-9fd4d6f6-0	Q32	'Luxembourg'@en	P1245	'OmegaWiki Defined Meaning'@en	"154047"	
+Q32-P1296-98e220-719f7c3a-0	Q32	'Luxembourg'@en	P1296	'Gran Enciclopèdia Catalana ID'@en	"0038798"	
+Q32-P1313-Q1344632-6c1533a5-0	Q32	'Luxembourg'@en	P1313	'office held by head of government'@en	Q1344632	'Prime Minister of Luxembourg'@en
+Q32-P1332-650c0b-f8434efc-0	Q32	'Luxembourg'@en	P1332	'coordinates of northernmost point'@en	@50.18/6.02	
+Q32-P1333-075fb4-160a587d-0	Q32	'Luxembourg'@en	P1333	'coordinates of southernmost point'@en	@49.44778845/6.04172945	
+Q32-P1334-fc2530-bef7e6ad-0	Q32	'Luxembourg'@en	P1334	'coordinates of easternmost point'@en	@49.80564339/6.53085709	
+Q32-P1335-25ddd2-ebabb3a1-0	Q32	'Luxembourg'@en	P1335	'coordinates of westernmost point'@en	@49.89695659/5.7357645	
+Q32-P1343-Q15987490-0a3dd959-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q15987490	'1922 Encyclopædia Britannica'@en
+Q32-P1343-Q602358-0844dee0-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q602358	'Brockhaus and Efron Encyclopedic Dictionary'@en
+Q32-P1343-Q302556-d4a6e210-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q302556	'Catholic Encyclopedia'@en
+Q32-P1343-Q867541-db61e45a-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q867541	'Encyclopædia Britannica 11th edition'@en
+Q32-P1343-Q4173137-7e97a3c8-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q4173137	'Jewish Encyclopedia of Brockhaus and Efron'@en
+Q32-P1343-Q19180675-601a7692-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q19180675	'Small Brockhaus and Efron Encyclopedic Dictionary'@en
+Q32-P1343-Q4114391-625afae2-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q4114391	'Sytin Military Encyclopedia'@en
+Q32-P1343-Q3181656-39f34bec-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q3181656	'The Nuttall Encyclopædia'@en
+Q32-P1343-Q19538713-13c8dc09-0	Q32	'Luxembourg'@en	P1343	'described by source'@en	Q19538713	'Vlastenský slovník historický'@en
+Q32-P1365-Q151624-3b7dba6a-0	Q32	'Luxembourg'@en	P1365	'replaces'@en	Q151624	'German Confederation'@en
+Q32-P138-Q1842-b1a997cb-0	Q32	'Luxembourg'@en	P138	'named after'@en	Q1842	'Luxembourg'@en
+Q32-P1417-81ad06-10c705ab-0	Q32	'Luxembourg'@en	P1417	'Encyclopædia Britannica Online ID'@en	"place/Luxembourg"	
+Q32-P1417-b08313-a752aa3d-0	Q32	'Luxembourg'@en	P1417	'Encyclopædia Britannica Online ID'@en	"place/luxembourg"	
+Q32-P1438-37467d-a620fecc-0	Q32	'Luxembourg'@en	P1438	'Jewish Encyclopedia ID (Russian)'@en	"12531"	
+Q32-P1448-054627-a625aae5-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Grand-Duché de Luxembourg'@fr	
+Q32-P1448-156448-8eaaf786-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Storhertigdömet Luxemburg'@sv	
+Q32-P1448-9f82cd-a41bcd6d-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Groussherzogtum Lëtzebuerg'@lb	
+Q32-P1448-b1d0b5-d4c2f305-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Grand-Duché Lëtzebuerg'@lb	
+Q32-P1448-c22046-2050c9da-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Luxembourg'@fr	
+Q32-P1448-cdb91e-206261b4-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Luxemburg'@de	
+Q32-P1448-d483e1-91bdb8dc-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Lëtzebuerg'@lb	
+Q32-P1448-f1237b-9bf57e6a-0	Q32	'Luxembourg'@en	P1448	'official name'@en	'Großherzogtum Luxemburg'@de	
+Q32-P1456-Q3491575-ff9ffbbc-0	Q32	'Luxembourg'@en	P1456	'list of monuments'@en	Q3491575	
+Q32-P1464-Q9534564-56e3899a-0	Q32	'Luxembourg'@en	P1464	'category for people born here'@en	Q9534564	'Category:Births in Luxembourg'@en
+Q32-P1465-Q8365533-10c72231-0	Q32	'Luxembourg'@en	P1465	'category for people who died here'@en	Q8365533	'Category:Deaths in Luxembourg'@en
+Q32-P150-Q397678-1c0136a3-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q397678	'Canton of Capellen'@en
+Q32-P150-Q691793-50e9688e-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q691793	'Canton of Clervaux'@en
+Q32-P150-Q691842-1ef83d66-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q691842	'Canton of Diekirch'@en
+Q32-P150-Q720221-d313e67f-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q720221	'Canton of Echternach'@en
+Q32-P150-Q188283-ace6cc35-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q188283	'Canton of Esch-sur-Alzette'@en
+Q32-P150-Q836002-5051fd1c-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q836002	'Canton of Grevenmacher'@en
+Q32-P150-Q691741-230d2497-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q691741	'Canton of Luxembourg'@en
+Q32-P150-Q753917-e461497d-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q753917	'Canton of Mersch'@en
+Q32-P150-Q835980-f8b7fb64-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q835980	'Canton of Redange'@en
+Q32-P150-Q691781-73930d9d-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q691781	'Canton of Remich'@en
+Q32-P150-Q845600-14b5122a-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q845600	'Canton of Vianden'@en
+Q32-P150-Q550021-bcc903bb-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q550021	'Canton of Wiltz'@en
+Q32-P150-Q208747-32b1d19c-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q208747	'Diekirch District'@en
+Q32-P150-Q208284-e6cff331-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q208284	'Grevenmacher District'@en
+Q32-P150-Q2032-be1d9820-0	Q32	'Luxembourg'@en	P150	'contains administrative territorial entity'@en	Q2032	'Luxembourg District'@en
+Q32-P1549-0eda65-9b8456a1-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lussemburghese'@it	
+Q32-P1549-130208-3632ddae-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'לוקסמבורגי'@he	
+Q32-P1549-1a968d-431e929e-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'লুক্সেমবুর্গীয়'@bn	
+Q32-P1549-269ec0-62c50320-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxembourger'@en	
+Q32-P1549-288dd2-b6cc2ed3-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Lëtzebuerger'@lb	
+Q32-P1549-2f4159-a1f70e9a-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'لوكسمبورغي'@ar	
+Q32-P1549-31d601-6b3e5fe6-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lussemburghesi'@it	
+Q32-P1549-3a95f5-e1d6197f-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'لوكسمبورغيون'@ar	
+Q32-P1549-3b0950-5e3ff7c6-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxembourgish'@en	
+Q32-P1549-3fcdac-231d672f-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburghez'@ro	
+Q32-P1549-3fcdac-4994e489-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburghez'@ro	
+Q32-P1549-40210a-c3a4d212-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'لوكسمبورغية'@ar	
+Q32-P1549-74c0f1-7dbbd927-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxemburgiano'@io	
+Q32-P1549-766c3b-afa97c78-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Lëtzebuergerin'@lb	
+Q32-P1549-7c31dc-90002465-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lusenburgheze'@vec	
+Q32-P1549-8aeb24-15428ef2-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburgi'@hu	
+Q32-P1549-946a40-19ec5a9c-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lusenburghezi'@vec	
+Q32-P1549-97caa9-fffe89c4-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburgheză'@ro	
+Q32-P1549-9cb612-35113ba4-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburgués'@ast	
+Q32-P1549-a41773-2c07f299-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxemburger'@nl	
+Q32-P1549-a59fcc-dc03ba10-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxembourgeoise'@fr	
+Q32-P1549-a986a9-7d25ad16-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxämburgänan'@vo	
+Q32-P1549-bb3725-143b57de-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxembourgian'@en	
+Q32-P1549-cf3999-a11e41b5-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxembourgeoise'@fr	
+Q32-P1549-d030c8-2bab9df9-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxembourgeois'@fr	
+Q32-P1549-d19742-f9d7ec4a-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lusenburghezo'@vec	
+Q32-P1549-d92a15-d9f17c95-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburguesa'@ast	
+Q32-P1549-dc4514-2af13c8b-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'לוקסמבורגית'@he	
+Q32-P1549-e3d228-2ee58d28-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'lusenburgheza'@vec	
+Q32-P1549-e4e62d-96ac4506-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburges'@lfn	
+Q32-P1549-ec1120-cf7e4c9b-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'Luxembourgeois'@fr	
+Q32-P1549-ff519b-f21ee7a7-0	Q32	'Luxembourg'@en	P1549	'demonym'@en	'luxemburghezi'@ro	
+Q32-P155-Q151624-07f9674f-0	Q32	'Luxembourg'@en	P155	'follows'@en	Q151624	'German Confederation'@en
+Q32-P1552-Q3174312-049b2fff-0	Q32	'Luxembourg'@en	P1552	'has quality'@en	Q3174312	'free country'@en
+Q32-P1566-0c4dc1-f2799667-0	Q32	'Luxembourg'@en	P1566	'GeoNames ID'@en	"2960313"	
+Q32-P1589-Q1667-18f6884f-0	Q32	'Luxembourg'@en	P1589	'lowest point'@en	Q1667	'Moselle'@en
+Q32-P1617-e235ef-25266194-0	Q32	'Luxembourg'@en	P1617	'BBC Things ID'@en	"c6173436-3dc0-472a-adc6-db673df446b1"	
+Q32-P1622-Q14565199-c5565faf-0	Q32	'Luxembourg'@en	P1622	'driving side'@en	Q14565199	'right'@en
+Q32-P163-Q133022-007ab3cf-0	Q32	'Luxembourg'@en	P163	'flag'@en	Q133022	'flag of Luxembourg'@en
+Q32-P166-Q152337-f55f3834-0	Q32	'Luxembourg'@en	P166	'award received'@en	Q152337	'Charlemagne Prize'@en
+Q32-P1667-5a5477-6582591c-0	Q32	'Luxembourg'@en	P1667	'Getty Thesaurus of Geographic Names ID'@en	"7003514"	
+Q32-P17-Q32-ba767b2a-0	Q32	'Luxembourg'@en	P17	'country'@en	Q32	'Luxembourg'@en
+Q32-P1705-c22046-504d87be-0	Q32	'Luxembourg'@en	P1705	'native label'@en	'Luxembourg'@fr	
+Q32-P1705-cdb91e-ba787710-0	Q32	'Luxembourg'@en	P1705	'native label'@en	'Luxemburg'@de	
+Q32-P1705-d483e1-b7c3b7ce-0	Q32	'Luxembourg'@en	P1705	'native label'@en	'Lëtzebuerg'@lb	
+Q32-P1740-Q7522322-0699e3d5-0	Q32	'Luxembourg'@en	P1740	'category for films shot at this location'@en	Q7522322	'Category:Films shot in Luxembourg'@en
+Q32-P1791-Q7976862-28aa4d4b-0	Q32	'Luxembourg'@en	P1791	'category of people buried here'@en	Q7976862	'Category:Burials in Luxembourg'@en
+Q32-P1792-Q7074397-29614bf7-0	Q32	'Luxembourg'@en	P1792	'category of associated people'@en	Q7074397	'Category:Luxembourgian people'@en
+Q32-P1813-79d625-9e568c5b-0	Q32	'Luxembourg'@en	P1813	'short name'@en	'🇱🇺'@zxx	
+Q32-P1830-Q25583594-3ba82879-0	Q32	'Luxembourg'@en	P1830	'owner of'@en	Q25583594	'Pfaffenthal-Kirchberg railway station'@en
+Q32-P1842-63446e-5fe7c2f8-0	Q32	'Luxembourg'@en	P1842	'Global Anabaptist Mennonite Encyclopedia Online ID'@en	"Luxembourg"	
+Q32-P1889-Q1126-d85b9cd0-0	Q32	'Luxembourg'@en	P1889	'different from'@en	Q1126	'Luxembourg'@en
+Q32-P1906-Q3276071-3355d8b0-0	Q32	'Luxembourg'@en	P1906	'office held by head of state'@en	Q3276071	'Grand Duke of Luxembourg'@en
+Q32-P194-Q517449-09604660-0	Q32	'Luxembourg'@en	P194	'legislative body'@en	Q517449	'Chamber of Deputies'@en
+Q32-P2004-a32118-f32d32af-0	Q32	'Luxembourg'@en	P2004	'NALT ID'@en	"38631"	
+Q32-P2046-6a8e71-6f16f7a4-0	Q32	'Luxembourg'@en	P2046	'area'@en	+2586.4Q712226	
+Q32-P208-Q21479996-6759b37e-0	Q32	'Luxembourg'@en	P208	'executive body'@en	Q21479996	'Government of Luxembourg'@en
+Q32-P209-Q14568095-7a3d5f0d-0	Q32	'Luxembourg'@en	P209	'highest judicial authority'@en	Q14568095	'Superior Court of Justice'@en
+Q32-P213-fa8917-e39cad29-0	Q32	'Luxembourg'@en	P213	'ISNI'@en	"0000 0001 2192 9204"	
+Q32-P214-5cb45a-ccae4234-0	Q32	'Luxembourg'@en	P214	'VIAF ID'@en	"134398983"	
+Q32-P2163-9fe538-e63a7e3b-0	Q32	'Luxembourg'@en	P2163	'FAST ID'@en	"1211813"	
+Q32-P2184-Q312456-1e09f0cc-0	Q32	'Luxembourg'@en	P2184	'history of topic'@en	Q312456	'history of Luxembourg'@en
+Q32-P2250-0e61b7-98db884f-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+81.8Q577	
+Q32-P2250-1ae0e6-f92a89ab-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+80.9878Q577	
+Q32-P2250-293f7e-897c0385-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+79.38293Q577	
+Q32-P2250-34f185-67731089-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+77.72683Q577	
+Q32-P2250-39d5f2-024ed5e7-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+80.63171Q577	
+Q32-P2250-4419d4-27bb2c06-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+82.29268Q577	
+Q32-P2250-48c6a5-d6e26f2b-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+79.2878Q577	
+Q32-P2250-512833-77f3e91e-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+80.63659Q577	
+Q32-P2250-64d2c7-1696af33-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+79.43171Q577	
+Q32-P2250-666716-8fbbcdb6-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+82.22927Q577	
+Q32-P2250-6a43d2-9c4c96ca-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+79.12195Q577	
+Q32-P2250-79ae2a-fe2fb04e-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+77.82439Q577	
+Q32-P2250-7db01a-ee76f386-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+81.39268Q577	
+Q32-P2250-858eff-ffb1f113-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+77.87317Q577	
+Q32-P2250-8e08f7-304b27a6-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+80.53902Q577	
+Q32-P2250-a1fe13-26cc583b-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+77.77073Q577	
+Q32-P2250-e98493-6584b26c-0	Q32	'Luxembourg'@en	P2250	'life expectancy'@en	+77.96585Q577	
+Q32-P2258-be1b66-5e90af74-0	Q32	'Luxembourg'@en	P2258	'mobile country code'@en	"270"	
+Q32-P227-833934-82909112-0	Q32	'Luxembourg'@en	P227	'GND ID'@en	"4036728-9"	
+Q32-P2347-145a68-1c1e5b47-0	Q32	'Luxembourg'@en	P2347	'YSO ID'@en	"105708"	
+Q32-P237-Q201160-91bd23a1-0	Q32	'Luxembourg'@en	P237	'coat of arms'@en	Q201160	'coat of arms of Luxembourg'@en
+Q32-P242-4572ab-018f2710-0	Q32	'Luxembourg'@en	P242	'locator map image'@en	"LocationLuxembourg.svg"	
+Q32-P242-5ff04f-dad9beb2-0	Q32	'Luxembourg'@en	P242	'locator map image'@en	"Luxembourg on the globe (Europe centered).svg"	
+Q32-P242-d485a3-0710d42b-0	Q32	'Luxembourg'@en	P242	'locator map image'@en	"EU-Luxembourg.svg"	
+Q32-P244-7a1b6b-04ba1819-0	Q32	'Luxembourg'@en	P244	'Library of Congress authority ID'@en	"n81018303"	
+Q32-P2573-0d2c24-22b21590-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5733	
+Q32-P2573-37e881-29cff406-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6537	
+Q32-P2573-5d30a4-928f54b2-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6476	
+Q32-P2573-6fc5db-8bbb7c3e-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5195	
+Q32-P2573-73b961-0972e4f3-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6496	
+Q32-P2573-7df030-b8246100-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5783	
+Q32-P2573-7e78fd-e4c929c5-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6472	
+Q32-P2573-7fe7d1-03292fb6-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5867	
+Q32-P2573-8752ef-aaa1230d-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5337	
+Q32-P2573-8b6b01-28edde49-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5361	
+Q32-P2573-95b0a9-1bf8f14f-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+7271	
+Q32-P2573-98d522-f2a1c169-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5164	
+Q32-P2573-a6a521-be901487-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6413	
+Q32-P2573-a78b29-f67cfdc1-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5376	
+Q32-P2573-b505e4-5caccbbc-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+7129	
+Q32-P2573-ba1b9b-fcc33680-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+7219	
+Q32-P2573-dc5128-d8b8d8ce-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+6771	
+Q32-P2573-e8b943-28edaec5-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+5946	
+Q32-P2573-fcc5b7-2bd95d21-0	Q32	'Luxembourg'@en	P2573	'number of out-of-school children'@en	+7288	
+Q32-P2581-e7b9a1-358f64ed-0	Q32	'Luxembourg'@en	P2581	'BabelNet ID'@en	"00041328n"	
+Q32-P2596-Q535710-b9c4eda7-0	Q32	'Luxembourg'@en	P2596	'culture'@en	Q535710	'culture of Luxembourg'@en
+Q32-P2633-Q1751942-d9577a06-0	Q32	'Luxembourg'@en	P2633	'geography of topic'@en	Q1751942	'geography of Luxembourg'@en
+Q32-P268-350064-7f67df1c-0	Q32	'Luxembourg'@en	P268	'Bibliothèque nationale de France ID'@en	"119772596"	
+Q32-P268-545b89-91ab3688-0	Q32	'Luxembourg'@en	P268	'Bibliothèque nationale de France ID'@en	"118647762"	
+Q32-P269-17e9f5-df8d361a-0	Q32	'Luxembourg'@en	P269	'IdRef ID'@en	"026391341"	
+Q32-P2852-Q1061257-9a0362ab-0	Q32	'Luxembourg'@en	P2852	'emergency phone number'@en	Q1061257	'112'@en
+Q32-P2852-Q25648804-a871b32a-0	Q32	'Luxembourg'@en	P2852	'emergency phone number'@en	Q25648804	'113'@en
+Q32-P2853-Q1378312-22086cbf-0	Q32	'Luxembourg'@en	P2853	'electrical plug type'@en	Q1378312	'Europlug'@en
+Q32-P2853-Q1123613-f3afca7f-0	Q32	'Luxembourg'@en	P2853	'electrical plug type'@en	Q1123613	'Schuko'@en
+Q32-P2855-9497b3-b8991241-0	Q32	'Luxembourg'@en	P2855	'VAT-rate'@en	+17Q11229	
+Q32-P2884-4e730b-406b880d-0	Q32	'Luxembourg'@en	P2884	'mains voltage'@en	+230Q25250	
+Q32-P2924-59cb34-768073b1-0	Q32	'Luxembourg'@en	P2924	'Great Russian Encyclopedia Online ID'@en	"2162146"	
+Q32-P2936-Q150-81a7ce70-0	Q32	'Luxembourg'@en	P2936	'language used'@en	Q150	'French'@en
+Q32-P2936-Q188-92515e44-0	Q32	'Luxembourg'@en	P2936	'language used'@en	Q188	'German'@en
+Q32-P2936-Q9051-9b021eaf-0	Q32	'Luxembourg'@en	P2936	'language used'@en	Q9051	'Luxembourgish'@en
+Q32-P2959-Q27103315-2ed13c29-0	Q32	'Luxembourg'@en	P2959	'permanent duplicated item'@en	Q27103315	
+Q32-P2959-Q42311086-5a211983-0	Q32	'Luxembourg'@en	P2959	'permanent duplicated item'@en	Q42311086	
+Q32-P2959-Q47283745-4aa96a7b-0	Q32	'Luxembourg'@en	P2959	'permanent duplicated item'@en	Q47283745	
+Q32-P297-87bd16-f8be7198-0	Q32	'Luxembourg'@en	P297	'ISO 3166-1 alpha-2 code'@en	"LU"	
+Q32-P2979-41ecbf-82ec89fe-0	Q32	'Luxembourg'@en	P2979	'maritime identification digits'@en	"253"	
+Q32-P298-76d87b-5f794d54-0	Q32	'Luxembourg'@en	P298	'ISO 3166-1 alpha-3 code'@en	"LUX"	
+Q32-P2981-8463f5-eeda9748-0	Q32	'Luxembourg'@en	P2981	'UIC alphabetical country code'@en	"L"	
+Q32-P2982-7df2c0-ce7900a9-0	Q32	'Luxembourg'@en	P2982	'UIC numerical country code'@en	"82"	
+Q32-P299-2ff8b4-3c7a9f6a-0	Q32	'Luxembourg'@en	P299	'ISO 3166-1 numeric code'@en	"442"	
+Q32-P2997-8157c2-629f9350-0	Q32	'Luxembourg'@en	P2997	'age of majority'@en	+18Q24564698	
+Q32-P30-Q46-ce3a5135-0	Q32	'Luxembourg'@en	P30	'continent'@en	Q46	'Europe'@en
+Q32-P3000-8157c2-a5467fc7-0	Q32	'Luxembourg'@en	P3000	'marriageable age'@en	+18Q24564698	
+Q32-P3001-16d6f5-2a4f778c-0	Q32	'Luxembourg'@en	P3001	'retirement age'@en	+65Q24564698	
+Q32-P3006-e82f6d-0eab61fd-0	Q32	'Luxembourg'@en	P3006	'Marine Regions Geographic ID'@en	"2233"	
+Q32-P3024-76d87b-e17d2878-0	Q32	'Luxembourg'@en	P3024	'ITU letter code'@en	"LUX"	
+Q32-P3067-775a40-22ee7960-0	Q32	'Luxembourg'@en	P3067	'GS1 country code'@en	"540-549"	
+Q32-P3068-87bd16-fdc988ce-0	Q32	'Luxembourg'@en	P3068	'WIPO ST.3'@en	"LU"	
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P31-Q165116-f41abb92-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q165116	'grand duchy'@en
+Q32-P31-Q123480-261def96-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q123480	'landlocked country'@en
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P31-Q179164-24bb4a41-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q179164	'unitary state'@en
+Q32-P3175-cce395-4f7bdd68-0	Q32	'Luxembourg'@en	P3175	'Statoids ID'@en	"ulu"	
+Q32-P3219-a33c8b-ae2efadd-0	Q32	'Luxembourg'@en	P3219	'Encyclopædia Universalis ID'@en	"luxembourg"	
+Q32-P3221-f82bd2-53e03e85-0	Q32	'Luxembourg'@en	P3221	'New York Times topic ID'@en	"destination/luxembourg"	
+Q32-P3365-337675-ad517891-0	Q32	'Luxembourg'@en	P3365	'Treccani ID'@en	"lussemburgo"	
+Q32-P3403-Q15921347-bf035986-0	Q32	'Luxembourg'@en	P3403	'coextensive with'@en	Q15921347	'Luxembourg constituency of the European Parliament'@en
+Q32-P3417-63446e-30bdf19e-0	Q32	'Luxembourg'@en	P3417	'Quora topic ID'@en	"Luxembourg"	
+Q32-P3422-a638ae-f4963fd6-0	Q32	'Luxembourg'@en	P3422	'INSEE countries and foreign territories code'@en	"99137"	
+Q32-P349-db7d0d-9dd8ac75-0	Q32	'Luxembourg'@en	P349	'National Diet Library ID'@en	"00569800"	
+Q32-P35-Q16004-0bcd6767-0	Q32	'Luxembourg'@en	P35	'head of state'@en	Q16004	'Henri, Grand Duke of Luxembourg'@en
+Q32-P3529-0049f2-8d42ebe5-0	Q32	'Luxembourg'@en	P3529	'median income'@en	+36084Q4916	
+Q32-P3553-eb847f-5ff2b33e-0	Q32	'Luxembourg'@en	P3553	'Zhihu topic ID'@en	"20007252"	
+Q32-P36-Q1842-35ccb742-0	Q32	'Luxembourg'@en	P36	'capital'@en	Q1842	'Luxembourg'@en
+Q32-P3612-af0000-2de6d712-0	Q32	'Luxembourg'@en	P3612	'Le Monde diplomatique subject ID'@en	"pays/luxembourg"	
+Q32-P37-Q150-70c449a6-0	Q32	'Luxembourg'@en	P37	'official language'@en	Q150	'French'@en
+Q32-P37-Q188-e3ef96a0-0	Q32	'Luxembourg'@en	P37	'official language'@en	Q188	'German'@en
+Q32-P37-Q9051-e705abf1-0	Q32	'Luxembourg'@en	P37	'official language'@en	Q9051	'Luxembourgish'@en
+Q32-P373-63446e-a9cd78bf-0	Q32	'Luxembourg'@en	P373	'Commons category'@en	"Luxembourg"	
+Q32-P3743-72dcf5-85ec6b34-0	Q32	'Luxembourg'@en	P3743	'ITU/ISO/IEC object identifier'@en	"2.16.442"	
+Q32-P38-Q213940-14efe3fa-0	Q32	'Luxembourg'@en	P38	'currency'@en	Q213940	'Luxembourg franc'@en
+Q32-P38-Q4916-0a5b6fcc-0	Q32	'Luxembourg'@en	P38	'currency'@en	Q4916	'euro'@en
+Q32-P3896-91b57d-2292122e-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:Luxembourg.map"	
+Q32-P3896-c3109c-c7e6ab55-0	Q32	'Luxembourg'@en	P3896	'geoshape'@en	"Data:LuxembourgCountry.map"	
+Q32-P3911-1acfa3-f749d543-0	Q32	'Luxembourg'@en	P3911	'STW Thesaurus for Economics ID'@en	"17198-3"	
+Q32-P3916-3f496d-f7f3d448-0	Q32	'Luxembourg'@en	P3916	'UNESCO Thesaurus ID'@en	"concept913"	
+Q32-P395-8463f5-82db7d3f-0	Q32	'Luxembourg'@en	P395	'licence plate code'@en	"L"	
+Q32-P3984-63446e-3972f5e4-0	Q32	'Luxembourg'@en	P3984	'subreddit'@en	"Luxembourg"	
+Q32-P402-74e770-26897cfc-0	Q32	'Luxembourg'@en	P402	'OpenStreetMap relation ID'@en	"2171347"	
+Q32-P41-223c5b-2980c3f1-0	Q32	'Luxembourg'@en	P41	'flag image'@en	"Flag of Luxembourg.svg"	
+Q32-P421-Q25989-67832ac5-0	Q32	'Luxembourg'@en	P421	'located in time zone'@en	Q25989	'Central European Time'@en
+Q32-P421-Q28148670-e8b19239-0	Q32	'Luxembourg'@en	P421	'located in time zone'@en	Q28148670	'Europe/Luxembourg'@en
+Q32-P421-Q6655-fa1f63e1-0	Q32	'Luxembourg'@en	P421	'located in time zone'@en	Q6655	'UTC+01:00'@en
+Q32-P421-Q6723-3f17fb6a-0	Q32	'Luxembourg'@en	P421	'located in time zone'@en	Q6723	'UTC+02:00'@en
+Q32-P4342-63446e-a8a78011-0	Q32	'Luxembourg'@en	P4342	'Store norske leksikon ID'@en	"Luxembourg"	
+Q32-P4427-ef68dd-78923a90-0	Q32	'Luxembourg'@en	P4427	'GACS ID'@en	"751"	
+Q32-P443-13f8d0-ceffb942-0	Q32	'Luxembourg'@en	P443	'pronunciation audio'@en	"En-us-Luxembourg.ogg"	
+Q32-P443-ba2ea7-a2b402dd-0	Q32	'Luxembourg'@en	P443	'pronunciation audio'@en	"Lb-Lëtzebuerg.ogg"	
+Q32-P443-df3d34-092fa8eb-0	Q32	'Luxembourg'@en	P443	'pronunciation audio'@en	"LL-Q7913 (ron)-KlaudiuMihaila-Luxemburg.wav"	
+Q32-P4527-40e5b5-f65f63ce-0	Q32	'Luxembourg'@en	P4527	'UK Parliament thesaurus ID'@en	"11447"	
+Q32-P457-Q1160895-adfb6b58-0	Q32	'Luxembourg'@en	P457	'foundational text'@en	Q1160895	'Treaty of London'@en
+Q32-P457-Q1345269-fba275ad-0	Q32	'Luxembourg'@en	P457	'foundational text'@en	Q1345269	'Treaty of London'@en
+Q32-P457-Q233688-677315cf-0	Q32	'Luxembourg'@en	P457	'foundational text'@en	Q233688	'Treaty of Paris'@en
+Q32-P4613-0b7550-91f7a598-0	Q32	'Luxembourg'@en	P4613	'Encyclopedia of Modern Ukraine ID'@en	"59930"	
+Q32-P463-Q340195-c248934d-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q340195	'African Development Bank'@en
+Q32-P463-Q188822-c2240db3-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q188822	'Asian Development Bank'@en
+Q32-P463-Q782942-7aaf9178-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q782942	'Australia Group'@en
+Q32-P463-Q1542735-72cd3b2d-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1542735	'Belgium–Luxembourg Economic Union'@en
+Q32-P463-Q13116-67d0a157-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q13116	'Benelux'@en
+Q32-P463-Q8908-318f0581-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q8908	'Council of Europe'@en
+Q32-P463-Q663492-c2d07723-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q663492	'Eurocontrol'@en
+Q32-P463-Q141720-ab4cc060-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q141720	'European Air Transport Command'@en
+Q32-P463-Q1377612-34a888b2-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1377612	'European Payments Union'@en
+Q32-P463-Q42262-c3014f4b-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q42262	'European Space Agency'@en
+Q32-P463-Q458-4bd4e559-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q458	'European Union'@en
+Q32-P463-Q5611262-aadf6d85-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q5611262	'Group on Earth Observations'@en
+Q32-P463-Q191384-a65d3224-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q191384	'International Bank for Reconstruction and Development'@en
+Q32-P463-Q899770-e5087639-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q899770	'International Centre for Settlement of Investment Disputes'@en
+Q32-P463-Q827525-b0df849b-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q827525	'International Development Association'@en
+Q32-P463-Q826700-2a522b35-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q826700	'International Energy Agency'@en
+Q32-P463-Q656801-fda93566-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q656801	'International Finance Corporation'@en
+Q32-P463-Q376150-2c0782a3-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q376150	'International Telecommunication Union'@en
+Q32-P463-Q8475-16ad0c71-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q8475	'Interpol'@en
+Q32-P463-Q1072120-dba5932c-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1072120	'Missile Technology Control Regime'@en
+Q32-P463-Q3866537-0c882195-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q3866537	'Movement Coordination Centre Europe'@en
+Q32-P463-Q1043527-78a9b0b0-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1043527	'Multilateral Investment Guarantee Agency'@en
+Q32-P463-Q7184-32e5f210-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q7184	'NATO'@en
+Q32-P463-Q1480793-6de29800-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1480793	'Nuclear Suppliers Group'@en
+Q32-P463-Q41550-24c0f40d-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q41550	'Organisation for Economic Cooperation and Development'@en
+Q32-P463-Q842490-46ef1eb7-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q842490	'Organisation for the Prohibition of Chemical Weapons'@en
+Q32-P463-Q134102-466aef13-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q134102	'Organisation internationale de la Francophonie'@en
+Q32-P463-Q81299-c8f215df-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q81299	'Organization for Security and Co-operation in Europe'@en
+Q32-P463-Q1969730-152a390b-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1969730	'Schengen Area'@en
+Q32-P463-Q1928989-491bc619-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1928989	'Treaty on Open Skies'@en
+Q32-P463-Q7809-205a3483-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q7809	'UNESCO'@en
+Q32-P463-Q1065-2a1a18ad-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q1065	'United Nations'@en
+Q32-P463-Q17495-e2d2cf36-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q17495	'Universal Postal Union'@en
+Q32-P463-Q45177-067acbb1-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q45177	'Visa Waiver Program'@en
+Q32-P463-Q7817-ef3cb980-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q7817	'World Health Organization'@en
+Q32-P463-Q170424-51caaed4-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q170424	'World Meteorological Organization'@en
+Q32-P463-Q7825-bb2d9051-0	Q32	'Luxembourg'@en	P463	'member of'@en	Q7825	'World Trade Organization'@en
+Q32-P47-Q31-8ba18746-0	Q32	'Luxembourg'@en	P47	'shares border with'@en	Q31	'Belgium'@en
+Q32-P47-Q142-f7090193-0	Q32	'Luxembourg'@en	P47	'shares border with'@en	Q142	'France'@en
+Q32-P47-Q183-aaad4f83-0	Q32	'Luxembourg'@en	P47	'shares border with'@en	Q183	'Germany'@en
+Q32-P4725-e8866e-7d8a8a68-0	Q32	'Luxembourg'@en	P4725	'C-SPAN organization ID'@en	"21193"	
+Q32-P474-668e62-db474cce-0	Q32	'Luxembourg'@en	P474	'country calling code'@en	"+352"	
+Q32-P4801-8045d4-2c6f869a-0	Q32	'Luxembourg'@en	P4801	'LoC and MARC vocabularies ID'@en	"countries/lu"	
+Q32-P4839-073f5a-15aad5b8-0	Q32	'Luxembourg'@en	P4839	'Wolfram Language entity code'@en	"Entity[\"Country\", \"Luxembourg\"]"	
+Q32-P4839-37c205-5434dde9-0	Q32	'Luxembourg'@en	P4839	'Wolfram Language entity code'@en	"Entity[\"Concept\", \"GrandDuchyOfLuxembourg::f9t8d\"]"	
+Q32-P4841-1871a3-17fda474-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.66	
+Q32-P4841-1871a3-52c0b22e-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.66	
+Q32-P4841-1c455c-3d901aef-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.37	
+Q32-P4841-228570-49da31db-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.62	
+Q32-P4841-2eacb4-5701d716-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.61	
+Q32-P4841-2eacb4-6e9c75c1-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.61	
+Q32-P4841-32f615-9a0948a7-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.57	
+Q32-P4841-33d894-7e16f7b4-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.55	
+Q32-P4841-33d894-e7e95ce1-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.55	
+Q32-P4841-517f74-3d6bb81d-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.59	
+Q32-P4841-60409d-cbe6661b-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.74	
+Q32-P4841-732be3-e9b49507-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.34	
+Q32-P4841-993ec7-4024455a-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.63	
+Q32-P4841-993ec7-9b3f7c49-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.63	
+Q32-P4841-993ec7-9d84a865-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.63	
+Q32-P4841-af2025-9c6e692e-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.76	
+Q32-P4841-dd98ae-d6ca8954-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.52	
+Q32-P4841-f036b6-54373069-0	Q32	'Luxembourg'@en	P4841	'total fertility rate'@en	+1.65	
+Q32-P486-79314a-e0c78cc5-0	Q32	'Luxembourg'@en	P486	'MeSH descriptor ID'@en	"D008189"	
+Q32-P487-e9ffc7-814cc113-0	Q32	'Luxembourg'@en	P487	'Unicode character'@en	"🇱🇺"	
+Q32-P5002-a3bf3e-f48987fc-0	Q32	'Luxembourg'@en	P5002	'Orthodox Encyclopedia ID'@en	"2561080"	
+Q32-P5019-f8ab71-5d62622b-0	Q32	'Luxembourg'@en	P5019	'Brockhaus Enzyklopädie online ID'@en	"luxemburg-20"	
+Q32-P5063-5ba5a6-87c855ce-0	Q32	'Luxembourg'@en	P5063	'Interlingual Index ID'@en	"i83791"	
+Q32-P5125-Q7112340-6347eb0e-0	Q32	'Luxembourg'@en	P5125	'Wikimedia outline'@en	Q7112340	'outline of Luxembourg'@en
+Q32-P5140-d596ae-497243ae-0	Q32	'Luxembourg'@en	P5140	'coordinates of geographic center'@en	@49.77723/6.09528	
+Q32-P5167-4d4ec1-c3f0217d-0	Q32	'Luxembourg'@en	P5167	'vehicles per thousand people'@en	+661	
+Q32-P5167-c5d7f3-5968953b-0	Q32	'Luxembourg'@en	P5167	'vehicles per thousand people'@en	+662	
+Q32-P5180-a33c8b-93a1f0c1-0	Q32	'Luxembourg'@en	P5180	'CIVICUS Monitor country entry'@en	"luxembourg"	
+Q32-P5198-a633da-32a2a199-0	Q32	'Luxembourg'@en	P5198	'ASC Leiden Thesaurus ID'@en	"294923152"	
+Q32-P5250-109f9e-0535b5de-0	Q32	'Luxembourg'@en	P5250	'IAB code'@en	"1343"	
+Q32-P530-Q902-44d653c4-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q902	'Bangladesh'@en
+Q32-P530-Q31-eac8c7a1-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q31	'Belgium'@en
+Q32-P530-Q458-ac3cb7e7-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q458	'European Union'@en
+Q32-P530-Q142-2e7c8900-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q142	'France'@en
+Q32-P530-Q230-848608b9-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q230	'Georgia'@en
+Q32-P530-Q183-136f81f5-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q183	'Germany'@en
+Q32-P530-Q28-a73258dd-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q28	'Hungary'@en
+Q32-P530-Q38-f4c882be-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q38	'Italy'@en
+Q32-P530-Q423-1e82a2b8-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q423	'North Korea'@en
+Q32-P530-Q148-1d0500fa-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q148	'People\'s Republic of China'@en
+Q32-P530-Q159-4150751c-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q159	'Russia'@en
+Q32-P530-Q865-91c75549-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q865	'Taiwan'@en
+Q32-P530-Q30-35d2cdf4-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q30	'United States of America'@en
+Q32-P530-Q881-a81fa455-0	Q32	'Luxembourg'@en	P530	'diplomatic relation'@en	Q881	'Vietnam'@en
+Q32-P5400-8619e4-96366d1c-0	Q32	'Luxembourg'@en	P5400	'GeoNLP ID'@en	"kgQk3d"	
+Q32-P5437-4c6d61-cf4a109c-0	Q32	'Luxembourg'@en	P5437	'EuroVoc ID'@en	"1712"	
+Q32-P5456-a33c8b-9cce25e7-0	Q32	'Luxembourg'@en	P5456	'TasteAtlas ID'@en	"luxembourg"	
+Q32-P5573-fc68d0-e1543f6b-0	Q32	'Luxembourg'@en	P5573	'archINFORM location ID'@en	"3012"	
+Q32-P5587-32bb66-e384b8e7-0	Q32	'Luxembourg'@en	P5587	'Libris-URI'@en	"jgvxwpw249jldlg"	
+Q32-P5658-Q13196750-f2f22949-0	Q32	'Luxembourg'@en	P5658	'railway traffic side'@en	Q13196750	'left'@en
+Q32-P5658-Q14565199-84c204d9-0	Q32	'Luxembourg'@en	P5658	'railway traffic side'@en	Q14565199	'right'@en
+Q32-P571-895cae-e79cc2f0-0	Q32	'Luxembourg'@en	P571	'inception'@en	^1815-01-01T00:00:00Z/9	
+Q32-P5905-2000a3-4d16b550-0	Q32	'Luxembourg'@en	P5905	'Comic Vine ID'@en	"4020-51270"	
+Q32-P6-Q739463-926a525f-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q739463	'Charles-Mathias Simons'@en
+Q32-P6-Q269726-fec8ec8f-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q269726	'Emmanuel Servais'@en
+Q32-P6-Q641102-c96a14fb-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q641102	'Félix de Blochausen'@en
+Q32-P6-Q725755-044f0897-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q725755	'Gaspard-Théodore-Ignace de la Fontaine'@en
+Q32-P6-Q295128-d1f9c3b2-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q295128	'Gaston Thorn'@en
+Q32-P6-Q730154-0efa2ef6-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q730154	'Hubert Loutsch'@en
+Q32-P6-Q39659-c649d084-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q39659	'Jacques Santer'@en
+Q32-P6-Q57661-d6ee857c-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q57661	'Jean-Claude Juncker'@en
+Q32-P6-Q738855-cebf2c23-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q738855	'Jean-Jacques Willmar'@en
+Q32-P6-Q315685-6f4197ff-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q315685	'Joseph Bech'@en
+Q32-P6-Q975968-aa952987-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q975968	'Léon Kauffman'@en
+Q32-P6-Q665685-b80f61c5-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q665685	'Mathias Mongenast'@en
+Q32-P6-Q945406-0d6c6bbb-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q945406	'Paul Eyschen'@en
+Q32-P6-Q945927-d821970a-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q945927	'Pierre Dupong'@en
+Q32-P6-Q706106-a789463b-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q706106	'Pierre Frieden'@en
+Q32-P6-Q981324-2f08d1d6-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q981324	'Pierre Prüm'@en
+Q32-P6-Q315661-43a4e10a-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q315661	'Pierre Werner'@en
+Q32-P6-Q315661-46635254-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q315661	'Pierre Werner'@en
+Q32-P6-Q976032-b627bd55-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q976032	'Victor Thorn'@en
+Q32-P6-Q212178-8f5c5db0-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q212178	'Victor de Tornaco'@en
+Q32-P6-Q561213-02ef0ecb-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q561213	'Xavier Bettel'@en
+Q32-P6-Q274460-c19d1e89-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q274460	'Édouard Thilges'@en
+Q32-P6-Q286417-58fc1f1f-0	Q32	'Luxembourg'@en	P6	'head of government'@en	Q286417	'Émile Reuter'@en
+Q32-P605-5ab526-60cda64d-0	Q32	'Luxembourg'@en	P605	'NUTS code'@en	"LU000"	
+Q32-P605-822d22-71633396-0	Q32	'Luxembourg'@en	P605	'NUTS code'@en	"LU00"	
+Q32-P605-87bd16-138c4628-0	Q32	'Luxembourg'@en	P605	'NUTS code'@en	"LU"	
+Q32-P605-c82176-777c1d1e-0	Q32	'Luxembourg'@en	P605	'NUTS code'@en	"LU0"	
+Q32-P6058-30bf89-4d4dffff-0	Q32	'Luxembourg'@en	P6058	'Larousse ID'@en	"pays/Luxembourg/130733"	
+Q32-P610-Q24457-643362a2-0	Q32	'Luxembourg'@en	P610	'highest point'@en	Q24457	'Kneiff'@en
+Q32-P6200-bcde30-94d0306d-0	Q32	'Luxembourg'@en	P6200	'BBC News topic ID'@en	"ce1qrvlelg3t"	
+Q32-P625-cff724-52bb3102-0	Q32	'Luxembourg'@en	P625	'coordinate location'@en	@49.77/6.13	
+Q32-P6293-9aa37c-44c346d0-0	Q32	'Luxembourg'@en	P6293	'YSA ID'@en	"Y105708"	
+Q32-P6385-6cae97-06e6fb05-0	Q32	'Luxembourg'@en	P6385	'Krugosvet article'@en	"strany_mira/LYUKSEMBURG.html"	
+Q32-P6404-337675-79ab9c5f-0	Q32	'Luxembourg'@en	P6404	'Treccani\'s Dizionario di Storia ID'@en	"lussemburgo"	
+Q32-P6413-e1f210-54dbadac-0	Q32	'Luxembourg'@en	P6413	'JORFSearch organization ID'@en	"Q32"	
+Q32-P646-f79d89-4c4bd93e-0	Q32	'Luxembourg'@en	P646	'Freebase ID'@en	"/m/04g61"	
+Q32-P6573-3ce2df-1273beb3-0	Q32	'Luxembourg'@en	P6573	'Klexikon article ID'@en	"Luxemburg"	
+Q32-P6766-cecde5-864b1c02-0	Q32	'Luxembourg'@en	P6766	'Who\'s on First ID'@en	"85633275"	
+Q32-P6839-7a65a4-cac5f037-0	Q32	'Luxembourg'@en	P6839	'TV Tropes identifier'@en	"UsefulNotes/Luxembourg"	
+Q32-P6849-a33c8b-a1153eff-0	Q32	'Luxembourg'@en	P6849	'DR topic ID'@en	"luxembourg"	
+Q32-P6897-725251-a92eaa8d-0	Q32	'Luxembourg'@en	P6897	'literacy rate'@en	+100Q11229	
+Q32-P691-9374bc-745cc00a-0	Q32	'Luxembourg'@en	P691	'NKCR AUT ID'@en	"ge129895"	
+Q32-P7471-a66a6c-eb0ceb38-0	Q32	'Luxembourg'@en	P7471	'iNaturalist place ID'@en	"8147"	
+Q32-P78-Q41795-906fa5ae-0	Q32	'Luxembourg'@en	P78	'top-level Internet domain'@en	Q41795	'.lu'@en
+Q32-P7818-cd4c20-c53ff92f-0	Q32	'Luxembourg'@en	P7818	'French Vikidia ID'@en	"Luxembourg_(homonymie)"	
+Q32-P7850-001ee5-9a929a49-0	Q32	'Luxembourg'@en	P7850	'Joconde location ID'@en	"T84-3482"	
+Q32-P7859-200b89-c38a30c3-0	Q32	'Luxembourg'@en	P7859	'WorldCat Identities ID'@en	"lccn-n81018303"	
+Q32-P7867-Q84105096-85bffd7f-0	Q32	'Luxembourg'@en	P7867	'category for maps'@en	Q84105096	'Category:Maps of Luxembourg'@en
+Q32-P7870-5c3cc5-5b815b61-0	Q32	'Luxembourg'@en	P7870	'Analysis & Policy Observatory term ID'@en	"90776"	
+Q32-P793-Q699765-3ff7c535-0	Q32	'Luxembourg'@en	P793	'significant event'@en	Q699765	'Luxembourg Crisis'@en
+Q32-P793-Q815171-f2c6b391-0	Q32	'Luxembourg'@en	P793	'significant event'@en	Q815171	'Siege of Luxembourg'@en
+Q32-P8061-3b2330-9dfc487b-0	Q32	'Luxembourg'@en	P8061	'AGROVOC ID'@en	"c_4471"	
+Q32-P8189-5a4da8-e2396875-0	Q32	'Luxembourg'@en	P8189	'National Library of Israel J9U ID'@en	"987007550305205171"	
+Q32-P8248-cfa800-5369f330-0	Q32	'Luxembourg'@en	P8248	'Colon Classification'@en	"SG--5966"	
+Q32-P8309-94ea80-975ee47e-0	Q32	'Luxembourg'@en	P8309	'Yle topic ID'@en	"18-191554"	
+Q32-P8313-63446e-b85d5812-0	Q32	'Luxembourg'@en	P8313	'Den Store Danske ID'@en	"Luxembourg"	
+Q32-P8328-2212ba-1765840c-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.81	
+Q32-P8328-2212ba-329f3919-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.81	
+Q32-P8328-2212ba-90970030-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.81	
+Q32-P8328-2212ba-a73f0910-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.81	
+Q32-P8328-7fa12b-4c92bc28-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+9.1	
+Q32-P8328-7fa12b-f62032d1-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+9.1	
+Q32-P8328-83ba74-0c35f4c8-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-83ba74-5ac8ce82-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-83ba74-6f09853b-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-83ba74-a0584d21-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-83ba74-d88ba025-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-83ba74-dda1e2ec-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.88	
+Q32-P8328-97ecdd-cc998919-0	Q32	'Luxembourg'@en	P8328	'Democracy Index'@en	+8.68	
+Q32-P8402-Q97130240-499e83cf-0	Q32	'Luxembourg'@en	P8402	'open data portal'@en	Q97130240	'data.public.lu'@en
+Q32-P8406-ed7eec-809a7e6f-0	Q32	'Luxembourg'@en	P8406	'Grove Art Online ID'@en	"T052545"	
+Q32-P8408-63446e-d7f87aaa-0	Q32	'Luxembourg'@en	P8408	'KBpedia ID'@en	"Luxembourg"	
+Q32-P85-Q202166-847fdde1-0	Q32	'Luxembourg'@en	P85	'anthem'@en	Q202166	'Ons Heemecht'@en
+Q32-P8519-f11722-235d9752-0	Q32	'Luxembourg'@en	P8519	'RKD thesaurus ID'@en	"25242"	
+Q32-P856-02526f-5c829572-0	Q32	'Luxembourg'@en	P856	'official website'@en	"https://luxembourg.public.lu/fr.html"	
+Q32-P856-2fa6b5-d71d458f-0	Q32	'Luxembourg'@en	P856	'official website'@en	"https://luxembourg.public.lu/en.html"	
+Q32-P856-a4e0b3-66623725-0	Q32	'Luxembourg'@en	P856	'official website'@en	"https://luxembourg.public.lu/de.html"	
+Q32-P8744-Q1650714-214f5c57-0	Q32	'Luxembourg'@en	P8744	'economy of topic'@en	Q1650714	'economy of Luxembourg'@en
+Q32-P8814-d42cc2-4e4771d5-0	Q32	'Luxembourg'@en	P8814	'WordNet 3.1 Synset ID'@en	"08980760-n"	
+Q32-P8843-b2f3be-32adf353-0	Q32	'Luxembourg'@en	P8843	'poverty incidence'@en	+17.5	
+Q32-P898-f218e7-afd7d65d-0	Q32	'Luxembourg'@en	P898	'IPA transcription'@en	"ˈlʉksəmbʉɾg"	
+Q32-P901-87bd16-a746071b-0	Q32	'Luxembourg'@en	P901	'FIPS 10-4 (countries and regions)'@en	"LU"	
+Q32-P902-e62b7b-3f825754-0	Q32	'Luxembourg'@en	P902	'HDS ID'@en	"003361"	
+Q32-P9037-13db06-ebc2e36b-0	Q32	'Luxembourg'@en	P9037	'BHCL UUID'@en	"c53a20ef-d5bd-4ab4-9190-99a97f628b5d"	
+Q32-P906-7825c5-577476a9-0	Q32	'Luxembourg'@en	P906	'SELIBR ID'@en	"152852"	
+Q32-P910-Q4368335-49eca0db-0	Q32	'Luxembourg'@en	P910	'topic\'s main category'@en	Q4368335	'Category:Luxembourg'@en
+Q32-P9100-a33c8b-daf919f6-0	Q32	'Luxembourg'@en	P9100	'GitHub topic'@en	"luxembourg"	
+Q32-P9241-Q2383173-5c94bf23-0	Q32	'Luxembourg'@en	P9241	'demographics of topic'@en	Q2383173	'demographics of Luxembourg'@en
+Q32-P935-e50ae1-7ba2bfcc-0	Q32	'Luxembourg'@en	P935	'Commons gallery'@en	"Lëtzebuerg"	
+Q32-P94-586c2d-7a63f8e3-0	Q32	'Luxembourg'@en	P94	'coat of arms image'@en	"Grandes armoiries du Grand-Duché de Luxembourg.svg"	
+Q32-P948-fd07fe-805b8e4a-0	Q32	'Luxembourg'@en	P948	'page banner'@en	"Vianden banner.jpg"	
+Q32-P949-b0ebf9-45af7169-0	Q32	'Luxembourg'@en	P949	'National Library of Israel ID (old)'@en	"000983256"	
+Q32-P982-63ca1b-23c4dea5-0	Q32	'Luxembourg'@en	P982	'MusicBrainz area ID'@en	"563d21b7-4a8e-35e2-83a7-7804baefbfa7"	
+Q32-P984-76d87b-519d0e4d-0	Q32	'Luxembourg'@en	P984	'IOC country code'@en	"LUX"	
+Q32-P9937-bb5008-e990c95e-0	Q32	'Luxembourg'@en	P9937	'Postimees topic ID'@en	"19343"	
+Q32-P9948-a33c8b-2c8d952b-0	Q32	'Luxembourg'@en	P9948	'The World Factbook country ID'@en	"luxembourg"	
+Q32-P998-c98c64-91cde427-0	Q32	'Luxembourg'@en	P998	'Curlie ID'@en	"Regional/Europe/Luxembourg/"	

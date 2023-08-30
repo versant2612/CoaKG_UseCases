@@ -1,0 +1,25 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P17-Q155-d28fadb7-0	Q155	'Brazil'@en	P17	'country'@en	Q155	'Brazil'@en
+Q155-P17-Q155-d28fadb7-0-P17	Q155-P17-Q155-d28fadb7-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P17-Q155-d28fadb7-0	Q155	'Brazil'@en	P17	'country'@en	Q155	'Brazil'@en
+Q155-P17-Q155-d28fadb7-0-P17	Q155-P17-Q155-d28fadb7-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P17-Q200464-fda3ef12-0	Q155	'Brazil'@en	P17	'country'@en	Q200464	'Portuguese Empire'@en
+Q155-P17-Q200464-fda3ef12-0-P17	Q155-P17-Q200464-fda3ef12-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P17-Q200464-fda3ef12-0	Q155	'Brazil'@en	P17	'country'@en	Q200464	'Portuguese Empire'@en
+Q155-P17-Q200464-fda3ef12-0-P17	Q155-P17-Q200464-fda3ef12-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P30-Q18-96724c27-0	Q155	'Brazil'@en	P30	'continent'@en	Q18	'South America'@en
+Q155-P30-Q18-96724c27-0-P30	Q155-P30-Q18-96724c27-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P30-Q18-96724c27-0	Q155	'Brazil'@en	P30	'continent'@en	Q18	'South America'@en
+Q155-P30-Q18-96724c27-0-P30	Q155-P30-Q18-96724c27-0		ckgr9	ckg:Context Type	ckgL1	Location
+Q155-P31-Q3624078-5f34830d-0	Q155	'Brazil'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q155-P571-9c5ecd-c64bdc96-0	Q155	'Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
+Q155-P571-9c5ecd-c64bdc96-0-P571	Q155-P571-9c5ecd-c64bdc96-0		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q155-P31-Q6256-6ece7566-0	Q155	'Brazil'@en	P31	'instance of'@en	Q6256	'country'@en
+Q155-P571-9c5ecd-c64bdc96-0	Q155	'Brazil'@en	P571	'inception'@en	^1822-09-07T00:00:00Z/11	
+Q155-P571-9c5ecd-c64bdc96-0-P571	Q155-P571-9c5ecd-c64bdc96-0		ckgr9	ckg:Context Type	ckgT1	Temporal

@@ -1,0 +1,13 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P1566-0c4dc1-f2799667-0	Q32	'Luxembourg'@en	P1566	'GeoNames ID'@en	"2960313"	
+Q32-P1566-0c4dc1-f2799667-0-P1566	Q32-P1566-0c4dc1-f2799667-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P1566-0c4dc1-f2799667-0	Q32	'Luxembourg'@en	P1566	'GeoNames ID'@en	"2960313"	
+Q32-P1566-0c4dc1-f2799667-0-P1566	Q32-P1566-0c4dc1-f2799667-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q32-P31-Q3624078-3652e85b-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q3624078	'sovereign state'@en
+Q32-P298-76d87b-5f794d54-0	Q32	'Luxembourg'@en	P298	'ISO 3166-1 alpha-3 code'@en	"LUX"	
+Q32-P298-76d87b-5f794d54-0-P298	Q32-P298-76d87b-5f794d54-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
+Q32-P31-Q6256-f26ba82d-0	Q32	'Luxembourg'@en	P31	'instance of'@en	Q6256	'country'@en
+Q32-P298-76d87b-5f794d54-0	Q32	'Luxembourg'@en	P298	'ISO 3166-1 alpha-3 code'@en	"LUX"	
+Q32-P298-76d87b-5f794d54-0-P298	Q32-P298-76d87b-5f794d54-0		ckgr8	ckg:Determines	ckgId	Entity Identifier
