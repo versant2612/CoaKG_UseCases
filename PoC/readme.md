@@ -28,6 +28,13 @@ K3 -> ?vy, p36, ?v3
 
 ## K4. What position does the main administrative leader occupy in "country short name" and who were these leaders? 
 
+K4 -> ?p1 (?v1, ?pred1, ?v2). ?p2 (?v1, ?pred2, ?v3).
+
+pred1 (P1313 'office held by head of government'@en  , P1906 'office held by head of state'@en )
+
+pred2 (P6 'head of government'@en ,  P35 'head of state'@en ) 
+ 
+
 ## K5. What is the government regime in "country short name"? 
 
 ## K6. What languages ​​are spoken in "country short name"?
