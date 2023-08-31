@@ -12,7 +12,7 @@ Q974-P17-Q974-c1df9d0e-0	Q974	'Democratic Republic of the Congo'@en	P17	'country
 Q974-P17-Q974-c1df9d0e-0-P17	Q974-P17-Q974-c1df9d0e-0		ckgr9	ckg:Context Type	ckgL1	Location
 Q974-P30-Q15-71d5f7ad-0	Q974	'Democratic Republic of the Congo'@en	P30	'continent'@en	Q15	'Africa'@en
 Q974-P30-Q15-71d5f7ad-0-P30	Q974-P30-Q15-71d5f7ad-0		ckgr9	ckg:Context Type	ckgL1	Location
-Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11
+Q974-P571-938147-2440b1f8-0	Q974	'Democratic Republic of the Congo'@en	P571	'inception'@en	^1960-06-30T00:00:00Z/11	
 Q974-P571-938147-2440b1f8-0-P571	Q974-P571-938147-2440b1f8-0		ckgr9	ckg:Context Type	ckgT1	Temporal
 
 
