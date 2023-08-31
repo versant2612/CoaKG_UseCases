@@ -1,18 +1,19 @@
 id	node1	node1;label	label	label;label	node2	node2;label
 Q55-P36-Q36600-7c306f5e-0	Q55	'Netherlands'@en	P36	'capital'@en	Q36600	'The Hague'@en
-Q55-P36-Q727-ad66a50a-0	Q55	'Netherlands'@en	P36	'capital'@en	Q727	'Amsterdam'@en
 Q55-P36-Q36600-7c306f5e-0-P3831-Q1901835-0	Q55-P36-Q36600-7c306f5e-0		P3831	'object has role'@en	Q1901835	'seat of government'@en
 Q55-P36-Q36600-7c306f5e-0-P5102	Q55-P36-Q36600-7c306f5e-0		P5102	'nature of statement'@en	unknown	
-Q55-P36-Q36600-7c306f5e-0-P580	Q55-P36-Q36600-7c306f5e-0		P580	'start time'@en	unknown	
-Q55-P36-Q36600-7c306f5e-0-ckgr3	Q55-P36-Q36600-7c306f5e-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
 Q55-P36-Q36600-7c306f5e-0-P5102-ckgG1	Q55-P36-Q36600-7c306f5e-0-P5102		ckgr9	ckg:Context Type	ckgG1	Generic
+Q55-P36-Q36600-7c306f5e-0-P580	Q55-P36-Q36600-7c306f5e-0		P580	'start time'@en	unknown	
 Q55-P36-Q36600-7c306f5e-0-P580-ckgT1	Q55-P36-Q36600-7c306f5e-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55-P36-Q36600-7c306f5e-0-ckgr3	Q55-P36-Q36600-7c306f5e-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
 Q55-P36-Q36600-7c306f5e-0-ckgr3-ckgT1	Q55-P36-Q36600-7c306f5e-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal
+
+Q55-P36-Q727-ad66a50a-0	Q55	'Netherlands'@en	P36	'capital'@en	Q727	'Amsterdam'@en
 Q55-P36-Q727-ad66a50a-0-P5102-Q132555-0	Q55-P36-Q727-ad66a50a-0		P5102	'nature of statement'@en	Q132555	'de jure'@en
-Q55-P36-Q727-ad66a50a-0-P580	Q55-P36-Q727-ad66a50a-0		P580	'start time'@en	unknown	
-Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0	Q55-P36-Q727-ad66a50a-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
-Q55-P36-Q727-ad66a50a-0-ckgr3	Q55-P36-Q727-ad66a50a-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
-Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0-P92	Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0		ckgr9	ckg:Context Type	ckgP1	Provenance
 Q55-P36-Q727-ad66a50a-0-P5102-Q132555-0-P5102	Q55-P36-Q727-ad66a50a-0-P5102-Q132555-0		ckgr9	ckg:Context Type	ckgG1	Generic
+Q55-P36-Q727-ad66a50a-0-P580	Q55-P36-Q727-ad66a50a-0		P580	'start time'@en	unknown	
 Q55-P36-Q727-ad66a50a-0-P580-ckgT1	Q55-P36-Q727-ad66a50a-0-P580		ckgr9	ckg:Context Type	ckgT1	Temporal
+Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0	Q55-P36-Q727-ad66a50a-0		P92	'main regulatory text'@en	Q7755	'constitution'@en
+Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0-P92	Q55-P36-Q727-ad66a50a-0-0-P92-Q7755-0		ckgr9	ckg:Context Type	ckgP1	Provenance
+Q55-P36-Q727-ad66a50a-0-ckgr3	Q55-P36-Q727-ad66a50a-0		ckgr3	ckg:Inferred Context	ckgl1	Atual |Corrente |Hoje
 Q55-P36-Q727-ad66a50a-0-ckgr3-ckgT1	Q55-P36-Q727-ad66a50a-0-ckgr3		ckgr9	ckg:Context Type	ckgT1	Temporal
