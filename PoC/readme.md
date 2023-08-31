@@ -1,51 +1,6 @@
-# Graph Exploratory Search Queries
+# WD Filtering, Profilling and Mapping 
 
-## K0. How "country oficial name" is shaped (spatial) **today** ? 
-
-K0 -> ?v1, alias, "country oficial name". ?v1, P3896, ?v2
-
-?v1 -> QNode of interest   
-
-## K1. **Geo-political** changes of "country oficial name" **over time** 
-
-K1 => ?v1, p1365*, ?vy
-
-K1 => ?vy, p1366*, ?v1
-
-?vy -> QNodes list, agregated entity identified by "country short name"
-
-## K2. When "country oficial name" was established?
-
-K2 -> ?v1, p571, ?v2
-
-K2 -> ?vy, p576, ?v3
-
-## K3. Capital cities of "country short name"?
-
-K3 -> ?v1, p36, ?v2
-
-K3 -> ?vy, p36, ?v3
-
-## K4. What position does the main administrative leader occupy in "country short name" and who were these leaders? 
-
-K4 -> ?p1 (?v1, ?pred1, ?v2). ?p2 (?v1, ?pred2, ?v3).
-
-pred1 (P1313 'office held by head of government'@en  , P1906 'office held by head of state'@en )
-
-pred2 (P6 'head of government'@en ,  P35 'head of state'@en ) 
- 
-
-## K5. What is the government regime in "country short name"? 
-
-## K6. What languages ​​are spoken in "country short name"?
-
-More queries: 
-
-K7. Capital cities of "country short name" **during** "selected historical" period
-
-K8. **Current** Capital cities of "country short name" 
-
-# KGTK files descriptions
+## KGTK files descriptions
 
 | File pattern | Description                                          |
 |--------------|------------------------------------------------------|
