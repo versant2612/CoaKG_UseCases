@@ -20,7 +20,7 @@ K1 => ?v1, p1365*, ?vy
 
 K1 => ?vy, p1366*, ?v1
 
-?vy -> QNodes list, agregated entity identified by "country short name"
+?vy -> QNodes list, abstract entity identified by "country short name", every Qnode is a geo-political entity
 
 ### Query K1 - Brazil Q155
 
@@ -36,11 +36,13 @@ K2 -> ?vy, p576, ?v3
 
 Files Mexico-K2-p571[a-e].tsv
 
-## K3. Capital cities of "country short name"?
+## K3. Capital cities of "country oficial name"? Capital cities of "country short name"?
 
 K3 -> ?v1, p36, ?v2
 
 K3 -> ?vy, p36, ?v3
+
+?vy -> QNodes list, abstract entity identified by "country short name", every Qnode is a geo-political entity
 
 ### Query K3 - Capitals
 
