@@ -1,0 +1,37 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+ckg:c1	ckgT1	Temporal	is_a	rdf:type	ckg:KnowledgeContext	
+ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Current
+ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	start time
+ckg:c3	h4q1	start time	ckgr2	ckg:Contextualizes	h4r7	capital city of
+ckg:c13	h4q1	start time	ckgr2	ckg:Contextualizes	h4c2	Período Histórico
+ckg:c17	h4q1	start time	ckgr2	ckg:Contextualizes	h4r1	form of government
+ckg:c4	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q2	end time
+ckg:c5	h4q2	end time	ckgr2	ckg:Contextualizes	h4r7	capital city of
+ckg:c15	h4q2	end time	ckgr2	ckg:Contextualizes	h4c2	Período Histórico
+ckg:c19	h4q2	end time	ckgr2	ckg:Contextualizes	h4r1	form of government
+ckg:c6	ckgT1	Temporal	ckgr1	ckg:Represented By	h4p3	inception
+ckg:c7	h4p3	inception	ckgr2	ckg:Contextualizes	h4r3	part of
+ckg:c40	h4p3	inception	ckgr2	ckg:Contextualizes	h4c1	geo-political unity
+ckg:c8	ckgT1	Temporal	ckgr1	ckg:Represented By	h4p4	closure date
+ckg:c9	h4p4	closure date	ckgr2	ckg:Contextualizes	h4r3	part of
+ckg:c41	h4p4	closure date	ckgr2	ckg:Contextualizes	h4c1	geo-political unity
+ckg:c10	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q4	point in time
+ckg:c11	h4q4	point in time	ckgr2	ckg:Contextualizes	h4r8	proclaim
+ckg:c21	h4q4	point in time	ckgr2	ckg:Contextualizes	h4p8	image
+ckg:c22	ckgL1	Location	is_a	rdf:type	ckg:KnowledgeContext	
+ckg:c23	ckgL1	Location	ckgr1	ckg:Represented By	h4r2	geoshape
+ckg:c24	h4r2	geoshape	ckgr2	ckg:Contextualizes	h4c1	geo-political unity
+ckg:c25	ckgL1	Location	ckgr1	ckg:Represented By	h4r3	part of
+ckg:c26	h4r3	part of	ckgr2	ckg:Contextualizes	h4c1	geo-political unity
+ckg:c27	ckgL1	Location	ckgr1	ckg:Represented By	h4q6	local
+ckg:c28	h4q6	local	ckgr2	ckg:Contextualizes	h4r8	proclaim
+ckg:c29	ckgP1	Provenance	is_a	rdf:type	ckg:KnowledgeContext	
+ckg:c30	ckgP1	Provenance	ckgr1	ckg:Represented By	h4q3	stated in
+ckg:c31	h4q3	stated in	ckgr2	ckg:Contextualizes	h4r1	form of government
+ckg:c34	h4q3	stated in	ckgr2	ckg:Contextualizes	h4r7	capital city of
+ckg:c36	h4q3	stated in	ckgr2	ckg:Contextualizes	h4r2	geoshape
+ckg:c32	ckgP1	Provenance	ckgr1	ckg:Represented By	h4p6	reference URL
+ckg:c35	h4p6	reference URL	ckgr2	ckg:Contextualizes	ckgl2	All
+ckg:c37	ckgD1	Politics	is_a	rdf:type	ckg:KnowledgeContext	
+ckg:c38	ckgD1	Politics	ckgr1	ckg:Represented By	h4r1	form of government
+ckg:c39	h4r1	form of government	ckgr2	ckg:Contextualizes	h4c1	geo-political unity
