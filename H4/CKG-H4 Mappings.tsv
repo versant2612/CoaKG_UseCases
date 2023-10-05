@@ -1,6 +1,6 @@
 id	node1	node1;label	label	label;label	node2	node2;label
 ckg:c1	ckgT1	Temporal	is_a	rdf:type	ckg:KnowledgeContext	
-ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Current
+ckg:i2	ckgl1	Current	ckgr4	ckg:Inferred About	ckgT1	Temporal
 ckg:c2	ckgT1	Temporal	ckgr1	ckg:Represented By	h4q1	start time
 ckg:c3	h4q1	start time	ckgr2	ckg:Contextualizes	h4r7	capital city of
 ckg:c13	h4q1	start time	ckgr2	ckg:Contextualizes	h4c2	Período Histórico
