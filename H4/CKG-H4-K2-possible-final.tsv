@@ -1,0 +1,29 @@
+id	node1	node1;label	label	node2	node2;label	
+id	node1	node1;label	label	node2	node2;label	
+id	node1	node1;label	label	node2	node2;label	
+id	node1	node1;label	label	label;label	node2	node2;label	
+e49	h4v9	Estados Unidos do Brasil	h4r1	form of government	h4v41	República Federativa Presidencialista
+q491	e49		h4q1	start time	^1889	
+cq491	q491		ckgr9	ckg:Context Type	ckgT1	Temporal
+q493	e49		h4q2	end time	unknown	
+cq483	q493		ckgr9	ckg:Context Type	ckgT1	Temporal
+q492	e49		h4q3	h4v42	Mundo Educação - Presidentes do Brasil	
+cq492	q492		ckgr9	ckg:Context Type	ckgP1	Provenance
+e24	h4v6	Rio de Janeiro	h4r7	capital city of        	h4v9	Estados Unidos do Brasil
+te24	e24		ckgt1	ckg:Temporal Overlaps	e49	
+cte24	te24		ckgr9	ckg:Context Type	ckgT1	Temporal
+q241	e24		h4q1	start time	^1889	
+cq17a2	q17a2		ckgr9	ckg:Context Type	ckgT1	Temporal
+q242	e24		h4q2	end time	^1960	
+cq17a2	q17a2		ckgr9	ckg:Context Type	ckgT1	Temporal
+q24x	e24		h4q3	stated in	unknown	
+ccq24x	cq24x		ckgr9	ckg:Context Type	ckgP1	Provenance
+e25	h4v10	Brasilia	h4r7	capital city of        	h4v9	Estados Unidos do Brasil
+te25	e25		ckgt1	ckg:Temporal Overlaps	e49	
+cte25	te25		ckgr9	ckg:Context Type	ckgT1	Temporal
+q251	e25		h4q1	start time	^1960-04	
+cq251	q251		ckgr9	ckg:Context Type	ckgT1	Temporal
+q252	e25		h4q2	end time	unknown	
+cq252	q252		ckgr9	ckg:Context Type	ckgT1	Temporal
+q253	e25		h4q3	stated in	unknown	
+cq253	q253		ckgr9	ckg:Context Type	ckgP1	Provenance

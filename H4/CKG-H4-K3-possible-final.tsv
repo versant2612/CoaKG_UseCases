@@ -8,7 +8,7 @@ q11	e1		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 cq11	q11		ckgr9	ckg:Context Type	ckgP1	Provenance
 e17a	h4v2	Salvador	h4r7	capital city of	h4v3	Governo do Norte
 te17a	e17a		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte17a	te17a		ckgr9	ckg:Context Type		
+cte17a	te17a		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q17a1	e17a		h4q1	start time	^1572	
 cq17a1	q17a1		ckgr9	ckg:Context Type	ckgT1	Temporal
 q17a2	e17a		h4q2	end time	^1577	
@@ -17,7 +17,7 @@ q17a3	e17a		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
 cq17a3	q17a3		ckgr9	ckg:Context Type	ckgP1	Provenance
 e17b	h4v6	Rio de Janeiro	h4r7	capital city of	h4v4	Governo do Sul
 te17b	e17b		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte17b	te17b		ckgr9	ckg:Context Type		
+cte17b	te17b		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q17b1	e17b		h4q1	start time	^1572	
 ce17b	e17b		ckgr9	ckg:Context Type	ckgT1	Temporal
 q17b2	e17b		h4q2	end time	^1577	
@@ -26,7 +26,7 @@ q17b3	e17b		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
 ce17b	e17b		ckgr9	ckg:Context Type	ckgP1	Provenance
 e30	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
 te30	e30		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte30	te30		ckgr9	ckg:Context Type		
+cte30	te30		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q301	e30		h4q1	start time	^1549	
 cq301	q301		ckgr9	ckg:Context Type	ckgT1	Temporal
 q302	e30		h4q2	end time	^1572	
@@ -35,7 +35,7 @@ q303	e30		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
 cq303	q303		ckgr9	ckg:Context Type	ckgP1	Provenance
 e18	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
 te18	e18		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte18	te18		ckgr9	ckg:Context Type		
+cte18	te18		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q181	e18		h4q1	start time	^1577	
 cq181	q181		ckgr9	ckg:Context Type	ckgT1	Temporal
 q182	e18		h4q2	end time	^1624	
@@ -44,7 +44,7 @@ q183	e18		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 cq11	q183		ckgr9	ckg:Context Type	ckgP1	Provenance
 e19	h4v5	Olinda	h4r7	capital city of	h4v1	Estado do Brasil
 te19	e19		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte19	te19		ckgr9	ckg:Context Type		
+cte19	te19		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q191	e19		h4q1	start time	^1624	
 cq191	q191		ckgr9	ckg:Context Type	ckgT1	Temporal
 q192	e19		h4q2	end time	^1625	
@@ -53,7 +53,7 @@ q193	e19		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 cq193	q193		ckgr9	ckg:Context Type	ckgP1	Provenance
 e20	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
 te20	e20		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte20	te20		ckgr9	ckg:Context Type		
+cte20	te20		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q201	e20		h4q1	start time	^1625	
 cq201	q201		ckgr9	ckg:Context Type	ckgT1	Temporal
 q202	e20		h4q2	end time	^1763	
@@ -62,7 +62,7 @@ q203	e20		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
 cq203	q203		ckgr9	ckg:Context Type	ckgP1	Provenance
 e21	h4v6	Rio de Janeiro	h4r7	capital city of	h4v1	Estado do Brasil
 te21	e21		ckgt1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
-cte21	te21		ckgr9	ckg:Context Type		
+cte21	te21		ckgr9	ckg:Context Type	ckgT1	Temporal		
 q211	e21		h4q1	start time	^1763	
 cq211	q211		ckgr9	ckg:Context Type	ckgT1	Temporal
 q212	e21		h4q2	end time	^1815	
