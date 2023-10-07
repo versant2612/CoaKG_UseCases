@@ -1,5 +1,7 @@
 id	node1	node1;label	label	label;label	node2	node2;label
 e49	h4v9	Estados Unidos do Brasil	h4r1	form of government	h4v41	República Federativa Presidencialista
+te49	e49		ckgr4	ckg:Inferred Context	ckgl1	Current
+cte49	te49		ckgr9	ckg:Context Type	ckgT1	Temporal
 q491	e49		h4q1	start time	^1889	
 cq491	q491		ckgr9	ckg:Context Type	ckgT1	Temporal
 q493	e49		h4q2	end time	unknown	
@@ -16,8 +18,10 @@ cq17a2	q17a2		ckgr9	ckg:Context Type	ckgT1	Temporal
 q24x	e24		h4q3	stated in	unknown	
 ccq24x	cq24x		ckgr9	ckg:Context Type	ckgP1	Provenance
 e25	h4v10	Brasilia	h4r7	capital city of        	h4v9	Estados Unidos do Brasil
-te25	e25		ckgt1	ckg:Temporal Overlaps	e49	
-cte25	te25		ckgr9	ckg:Context Type	ckgT1	Temporal
+te251	e25		ckgt1	ckg:Temporal Overlaps	e49	
+cte251	te251		ckgr9	ckg:Context Type	ckgT1	Temporal
+te252	e25		ckgr4	ckg:Inferred Context	ckgl1	Current
+cte252	te252		ckgr9	ckg:Context Type	ckgT1	Temporal
 q251	e25		h4q1	start time	^1960-04	
 cq251	q251		ckgr9	ckg:Context Type	ckgT1	Temporal
 q252	e25		h4q2	end time	unknown	
