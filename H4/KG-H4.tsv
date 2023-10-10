@@ -1,0 +1,160 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+p10	h4v21	Brasil Colônia	h4q1	start time	^1530	
+p11	h4v21	Brasil Colônia	h4q2	end time	^1815	
+q11	e1		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e2	h4v22	Período Pré-Colonial	is_a	rdf:type	h4c2	Período Histórico
+q21	e2		h4q1	start time	^1500-01-01	
+q22	e2		h4q2	end time	^1530-01-01	
+q23	e2		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e3	h4v11	Expedição Marítima Portuguesa	h4p1	arrival place	h4v12	América
+q31	e3		h4q4	point in time	^1500-04-22	
+q32	e3		h4q5	headed by	h4v37	Pedro Alváres Cabral
+q33	e3		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e31	h4v16	América Portuguesa	h4p7	alias	Ilha de Vera Cruz	
+q311	e31		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e32	h4v16	América Portuguesa	h4p7	alias	Terra dos Papagaios	
+q321	e32		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e33	h4v16	América Portuguesa	h4p7	alias	Terra de Santa Cruz	
+q333	e33		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e34	h4v16	América Portuguesa	h4p7	alias	Terra do Brasil	
+q341	e34		h4q4	point in time	^1512-01-01	
+q342	e34		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e35	h4v16	América Portuguesa	h4r1	form of government	h4v17	Capitanias Hereditárias
+q351	e35		h4q1	start time	^1534-01-01	
+q352	e35		h4q2	end time	^1549-01-01	
+q353	e35		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e350	h4v16	América Portuguesa	is_a	rdf:type	h4c1	unidade geo-política
+e40	h4v16	América Portuguesa	h4p8	image	https://pt.wikipedia.org/wiki/Ficheiro:Novo_mapa_Capitanias.jpg	
+q401	e40		h4q3	stated in	h4v38	Wikipedia
+e351	h4v1	Estado do Brasil	is_a	rdf:type	h4c1	unidade geo-política
+e7	h4v1	Estado do Brasil	h4r3	part of	h4v16	América Portuguesa
+e37	h4v1	Estado do Brasil	h4p3	inception	^1548-01-01	
+e38	h4v1	Estado do Brasil	h4r5	created by	h4v34	Dom João III
+e39	h4v1	Estado do Brasil	h4p4	closure date	^1808-01-01	
+e8	h4v1	Estado do Brasil	h4r4	colony of	h4v35	Reino de Portugal
+e36	h4v1	Estado do Brasil	h4r1	form of government	h4v18	Governo Geral
+q361	e36		h4q1	start time	^1548-01-01	
+q362	e36		h4q2	end time	^1572-01-01	
+e53	h4v1	Estado do Brasil	h4r1	form of government	h4v18	Governo Geral
+q531	e53		h4q1	start time	^1577-01-01	
+q532	e53		h4q2	end time	^1808-01-01	
+q533	e53		h4q3	stated in	h4v38	Wikipedia
+e41	h4v1	Estado do Brasil	h4p8	image	https://pt.wikipedia.org/wiki/Ficheiro:Am%C3%A9rica_Portuguesa._Brasil_Col%C3%B4nia.jpg	
+q411	e41		h4q3	stated in	h4v38	Wikipedia
+e6	h4v14	Governador-Geral	h4r9	head of state of	h4v1	Estado do Brasil
+q61	e6		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e352	h4v3	Governo do Norte	is_a	rdf:type	h4c1	unidade geo-política
+e10	h4v3	Governo do Norte	h4r3	part of	h4v1	Estado do Brasil
+q101	e10		h4q1	start time	^1572	
+q102	e10		h4q2	end time	^1577	
+q103	e10		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e352	h4v4	Governo do Sul	is_a	rdf:type	h4c1	unidade geo-política
+e11	h4v4	Governo do Sul	h4r3	part of	h4v1	Estado do Brasil
+q111	e11		h4q1	start time	^1572	
+q112	e11		h4q2	end time	^1577	
+q113	e11		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e353	h4v2	Salvador	is_a	rdf:type	h4c1	unidade geo-política
+p4	h4v2	Salvador	h4p5	first name	São Salvador da Bahia de Todos os Santos	
+qp41	p4		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+p2	h4v2	Salvador	h4p3	inception	^1549	
+qp21	p2		h4q3	stated in	h4v25	Mundo Educação - Brasil Colônia
+e17a	h4v2	Salvador	h4r7	capital city of	h4v3	Governo do Norte
+q17a1	e17a		h4q1	start time	^1572	
+q17a2	e17a		h4q2	end time	^1577	
+q17a3	e17a		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e354	h4v6	Rio de Janeiro	is_a	rdf:type	h4c1	unidade geo-política
+e17b	h4v6	Rio de Janeiro	h4r7	capital city of	h4v4	Governo do Sul
+q17b1	e17b		h4q1	start time	^1572	
+q17b2	e17b		h4q2	end time	^1577	
+q17b3	e17b		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e30	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+q301	e30		h4q1	start time	^1549	
+q302	e30		h4q2	end time	^1572	
+q303	e30		h4q3	stated in	h4v26	Mundo Educação - Governo Geral
+e18	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+q181	e18		h4q1	start time	^1577	
+q182	e18		h4q2	end time	^1624	
+e19	h4v5	Olinda	h4r7	capital city of	h4v1	Estado do Brasil
+q191	e19		h4q1	start time	^1624	
+q192	e19		h4q2	end time	^1625	
+e20	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+q201	e20		h4q1	start time	^1625	
+q202	e20		h4q2	end time	^1763	
+e21	h4v6	Rio de Janeiro	h4r7	capital city of	h4v1	Estado do Brasil
+q211	e21		h4q1	start time	^1763	
+q212	e21		h4q2	end time	^1815	
+e355	h4v15	Reino do Brasil	is_a	rdf:type	h4c1	unidade geo-política
+e9	h4v15	Reino do Brasil	h4r3	part of	h4v7	Reino Unido de Portugal, Brasil e Algarves
+q91	e9		h4p3	inception	^1815	
+q92	e9		h4r5	created by	h4v36	Dom João VI
+q93	e9		h4p4	closure date	^1822	
+e42	h4v15	Reino do Brasil	h4p8	image	https://pt.wikipedia.org/wiki/Ficheiro:Brasil_1821_-_Am%C3%A9rica_Portuguesa.jpg	
+q421	e42		h4q3	stated in	h4v38	Wikipedia
+e43	h4v7	Reino Unido de Portugal, Brasil e Algarves	h4p8	image	https://pt.wikipedia.org/wiki/Ficheiro:Portuguese_empire_1800.png	
+q431	e43		h4q3	stated in	h4v38	Wikipedia
+e44	h4v24	Reino do Brasil	h4r1	form of government	h4v19	Monarquia Absolutista
+q441	e44		h4q1	start time	^1815	
+q442	e44		h4q2	end time	^1822	
+q443	e44		h4q3	stated in	h4v39	Mundo Educação - Periodo Joanino
+e45	h4v13	Família Real Portuguesa	h4p1	arrival place	h4v2	Salvador
+q451	e45		h4q4	point in time	janeiro de 1808	
+q453	e45		h4q3	stated in	h4v39	Mundo Educação - Periodo Joanino
+e22	h4v6	Rio de Janeiro	h4r7	capital city of	h4v7	Reino Unido de Portugal, Brasil e Algarves
+q221	e22		h4q1	start time	^1815	
+q222	e22		h4q2	end time	^1822	
+e4	h4v24	Reino do Brasil	h4r8	proclama	h4v31	Independência
+q41	e4		h4q4	point in time	^1822-09-07	
+q42	e4		h4q6	local	h4v32	Margens do Ipiranga
+q43	e4		h4q3	stated in	h4v40	Mundo Educação - Brasil Império
+e356	h4v8	Império do Brasil	is_a	rdf:type	h4c1	unidade geo-política
+p1	h4v8	Império do Brasil	h4p3	inception	^1822-09-07	
+e46	h4v8	Império do Brasil	h4r1	form of government	h4v43	Monarquia constitucional parlamentarista
+q461	e46		h4q1	start time	^1822	
+q462	e46		h4q2	end time	^1889	
+q463	e46		h4q3	stated in	h4v40	Mundo Educação - Brasil Império
+e47	h4v8	Império do Brasil	h4p8	image	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brazil_in_1822.svg/800px-Brazil_in_1822.svg.png	
+q471	e471		h4q4	point in time	^1822	
+q472	e47		h4q3	stated in	h4v38	Wikipedia
+e48	h4v8	Império do Brasil	h4p8	image	https://pt.wikipedia.org/wiki/Ficheiro:Brazil_contested_territores_before_1900.jpg	
+q481	e481		h4q4	point in time	^1889	
+q482	e48		h4q3	stated in	h4v38	Wikipedia
+e23	h4v6	Rio de Janeiro	h4r7	capital city of	h4v8	Império do Brasil
+q231	e23		h4q1	start time	^1822	
+q232	e23		h4q2	end time	^1889	
+e5	h4v8	Império do Brasil	h4r8	proclama	h4v33	República
+q51	e5		h4q4	point in time	^1889-11-15	
+e24	h4v6	Rio de Janeiro	h4r7	capital city of	h4v9	Estados Unidos do Brasil
+q241	e24		h4q1	start time	^1889	
+q242	e24		h4q2	end time	^1960	
+e357	h4v10	Brasilia	is_a	rdf:type	h4c1	unidade geo-política
+e25	h4v10	Brasilia	h4r7	capital city of	h4v9	Estados Unidos do Brasil
+q251	e25		h4q1	start time	^1960-04	
+e358	h4v10	Brasilia	is_a	rdf:type	h4c1	unidade geo-política
+e49	h4v9	Estados Unidos do Brasil	h4r1	form of government	h4v41	República Federativa Presidencialista
+q491	e49		h4q1	start time	^1889	
+q492	e49		h4q3	stated in	h4v42	Mundo Educação - Presidentes do Brasil
+e50	h4v9	Estados Unidos do Brasil	h4p8	image	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brazil_Labelled_Map.svg/500px-Brazil_Labelled_Map.svg.png	
+q501	e50		h4q3	stated in	h4v38	Wikipedia
+q502	e501		h4q4	point in time	^1964	
+e51	h4v3	Governo do Norte	h4p8	image	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png	
+q511	e51		h4q3	stated in	h4v38	Wikipedia
+e52	h4v4	Governo do Sul	h4p8	image	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brazil_in_1572.svg/189px-Brazil_in_1572.svg.png	
+q521	e52		h4q3	stated in	h4v38	Wikipedia
+e53	h4v9	Estados Unidos do Brasil	h4p7	alias	Brasil	
+e54	h4v9	Estados Unidos do Brasil	is_a	rdf:type	h4c1	unidade geo-política
+p3	h4v25	Mundo Educação - Brasil Colônia	h4p6	reference URL	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-colonia.htm	
+p5	h4v26	Mundo Educação - Governo Geral	h4p6	reference URL	https://mundoeducacao.uol.com.br/historiadobrasil/governo-geral.htm	
+p6	h4v39	Mundo Educação - Periodo Joanino	h4p6	reference URL	https://mundoeducacao.uol.com.br/historiadobrasil/periodo-joanino.htm	
+p7	h4v40	Mundo Educação - Brasil Império	h4p6	reference URL	https://mundoeducacao.uol.com.br/historiadobrasil/brasil-imperio.htm	
+p8	h4v42	Mundo Educação - Presidentes do Brasil	h4p6	reference URL	https://mundoeducacao.uol.com.br/historiadobrasil/presidentes-do-brasil.htm	
+e401	h4v16	América Portuguesa	h4r2	geoshape	"POLYGON((0 0, 1 0, 1 1, 0 1, 0 0))"	
+e411	h4v1	Estado do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1 1, 0.5 1.5, 0 1, 0 0))"	
+e421	h4v15	Reino do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1 1, 0 1, -0.5 0.5, 0 0))"	
+e431	h4v7	Reino Unido de Portugal, Brasil e Algarves	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1 1.5, 0 1, -0.5 0.5, 0 0))"	
+e471	h4v8	Império do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1 1.5, 0.5 1.5, 0 1, -0.5 0.5, 0 0))"	
+e481	h4v8	Império do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 1.75, 0 1.5, -0.25 1, 0 0))"	
+e501	h4v9	Estados Unidos do Brasil	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 1.75, 0.5 2, 0 1.75, -0.25 1.5, -0.5 1, 0 0))"	
+e511	h4v3	Governo do Norte	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.5, 1.5 1, 1.25 1.5, 1 2, 0.75 2.5, 0.5 2.75, 0 2.75, -0.25 2.5, -0.5 2, -0.75 1.5, -1 1, -0.75 0.5, -0.5 0.25, 0 0))"	
+e521	h4v4	Governo do Sul	h4r2	geoshape	"POLYGON((0 0, 1 0, 1.5 0.25, 1.75 0.75, 1.75 1.25, 1.5 1.75, 1 2, 0.5 2, 0 1.75, -0.25 1.25, -0.25 0.75, 0 0))"	
+
