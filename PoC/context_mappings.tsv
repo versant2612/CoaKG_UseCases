@@ -176,7 +176,7 @@ ckg:c181	P298	ISO 3166-1 alpha-3 code	ckgr4	ckg:Identifies	Q6256	'country'@en
 ckg:c182	P1566	GeoNames ID code	ckgr4	ckg:Identifies	Q6256	'country'@en 
 ckg:c183	ckgG1	Generic	ckgr1	ckg:Represented By	P31	'instance of'@en
 ckg:c184	ckgG1	Generic	ckgr1	ckg:Represented By	P1813	'short name'@en
-ckg:c185	ckgG1	Generic	ckgr1	ckg:Represented By	P1448	'official name'@en	 
+ckg:c185	ckgG1	Generic	ckgr1	ckg:Represented By	P1448	'official name'@en
 ckg:c186	ckgG1	Generic	ckgr1	ckg:Represented By	P5102	'nature of statement'@en
 ckg:c187	ckgG1	Generic	ckgr1	ckg:Represented By	P1310	'statement disputed by'@en
 ckg:c188	ckgG1	Generic	ckgr1	ckg:Represented By	P7452	'reason for preferred rank'@en
@@ -206,3 +206,6 @@ ckg:c211	ckgP1	Provenance	ckgr1	ckg:Represented By	P854	'reference URL'@en
 ckg:c212	P854	'reference URL'@en	ckgr2	ckg:Contextualizes	P5102	'nature of statement'@en
 ckg:c213	P854	'reference URL'@en	ckgr2	ckg:Contextualizes	P36	'capital'@en
 ckg:i2	ckgT1	Temporal	ckgr3	ckg:Inferred Context	ckgl1	Corrente |Atual |Hoje
+ckg:c274	ckgP1	Provenance	ckgr1	ckg:Represented By	P1343	'described by source'@en
+ckg:c277	P1343	'described by source'@en	ckgr2	ckg:Contextualizes	Q3624078	'sovereign state'@en
+ckg:c278	P1343	'described by source'@en	ckgr2	ckg:Contextualizes	Q6256	'country'@en
