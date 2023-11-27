@@ -1,0 +1,62 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Período Histórico
+p10	h4v21	Brasil Colônia	h4q1	start time	^1530	
+cp10	p10		ckgr9	ckg:Context Type	ckgT1	Temporal
+p11	h4v21	Brasil Colônia	h4q2	end time	^1815	
+cp11	p11		ckgr9	ckg:Context Type	ckgT1	Temporal
+e17a	h4v2	Salvador	h4r7	capital city of	h4v3	Governo do Norte
+te17a	e17a		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte17a	te17a		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte17a	te17a		ckgr9	ckg:Context Type	ckgT1	Temporal
+q17a1	e17a		h4q1	start time	^1572	
+cq17a1	q17a1		ckgr9	ckg:Context Type	ckgT1	Temporal
+q17a2	e17a		h4q2	end time	^1577	
+cq17a2	q17a2		ckgr9	ckg:Context Type	ckgT1	Temporal
+e17b	h4v6	Rio de Janeiro	h4r7	capital city of	h4v4	Governo do Sul
+te17b	e17b		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte17b	te17b		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte17b	te17b		ckgr9	ckg:Context Type	ckgT1	Temporal
+q17b1	e17b		h4q1	start time	^1572	
+ce17b	e17b		ckgr9	ckg:Context Type	ckgT1	Temporal
+q17b2	e17b		h4q2	end time	^1577	
+cq17b2	q17b2		ckgr9	ckg:Context Type	ckgT1	Temporal
+e30	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+te30	e30		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte30	te30		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte30	te30		ckgr9	ckg:Context Type	ckgT1	Temporal
+q301	e30		h4q1	start time	^1549	
+cq301	q301		ckgr9	ckg:Context Type	ckgT1	Temporal
+q302	e30		h4q2	end time	^1572	
+cq302	q302		ckgr9	ckg:Context Type	ckgT1	Temporal
+e18	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+te18	e18		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte18	te18		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte18	te18		ckgr9	ckg:Context Type	ckgT1	Temporal
+q181	e18		h4q1	start time	^1577	
+cq181	q181		ckgr9	ckg:Context Type	ckgT1	Temporal
+q182	e18		h4q2	end time	^1624	
+cq182	q182		ckgr9	ckg:Context Type	ckgT1	Temporal
+e19	h4v5	Olinda	h4r7	capital city of	h4v1	Estado do Brasil
+te19	e19		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte19	te19		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte19	te19		ckgr9	ckg:Context Type	ckgT1	Temporal
+q191	e19		h4q1	start time	^1624	
+cq191	q191		ckgr9	ckg:Context Type	ckgT1	Temporal
+q192	e19		h4q2	end time	^1625	
+cq192	q192		ckgr9	ckg:Context Type	ckgT1	Temporal
+e20	h4v2	Salvador	h4r7	capital city of	h4v1	Estado do Brasil
+te20	e20		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte20	te20		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte20	te20		ckgr9	ckg:Context Type	ckgT1	Temporal
+q201	e20		h4q1	start time	^1625	
+cq201	q201		ckgr9	ckg:Context Type	ckgT1	Temporal
+q202	e20		h4q2	end time	^1763	
+cq202	q202		ckgr9	ckg:Context Type	ckgT1	Temporal
+e21	h4v6	Rio de Janeiro	h4r7	capital city of	h4v1	Estado do Brasil
+te21	e21		ckgT1t1	ckg:Temporal Overlaps	h4v21	Brasil Colônia
+tte21	te21		ckgr3	ckg:Inferred Context	ckgT1	Temporal
+cte21	te21		ckgr9	ckg:Context Type	ckgT1	Temporal
+q211	e21		h4q1	start time	^1763	
+cq211	q211		ckgr9	ckg:Context Type	ckgT1	Temporal
+q212	e21		h4q2	end time	^1815	
+cq212	q212		ckgr9	ckg:Context Type	ckgT1	Temporal

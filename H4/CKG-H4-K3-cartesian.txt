@@ -1,0 +1,37 @@
+id	node1	node1;label	label	label;label	node2	node2;label
+e10	h4v2	Salvador	h4r7	capitalCityOf	h4v1	Estado do Brasil
+q301	e10		h4q1	start date	^1549	
+q302	e10		h4q2	end date	^1572
+e18	h4v2	Salvador	h4r7	capitalCityOf	h4v1	Estado do Brasil
+q181	e18		h4q1	start date	^1577	
+q182	e18		h4q2	end date	^1624	
+e17a	h4v2	Salvador	h4r7	capitalCityOf	h4v3	Governo do Norte
+q17a1	e17a		h4q1	start date	^1572	
+q17a2	e17a		h4q2	end date	^1577	
+e17b	h4v6	Rio de Janeiro	h4r7	capitalCityOf	h4v4	Governo do Sul
+q17b1	e17b		h4q1	start date	^1572	
+q17b2	e17b		h4q2	end date	^1577	
+e19	h4v5	Olinda	h4r7	capitalCityOf	h4v1	Estado do Brasil
+q191	e19		h4q1	start date	^1624	
+q192	e19		h4q2	end date	^1625	
+e20	h4v2	Salvador	h4r7	capitalCityOf	h4v1	Estado do Brasil
+q201	e20		h4q1	start date	^1625	
+q202	e20		h4q2	end date	^1763	
+e21	h4v6	Rio de Janeiro	h4r7	capitalCityOf	h4v1	Estado do Brasil
+q211	e21		h4q1	start date	^1763	
+q212	e21		h4q2	end date	^1815	
+e1	h4v21	Brasil Colônia	is_a	rdf:type	h4c2	Historical Period
+p10	h4v21	Brasil Colônia	h4p3	inception	^1530	
+p11	h4v21	Brasil Colônia	h4p4	closure	^1815	
+e2	h4v1	Estado do Brasil	is_a	rdf:type	h4c1	geo-political unit
+e3	h4v3	Governo do Norte	is_a	rdf:type	h4c1	geo-political unit
+e4	h4v4	Governo do Sul	is_a	rdf:type	h4c1	geo-political unit
+e5	h4v2	Salvador	is_a	rdf:type	h4c1	geo-political unit
+e6	h4v6	Rio de Janeiro	is_a	rdf:type	h4c1	geo-political unit
+e7	h4v5	Olinda	is_a	rdf:type	h4c1	geo-political unit
+e8	h4v3	Governo do Norte	h4r3	part of	h4v1	Estado do Brasil
+q81	e8		h4q1	start date	^1572	
+q82	e8		h4q2	end date	^1577	
+e9	h4v3	Governo do Norte	h4r3	part of	h4v1	Estado do Brasil
+q91	e9		h4q1	start date	^1572	
+q92	e9		h4q2	end date	^1577	
