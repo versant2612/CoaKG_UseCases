@@ -42,7 +42,7 @@ Source: PoC/countries-pred-datatype-counted.tsv
 
 Filter: node2;wikidatatype in (wikibase-item, external-id)
 
-| Relationship Type R | *E* Edges Count |
+| Relationship Type *R* | *E* Edges Count |
 |---------------------|----------|
 | P2936:language used | 10166
 | P530:diplomatic relation | 6827
@@ -72,7 +72,7 @@ Source: PoC/countries-quali-datatype-counted.tsv
 
 Filter: node2;wikidatatype in (wikibase-item, external-id)
 
-| Qualifier Type Q | *qE* Edges Count |
+| Qualifier Type *Q* | *qE* Edges Count |
 |------------------|----------|
 | P805:statement is subject of | 8692
 | P518:applies to part | 7153
@@ -98,7 +98,7 @@ Source: PoC/countries-quali-datatype-counted.tsv
 
 Filter: node2;wikidatatype NOT in (wikibase-item, external-id)
 
-| Qualifier Type Q | *qP* Edges Count |
+| Qualifier Type *Q* | *qP* Edges Count |
 |------------------|----------|
 | P585:point in time | 29425
 | P580:start time | 11210
