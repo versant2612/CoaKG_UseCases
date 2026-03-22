@@ -1,4 +1,4 @@
-# CoaKG_UseCases
+# CoaKG_UseCases granja
 CoaKG Use Cases 
 
 H4 - Brazilian Geopolitical History : standard KG with enforced schema
